@@ -188,5 +188,35 @@
     "id": "1dfa501e-f337-8051-a42f-f0790a6a502a",
     "order": 20,
     "parentId": "1ada501e-f337-814b-ac7d-cbd864901138"
+  },
+  {
+    "title": "CLIの基礎",
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/keyboard_lightgray.svg",
+    "coverUrl": "https://images.unsplash.com/photo-1600860701935-40f338f8d793?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600",
+    "order": 8,
+    "id": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": ""
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "title": "for Windows(PowerShell)",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/grid_blue.svg",
+    "coverUrl": "",
+    "id": "1f0a501e-f337-80d8-a091-da399b7fa1e2",
+    "order": 23,
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1"
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "title": "for Mac(zsh)",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/apple_red.svg",
+    "coverUrl": "",
+    "id": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "order": 24,
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1"
   }
 ]

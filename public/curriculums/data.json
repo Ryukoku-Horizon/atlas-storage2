@@ -49,5 +49,25 @@
     "iconUrl": "/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/pageImageData/icon/1ada501e-f337-814b-ac7d-cbd864901138.png",
     "coverUrl": "https://images.unsplash.com/photo-1494783367193-149034c05e8f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600",
     "order": 6
+  },
+  {
+    "id": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "title": "CLIの基礎",
+    "is_basic_curriculum": true,
+    "visibility": [
+      "基礎班",
+      "発展班",
+      "体験入部"
+    ],
+    "category": "前期",
+    "tag": [
+      "基礎班",
+      "CLI",
+      "VSCode"
+    ],
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/keyboard_lightgray.svg",
+    "coverUrl": "https://images.unsplash.com/photo-1600860701935-40f338f8d793?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600",
+    "order": 8
   }
 ]

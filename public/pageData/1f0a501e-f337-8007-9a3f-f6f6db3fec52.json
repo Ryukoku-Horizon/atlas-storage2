@@ -676,6 +676,51 @@
   },
   {
     "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-8133-a87c-e2082cd27845",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-8131-a6da-f6cc26dce4b2",
+    "type": "callout",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-8133-a87c-e2082cd27845",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"⚠️\"},\"color\":\"yellow_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コマンド部分は「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"yellow\"},\"plain_text\":\"python\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」の場合もあります。\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-81c0-a8f7-fd97c5fcdeaa",
+    "type": "callout",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 2
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-8131-a6da-f6cc26dce4b2",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook prac2 % python3 prac2-1.py\\n縦3、横4の長方形の面積は 12 です\\nuser@MacBook prac2 % \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-8137-816f-c5b29aa89aee",
+    "type": "code",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-817d-9892-c8a9bb717897",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-81b0-94dd-db877609db82",
+    "type": "callout",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81b0-94dd-db877609db82",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook prac1 % pwd\\n/Users/user/Desktop/python/practices/prac1\\nuser@MacBook prac1 % \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-81ff-ad53-fb4efdfedac7",
+    "type": "code",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
     "parentId": "1f0a501e-f337-81a4-89b3-c7424f97e0b3",
     "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"フォルダの中身を横に羅列(隠しファイルや隠しフォルダは非表示)\",\"href\":null}]}",
     "blockId": "1f0a501e-f337-8196-b7f6-f3a59a2a1c97",
@@ -709,168 +754,6 @@
     "type": "bulleted_list_item",
     "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
     "i": 4
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-8133-a87c-e2082cd27845",
-    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-8131-a6da-f6cc26dce4b2",
-    "type": "callout",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-8133-a87c-e2082cd27845",
-    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"⚠️\"},\"color\":\"yellow_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コマンド部分は「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"yellow\"},\"plain_text\":\"python\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」の場合もあります。\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-81c0-a8f7-fd97c5fcdeaa",
-    "type": "callout",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 2
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-817d-9892-c8a9bb717897",
-    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-81b0-94dd-db877609db82",
-    "type": "callout",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-8165-b7c9-ea6ee6548205",
-    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-81a4-87e2-d102abddf2f9",
-    "type": "callout",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-8196-b7f6-f3a59a2a1c97",
-    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-81d1-bc9f-c133f8244d33",
-    "type": "callout",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-8131-a6da-f6cc26dce4b2",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook prac2 % python3 prac2-1.py\\n縦3、横4の長方形の面積は 12 です\\nuser@MacBook prac2 % \"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-8137-816f-c5b29aa89aee",
-    "type": "code",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81d1-bc9f-c133f8244d33",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook prac2 % ls\\nprac2-1.py   prac2-2.py   prac2-3.py\\nuser@MacBook prac2 % \"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-8164-93ff-ef5cfe188ed6",
-    "type": "code",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-813b-a8f2-fcc2001966cb",
-    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-812d-9025-cfbab2d4ac22",
-    "type": "callout",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-813b-a8f2-fcc2001966cb",
-    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"表示の解説\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-818b-833f-c97590b0212d",
-    "type": "callout",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 2
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81b0-94dd-db877609db82",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook prac1 % pwd\\n/Users/user/Desktop/python/practices/prac1\\nuser@MacBook prac1 % \"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-81ff-ad53-fb4efdfedac7",
-    "type": "code",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-812d-9025-cfbab2d4ac22",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook prac2 % ls -l\\ntotal 32\\n-rw-r--r--  1 user  staff  14  3 20 11:49 prac2-1.py\\n-rw-r--r--  1 user  staff   4  3 20 11:48 prac2-2.py\\n-rw-r--r--  1 user  staff   4  3 20 11:48 prac2-3.py\\nuser@MacBook prac2 % \"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-8158-9043-d5badc1e56db",
-    "type": "code",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-8154-89c8-e3febec74149",
-    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コマンドのプションは複合して使えるものがあります。今回でいうと「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"l\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」と「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"a\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」ですが、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"-l -a\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」,「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"-a -l\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」,「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"-la\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」,「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"-al\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」の全て同じ複合した結果が出力されます。(ただ、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"-la\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」と「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"-al\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」のようなオプションをそのまま複合したものを使うのは実行されないものもあるのでお勧めしません。)\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-816f-baad-f7339b3ad161",
-    "type": "callout",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81a4-87e2-d102abddf2f9",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook prac2 % ls -a\\n.            ..           prac2-1.py   prac2-2.py   prac2-3.py\\nuser@MacBook prac2 % \"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-8109-96c3-c328652063f1",
-    "type": "code",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-818b-833f-c97590b0212d",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"total 32\\n-rw-r--r--  1 user  staff  14  3 20 11:49 prac2-1.py\"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-8152-b276-e80f8210f379",
-    "type": "code",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 2
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-818b-833f-c97590b0212d",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"このフォルダ内のファイルの合計ブロック数 単位：512バイト\",\"(通常は512バイト単位だが、環境によって異なる場合がある)\",\"\\nアクセス権限  ハードリンク数 ユーザー名  グループ  ファイルサイズ(単位：バイト)  更新月 更新日 更新時 ファイル名\"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-81df-851e-c8a5e759f69c",
-    "type": "code",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 4
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-818b-833f-c97590b0212d",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例↓\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-81d9-81e2-c65835bec6aa",
-    "type": "paragraph",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-818b-833f-c97590b0212d",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"意味↓\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-81b3-b717-f70dc69035f9",
-    "type": "paragraph",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 3
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-818b-833f-c97590b0212d",
-    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"🔑\"},\"color\":\"green_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"興味があればわからないところは調べてみよう。\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-8135-9cd8-ecaa979d4fdb",
-    "type": "callout",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 5
   },
   {
     "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
@@ -946,19 +829,100 @@
   },
   {
     "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-818a-b0f5-e879219c2365",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook practices % cd /\\nuser@MacBook / % \"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-8182-a1e6-cce9db78a36c",
+    "parentId": "1f0a501e-f337-8196-b7f6-f3a59a2a1c97",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-81d1-bc9f-c133f8244d33",
+    "type": "callout",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81b4-baa4-cdfde4614863",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook ~ % cd Desktop/python/practices\\nuser@MacBook practices % \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-81e0-bd36-efead9b6fc0a",
     "type": "code",
     "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
     "i": 2
   },
   {
     "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-818a-b0f5-e879219c2365",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"相対パス兼絶対パス↓\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-818f-a19f-e7d235a0c5f5",
+    "parentId": "1f0a501e-f337-81b4-baa4-cdfde4614863",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook ~ % cd /Users/user/Desktop/python/practices\\nuser@MacBook practices % \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-81ad-8814-d4f1f011e891",
+    "type": "code",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 4
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81b4-baa4-cdfde4614863",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"相対パス↓\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-8162-b7c8-f44ff74af980",
     "type": "paragraph",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81b4-baa4-cdfde4614863",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"絶対パス↓\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-819c-bcea-db92b1cd2f3b",
+    "type": "paragraph",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 3
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-8154-89c8-e3febec74149",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コマンドのプションは複合して使えるものがあります。今回でいうと「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"l\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」と「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"a\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」ですが、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"-l -a\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」,「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"-a -l\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」,「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"-la\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」,「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"-al\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」の全て同じ複合した結果が出力されます。(ただ、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"-la\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」と「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"-al\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」のようなオプションをそのまま複合したものを使うのは実行されないものもあるのでお勧めしません。)\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-816f-baad-f7339b3ad161",
+    "type": "callout",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81ef-8072-f2d0c96cf78b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"移動できるのはフォルダまでのパスのみです。(ファイルまでのパスはエラー文を出力)\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-818b-8384-f2e00f87f1c7",
+    "type": "paragraph",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81b3-b5ce-cf08b9b40237",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そして、「\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"..\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」は一つ上に戻ることを表します。\\nまた、「\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"../..\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」は二つ上に戻ることを表します。\\n(同様にしていくといくらでも遡れる)\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-8196-a745-fd19af27340e",
+    "type": "paragraph",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-813b-a8f2-fcc2001966cb",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-812d-9025-cfbab2d4ac22",
+    "type": "callout",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-813b-a8f2-fcc2001966cb",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"表示の解説\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-818b-833f-c97590b0212d",
+    "type": "callout",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 2
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-8165-b7c9-ea6ee6548205",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-81a4-87e2-d102abddf2f9",
+    "type": "callout",
     "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
     "i": 1
   },
@@ -1000,6 +964,78 @@
   },
   {
     "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81d1-bc9f-c133f8244d33",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook prac2 % ls\\nprac2-1.py   prac2-2.py   prac2-3.py\\nuser@MacBook prac2 % \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-8164-93ff-ef5cfe188ed6",
+    "type": "code",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-818b-833f-c97590b0212d",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"total 32\\n-rw-r--r--  1 user  staff  14  3 20 11:49 prac2-1.py\"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-8152-b276-e80f8210f379",
+    "type": "code",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 2
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-818b-833f-c97590b0212d",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"このフォルダ内のファイルの合計ブロック数 単位：512バイト\",\"(通常は512バイト単位だが、環境によって異なる場合がある)\",\"\\nアクセス権限  ハードリンク数 ユーザー名  グループ  ファイルサイズ(単位：バイト)  更新月 更新日 更新時 ファイル名\"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-81df-851e-c8a5e759f69c",
+    "type": "code",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 4
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-818b-833f-c97590b0212d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例↓\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-81d9-81e2-c65835bec6aa",
+    "type": "paragraph",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-818b-833f-c97590b0212d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"意味↓\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-81b3-b717-f70dc69035f9",
+    "type": "paragraph",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 3
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-818b-833f-c97590b0212d",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"🔑\"},\"color\":\"green_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"興味があればわからないところは調べてみよう。\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-8135-9cd8-ecaa979d4fdb",
+    "type": "callout",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 5
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-812d-9025-cfbab2d4ac22",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook prac2 % ls -l\\ntotal 32\\n-rw-r--r--  1 user  staff  14  3 20 11:49 prac2-1.py\\n-rw-r--r--  1 user  staff   4  3 20 11:48 prac2-2.py\\n-rw-r--r--  1 user  staff   4  3 20 11:48 prac2-3.py\\nuser@MacBook prac2 % \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-8158-9043-d5badc1e56db",
+    "type": "code",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81a4-87e2-d102abddf2f9",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook prac2 % ls -a\\n.            ..           prac2-1.py   prac2-2.py   prac2-3.py\\nuser@MacBook prac2 % \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-8109-96c3-c328652063f1",
+    "type": "code",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
     "parentId": "1f0a501e-f337-814c-aacb-edc80bf8ffca",
     "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook practices % cd .\\nuser@MacBook practices % \"],\"caption\":[]}",
     "blockId": "1f0a501e-f337-81e3-867b-cbafb275f757",
@@ -1036,45 +1072,18 @@
   },
   {
     "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81b4-baa4-cdfde4614863",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook ~ % cd Desktop/python/practices\\nuser@MacBook practices % \"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-81e0-bd36-efead9b6fc0a",
+    "parentId": "1f0a501e-f337-818a-b0f5-e879219c2365",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook practices % cd /\\nuser@MacBook / % \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-8182-a1e6-cce9db78a36c",
     "type": "code",
     "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
     "i": 2
   },
   {
     "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81b4-baa4-cdfde4614863",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook ~ % cd /Users/user/Desktop/python/practices\\nuser@MacBook practices % \"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-81ad-8814-d4f1f011e891",
-    "type": "code",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 4
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81b4-baa4-cdfde4614863",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"相対パス↓\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-8162-b7c8-f44ff74af980",
-    "type": "paragraph",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81b4-baa4-cdfde4614863",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"絶対パス↓\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-819c-bcea-db92b1cd2f3b",
-    "type": "paragraph",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 3
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81ef-8072-f2d0c96cf78b",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"移動できるのはフォルダまでのパスのみです。(ファイルまでのパスはエラー文を出力)\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-818b-8384-f2e00f87f1c7",
+    "parentId": "1f0a501e-f337-818a-b0f5-e879219c2365",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"相対パス兼絶対パス↓\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-818f-a19f-e7d235a0c5f5",
     "type": "paragraph",
     "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
     "i": 1
@@ -1114,15 +1123,6 @@
     "type": "paragraph",
     "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
     "i": 3
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81b3-b5ce-cf08b9b40237",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そして、「\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"..\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」は一つ上に戻ることを表します。\\nまた、「\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"../..\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」は二つ上に戻ることを表します。\\n(同様にしていくといくらでも遡れる)\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-8196-a745-fd19af27340e",
-    "type": "paragraph",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
   },
   {
     "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
@@ -1180,69 +1180,6 @@
   },
   {
     "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81bc-b767-cc6b94a57c32",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ファイルの削除\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-81a4-9e14-febe01e3d13a",
-    "type": "toggle",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81bc-b767-cc6b94a57c32",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"フォルダ(とその中身)の削除(オプション「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"yellow\"},\"plain_text\":\"r\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」)\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-8132-8d88-ca17a782b5b4",
-    "type": "toggle",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 2
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81d5-8621-e43ad27bd293",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ファイル名変更(\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"mv \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"yellow\"},\"plain_text\":\"変更したい対象の名前 付けたい名前\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\")\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-81cd-8caa-f82c50b4768e",
-    "type": "toggle",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81d5-8621-e43ad27bd293",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ファイルやフォルダの移動(\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"mv \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"yellow\"},\"plain_text\":\"移動したい対象の名前 移動したい場所のパス\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\")\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-8127-85de-fdaab2db6a55",
-    "type": "toggle",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 2
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81f2-a174-c73f5f1ee28b",
-    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果の確認\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-81ef-980e-eadc502690cc",
-    "type": "callout",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81a4-9e14-febe01e3d13a",
-    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"後述のtouchでファイル作成の後、四行目が打ち方で五行目以降が実行結果の確認\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-81e0-a89a-d0dcc73f604b",
-    "type": "callout",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81cd-8caa-f82c50b4768e",
-    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果の確認\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-81d3-8af3-ff34555a5255",
-    "type": "callout",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
     "parentId": "1f0a501e-f337-8192-bb64-d89da20cc3f8",
     "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"単一ファイル\",\"href\":null}]}",
     "blockId": "1f0a501e-f337-8179-be23-d0461e064e8a",
@@ -1285,33 +1222,6 @@
     "type": "toggle",
     "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
     "i": 5
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81ef-980e-eadc502690cc",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook practices % mkdir new_folder\\nuser@MacBook practices % ls\\nnew_folder  prac1  prac2  prac3  prac4  prac5\\nuser@MacBook practices % \"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-816f-b9c1-e2882a608c3c",
-    "type": "code",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81d3-8af3-ff34555a5255",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook practices % mv prac1 practice1\\nuser@MacBook practices % ls\\nprac2      prac3      prac4      prac5      practice1\\nuser@MacBook practices % \"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-81d9-82ec-c5bab1747d4a",
-    "type": "code",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81e0-a89a-d0dcc73f604b",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook practices % touch new_file.py\\nuser@MacBook practices % ls\\nnew_file.py prac1       prac2       prac3       prac4       prac5\\nuser@MacBook practices % rm new_file.py\\nuser@MacBook practices % ls\\nprac1   prac2   prac3   prac4   prac5\\nuser@MacBook practices % \"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-814a-94ac-d9ef7239c7ff",
-    "type": "code",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
   },
   {
     "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
@@ -1360,51 +1270,6 @@
   },
   {
     "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-8184-ab19-c96fa529eec1",
-    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-8155-a501-dcfa039a9a76",
-    "type": "callout",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-8127-85de-fdaab2db6a55",
-    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果の確認\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-8109-b744-f0eaeb42cb5d",
-    "type": "callout",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-8132-8d88-ca17a782b5b4",
-    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"mkdirでフォルダ作成の後、四行目が打ち方で五行目以降が実行結果の確認\",\"href\":null}]}",
-    "blockId": "1f0a501e-f337-819e-a579-e2cb48607e89",
-    "type": "callout",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-8155-a501-dcfa039a9a76",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook prac1 % cat *\\n省略(ファイル同士の最初と最後の行が一行になってしまう可能性あり)\\nuser@MacBook prac1 % \"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-81dd-a948-d51c1207a0d6",
-    "type": "code",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-8109-b744-f0eaeb42cb5d",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook practices % mv prac1 prac2/     \\nuser@MacBook practices % ls\\nprac2   prac3   prac4   prac5\\nuser@MacBook practices % cd prac2\\nuser@MacBook prac2 % ls\\nprac1      prac2-1.py    prac2-2.py    prac2-3.py\\nuser@MacBook prac2 % \"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-81ce-b066-ccd300799487",
-    "type": "code",
-    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "i": 1
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
     "parentId": "1f0a501e-f337-81d3-96b9-e4d91b0c8136",
     "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"find . -type f -name \\\"*.py\\\" -exec cat {} +\",\"href\":null}]}",
     "blockId": "1f0a501e-f337-81e8-b710-d40f24520a3d",
@@ -1432,10 +1297,109 @@
   },
   {
     "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-819e-a579-e2cb48607e89",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook practices % mkdir new_folder\\nuser@MacBook practices % ls\\nnew_folder  prac1       prac2       prac3       prac4       prac5\\nuser@MacBook practices % rm -r new_folder\\nuser@MacBook practices % ls\\nprac1   prac2   prac3   prac4   prac5\\nuser@MacBook practices % \"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-819d-8e34-d31c35cf75f3",
+    "parentId": "1f0a501e-f337-8184-ab19-c96fa529eec1",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-8155-a501-dcfa039a9a76",
+    "type": "callout",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81bc-b767-cc6b94a57c32",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ファイルの削除\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-81a4-9e14-febe01e3d13a",
+    "type": "toggle",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81bc-b767-cc6b94a57c32",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"フォルダ(とその中身)の削除(オプション「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"yellow\"},\"plain_text\":\"r\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」)\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-8132-8d88-ca17a782b5b4",
+    "type": "toggle",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 2
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81f2-8f8e-ca619e40da62",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook prac1 % cat prac1-1.py\\na=3*4\\nprint(\\\"縦3、横4の長方形の面積は\\\",a,\\\"です\\\")%\\nuser@MacBook prac1 % \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-8104-8e64-fe52ef0f8aad",
     "type": "code",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-8155-a501-dcfa039a9a76",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook prac1 % cat *\\n省略(ファイル同士の最初と最後の行が一行になってしまう可能性あり)\\nuser@MacBook prac1 % \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-81dd-a948-d51c1207a0d6",
+    "type": "code",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81d5-8621-e43ad27bd293",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ファイル名変更(\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"mv \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"yellow\"},\"plain_text\":\"変更したい対象の名前 付けたい名前\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\")\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-81cd-8caa-f82c50b4768e",
+    "type": "toggle",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81d5-8621-e43ad27bd293",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ファイルやフォルダの移動(\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"mv \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"yellow\"},\"plain_text\":\"移動したい対象の名前 移動したい場所のパス\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\")\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-8127-85de-fdaab2db6a55",
+    "type": "toggle",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 2
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81f2-a174-c73f5f1ee28b",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果の確認\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-81ef-980e-eadc502690cc",
+    "type": "callout",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81a4-9e14-febe01e3d13a",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"後述のtouchでファイル作成の後、四行目が打ち方で五行目以降が実行結果の確認\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-81e0-a89a-d0dcc73f604b",
+    "type": "callout",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-8127-85de-fdaab2db6a55",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果の確認\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-8109-b744-f0eaeb42cb5d",
+    "type": "callout",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-8132-8d88-ca17a782b5b4",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"mkdirでフォルダ作成の後、四行目が打ち方で五行目以降が実行結果の確認\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-819e-a579-e2cb48607e89",
+    "type": "callout",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81cd-8caa-f82c50b4768e",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一行目が打ち方で二行目以降が実行結果の確認\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-81d3-8af3-ff34555a5255",
+    "type": "callout",
     "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
     "i": 1
   },
@@ -1450,9 +1414,27 @@
   },
   {
     "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": "1f0a501e-f337-81f2-8f8e-ca619e40da62",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook prac1 % cat prac1-1.py\\na=3*4\\nprint(\\\"縦3、横4の長方形の面積は\\\",a,\\\"です\\\")%\\nuser@MacBook prac1 % \"],\"caption\":[]}",
-    "blockId": "1f0a501e-f337-8104-8e64-fe52ef0f8aad",
+    "parentId": "1f0a501e-f337-81ef-980e-eadc502690cc",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook practices % mkdir new_folder\\nuser@MacBook practices % ls\\nnew_folder  prac1  prac2  prac3  prac4  prac5\\nuser@MacBook practices % \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-816f-b9c1-e2882a608c3c",
+    "type": "code",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-819e-a579-e2cb48607e89",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook practices % mkdir new_folder\\nuser@MacBook practices % ls\\nnew_folder  prac1       prac2       prac3       prac4       prac5\\nuser@MacBook practices % rm -r new_folder\\nuser@MacBook practices % ls\\nprac1   prac2   prac3   prac4   prac5\\nuser@MacBook practices % \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-819d-8e34-d31c35cf75f3",
+    "type": "code",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81e0-a89a-d0dcc73f604b",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook practices % touch new_file.py\\nuser@MacBook practices % ls\\nnew_file.py prac1       prac2       prac3       prac4       prac5\\nuser@MacBook practices % rm new_file.py\\nuser@MacBook practices % ls\\nprac1   prac2   prac3   prac4   prac5\\nuser@MacBook practices % \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-814a-94ac-d9ef7239c7ff",
     "type": "code",
     "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
     "i": 1
@@ -1462,6 +1444,24 @@
     "parentId": "1f0a501e-f337-8149-b882-d8be6f4702df",
     "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook prac1 % cat *.py\\n省略(ファイル同士の最初と最後の行が一行になってしまう可能性あり)\\nuser@MacBook prac1 % \"],\"caption\":[]}",
     "blockId": "1f0a501e-f337-8119-9d8d-e69880ea8881",
+    "type": "code",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-81d3-8af3-ff34555a5255",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook practices % mv prac1 practice1\\nuser@MacBook practices % ls\\nprac2      prac3      prac4      prac5      practice1\\nuser@MacBook practices % \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-81d9-82ec-c5bab1747d4a",
+    "type": "code",
+    "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1f0a501e-f337-8109-b744-f0eaeb42cb5d",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"user@MacBook practices % mv prac1 prac2/     \\nuser@MacBook practices % ls\\nprac2   prac3   prac4   prac5\\nuser@MacBook practices % cd prac2\\nuser@MacBook prac2 % ls\\nprac1      prac2-1.py    prac2-2.py    prac2-3.py\\nuser@MacBook prac2 % \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-81ce-b066-ccd300799487",
     "type": "code",
     "pageId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
     "i": 1
