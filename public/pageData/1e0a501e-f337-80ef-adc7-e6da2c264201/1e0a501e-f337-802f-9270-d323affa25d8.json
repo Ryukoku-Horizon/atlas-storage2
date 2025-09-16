@@ -29,7 +29,7 @@
   {
     "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
     "parentId": "1e0a501e-f337-80e5-be0f-e4a8d20a2cbf",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"3Dグラフィック(Mesh)\",\"link\":null},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3Dグラフィック(Mesh)\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"Substance 3D, Maya, Blender\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Substance 3D, Maya, Blender\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3Dグラフィック(Mesh)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Substance 3D, Maya, Blender\",\"href\":null}]]",
     "blockId": "1e0a501e-f337-801a-bd18-c36520d36c2d",
     "type": "table_row",
     "pageId": "1e0a501e-f337-802f-9270-d323affa25d8",
@@ -38,7 +38,7 @@
   {
     "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
     "parentId": "1e0a501e-f337-80e5-be0f-e4a8d20a2cbf",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"3Dグラフィック(Render)\",\"link\":null},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3Dグラフィック(Render)\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"Unreal Engine\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Unreal Engine\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3Dグラフィック(Render)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Unreal Engine\",\"href\":null}]]",
     "blockId": "1e0a501e-f337-8045-8108-e351ee25d878",
     "type": "table_row",
     "pageId": "1e0a501e-f337-802f-9270-d323affa25d8",
@@ -47,7 +47,7 @@
   {
     "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
     "parentId": "1e0a501e-f337-80e5-be0f-e4a8d20a2cbf",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"UI/UXデザイン\",\"link\":null},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"UI/UXデザイン\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"Figma\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Figma\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"UI/UXデザイン\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Figma\",\"href\":null}]]",
     "blockId": "1e0a501e-f337-80a9-a88c-f292da4e611d",
     "type": "table_row",
     "pageId": "1e0a501e-f337-802f-9270-d323affa25d8",
@@ -56,7 +56,7 @@
   {
     "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
     "parentId": "1e0a501e-f337-80e5-be0f-e4a8d20a2cbf",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"仮想マシン(VM)\",\"link\":null},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"仮想マシン(VM)\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"AWS, Azure\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"AWS, Azure\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"仮想マシン(VM)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"AWS, Azure\",\"href\":null}]]",
     "blockId": "1e0a501e-f337-803a-a9e9-e27df7b97a97",
     "type": "table_row",
     "pageId": "1e0a501e-f337-802f-9270-d323affa25d8",

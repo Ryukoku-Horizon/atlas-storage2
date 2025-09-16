@@ -29,16 +29,16 @@
   {
     "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
     "parentId": "1e0a501e-f337-8117-b7a1-c54c8e91ea00",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"コンパイル言語\",\"link\":{\"url\":\"/1e0a501ef337806da2c4e60e9eef0e14\"}},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイル言語\",\"href\":\"/1e0a501ef337806da2c4e60e9eef0e14\"}],[{\"type\":\"text\",\"text\":{\"content\":\"C\",\"link\":{\"url\":\"/1e0a501ef337807d8d51ffdbd5aa590b\"}},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"yellow\"},\"plain_text\":\"C\",\"href\":\"/1e0a501ef337807d8d51ffdbd5aa590b\"},{\"type\":\"text\",\"text\":{\"content\":\", \",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"type\":\"text\",\"text\":{\"content\":\"C++\",\"link\":{\"url\":\"/1e0a501ef33780afba2ce028d73d0c32\"}},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"C++\",\"href\":\"/1e0a501ef33780afba2ce028d73d0c32\"},{\"type\":\"text\",\"text\":{\"content\":\", \",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"type\":\"text\",\"text\":{\"content\":\"C#\",\"link\":{\"url\":\"/1e0a501ef33780c2bdb7e83ebc6675f6\"}},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"purple\"},\"plain_text\":\"C#\",\"href\":\"/1e0a501ef33780c2bdb7e83ebc6675f6\"},{\"type\":\"text\",\"text\":{\"content\":\", \",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"type\":\"text\",\"text\":{\"content\":\"GO\",\"link\":{\"url\":\"/1e0a501ef33780efbfced4e500670fcb\"}},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"GO\",\"href\":\"/1e0a501ef33780efbfced4e500670fcb\"},{\"type\":\"text\",\"text\":{\"content\":\", Rust, Swift, Objective-C, \",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", Rust, Swift, Objective-C, \",\"href\":null},{\"type\":\"text\",\"text\":{\"content\":\"Java\",\"link\":{\"url\":\"/1e0a501ef3378039b5ffe8ff7a3b160c\"}},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"red\"},\"plain_text\":\"Java\",\"href\":\"/1e0a501ef3378039b5ffe8ff7a3b160c\"}]]",
-    "blockId": "1e0a501e-f337-81b6-839a-c8c2e9bd1ff4",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ハイブリッド\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Dart, TypeScript\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-81d0-9dd8-c889ad63fe94",
     "type": "table_row",
     "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
-    "i": 1
+    "i": 3
   },
   {
     "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
     "parentId": "1e0a501e-f337-8117-b7a1-c54c8e91ea00",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"インタプリタ言語\",\"link\":{\"url\":\"/1e0a501ef337806da2c4e60e9eef0e14\"}},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インタプリタ言語\",\"href\":\"/1e0a501ef337806da2c4e60e9eef0e14\"}],[{\"type\":\"text\",\"text\":{\"content\":\"JavaScript\",\"link\":{\"url\":\"/1e0a501ef33780ca9e4dd6ed64bb9789\"}},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"green\"},\"plain_text\":\"JavaScript\",\"href\":\"/1e0a501ef33780ca9e4dd6ed64bb9789\"},{\"type\":\"text\",\"text\":{\"content\":\", \",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"type\":\"text\",\"text\":{\"content\":\"Python\",\"link\":{\"url\":\"/1e0a501ef3378083b011d3e519821520\"}},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"Python\",\"href\":\"/1e0a501ef3378083b011d3e519821520\"},{\"type\":\"text\",\"text\":{\"content\":\", PHP, Ruby, Lua\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", PHP, Ruby, Lua\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インタプリタ言語\",\"href\":\"/posts/curriculums/1e0a501e-f337-80ef-adc7-e6da2c264201/1e0a501e-f337-806d-a2c4-e60e9eef0e14\"}],[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"green\"},\"plain_text\":\"JavaScript\",\"href\":\"/posts/curriculums/1e0a501e-f337-80dd-8d3e-e0341937095f/1e0a501e-f337-80ca-9e4d-d6ed64bb9789\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"Python\",\"href\":\"/posts/curriculums/1e0a501e-f337-80dd-8d3e-e0341937095f/1e0a501e-f337-8083-b011-d3e519821520\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", PHP, Ruby, Lua\",\"href\":null}]]",
     "blockId": "1e0a501e-f337-8173-a22d-f676a0a3d956",
     "type": "table_row",
     "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
@@ -47,11 +47,11 @@
   {
     "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
     "parentId": "1e0a501e-f337-8117-b7a1-c54c8e91ea00",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"ハイブリッド\",\"link\":null},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ハイブリッド\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"Dart, TypeScript\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Dart, TypeScript\",\"href\":null}]]",
-    "blockId": "1e0a501e-f337-81d0-9dd8-c889ad63fe94",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイル言語\",\"href\":\"/posts/curriculums/1e0a501e-f337-80ef-adc7-e6da2c264201/1e0a501e-f337-806d-a2c4-e60e9eef0e14\"}],[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"yellow\"},\"plain_text\":\"C\",\"href\":\"/posts/curriculums/1e0a501e-f337-80dd-8d3e-e0341937095f/1e0a501e-f337-807d-8d51-ffdbd5aa590b\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"C++\",\"href\":\"/posts/curriculums/1e0a501e-f337-80dd-8d3e-e0341937095f/1e0a501e-f337-80af-ba2c-e028d73d0c32\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"purple\"},\"plain_text\":\"C#\",\"href\":\"/posts/curriculums/1e0a501e-f337-80dd-8d3e-e0341937095f/1e0a501e-f337-80c2-bdb7-e83ebc6675f6\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"GO\",\"href\":\"/posts/curriculums/1e0a501e-f337-80dd-8d3e-e0341937095f/1e0a501e-f337-80ef-bfce-d4e500670fcb\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", Rust, Swift, Objective-C, \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"red\"},\"plain_text\":\"Java\",\"href\":\"/posts/curriculums/1e0a501e-f337-80dd-8d3e-e0341937095f/1e0a501e-f337-8039-b5ff-e8ff7a3b160c\"}]]",
+    "blockId": "1e0a501e-f337-81b6-839a-c8c2e9bd1ff4",
     "type": "table_row",
     "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
-    "i": 3
+    "i": 1
   },
   {
     "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
@@ -137,7 +137,7 @@
   {
     "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
     "parentId": "1e0a501e-f337-8173-979d-e9ea43417a13",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"コンパイル言語\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイル言語\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"インタプリタ言語\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インタプリタ言語\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイル言語\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インタプリタ言語\",\"href\":null}]]",
     "blockId": "1e0a501e-f337-81b7-8432-cf05bc647015",
     "type": "table_row",
     "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
@@ -146,7 +146,7 @@
   {
     "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
     "parentId": "1e0a501e-f337-8173-979d-e9ea43417a13",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"コード実行前、コンパイルでコード全体を一度\\n機械語に変換して実行する。\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コード実行前、コンパイルでコード全体を一度\\n機械語に変換して実行する。\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"コードが実行時にコード1行ずつのバイトコードを変換して実行する。\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コードが実行時にコード1行ずつのバイトコードを変換して実行する。\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コード実行前、コンパイルでコード全体を一度\\n機械語に変換して実行する。\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コードが実行時にコード1行ずつのバイトコードを変換して実行する。\",\"href\":null}]]",
     "blockId": "1e0a501e-f337-81f0-aa0f-fc6863e40318",
     "type": "table_row",
     "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
@@ -155,7 +155,7 @@
   {
     "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
     "parentId": "1e0a501e-f337-8173-979d-e9ea43417a13",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"コンパイル後、実行ファイル作成O　(exe, jarなど)\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイル後、実行ファイル作成O　(exe, jarなど)\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"実行ファイル作成X　(exportの必要がある。)\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行ファイル作成X　(exportの必要がある。)\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイル後、実行ファイル作成O　(exe, jarなど)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行ファイル作成X　(exportの必要がある。)\",\"href\":null}]]",
     "blockId": "1e0a501e-f337-81d2-aed4-d9e5eaa868a2",
     "type": "table_row",
     "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
@@ -164,7 +164,7 @@
   {
     "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
     "parentId": "1e0a501e-f337-8173-979d-e9ea43417a13",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"コンパイル段階と実行段階が分離されている。\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイル段階と実行段階が分離されている。\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"インタープリト段階と実行段階の分離されなく同時に実行される。\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インタープリト段階と実行段階の分離されなく同時に実行される。\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイル段階と実行段階が分離されている。\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インタープリト段階と実行段階の分離されなく同時に実行される。\",\"href\":null}]]",
     "blockId": "1e0a501e-f337-8196-8ce4-c7db4adad69e",
     "type": "table_row",
     "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
@@ -173,7 +173,7 @@
   {
     "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
     "parentId": "1e0a501e-f337-8173-979d-e9ea43417a13",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"コンパイルには時間がかかるが、コンパイルはコード変化がないなら一度だけすればいい。\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイルには時間がかかるが、コンパイルはコード変化がないなら一度だけすればいい。\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"コードを実行する度にインタープリート過程を繰り返し実行され、コンパイルする時間がかからなくするその場で実行できる。\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コードを実行する度にインタープリート過程を繰り返し実行され、コンパイルする時間がかからなくするその場で実行できる。\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイルには時間がかかるが、コンパイルはコード変化がないなら一度だけすればいい。\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コードを実行する度にインタープリート過程を繰り返し実行され、コンパイルする時間がかからなくするその場で実行できる。\",\"href\":null}]]",
     "blockId": "1e0a501e-f337-81be-9b63-f6a82cd2bcf5",
     "type": "table_row",
     "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
@@ -182,7 +182,7 @@
   {
     "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
     "parentId": "1e0a501e-f337-8173-979d-e9ea43417a13",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"実行時は実行するだけなのでコード実行速度が速い。\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行時は実行するだけなのでコード実行速度が速い。\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"インタープリート段階と実行段階が分離されていないため、繰り返し実行するため実行速度が遅い。\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インタープリート段階と実行段階が分離されていないため、繰り返し実行するため実行速度が遅い。\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行時は実行するだけなのでコード実行速度が速い。\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インタープリート段階と実行段階が分離されていないため、繰り返し実行するため実行速度が遅い。\",\"href\":null}]]",
     "blockId": "1e0a501e-f337-81ec-93fd-c79047847a10",
     "type": "table_row",
     "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",

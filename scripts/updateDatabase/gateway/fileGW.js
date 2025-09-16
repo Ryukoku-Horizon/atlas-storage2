@@ -15,7 +15,7 @@ export async function insertPageInfo(data){
 }
 
 export async function insertBlock(data) {
-    await fs.writeFile(`public/blocks/data.json`,JSON.stringify(data,null,2),"utf-8")
+    await fs.writeFile(`public/synced/data.json`,JSON.stringify(data,null,2),"utf-8")
 }
 
 export async function upsertCurriculums(title,is_basic_curriculum,visibility,category,tag,curriculumId,iconType,iconUrl,coverUrl,order){
@@ -33,7 +33,7 @@ export async function deleteCurriculum(curriculumId){
 export async function deletePageByCurriculumId(curriculumId){
     await deleteFile(`public/pageData/${curriculumId}.json`)
     await deleteJsonById("public/pageInfos/data.json",curriculumId,"curriculumId")
-    await deleteJsonById("public/blocks/data.json",curriculumId,"curriculumId")
+    // await deleteJsonById("public/synced/data.json",curriculumId,"curriculumId")
 }
 
 export async function insertTag(data){

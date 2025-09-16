@@ -17,8 +17,8 @@ export async function flushPageInfoBuffer(buffer) {
     await insertPageInfo(uniqueData)
 }
 
-export async function flushBlockBuffer(buffer) {
-    const existingData = await readFile("./public/blocks/data.json", "utf-8")
+export async function flushSyncedBuffer(buffer){
+    const existingData = await readFile("./public/synced/data.json", "utf-8")
     const data = JSON.parse(existingData)
     const uniqueData = [...new Map([...data,...buffer].map(item => [item.id, item])).values()];
     await insertBlock(uniqueData)

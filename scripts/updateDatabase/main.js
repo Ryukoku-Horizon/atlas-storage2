@@ -5,7 +5,7 @@ import { cleardir, initDir } from "./lib/handleFile.js";
 import { insertChildren } from "./lib/insertBlock.js";
 import { converce } from "./lib/convercePaageData.js";
 import { deleteCategory, deleteCurriculum, deletePageByCurriculumId, insertTag } from "./gateway/fileGW.js";
-import { flushBlockBuffer, flushPageInfoBuffer } from "./lib/fileGWbuffer.js";
+import {  flushPageInfoBuffer, flushSyncedBuffer } from "./lib/fileGWbuffer.js";
 import { deleteJsonById } from "./checkEdited/deleteJson.js";
 import { upsertJsonById } from "./checkEdited/updateJson.js";
 
@@ -20,23 +20,21 @@ import { upsertJsonById } from "./checkEdited/updateJson.js";
 // data.coverUrl,
 // data.order
 
-const insertDatas=async(data,pageInfoBuffer,blockBuffer)=>{
+const insertDatas=async(data,pageInfoBuffer,syncedBuffer)=>{
     await insertCurriculum(data);
     pageInfoBuffer.push({title:data.title,curriculumId:data.curriculumId,iconType:data.iconType,iconUrl:data.iconUrl,coverUrl:data.coverUrl,order:data.order,id:data.curriculumId,parentId:""})
-    blockBuffer.push({id:data.curriculumId,pageId:data.curriculumId,curriculumId:data.curriculumId,parentId:""})
     initDir(data.curriculumId);
     const children = await getChildBlocks(data.curriculumId)
-    await insertChildren(children,data.curriculumId,pageInfoBuffer,blockBuffer)
+    await insertChildren(children,data.curriculumId,pageInfoBuffer,syncedBuffer)
 }
 
-const editDatas=async(data,pageInfoBuffer,blockBuffer)=>{
+const editDatas=async(data,pageInfoBuffer,syncedBuffer)=>{
     await insertCurriculum(data);
     pageInfoBuffer.push({title:data.title,curriculumId:data.curriculumId,iconType:data.iconType,iconUrl:data.iconUrl,coverUrl:data.coverUrl,order:data.order,id:data.curriculumId,parentId:""})
-    blockBuffer.push({id:data.curriculumId,pageId:data.curriculumId,curriculumId:data.curriculumId,parentId:""})
     initDir(data.curriculumId);
     await deletePageByCurriculumId(data.curriculumId);
     const children = await getChildBlocks(data.curriculumId)
-    await insertChildren(children,data.curriculumId,pageInfoBuffer,blockBuffer)
+    await insertChildren(children,data.curriculumId,pageInfoBuffer,syncedBuffer)
 }
 
 const deleteDatas=async(data)=>{
@@ -66,15 +64,16 @@ getCurrentData().then(async(data)=>{
         const database_data = await getDatabaseData()
         await insertTag(database_data.properties.tag.multi_select.options)
 
-        const blockBuffer = []
+        // const blockBuffer = []
         const pageInfoBuffer = []
+        const syncedBuffer = []
         console.log("ページデータ読み込み中...")
         const allData_ = await getAllPageData();
         const allData = await converce(allData_)
         const insertData =  allData.filter((item1)=>data.newData.some((item2)=>item1.curriculumId===item2.id))
         for(const item of insertData){
             console.log("reading:",item.title)
-            await insertDatas(item,pageInfoBuffer,blockBuffer)
+            await insertDatas(item,pageInfoBuffer,syncedBuffer)
         }
         console.log("ページ更新日書き換え中...")
         for(const d of data.newData){
@@ -84,7 +83,7 @@ getCurrentData().then(async(data)=>{
         const editData = allData.filter((item1)=>data.editedData.some((item2)=>item1.curriculumId===item2.id))
         for(const item of editData){
             console.log("reading:",item.title)
-            await editDatas(item,pageInfoBuffer,blockBuffer)
+            await editDatas(item,pageInfoBuffer,syncedBuffer)
         }
         console.log("ページ更新日書き換え中...")
         for(const d of data.editedData){
@@ -92,13 +91,14 @@ getCurrentData().then(async(data)=>{
         }
         console.log("ページ更新日書き換え完了")
         await flushPageInfoBuffer(pageInfoBuffer)
-        await flushBlockBuffer(blockBuffer)
+        // await flushBlockBuffer(blockBuffer)
+        await flushSyncedBuffer(syncedBuffer)
         for(const item of data.deleteData){
             await deleteDatas(item)
         }
         console.log("ページ更新日書き換え中...")
         for(const d of data.deleteData){
-            await deleteJsonById("public/lastEdited/curriculum.json",d.id)
+            await deleteJsonById("public/lastEdited/curriculum.json",d.id,"id")
         }
         console.log("ページ更新日書き換え完了")
         return process.exit(0);

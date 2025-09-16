@@ -101,20 +101,20 @@
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
     "parentId": "1f2a501e-f337-81cf-840f-ec9aa3687b91",
-    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コマンド操作\",\"href\":null}],\"url\":\"/horizon-atlas/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8169-ac4c-cdc62e1c1976.png\"}",
-    "blockId": "1f2a501e-f337-8169-ac4c-cdc62e1c1976",
-    "type": "image",
-    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
-    "i": 1
-  },
-  {
-    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
-    "parentId": "1f2a501e-f337-81cf-840f-ec9aa3687b91",
     "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonで作成したプログラム\",\"href\":null}],\"url\":\"/horizon-atlas/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8181-ad27-e0daec13a0d9.jpg\"}",
     "blockId": "1f2a501e-f337-8181-ad27-e0daec13a0d9",
     "type": "image",
     "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
     "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81cf-840f-ec9aa3687b91",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コマンド操作\",\"href\":null}],\"url\":\"/horizon-atlas/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8169-ac4c-cdc62e1c1976.png\"}",
+    "blockId": "1f2a501e-f337-8169-ac4c-cdc62e1c1976",
+    "type": "image",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 1
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",

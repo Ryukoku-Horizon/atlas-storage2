@@ -140,326 +140,6 @@
     "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
   },
   {
-    "title": "HTML,CSS",
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/code_orange.svg",
-    "coverUrl": "https://www.notion.so/images/page-cover/met_william_morris_1877_willow.jpg",
-    "order": 1003,
-    "id": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "parentId": ""
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "HTMLの基本",
-    "iconType": "emoji",
-    "iconUrl": "📔",
-    "coverUrl": "https://images.unsplash.com/photo-1478104718532-efe04cc3ff7f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
-    "id": "24ba501e-f337-8161-a4df-fdaf7b0fed22",
-    "order": 1,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "VSCodeの設定",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/command-line_purple.svg",
-    "coverUrl": "https://images.unsplash.com/photo-1623520333087-62b8793e3d23?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
-    "id": "24ba501e-f337-8103-83ac-cac23c85dce4",
-    "order": 1,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "1. HTMLの雛形",
-    "iconType": "emoji",
-    "iconUrl": "🐣",
-    "coverUrl": "",
-    "id": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
-    "order": 34,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "演習問題1",
-    "iconType": "emoji",
-    "iconUrl": "✏️",
-    "coverUrl": "",
-    "id": "24ba501e-f337-80ed-acc4-d54914fb20d2",
-    "order": 35,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "2. テキストに関するタグ",
-    "iconType": "",
-    "iconUrl": "",
-    "coverUrl": "",
-    "id": "24ba501e-f337-80b4-8a8a-c9458eaef4ab",
-    "order": 36,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "演習問題2",
-    "iconType": "emoji",
-    "iconUrl": "✏️",
-    "coverUrl": "",
-    "id": "24ba501e-f337-8063-90e9-d0177ad55025",
-    "order": 37,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "3. リストに関するタグ",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/list_red.svg",
-    "coverUrl": "",
-    "id": "24ba501e-f337-806f-b46c-ceef79e9cbfc",
-    "order": 38,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "演習問題3",
-    "iconType": "emoji",
-    "iconUrl": "✏️",
-    "coverUrl": "",
-    "id": "24ba501e-f337-8030-96c5-cad4dbbcae90",
-    "order": 39,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "4. メディアに関するタグ",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/movie-clapboard-play_green.svg",
-    "coverUrl": "",
-    "id": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
-    "order": 40,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "演習問題4 ",
-    "iconType": "emoji",
-    "iconUrl": "✏️",
-    "coverUrl": "",
-    "id": "24ba501e-f337-80d6-b531-e0d4dea4689b",
-    "order": 41,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "5. 表に関するタグ",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/table_blue.svg",
-    "coverUrl": "",
-    "id": "24ba501e-f337-808f-8a33-f3a85747e022",
-    "order": 42,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "演習問題5",
-    "iconType": "emoji",
-    "iconUrl": "✏️",
-    "coverUrl": "",
-    "id": "24ba501e-f337-8091-8917-e5fae94158fe",
-    "order": 43,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "6. フォームに関するタグ",
-    "iconType": "emoji",
-    "iconUrl": "⌨️",
-    "coverUrl": "",
-    "id": "24ba501e-f337-80e6-b96f-d7eadaa901ad",
-    "order": 44,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "演習問題6",
-    "iconType": "emoji",
-    "iconUrl": "✏️",
-    "coverUrl": "",
-    "id": "24ba501e-f337-8059-8a9a-f21efd54865b",
-    "order": 45,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "7.リンクに関するタグ",
-    "iconType": "emoji",
-    "iconUrl": "🔗",
-    "coverUrl": "",
-    "id": "24ba501e-f337-805d-b232-cfe5deefbd55",
-    "order": 46,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "演習問題7",
-    "iconType": "emoji",
-    "iconUrl": "✏️",
-    "coverUrl": "",
-    "id": "24ba501e-f337-802c-bf85-d1ad6091cc1e",
-    "order": 47,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "8. 体裁を整えるタグとCSS",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/tag_orange.svg",
-    "coverUrl": "",
-    "id": "24ba501e-f337-8086-8c69-e83ac9cafc32",
-    "order": 48,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "演習問題8",
-    "iconType": "emoji",
-    "iconUrl": "✏️",
-    "coverUrl": "",
-    "id": "24ba501e-f337-80bd-837e-e391fe4c5635",
-    "order": 49,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "9. HTMLファイルとCSSファイルの分離",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/activity_purple.svg",
-    "coverUrl": "",
-    "id": "24ba501e-f337-8052-82f6-fb088ef57af6",
-    "order": 50,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "演習問題9",
-    "iconType": "emoji",
-    "iconUrl": "✏️",
-    "coverUrl": "",
-    "id": "24ba501e-f337-80c6-80be-ec31f1976f83",
-    "order": 51,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "10. クラス名とセレクター",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/checkmark-square_green.svg",
-    "coverUrl": "",
-    "id": "24ba501e-f337-8050-b7f7-db36a1cd6c75",
-    "order": 52,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "演習問題10",
-    "iconType": "emoji",
-    "iconUrl": "✏️",
-    "coverUrl": "",
-    "id": "24ba501e-f337-807c-9bb7-e37598f43272",
-    "order": 53,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "11. ボーダー",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/wall_lightgray.svg",
-    "coverUrl": "",
-    "id": "24ba501e-f337-8060-892e-d2d23d1ea1ec",
-    "order": 54,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "演習問題11",
-    "iconType": "emoji",
-    "iconUrl": "✏️",
-    "coverUrl": "",
-    "id": "24ba501e-f337-8047-a78e-ce9b3076de36",
-    "order": 55,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "12. 擬似クラス : ◯個目の子要素",
-    "iconType": "emoji",
-    "iconUrl": "🔢",
-    "coverUrl": "",
-    "id": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
-    "order": 56,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "演習問題12",
-    "iconType": "emoji",
-    "iconUrl": "✏️",
-    "coverUrl": "",
-    "id": "24ba501e-f337-8069-a67f-dc413a0c4ec7",
-    "order": 57,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "13. 擬似クラス : ユーザーの操作と状態",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/cursor-click_gray.svg",
-    "coverUrl": "",
-    "id": "24ba501e-f337-80aa-9d68-dd141d08f635",
-    "order": 58,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "演習問題13",
-    "iconType": "emoji",
-    "iconUrl": "✏️",
-    "coverUrl": "",
-    "id": "24ba501e-f337-80bd-89a7-c708a73b73bc",
-    "order": 59,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "14. フレックスボックス",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/playback-pause_red.svg",
-    "coverUrl": "",
-    "id": "24ba501e-f337-80e8-af31-de34146e0db5",
-    "order": 60,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "演習問題14",
-    "iconType": "emoji",
-    "iconUrl": "✏️",
-    "coverUrl": "",
-    "id": "24ba501e-f337-80ce-8fd6-e2a7fc622ed5",
-    "order": 61,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
-    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
-    "title": "演習問題15：仕上げ",
-    "iconType": "emoji",
-    "iconUrl": "✏️",
-    "coverUrl": "",
-    "id": "24ba501e-f337-8063-9d95-f52543138802",
-    "order": 62,
-    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
-  },
-  {
     "title": "Qiita Teamへの参加方法（全体向け）",
     "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
     "iconType": "custom_emoji",
@@ -800,56 +480,6 @@
     "parentId": "1e0a501e-f337-80dd-8d3e-e0341937095f"
   },
   {
-    "title": "プログラミング言語ガイド",
-    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
-    "iconType": "emoji",
-    "iconUrl": "📚",
-    "coverUrl": "https://www.notion.so/images/page-cover/woodcuts_8.jpg",
-    "order": 1000,
-    "id": "1e0a501e-f337-80ef-adc7-e6da2c264201",
-    "parentId": ""
-  },
-  {
-    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
-    "title": "プログラミング言語用途による分類",
-    "iconType": "",
-    "iconUrl": "",
-    "coverUrl": "",
-    "id": "1e0a501e-f337-804e-bed1-f93373407682",
-    "order": 2,
-    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201"
-  },
-  {
-    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
-    "title": "実行方法による分類",
-    "iconType": "",
-    "iconUrl": "",
-    "coverUrl": "",
-    "id": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
-    "order": 6,
-    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201"
-  },
-  {
-    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
-    "title": "難易度による分類",
-    "iconType": "",
-    "iconUrl": "",
-    "coverUrl": "",
-    "id": "1e0a501e-f337-8037-bf53-f8e3f878872a",
-    "order": 10,
-    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201"
-  },
-  {
-    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
-    "title": "開発ツール",
-    "iconType": "",
-    "iconUrl": "",
-    "coverUrl": "",
-    "id": "1e0a501e-f337-802f-9270-d323affa25d8",
-    "order": 14,
-    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201"
-  },
-  {
     "title": "Fletの宿題",
     "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
     "iconType": "external",
@@ -938,6 +568,106 @@
     "order": 10,
     "id": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
     "parentId": ""
+  },
+  {
+    "title": "Horizonではじめにやること！",
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "iconType": "emoji",
+    "iconUrl": "💫",
+    "coverUrl": "https://images.unsplash.com/photo-1621508654686-809f23efdabc?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+    "order": 1,
+    "id": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": ""
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "title": "Pythonのインストール",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/save_blue.svg",
+    "coverUrl": "https://images.unsplash.com/photo-1491382825904-a4c6dca98e8c?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+    "id": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "order": 1,
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1"
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "title": "Visual Studio Codeのチュートリアル",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/move-document_orange.svg",
+    "coverUrl": "https://www.notion.so/images/page-cover/rijksmuseum_jansz_1636.jpg",
+    "id": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "order": 1,
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1"
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "title": "VSCodeのチュートリアル：Windows",
+    "iconType": "emoji",
+    "iconUrl": "🪟",
+    "coverUrl": "https://www.notion.so/images/page-cover/met_fitz_henry_lane.jpg",
+    "id": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "order": 1,
+    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8"
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "title": "VSCodeのチュートリアル：Mac",
+    "iconType": "emoji",
+    "iconUrl": "🍎",
+    "coverUrl": "https://www.notion.so/images/page-cover/nasa_great_sandy_desert_australia.jpg",
+    "id": "1d8a501e-f337-8102-92b5-ff2f78906951",
+    "order": 2,
+    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8"
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "title": "Canvaについて",
+    "iconType": "file",
+    "iconUrl": "/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/pageImageData/icon/1d8a501e-f337-8058-b91c-c0a04b396d44.png",
+    "coverUrl": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+    "id": "1d8a501e-f337-8058-b91c-c0a04b396d44",
+    "order": 1,
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1"
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "title": "Discordの使い方",
+    "iconType": "file",
+    "iconUrl": "/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/pageImageData/icon/1d8a501e-f337-80fa-90ed-effb876c58ba.png",
+    "coverUrl": "https://www.notion.so/images/page-cover/webb1.jpg",
+    "id": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "order": 1,
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1"
+  },
+  {
+    "title": "CLIの基礎",
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/keyboard_lightgray.svg",
+    "coverUrl": "https://images.unsplash.com/photo-1600860701935-40f338f8d793?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600",
+    "order": 8,
+    "id": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": ""
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "title": "for Windows(PowerShell)",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/grid_blue.svg",
+    "coverUrl": "",
+    "id": "1f0a501e-f337-80d8-a091-da399b7fa1e2",
+    "order": 23,
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1"
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "title": "for Mac(zsh)",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/apple_red.svg",
+    "coverUrl": "",
+    "id": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "order": 24,
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1"
   },
   {
     "title": "Flet の基礎",
@@ -1220,106 +950,6 @@
     "parentId": "1f2a501e-f337-8121-8bfd-edd80b5b35ad"
   },
   {
-    "title": "Horizonではじめにやること！",
-    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
-    "iconType": "emoji",
-    "iconUrl": "💫",
-    "coverUrl": "https://images.unsplash.com/photo-1621508654686-809f23efdabc?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
-    "order": 1,
-    "id": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
-    "parentId": ""
-  },
-  {
-    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
-    "title": "Pythonのインストール",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/save_blue.svg",
-    "coverUrl": "https://images.unsplash.com/photo-1491382825904-a4c6dca98e8c?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
-    "id": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
-    "order": 1,
-    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1"
-  },
-  {
-    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
-    "title": "Visual Studio Codeのチュートリアル",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/move-document_orange.svg",
-    "coverUrl": "https://www.notion.so/images/page-cover/rijksmuseum_jansz_1636.jpg",
-    "id": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
-    "order": 1,
-    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1"
-  },
-  {
-    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
-    "title": "VSCodeのチュートリアル：Windows",
-    "iconType": "emoji",
-    "iconUrl": "🪟",
-    "coverUrl": "https://www.notion.so/images/page-cover/met_fitz_henry_lane.jpg",
-    "id": "1d8a501e-f337-8156-9349-f0f8face44f2",
-    "order": 1,
-    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8"
-  },
-  {
-    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
-    "title": "VSCodeのチュートリアル：Mac",
-    "iconType": "emoji",
-    "iconUrl": "🍎",
-    "coverUrl": "https://www.notion.so/images/page-cover/nasa_great_sandy_desert_australia.jpg",
-    "id": "1d8a501e-f337-8102-92b5-ff2f78906951",
-    "order": 2,
-    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8"
-  },
-  {
-    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
-    "title": "Canvaについて",
-    "iconType": "file",
-    "iconUrl": "/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/pageImageData/icon/1d8a501e-f337-8058-b91c-c0a04b396d44.png",
-    "coverUrl": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
-    "id": "1d8a501e-f337-8058-b91c-c0a04b396d44",
-    "order": 1,
-    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1"
-  },
-  {
-    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
-    "title": "Discordの使い方",
-    "iconType": "file",
-    "iconUrl": "/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/pageImageData/icon/1d8a501e-f337-80fa-90ed-effb876c58ba.png",
-    "coverUrl": "https://www.notion.so/images/page-cover/webb1.jpg",
-    "id": "1d8a501e-f337-80fa-90ed-effb876c58ba",
-    "order": 1,
-    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1"
-  },
-  {
-    "title": "CLIの基礎",
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/keyboard_lightgray.svg",
-    "coverUrl": "https://images.unsplash.com/photo-1600860701935-40f338f8d793?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600",
-    "order": 8,
-    "id": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "parentId": ""
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "title": "for Windows(PowerShell)",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/grid_blue.svg",
-    "coverUrl": "",
-    "id": "1f0a501e-f337-80d8-a091-da399b7fa1e2",
-    "order": 23,
-    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1"
-  },
-  {
-    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "title": "for Mac(zsh)",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/apple_red.svg",
-    "coverUrl": "",
-    "id": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
-    "order": 24,
-    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1"
-  },
-  {
     "title": "Python基礎文法",
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "iconType": "file",
@@ -1508,5 +1138,375 @@
     "id": "1dfa501e-f337-8051-a42f-f0790a6a502a",
     "order": 20,
     "parentId": "1ada501e-f337-814b-ac7d-cbd864901138"
+  },
+  {
+    "title": "プログラミング言語ガイド",
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "iconType": "emoji",
+    "iconUrl": "📚",
+    "coverUrl": "https://www.notion.so/images/page-cover/woodcuts_8.jpg",
+    "order": 1000,
+    "id": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": ""
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "title": "プログラミング言語用途による分類",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "id": "1e0a501e-f337-804e-bed1-f93373407682",
+    "order": 2,
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201"
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "title": "実行方法による分類",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "id": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "order": 6,
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201"
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "title": "難易度による分類",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "id": "1e0a501e-f337-8037-bf53-f8e3f878872a",
+    "order": 10,
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201"
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "title": "開発ツール",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "id": "1e0a501e-f337-802f-9270-d323affa25d8",
+    "order": 14,
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201"
+  },
+  {
+    "title": "HTML,CSS",
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/code_orange.svg",
+    "coverUrl": "https://www.notion.so/images/page-cover/met_william_morris_1877_willow.jpg",
+    "order": 1003,
+    "id": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": ""
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "HTMLの基本",
+    "iconType": "emoji",
+    "iconUrl": "📔",
+    "coverUrl": "https://images.unsplash.com/photo-1478104718532-efe04cc3ff7f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+    "id": "24ba501e-f337-8161-a4df-fdaf7b0fed22",
+    "order": 1,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "VSCodeの設定",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/command-line_purple.svg",
+    "coverUrl": "https://images.unsplash.com/photo-1623520333087-62b8793e3d23?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+    "id": "24ba501e-f337-8103-83ac-cac23c85dce4",
+    "order": 1,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "1. HTMLの雛形",
+    "iconType": "emoji",
+    "iconUrl": "🐣",
+    "coverUrl": "",
+    "id": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "order": 34,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "演習問題1",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "id": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "order": 35,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "2. テキストに関するタグ",
+    "iconType": "",
+    "iconUrl": "",
+    "coverUrl": "",
+    "id": "24ba501e-f337-80b4-8a8a-c9458eaef4ab",
+    "order": 36,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "演習問題2",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "id": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "order": 37,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "3. リストに関するタグ",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/list_red.svg",
+    "coverUrl": "",
+    "id": "24ba501e-f337-806f-b46c-ceef79e9cbfc",
+    "order": 38,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "演習問題3",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "id": "24ba501e-f337-8030-96c5-cad4dbbcae90",
+    "order": 39,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "4. メディアに関するタグ",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/movie-clapboard-play_green.svg",
+    "coverUrl": "",
+    "id": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "order": 40,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "演習問題4 ",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "id": "24ba501e-f337-80d6-b531-e0d4dea4689b",
+    "order": 41,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "5. 表に関するタグ",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/table_blue.svg",
+    "coverUrl": "",
+    "id": "24ba501e-f337-808f-8a33-f3a85747e022",
+    "order": 42,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "演習問題5",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "id": "24ba501e-f337-8091-8917-e5fae94158fe",
+    "order": 43,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "6. フォームに関するタグ",
+    "iconType": "emoji",
+    "iconUrl": "⌨️",
+    "coverUrl": "",
+    "id": "24ba501e-f337-80e6-b96f-d7eadaa901ad",
+    "order": 44,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "演習問題6",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "id": "24ba501e-f337-8059-8a9a-f21efd54865b",
+    "order": 45,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "7.リンクに関するタグ",
+    "iconType": "emoji",
+    "iconUrl": "🔗",
+    "coverUrl": "",
+    "id": "24ba501e-f337-805d-b232-cfe5deefbd55",
+    "order": 46,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "演習問題7",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "id": "24ba501e-f337-802c-bf85-d1ad6091cc1e",
+    "order": 47,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "8. 体裁を整えるタグとCSS",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/tag_orange.svg",
+    "coverUrl": "",
+    "id": "24ba501e-f337-8086-8c69-e83ac9cafc32",
+    "order": 48,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "演習問題8",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "id": "24ba501e-f337-80bd-837e-e391fe4c5635",
+    "order": 49,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "9. HTMLファイルとCSSファイルの分離",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/activity_purple.svg",
+    "coverUrl": "",
+    "id": "24ba501e-f337-8052-82f6-fb088ef57af6",
+    "order": 50,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "演習問題9",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "id": "24ba501e-f337-80c6-80be-ec31f1976f83",
+    "order": 51,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "10. クラス名とセレクター",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/checkmark-square_green.svg",
+    "coverUrl": "",
+    "id": "24ba501e-f337-8050-b7f7-db36a1cd6c75",
+    "order": 52,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "演習問題10",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "id": "24ba501e-f337-807c-9bb7-e37598f43272",
+    "order": 53,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "11. ボーダー",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/wall_lightgray.svg",
+    "coverUrl": "",
+    "id": "24ba501e-f337-8060-892e-d2d23d1ea1ec",
+    "order": 54,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "演習問題11",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "id": "24ba501e-f337-8047-a78e-ce9b3076de36",
+    "order": 55,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "12. 擬似クラス : ◯個目の子要素",
+    "iconType": "emoji",
+    "iconUrl": "🔢",
+    "coverUrl": "",
+    "id": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "order": 56,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "演習問題12",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "id": "24ba501e-f337-8069-a67f-dc413a0c4ec7",
+    "order": 57,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "13. 擬似クラス : ユーザーの操作と状態",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/cursor-click_gray.svg",
+    "coverUrl": "",
+    "id": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "order": 58,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "演習問題13",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "id": "24ba501e-f337-80bd-89a7-c708a73b73bc",
+    "order": 59,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "14. フレックスボックス",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/playback-pause_red.svg",
+    "coverUrl": "",
+    "id": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "order": 60,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "演習問題14",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "id": "24ba501e-f337-80ce-8fd6-e2a7fc622ed5",
+    "order": 61,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "title": "演習問題15：仕上げ",
+    "iconType": "emoji",
+    "iconUrl": "✏️",
+    "coverUrl": "",
+    "id": "24ba501e-f337-8063-9d95-f52543138802",
+    "order": 62,
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44"
   }
 ]

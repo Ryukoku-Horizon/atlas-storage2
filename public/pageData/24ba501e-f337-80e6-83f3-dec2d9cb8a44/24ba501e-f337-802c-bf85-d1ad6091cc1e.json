@@ -92,7 +92,7 @@
   {
     "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
     "parentId": "24ba501e-f337-815e-9ac7-d88c960a2486",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"　　 項目\",\"link\":null},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　　 項目\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"              id\",\"link\":null},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"              id\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　　 項目\",\"href\":null}],[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"              id\",\"href\":null}]]",
     "blockId": "24ba501e-f337-81a2-8afd-d37f555cd080",
     "type": "table_row",
     "pageId": "24ba501e-f337-802c-bf85-d1ad6091cc1e",
@@ -101,7 +101,7 @@
   {
     "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
     "parentId": "24ba501e-f337-815e-9ac7-d88c960a2486",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"      設置学部\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"      設置学部\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"         course\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"         course\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"      設置学部\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"         course\",\"href\":null}]]",
     "blockId": "24ba501e-f337-8142-aadb-fbaf30afd3f7",
     "type": "table_row",
     "pageId": "24ba501e-f337-802c-bf85-d1ad6091cc1e",
@@ -110,7 +110,7 @@
   {
     "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
     "parentId": "24ba501e-f337-815e-9ac7-d88c960a2486",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"          歴史\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"          歴史\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"         history\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"         history\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"          歴史\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"         history\",\"href\":null}]]",
     "blockId": "24ba501e-f337-81d8-b662-c7dd3c79cd03",
     "type": "table_row",
     "pageId": "24ba501e-f337-802c-bf85-d1ad6091cc1e",
@@ -119,7 +119,7 @@
   {
     "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
     "parentId": "24ba501e-f337-815e-9ac7-d88c960a2486",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"        所在地\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"        所在地\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"        address\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"        address\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"        所在地\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"        address\",\"href\":null}]]",
     "blockId": "24ba501e-f337-816f-a08a-fe7c891dde31",
     "type": "table_row",
     "pageId": "24ba501e-f337-802c-bf85-d1ad6091cc1e",
@@ -128,7 +128,7 @@
   {
     "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
     "parentId": "24ba501e-f337-815e-9ac7-d88c960a2486",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"       アクセス\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"       アクセス\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"          access\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"          access\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"       アクセス\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"          access\",\"href\":null}]]",
     "blockId": "24ba501e-f337-8169-a9f1-d4657eb8fd5b",
     "type": "table_row",
     "pageId": "24ba501e-f337-802c-bf85-d1ad6091cc1e",

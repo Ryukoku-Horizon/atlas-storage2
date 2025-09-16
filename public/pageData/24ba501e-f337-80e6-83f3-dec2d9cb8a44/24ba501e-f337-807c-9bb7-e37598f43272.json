@@ -83,7 +83,7 @@
   {
     "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
     "parentId": "24ba501e-f337-819b-ab86-d8bcceb968e3",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"ヘッダー部分\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ヘッダー部分\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"header\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"header\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ヘッダー部分\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"header\",\"href\":null}]]",
     "blockId": "24ba501e-f337-81c8-888f-cd3310938c31",
     "type": "table_row",
     "pageId": "24ba501e-f337-807c-9bb7-e37598f43272",
@@ -92,7 +92,7 @@
   {
     "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
     "parentId": "24ba501e-f337-819b-ab86-d8bcceb968e3",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"グローバルナビ部分\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"グローバルナビ部分\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"global-nav\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"global-nav\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"グローバルナビ部分\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"global-nav\",\"href\":null}]]",
     "blockId": "24ba501e-f337-8141-bae1-c89004f8f7d1",
     "type": "table_row",
     "pageId": "24ba501e-f337-807c-9bb7-e37598f43272",
@@ -101,7 +101,7 @@
   {
     "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
     "parentId": "24ba501e-f337-819b-ab86-d8bcceb968e3",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"グローバルナビ内の各要素\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"グローバルナビ内の各要素\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"nav-item\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"nav-item\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"グローバルナビ内の各要素\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"nav-item\",\"href\":null}]]",
     "blockId": "24ba501e-f337-81e0-b822-eca16aaad004",
     "type": "table_row",
     "pageId": "24ba501e-f337-807c-9bb7-e37598f43272",
@@ -110,7 +110,7 @@
   {
     "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
     "parentId": "24ba501e-f337-819b-ab86-d8bcceb968e3",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"メインコンテンツと目次をまとめた部分\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"メインコンテンツと目次をまとめた部分\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"container\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"container\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"メインコンテンツと目次をまとめた部分\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"container\",\"href\":null}]]",
     "blockId": "24ba501e-f337-8155-8cf6-f96f17ede053",
     "type": "table_row",
     "pageId": "24ba501e-f337-807c-9bb7-e37598f43272",
@@ -119,7 +119,7 @@
   {
     "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
     "parentId": "24ba501e-f337-819b-ab86-d8bcceb968e3",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"メインコンテンツ部分\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"メインコンテンツ部分\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"content\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"content\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"メインコンテンツ部分\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"content\",\"href\":null}]]",
     "blockId": "24ba501e-f337-81b6-be28-c0045d0d7d8c",
     "type": "table_row",
     "pageId": "24ba501e-f337-807c-9bb7-e37598f43272",
@@ -128,7 +128,7 @@
   {
     "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
     "parentId": "24ba501e-f337-819b-ab86-d8bcceb968e3",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"目次部分\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"目次部分\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"sidebar\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"sidebar\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"目次部分\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"sidebar\",\"href\":null}]]",
     "blockId": "24ba501e-f337-811b-a994-c12a50321edf",
     "type": "table_row",
     "pageId": "24ba501e-f337-807c-9bb7-e37598f43272",
@@ -137,7 +137,7 @@
   {
     "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
     "parentId": "24ba501e-f337-819b-ab86-d8bcceb968e3",
-    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"「※2025年4月より」の部分\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「※2025年4月より」の部分\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"annotation\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"annotation\",\"href\":null}]]",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「※2025年4月より」の部分\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"annotation\",\"href\":null}]]",
     "blockId": "24ba501e-f337-818f-a159-f2681ad8d449",
     "type": "table_row",
     "pageId": "24ba501e-f337-807c-9bb7-e37598f43272",

@@ -6,19 +6,18 @@ import { processParent } from "./processParent.js"
 import { searchCurriculum } from "./searchBlock.js"
 import { flushBuffer } from "./fileGWbuffer.js"
 
-export async function insertChildren(children,curriculumId,pageInfoBuffer,blockBuffer){
+export async function insertChildren(children,curriculumId,pageInfoBuffer,syncedBuffer){
     const buffer = []
     for(let i=0;i<children.length;i++){
-        await insertChild(children[i],curriculumId,curriculumId,curriculumId,i,`${i + 1}/${children.length}`,buffer,pageInfoBuffer,blockBuffer)
+        await insertChild(children[i],curriculumId,curriculumId,curriculumId,i,`${i + 1}/${children.length}`,buffer,pageInfoBuffer,syncedBuffer)
     }
     await flushBuffer(buffer,curriculumId,curriculumId)
 }
 
-async function insertChild(block,curriculumId,pageId,parentId,i,p,buffer,pageInfoBuffer,blockBuffer){
+async function insertChild(block,curriculumId,pageId,parentId,i,p,buffer,pageInfoBuffer,syncedBuffer){
     const type = block.type
     console.log(`insert ${type}...`)
-    blockBuffer.push({id:block.id,curriculumId,pageId,parentId:parentId})
-    await insertblock(curriculumId,parentId,block,pageId,type,i + 1,buffer,pageInfoBuffer,blockBuffer)
+    await insertblock(curriculumId,parentId,block,pageId,type,i + 1,buffer,pageInfoBuffer,syncedBuffer)
     if(block.has_children){
         if(type==="child_page"){
             const newBuffer = [];
@@ -33,7 +32,7 @@ async function insertChild(block,curriculumId,pageId,parentId,i,p,buffer,pageInf
                     `${p}[${k + 1}/${children.length}]`,
                     newBuffer,
                     pageInfoBuffer,
-                    blockBuffer
+                    syncedBuffer
                 )
             }
             await flushBuffer(newBuffer,curriculumId,block.id)
@@ -50,7 +49,7 @@ async function insertChild(block,curriculumId,pageId,parentId,i,p,buffer,pageInf
                         `${p}[${k + 1}/${children.length}]`,
                         buffer,
                         pageInfoBuffer,
-                        blockBuffer
+                        syncedBuffer
                     )
                 )
             );
@@ -59,7 +58,7 @@ async function insertChild(block,curriculumId,pageId,parentId,i,p,buffer,pageInf
     console.log(p)
 }
 
-async function insertblock(curriculumId,parentId,data,pageId,type,i,buffer,pageInfoBuffer){
+async function insertblock(curriculumId,parentId,data,pageId,type,i,buffer,pageInfoBuffer,syncedBuffer){
     if(type==="callout"){
         await insertCallout(curriculumId,pageId,parentId,data,i,buffer)
     }else if(type==="paragraph" || type==="quote" || type==="toggle" || type==="bulleted_list_item" || type==="numbered_list_item" || type==="to_do"){
@@ -85,7 +84,7 @@ async function insertblock(curriculumId,parentId,data,pageId,type,i,buffer,pageI
     }else if(type==="code"){
         await insertCode(curriculumId,pageId,parentId,data,i,buffer)
     }else if(type==="synced_block"){
-        await insertSynced_block(curriculumId,pageId,parentId,data,i,buffer)
+        await insertSynced_block(curriculumId,pageId,parentId,data,i,buffer,syncedBuffer)
     }else{
         await buffer.push({curriculumId,parentId,data:"_",blockId:data.id,type:data.type,pageId,i})
     }
@@ -106,7 +105,10 @@ async function insertVideo(curriculumId,pageId,parentId,res,i,buffer){
 
 async function insertTable_row(curriculumId,pageId,parentId,res,i,buffer){
     const data = res.table_row.cells
-    buffer.push({curriculumId,parentId,data:JSON.stringify(data),blockId:res.id,type:res.type,pageId,i})
+    const parent = await Promise.all(data.map(async(i)=>await Promise.all(i.map(async(d)=>{
+        return await processParent(d)
+    }))))
+    buffer.push({curriculumId,parentId,data:JSON.stringify(parent),blockId:res.id,type:res.type,pageId,i})
 }
 
 async function insertTable(curriculumId,pageId,parentId,res,i,buffer){
@@ -261,13 +263,14 @@ async function insertCode(curriculumId,pageId,parentId,res,i,buffer){
     buffer.push({curriculumId,parentId,data:JSON.stringify(data),blockId:res.id,type:res.type,pageId,i})
 }
 
-async function insertSynced_block(curriculumId,pageId,parentId,res,i,buffer){
+async function insertSynced_block(curriculumId,pageId,parentId,res,i,buffer,syncedBuffer){
     const syncedFrom = res.synced_block.synced_from
     if(syncedFrom!==null){
         const type = syncedFrom.type;
         const from = syncedFrom[type];
         buffer.push({curriculumId,parentId,data:from,blockId:res.id,type:res.type,pageId,i})
     }else{
+        syncedBuffer.push({curriculumId,parentId,data:"original",blockId:res.id,type:res.type,pageId,i})
         buffer.push({curriculumId,parentId,data:"original",blockId:res.id,type:res.type,pageId,i})
     }
 }

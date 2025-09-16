@@ -91,6 +91,15 @@
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-813b-84bf-ecc869bc790f",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-811a-ab2f-ff1282996400.png\"}",
+    "blockId": "1f2a501e-f337-811a-ab2f-ff1282996400",
+    "type": "image",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
     "parentId": "1f2a501e-f337-8189-a228-d3d74b11967b",
     "data": "{\"color\":\"default\",\"parent\":[]}",
     "blockId": "215a501e-f337-805c-ac0a-ddd1ebb9cb0b",
@@ -133,15 +142,6 @@
     "type": "paragraph",
     "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
     "i": 3
-  },
-  {
-    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
-    "parentId": "1f2a501e-f337-813b-84bf-ecc869bc790f",
-    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-811a-ab2f-ff1282996400.png\"}",
-    "blockId": "1f2a501e-f337-811a-ab2f-ff1282996400",
-    "type": "image",
-    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
-    "i": 1
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
@@ -352,33 +352,6 @@
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
-    "parentId": "217a501e-f337-803e-91c1-ec5a2eab743d",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"16進数カラーコード(透明度なし)\",\"href\":null}]}",
-    "blockId": "1f2a501e-f337-8116-9b98-f3d9dcd5bb51",
-    "type": "toggle",
-    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
-    "i": 1
-  },
-  {
-    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
-    "parentId": "217a501e-f337-803e-91c1-ec5a2eab743d",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"16進数カラーコード(透明度あり)\",\"href\":null}]}",
-    "blockId": "1f2a501e-f337-8169-8f61-c3757ab0e91c",
-    "type": "toggle",
-    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
-    "i": 2
-  },
-  {
-    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
-    "parentId": "217a501e-f337-803e-91c1-ec5a2eab743d",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※大文字と小文字は混ざっていても、どちらか片方でも問題なく動く。\",\"href\":null}]}",
-    "blockId": "1f2a501e-f337-81c1-b805-c67567790182",
-    "type": "paragraph",
-    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
-    "i": 3
-  },
-  {
-    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
     "parentId": "1f2a501e-f337-818a-a109-e71911ba1cda",
     "data": "{\"color\":\"default\",\"parent\":[]}",
     "blockId": "1f2a501e-f337-81ad-9da4-c157ce096885",
@@ -415,21 +388,30 @@
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
-    "parentId": "1f2a501e-f337-8169-8f61-c3757ab0e91c",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"“#AARRGGBB”\",\"href\":null}]}",
-    "blockId": "1f2a501e-f337-81a3-9d2d-c9aeaca243f7",
-    "type": "paragraph",
+    "parentId": "217a501e-f337-803e-91c1-ec5a2eab743d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"16進数カラーコード(透明度なし)\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8116-9b98-f3d9dcd5bb51",
+    "type": "toggle",
     "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
     "i": 1
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
-    "parentId": "1f2a501e-f337-8169-8f61-c3757ab0e91c",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2の16進数カラーコード(透明度なし)に加えて、Aが透明度、強さは同じように設定できるけれど数が少ない方が透明に近づく。\",\"href\":null}]}",
-    "blockId": "1f2a501e-f337-8140-925b-d67f25b078cd",
-    "type": "paragraph",
+    "parentId": "217a501e-f337-803e-91c1-ec5a2eab743d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"16進数カラーコード(透明度あり)\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8169-8f61-c3757ab0e91c",
+    "type": "toggle",
     "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
     "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-803e-91c1-ec5a2eab743d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※大文字と小文字は混ざっていても、どちらか片方でも問題なく動く。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81c1-b805-c67567790182",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 3
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
@@ -457,6 +439,24 @@
     "type": "paragraph",
     "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
     "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8169-8f61-c3757ab0e91c",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"“#AARRGGBB”\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81a3-9d2d-c9aeaca243f7",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8169-8f61-c3757ab0e91c",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2の16進数カラーコード(透明度なし)に加えて、Aが透明度、強さは同じように設定できるけれど数が少ない方が透明に近づく。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8140-925b-d67f25b078cd",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
@@ -793,15 +793,6 @@
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
-    "parentId": "1f2a501e-f337-81ee-8e9d-e4e304454514",
-    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-81cd-bf82-d2744bf1df10.png\"}",
-    "blockId": "1f2a501e-f337-81cd-bf82-d2744bf1df10",
-    "type": "image",
-    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
-    "i": 1
-  },
-  {
-    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
     "parentId": "1f2a501e-f337-81f3-8d00-e521aeeb5f2d",
     "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"←こんな感じ\",\"href\":null}]}",
     "blockId": "1f2a501e-f337-8164-9b0a-d7e71a97fdc5",
@@ -817,6 +808,15 @@
     "type": "paragraph",
     "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
     "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81ee-8e9d-e4e304454514",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-81cd-bf82-d2744bf1df10.png\"}",
+    "blockId": "1f2a501e-f337-81cd-bf82-d2744bf1df10",
+    "type": "image",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",

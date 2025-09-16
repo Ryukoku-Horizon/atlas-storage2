@@ -26,7 +26,7 @@ export async function getOGPWithPuppeteer(url) {
     const limit = 3
     let b = false;
     for(let i=0;i<limit;i++){
-        await page.waitForSelector('meta[property="og:title"]', { timeout: 8000 }).then(()=>{
+        await page.waitForSelector('meta[property="og:title"]', { timeout: 7000 }).then(()=>{
             b = true
             console.log("✅ タグが見つかりました")
         }).catch(() => {
