@@ -1,37 +1,5 @@
 [
   {
-    "id": "256a501e-f337-802e-8fca-f378c366fb03",
-    "title": "Python後期",
-    "is_basic_curriculum": true,
-    "visibility": [],
-    "category": "後期",
-    "tag": [
-      "基礎班"
-    ],
-    "iconType": "",
-    "iconUrl": "",
-    "coverUrl": "",
-    "order": 9999
-  },
-  {
-    "id": "1ada501e-f337-81e8-b251-df0f38a0cb23",
-    "title": "データベース基礎",
-    "is_basic_curriculum": true,
-    "visibility": [
-      "発展班"
-    ],
-    "category": "後期",
-    "tag": [
-      "基礎班",
-      "データベース",
-      "Python"
-    ],
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/database_blue.svg",
-    "coverUrl": "https://www.notion.so/images/page-cover/gradients_11.jpg",
-    "order": 105
-  },
-  {
     "id": "1ada501e-f337-814b-ac7d-cbd864901138",
     "title": "Python基礎文法",
     "is_basic_curriculum": true,
