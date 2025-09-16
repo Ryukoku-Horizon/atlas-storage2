@@ -208,19 +208,19 @@
   },
   {
     "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
-    "parentId": "1d8a501e-f337-8004-b8ec-cd6a0aea7797",
-    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8036-a81e-fbbba1ca6a9e.jpg\"}",
-    "blockId": "1d8a501e-f337-8036-a81e-fbbba1ca6a9e",
-    "type": "image",
+    "parentId": "1d8a501e-f337-8064-a83e-ca1a03aafbd8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"その場合には、その「Disable path length limit」をクリックして次に進んでください。もし「このアプリがデバイスに変更を加えることを許可しますか?」と出たら、「はい」をクリックしてください。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-80e5-9a96-f2d7375fc187",
+    "type": "paragraph",
     "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
     "i": 1
   },
   {
     "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
-    "parentId": "1d8a501e-f337-8064-a83e-ca1a03aafbd8",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"その場合には、その「Disable path length limit」をクリックして次に進んでください。もし「このアプリがデバイスに変更を加えることを許可しますか?」と出たら、「はい」をクリックしてください。\",\"href\":null}]}",
-    "blockId": "1d8a501e-f337-80e5-9a96-f2d7375fc187",
-    "type": "paragraph",
+    "parentId": "1d8a501e-f337-8004-b8ec-cd6a0aea7797",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8036-a81e-fbbba1ca6a9e.jpg\"}",
+    "blockId": "1d8a501e-f337-8036-a81e-fbbba1ca6a9e",
+    "type": "image",
     "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
     "i": 1
   },

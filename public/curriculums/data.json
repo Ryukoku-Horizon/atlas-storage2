@@ -69,5 +69,28 @@
     "iconUrl": "https://www.notion.so/icons/keyboard_lightgray.svg",
     "coverUrl": "https://images.unsplash.com/photo-1600860701935-40f338f8d793?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600",
     "order": 8
+  },
+  {
+    "id": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "title": "Horizonではじめにやること！",
+    "is_basic_curriculum": true,
+    "visibility": [
+      "基礎班",
+      "体験入部",
+      "発展班"
+    ],
+    "category": "前期",
+    "tag": [
+      "Python",
+      "基礎班",
+      "VSCode",
+      "Discord",
+      "VisualStudioCode",
+      "Canva"
+    ],
+    "iconType": "emoji",
+    "iconUrl": "💫",
+    "coverUrl": "https://images.unsplash.com/photo-1621508654686-809f23efdabc?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+    "order": 1
   }
 ]
