@@ -2,7 +2,7 @@
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(3.変数の型)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8064-b0e1-f200f4276e5e\"}]}",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(3.変数の型)\",\"href\":\"/posts/curriculums/1b8a501e-f337-8064-b0e1-f200f4276e5e\"}]}",
     "blockId": "1b8a501e-f337-81d3-8d59-e4b563b05a6f",
     "type": "paragraph",
     "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
@@ -371,7 +371,7 @@
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "1b8a501e-f337-819d-94c9-fedcff0b86fd",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(3.変数の型)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8064-b0e1-f200f4276e5e\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(練習問題1)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-80ba-a251-c8fe9f1c8cc2\"}]}",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(3.変数の型)\",\"href\":\"/posts/curriculums/1b8a501e-f337-8064-b0e1-f200f4276e5e\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(練習問題1)\",\"href\":\"/posts/curriculums/1b8a501e-f337-80ba-a251-c8fe9f1c8cc2\"}]}",
     "blockId": "1b8a501e-f337-8180-a562-e82fbcdfe7d8",
     "type": "paragraph",
     "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",

@@ -308,7 +308,7 @@
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "1b8a501e-f337-8178-8e31-dfb962a1c06d",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(9.文字列)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-80fa-b3ce-c5016923e198\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(11.関数を作ろう!)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-802f-a0f0-c6e94d32d3bf\"}]}",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(9.文字列)\",\"href\":\"/posts/curriculums/1b8a501e-f337-80fa-b3ce-c5016923e198\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(11.関数を作ろう!)\",\"href\":\"/posts/curriculums/1b8a501e-f337-802f-a0f0-c6e94d32d3bf\"}]}",
     "blockId": "1b8a501e-f337-812d-b538-d912430ee505",
     "type": "paragraph",
     "pageId": "1b8a501e-f337-8022-a217-fb1418047a05",

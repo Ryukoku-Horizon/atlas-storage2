@@ -2,7 +2,7 @@
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "1b8a501e-f337-8064-b0e1-f200f4276e5e",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(2.変数)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-80f1-af62-f3552733a81d\"}]}",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(2.変数)\",\"href\":\"/posts/curriculums/1b8a501e-f337-80f1-af62-f3552733a81d\"}]}",
     "blockId": "1b8a501e-f337-8119-84d7-c9c787cc5132",
     "type": "paragraph",
     "pageId": "1b8a501e-f337-8064-b0e1-f200f4276e5e",
@@ -407,7 +407,7 @@
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "1b8a501e-f337-8064-b0e1-f200f4276e5e",
-    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このような変数の型は、慣れるまで扱いが難しいかもしれませんが、意識しておかないと\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エラー\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-80f0-a9cd-f0d196c362de\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"や意図しない動作の原因になることがあるので、頑張って身につけましょう！\",\"href\":null}]}",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このような変数の型は、慣れるまで扱いが難しいかもしれませんが、意識しておかないと\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エラー\",\"href\":\"/posts/curriculums/1b8a501e-f337-80f0-a9cd-f0d196c362de\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"や意図しない動作の原因になることがあるので、頑張って身につけましょう！\",\"href\":null}]}",
     "blockId": "1b8a501e-f337-8182-b6f0-e3f4e018b3f1",
     "type": "callout",
     "pageId": "1b8a501e-f337-8064-b0e1-f200f4276e5e",
@@ -425,7 +425,7 @@
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "1b8a501e-f337-810a-a534-dbaca88d1665",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(2.変数)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-80f1-af62-f3552733a81d\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(4.四則演算)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-80f0-a9cd-f0d196c362de\"}]}",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(2.変数)\",\"href\":\"/posts/curriculums/1b8a501e-f337-80f1-af62-f3552733a81d\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(4.四則演算)\",\"href\":\"/posts/curriculums/1b8a501e-f337-80f0-a9cd-f0d196c362de\"}]}",
     "blockId": "1b8a501e-f337-8198-a029-c74f2e626250",
     "type": "paragraph",
     "pageId": "1b8a501e-f337-8064-b0e1-f200f4276e5e",

@@ -191,7 +191,7 @@
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回（Hello World!）\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-806c-8615-f492e93f80b0\"}]}",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回（Hello World!）\",\"href\":\"/posts/curriculums/1b8a501e-f337-806c-8615-f492e93f80b0\"}]}",
     "blockId": "1dfa501e-f337-8102-af36-d4faa2944802",
     "type": "paragraph",
     "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",

@@ -353,7 +353,7 @@
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "1b8a501e-f337-804e-ada7-c904a1585fd1",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(11.関数を作ろう！)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-802f-a0f0-c6e94d32d3bf\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" |  \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(Pythonまとめ問題)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1dfa501e-f337-8051-a42f-f0790a6a502a\"}]}",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(11.関数を作ろう！)\",\"href\":\"/posts/curriculums/1b8a501e-f337-802f-a0f0-c6e94d32d3bf\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" |  \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(Pythonまとめ問題)\",\"href\":\"/posts/curriculums/1dfa501e-f337-8051-a42f-f0790a6a502a\"}]}",
     "blockId": "1b8a501e-f337-81eb-b592-cbf541d570fb",
     "type": "paragraph",
     "pageId": "1b8a501e-f337-804e-ada7-c904a1585fd1",

@@ -11,7 +11,7 @@
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "1ada501e-f337-814b-ac7d-cbd864901138",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonのパソコンへのインストールがまだという方は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"こちら\",\"href\":\"/posts/curriculums/1d8a501e-f337-800c-9ae8-ca9153877fc1/1d8a501e-f337-8046-aa5f-e50c89a862f6\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"からどうぞ\",\"href\":null}]}",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonのパソコンへのインストールがまだという方は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"こちら\",\"href\":\"/posts/curriculums/1d8a501e-f337-8046-aa5f-e50c89a862f6\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"からどうぞ\",\"href\":null}]}",
     "blockId": "1ada501e-f337-8100-b66c-fef9fb4e304d",
     "type": "paragraph",
     "pageId": "1ada501e-f337-814b-ac7d-cbd864901138",

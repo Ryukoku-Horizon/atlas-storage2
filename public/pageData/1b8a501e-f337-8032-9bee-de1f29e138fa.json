@@ -2,7 +2,7 @@
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(練習問題2)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8040-be11-fcc20622dd7c\"}]}",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(練習問題2)\",\"href\":\"/posts/curriculums/1b8a501e-f337-8040-be11-fcc20622dd7c\"}]}",
     "blockId": "1b8a501e-f337-818c-9569-de69e0cc2b0d",
     "type": "paragraph",
     "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
@@ -740,7 +740,7 @@
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "1b8a501e-f337-814b-88f9-db1f5cc57b6f",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(6.条件分岐(if文))\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-800d-909d-c7f9943aba15\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(8.繰り返し(for文))\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-80a5-a084-f584f95197c5\"}]}",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(6.条件分岐(if文))\",\"href\":\"/posts/curriculums/1b8a501e-f337-800d-909d-c7f9943aba15\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(8.繰り返し(for文))\",\"href\":\"/posts/curriculums/1b8a501e-f337-80a5-a084-f584f95197c5\"}]}",
     "blockId": "1b8a501e-f337-811b-a6fb-fe43e7d847e2",
     "type": "paragraph",
     "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",

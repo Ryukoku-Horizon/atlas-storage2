@@ -35,7 +35,6 @@ export async function deleteCurriculum(curriculumId){
 }
 
 export async function deletePageByCurriculumId(curriculumId){
-    await deleteFile(`public/pageData/${curriculumId}.json`)
     await deleteJsonById("public/pageInfos/data.json",curriculumId,"curriculumId")
     // await deleteJsonById("public/synced/data.json",curriculumId,"curriculumId")
 }

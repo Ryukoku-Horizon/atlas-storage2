@@ -2,7 +2,7 @@
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(5.入力)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8081-9a0c-d8aafc4b4c17\"}]}",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(5.入力)\",\"href\":\"/posts/curriculums/1b8a501e-f337-8081-9a0c-d8aafc4b4c17\"}]}",
     "blockId": "1b8a501e-f337-8166-8ba9-e214157422f5",
     "type": "paragraph",
     "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
@@ -1054,15 +1054,6 @@
   },
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
-    "parentId": "208a501e-f337-8020-b3d9-ff9707127471",
-    "data": "{\"language\":\"python\",\"parent\":[\"int_F  = 0 # Falseと同値\\nint_T1 = 1 # Trueと同値\\nint_T2 = 8 # これ自体はTrueと同値では無い\\n\\nif int_F == True: print(\\\"intの偽(T)\\\")\\nif int_F == False: print(\\\"intの偽(F)\\\")\\nif int_T1 == True: print(\\\"intの真1(T)\\\")\\nif int_T1 == False: print(\\\"intの真1(F)\\\")\\nif int_T2 == True: print(\\\"intの真2(T)\\\")\\nif int_T2 == False: print(\\\"intの真2(F)\\\")\"],\"caption\":[]}",
-    "blockId": "208a501e-f337-8071-9a6a-d2c626cd3715",
-    "type": "code",
-    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
-    "i": 1
-  },
-  {
-    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "208a501e-f337-80fb-a92a-d6a41d8cdd57",
     "data": "{\"language\":\"python\",\"parent\":[\"int_F  = 0 # Falseと同値\\nint_T1 = 1 # Trueと同値\\nint_T2 = 8 # これ自体はTrueと同値では無い\\n\\nif bool(int_F) == True: print(\\\"intの偽(T)\\\")\\nif bool(int_F) == False: print(\\\"intの偽(F)\\\")\\nif bool(int_T1) == True: print(\\\"intの真1(T)\\\")\\nif bool(int_T1) == False: print(\\\"intの真1(F)\\\")\\nif bool(int_T2) == True: print(\\\"intの真2(T)\\\")\\nif bool(int_T2) == False: print(\\\"intの真2(F)\\\")\"],\"caption\":[]}",
     "blockId": "208a501e-f337-8080-ae2f-ff955554999e",
@@ -1090,6 +1081,15 @@
   },
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-8020-b3d9-ff9707127471",
+    "data": "{\"language\":\"python\",\"parent\":[\"int_F  = 0 # Falseと同値\\nint_T1 = 1 # Trueと同値\\nint_T2 = 8 # これ自体はTrueと同値では無い\\n\\nif int_F == True: print(\\\"intの偽(T)\\\")\\nif int_F == False: print(\\\"intの偽(F)\\\")\\nif int_T1 == True: print(\\\"intの真1(T)\\\")\\nif int_T1 == False: print(\\\"intの真1(F)\\\")\\nif int_T2 == True: print(\\\"intの真2(T)\\\")\\nif int_T2 == False: print(\\\"intの真2(F)\\\")\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-8071-9a6a-d2c626cd3715",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
     "data": "{\"color\":\"default\",\"parent\":[]}",
     "blockId": "1b8a501e-f337-8185-948c-ce2729a1225b",
@@ -1109,7 +1109,7 @@
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "1b8a501e-f337-8185-948c-ce2729a1225b",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(5.入力)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8081-9a0c-d8aafc4b4c17\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(練習問題2)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8040-be11-fcc20622dd7c\"}]}",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(5.入力)\",\"href\":\"/posts/curriculums/1b8a501e-f337-8081-9a0c-d8aafc4b4c17\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(練習問題2)\",\"href\":\"/posts/curriculums/1b8a501e-f337-8040-be11-fcc20622dd7c\"}]}",
     "blockId": "1b8a501e-f337-81d0-9486-e444cef4ea6f",
     "type": "paragraph",
     "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",

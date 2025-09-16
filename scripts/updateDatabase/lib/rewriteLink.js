@@ -10,19 +10,18 @@ export async function rewriteLinks(href) {
             const pageHref = href.split("/")[3]
             const pageId = pageHref.split("#")[0]
             const hai = await getSingleblock(pageId)
-            const curriculumId = await searchCurriculum(pageId)
-            if(!curriculumId || !hai) return null;
+            if(!hai) return null;
             if(pageHref.split("#")[1]){
                 const blockId = pageHref.split("#")[1]
                 const blockHai = await getSingleblock(blockId)
                 if(!blockHai) return null;
-                const url = `/posts/curriculums/${curriculumId}/${hai.id}`
+                const url = `/posts/curriculums/${hai.id}`
                 return {
                     href:url,
                     scroll:blockHai.id
                 }
             }else{
-                const url = `/posts/curriculums/${curriculumId}/${hai.id}`;
+                const url = `/posts/curriculums/${hai.id}`;
                 return {
                     href:url,
                 }
@@ -34,11 +33,10 @@ export async function rewriteLinks(href) {
         if(href.split("#")[1]){
             const pageId = href.split("#")[0].slice(1)
             const hai = await getSingleblock(pageId)
-            const curriculumId = searchCurriculum(pageId)
-            if(!hai || !curriculumId){
+            if(!hai){
                 return null
             }else{
-                const url = `/posts/curriculums/${curriculumId}/${hai.id}`
+                const url = `/posts/curriculums/${hai.id}`
                 if(href.split("#")[1]){
                     const blockId = href.split("#")[1]
                     const blockHai = await getSingleblock(blockId)
@@ -56,11 +54,10 @@ export async function rewriteLinks(href) {
         }
         const pageId = href.slice(1)
         const hai = await getSingleblock(pageId)
-        const curriculumId = await searchCurriculum(pageId)
-        if(!hai || !curriculumId){
+        if(!hai){
             return null
         }else{
-            const url =  `/posts/curriculums/${curriculumId}/${hai.id}`;
+            const url =  `/posts/curriculums/${hai.id}`;
             return {
                 href:url
             }
@@ -68,25 +65,25 @@ export async function rewriteLinks(href) {
     }
 }
 
-const rewritePageMention=async(parents)=>{
-    const newParents = []
-    for(const p of parents){
-        if(p.mention && p.mention.type==="page" && p.mention.content){
-            const id = p.mention.content.id;
-            const data = await PageDataService.getTitleAndIcon(id)
-            const {title,iconType,iconUrl}= data ?? ""
-            newParents.push({
-                ...p,
-                mention:{
-                    type:"prossedPage",
-                    content:{
-                        title,iconType,iconUrl
-                    }
-                }
-            })
-        }else {
-            newParents.push(p)
-        }
-    }
-    return newParents
-}
+// const rewritePageMention=async(parents)=>{
+//     const newParents = []
+//     for(const p of parents){
+//         if(p.mention && p.mention.type==="page" && p.mention.content){
+//             const id = p.mention.content.id;
+//             const data = await PageDataService.getTitleAndIcon(id)
+//             const {title,iconType,iconUrl}= data ?? ""
+//             newParents.push({
+//                 ...p,
+//                 mention:{
+//                     type:"prossedPage",
+//                     content:{
+//                         title,iconType,iconUrl
+//                     }
+//                 }
+//             })
+//         }else {
+//             newParents.push(p)
+//         }
+//     }
+//     return newParents
+// }
