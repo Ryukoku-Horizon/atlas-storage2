@@ -1,0 +1,191 @@
+[
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題1\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1eca501e-f337-8124-94be-c1ec45350cbb",
+    "type": "heading_1",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"continue文を使って\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、次のリストから3の倍数ではない数字だけ出力させてください。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81fb-9422-fd57e1f4c31f",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"language\":\"python\",\"parent\":[\"value_list = [4, 2, 6, 7, 9, 34, 75, 97, 128, 948, 1023]\"],\"caption\":[]}",
+    "blockId": "1eca501e-f337-81cd-aeda-d4812c788b06",
+    "type": "code",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-819c-8c29-fa40c5a28fac",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 4
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題2\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1eca501e-f337-81a6-8852-c537347a2733",
+    "type": "heading_1",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 5
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次の処理を\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"上から順に処理するプログラム\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を作成しなさい。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81de-a97c-ddcc34b2cb12",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 6
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"・変数aを作成\\n・aに2を10回足す。\\n・aに5を2回引く。\\n・aに2を5回掛ける。\\n・aに5を1回割る。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81e3-9a7b-dbc0589c68c1",
+    "type": "callout",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 7
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ただし、以下の条件を満たす必要がある。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-819a-baa2-fd2f6b4a515d",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 8
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"・変数はa以外作ってはいけない。\\n・1回四則演算が行われる度に現時点での変数aの値を出力すること。\\n・四則演算を行うコードは代入演算子以外使用しないこと。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8107-90c6-f3dc99c352da",
+    "type": "callout",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 9
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題3\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1eca501e-f337-81ef-9d4e-e110c13a016e",
+    "type": "heading_1",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 10
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"正解の数字が4桁verの「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"gray\"},\"plain_text\":\"Numer0n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」を制作しなさい。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-819d-bf53-e460b7b9408c",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 11
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-8141-ab14-daf0105f076e",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 12
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "_",
+    "blockId": "1eca501e-f337-8174-a3d6-e143ff71e73f",
+    "type": "divider",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 13
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"第3章まとめ\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8151-829d-c2a3fdc1c15c",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 14
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3-1 入力される数字の桁数を制限しよう\",\"href\":\"/posts/curriculums/1e7a501e-f337-805b-bc4e-d442525244f3/1eca501e-f337-817a-9e5b-c6190535af2e\"}]}",
+    "blockId": "1eca501e-f337-8156-ba55-c9c38cb31a77",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 15
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3-2 数字や桁の一致判定システムを作成しよう\",\"href\":\"/posts/curriculums/1e7a501e-f337-805b-bc4e-d442525244f3/1eca501e-f337-8166-a58b-e172fea0ca95\"}]}",
+    "blockId": "1eca501e-f337-81cb-9988-c16e998c21ea",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 16
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3-3 ゲームクリア判定を作成しよう\",\"href\":\"/posts/curriculums/1e7a501e-f337-805b-bc4e-d442525244f3/1eca501e-f337-8151-b8d2-da01eb4c2a83\"}]}",
+    "blockId": "1eca501e-f337-810e-b9c7-ed5b313e5ef4",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 17
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-81b9-9812-e6dd64199295",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 18
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"4-1 処理を待たせられるようにしよう\",\"href\":\"/posts/curriculums/1e7a501e-f337-805b-bc4e-d442525244f3/1eca501e-f337-81d2-9d15-fdd984df7fc6\"}]}",
+    "blockId": "1eca501e-f337-81af-b7b2-ca49b6a459e1",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 19
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-81d0-9626-cf0e53d7c62d",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 20
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"目次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"数当てゲームをPythonで作ってみよう\",\"href\":\"/posts/curriculums/1e7a501e-f337-805b-bc4e-d442525244f3/1eca501e-f337-80fc-a5bd-f2a1ea7ef2ca\"}]}",
+    "blockId": "1eca501e-f337-8152-9808-f92cb755c7e7",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-81e4-a7a8-c9a25f22dcb5",
+    "i": 21
+  }
+]

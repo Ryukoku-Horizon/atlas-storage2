@@ -1,0 +1,164 @@
+[
+  {
+    "id": "a9728e73-00a3-47fd-b1c9-5ff5b6f530e4",
+    "name": "Flet",
+    "color": "green",
+    "description": null
+  },
+  {
+    "id": "b198fddd-e8e5-489a-bb14-3e1c3f2a45e8",
+    "name": "Python",
+    "color": "purple",
+    "description": null
+  },
+  {
+    "id": "5c2f8ee8-8b0a-436f-b521-fcd2631a89c8",
+    "name": "基礎班",
+    "color": "red",
+    "description": null
+  },
+  {
+    "id": "34af8be3-2495-49ad-b509-6cd6cad4a41a",
+    "name": "練習問題",
+    "color": "brown",
+    "description": null
+  },
+  {
+    "id": "3b0ba84d-33e4-4dc3-92a6-45df54826b9a",
+    "name": "web",
+    "color": "blue",
+    "description": null
+  },
+  {
+    "id": "27023bb7-a332-46b2-afde-d6e72f6c297b",
+    "name": "Git",
+    "color": "orange",
+    "description": null
+  },
+  {
+    "id": "cf32ec45-72f1-4800-8d59-6398c4f6e625",
+    "name": "GitHub",
+    "color": "default",
+    "description": null
+  },
+  {
+    "id": "e738f72b-6d90-4533-8550-17824407315d",
+    "name": "HTML",
+    "color": "yellow",
+    "description": null
+  },
+  {
+    "id": "c94b5881-af93-48c7-a56a-c0d6520bbaa9",
+    "name": "CSS",
+    "color": "pink",
+    "description": null
+  },
+  {
+    "id": "56bd3a27-a2ec-4b43-95f0-1e55e4d35e35",
+    "name": "Notion",
+    "color": "gray",
+    "description": null
+  },
+  {
+    "id": "90ee5937-64ee-4910-9c78-69379b0e2d08",
+    "name": "データベース",
+    "color": "gray",
+    "description": null
+  },
+  {
+    "id": "8f3d0e80-d447-4eb4-9648-3711f1328fcc",
+    "name": "セットアップ",
+    "color": "yellow",
+    "description": null
+  },
+  {
+    "id": "eb3974a7-c0a4-4a9a-a146-a48a28a76cfa",
+    "name": "VisualStudioCode",
+    "color": "pink",
+    "description": null
+  },
+  {
+    "id": "fe67a4df-f733-4b4c-ab3f-c53e79071f18",
+    "name": "VSCode",
+    "color": "brown",
+    "description": null
+  },
+  {
+    "id": "cf5698fe-2cbe-4454-8d35-97b6939583be",
+    "name": "ファイル",
+    "color": "pink",
+    "description": null
+  },
+  {
+    "id": "65898cbf-fa77-49b9-ab8a-4ca6c14cfecd",
+    "name": "フォルダ",
+    "color": "orange",
+    "description": null
+  },
+  {
+    "id": "43bde09f-c1dd-4794-85aa-0cdd11db4e8d",
+    "name": "Canva",
+    "color": "brown",
+    "description": null
+  },
+  {
+    "id": "2ebaad5a-50c3-488c-ad72-85b138780f52",
+    "name": "GUI",
+    "color": "pink",
+    "description": null
+  },
+  {
+    "id": "923e2309-c150-4e4f-9128-864ff913efa3",
+    "name": "UI",
+    "color": "green",
+    "description": null
+  },
+  {
+    "id": "418175f0-c509-47ab-b307-c488b25a5bb3",
+    "name": "CLI",
+    "color": "orange",
+    "description": null
+  },
+  {
+    "id": "c092ac4a-2a3d-4db1-b2c0-8549094d5885",
+    "name": "Discord",
+    "color": "gray",
+    "description": null
+  },
+  {
+    "id": "12fc7c23-8184-4a61-b6d6-0a06d83cdf37",
+    "name": "言語",
+    "color": "red",
+    "description": null
+  },
+  {
+    "id": "4df898d1-9689-4bb9-a12b-b3e8e07c44f3",
+    "name": "ガイド",
+    "color": "yellow",
+    "description": null
+  },
+  {
+    "id": "13c2f83f-05e2-4289-9602-eb2a44318d91",
+    "name": "プログラミング言語",
+    "color": "red",
+    "description": null
+  },
+  {
+    "id": "26eed7a7-414f-4988-8013-869a9bc7ddea",
+    "name": "グループワーク",
+    "color": "purple",
+    "description": null
+  },
+  {
+    "id": "b8c993a8-93f2-4b93-a2a7-8199715cf764",
+    "name": "Qiita Team",
+    "color": "red",
+    "description": null
+  },
+  {
+    "id": "cd1653ea-c8cf-4e61-a0cb-07e791cf77a9",
+    "name": "Docker",
+    "color": "blue",
+    "description": null
+  }
+]

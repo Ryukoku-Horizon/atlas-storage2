@@ -1,0 +1,983 @@
+[
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8146-96c9-cec0ece7b70b",
+    "type": "table_of_contents",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeのインストール\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-818a-a39e-eca9b8a0a7fc",
+    "type": "heading_1",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 2
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8193-80ad-f42a88fb0c93",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 3
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1. ダウンロード\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-817f-a2c1-c9b8a01c0a5d",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 4
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "_",
+    "blockId": "1d8a501e-f337-816c-9142-cc0191854f86",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 5
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"最初に、VSCodeの公式サイト（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"https://code.visualstudio.com/\",\"href\":\"https://code.visualstudio.com/\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）からインストーラーをダウンロードします。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8179-b37a-ca734e4945b4",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 6
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"上記のURLにアクセスして、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Download for Windows\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」をクリックします。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-816b-bb45-dc02c811c44b",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 7
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-812a-bf27-d0c0b1c1bc2e.png\"}",
+    "blockId": "1d8a501e-f337-812a-bf27-d0c0b1c1bc2e",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 8
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2. インストール\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-81c8-94e5-efaa398a9df1",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 9
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8182-8f52-e5f57456fb45",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 10
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ダウンロードが完了したら、インストールをしましょう。ブラウザの右上のアイコン(\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"red\"},\"plain_text\":\"赤の〇\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の中\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\")を押し、開くをクリックします。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81d9-b0c9-d63b8b7e2760",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 11
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"⬆️Edgeから起動\",\"href\":null}],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-81d4-84ea-eb6e514f6754.png\"}",
+    "blockId": "1d8a501e-f337-81d4-84ea-eb6e514f6754",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 12
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"または、エクスプローラーからインストーラーを実行します。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-815e-a865-df9156b6a31d",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 13
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"⬆️エクスプローラーから起動\",\"href\":null}],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-818d-ba20-f55f8c063523.png\"}",
+    "blockId": "1d8a501e-f337-818d-ba20-f55f8c063523",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 14
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インストーラーが起動したら、次のように操作していきましょう。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-819e-bbfa-df1f25e41c3f",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 15
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"同意する」を選択した後、「次へ」をクリックします。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-817d-bb6e-eb3160dbde16",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 16
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-817d-bb6e-eb3160dbde16",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8182-8a9f-da7ecabab501.png\"}",
+    "blockId": "1d8a501e-f337-8182-8a9f-da7ecabab501",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「その他：」の4つのチェックボックス全てにチェックを入れ、「次へ」をクリック\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-815d-ae90-ec035099f564",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 17
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-815d-ae90-ec035099f564",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-81e8-894c-f99c7f5556bb.png\"}",
+    "blockId": "1d8a501e-f337-81e8-894c-f99c7f5556bb",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「インストール」をクリックします！\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8175-a947-c374aa813347",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 18
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8175-a947-c374aa813347",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-81eb-8a79-ee698641c353.png\"}",
+    "blockId": "1d8a501e-f337-81eb-8a79-ee698641c353",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インストールが終わるまで待ってください。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81c3-854d-e438c7828750",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 19
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-81c3-854d-e438c7828750",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8152-bb53-f5bd70d44b92.png\"}",
+    "blockId": "1d8a501e-f337-8152-bb53-f5bd70d44b92",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「完了」をクリックして、終わりです！\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81f1-a9f4-d6b922871d17",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 20
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-81f1-a9f4-d6b922871d17",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8144-b8a7-c54888f237ec.png\"}",
+    "blockId": "1d8a501e-f337-8144-b8a7-c54888f237ec",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-815e-aa5b-fbd49e3bd4f9",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 21
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「完了」をクリックすると、そのままVSCodeが立ち上がるでしょう。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81f9-8502-c37dbbb60aac",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 22
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-81a4-83ae-d7564ce71ea4",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 23
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeはこのままではすこし使いにくいため、次の章で便利にVSCodeを使う準備を進めていきます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81fa-829f-ed654ee912ee",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 24
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeを使う準備\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8108-9c6c-c131550e1c3e",
+    "type": "heading_1",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 25
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8164-a5e2-f7be53724c4d",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 26
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1. 日本語化\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8144-b379-f4e6a1a7bcbb",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 27
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "_",
+    "blockId": "1d8a501e-f337-812f-96a8-df2d786024fc",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 28
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeをインストールした最初は、英語で表示されています。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81a2-bd41-d8bfb7e3631b",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 29
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これではわかりにくいので、日本語化しましょう。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8147-aab7-c4d1bd90c28a",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 30
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"⬆️初期状態はすべてが英語\",\"href\":null}],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8184-9808-f9685ffe873e.png\"}",
+    "blockId": "1d8a501e-f337-8184-9808-f9685ffe873e",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 31
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeを日本語化するには、日本語拡張機能をインストールする必要があります。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8108-aa98-cdb48d53cf5d",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 32
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"左側に並んでいるアイコンの中から、拡張機能のアイコンをクリックし、検索窓に「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"japanese\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」と入力します。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81ed-a9d7-cd2d3e3b969b",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 33
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-811e-9550-f0e3e30dff49.png\"}",
+    "blockId": "1d8a501e-f337-811e-9550-f0e3e30dff49",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 34
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"すると、地球儀のマークがついた拡張機能「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Japanese Language Pack For Visual Studio Code\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」がヒットするはずです。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8127-9c2a-ce33d413ab41",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 35
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Install\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」ボタンをクリックして、その拡張機能をインストールしてください。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8195-908e-f8fdf4b3db85",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 36
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-81ed-b08c-ded46457d86f",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 37
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インストールが終了すると、右下に以下のようなポップアップが出てきます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81be-9b1b-e8bf9da8706b",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 38
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"基本、「VSCodeの表示言語を日本語に変えたかったら再起動して」と書いてあるので、青色の「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Change Language and Restart\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」をクリックして、VSCodeの再起動をしましょう。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81fa-bf60-f918a43390da",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 39
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8180-97c1-ddb889b6e02d.png\"}",
+    "blockId": "1d8a501e-f337-8180-97c1-ddb889b6e02d",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 40
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeが再起動すると、表示言語が日本語になっていると思われます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-815e-9a0e-c9082aea9f02",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 41
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8110-b790-ec43b1d9d088.png\"}",
+    "blockId": "1d8a501e-f337-8110-b790-ec43b1d9d088",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 42
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2. テーマの設定\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-81f5-828e-e821159f9b22",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 43
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "_",
+    "blockId": "1d8a501e-f337-81bc-99f6-e071d1e34899",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 44
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeを起動した直後の画面から、簡単にテーマを変更できます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8131-9b08-d7e43c08fda7",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 45
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"たとえば、このようなテーマがあります。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8126-bf93-d5bfc8e80045",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 46
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ライトモダンテーマ\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8164-acad-d10d004f8b0f",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 47
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8193-989c-ec2999b18ce8.png\"}",
+    "blockId": "1d8a501e-f337-8193-989c-ec2999b18ce8",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 48
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ダークハイコントラストテーマ\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-819e-826d-ef63926a415a",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 49
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8176-bf2e-eb1c0f1da306.png\"}",
+    "blockId": "1d8a501e-f337-8176-bf2e-eb1c0f1da306",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 50
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ちなみに、ctrl+K+Tでも簡単にテーマ変更できます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81aa-ad7d-daef37a17617",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 51
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この他にも多様なテーマが用意されています。好みのテーマを探してみてください！\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81ea-b936-d709b0c74efb",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 52
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3. Python拡張機能\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-81c6-a562-c795794c9355",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 53
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8191-a969-d9d2d85fac87",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 54
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここからは、VSCodeでPythonのプログラミングをより快適に行うために、便利な拡張機能を追加していきます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81fb-ba73-fd3fd5c5412c",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 55
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"日本語化の際と同じように、左側のアイコンから拡張機能を開き、検索欄に「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"python\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」と入力してください。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81f1-950e-c60fca45a6c9",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 56
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"検索結果の一番上に表示される「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Python\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という拡張機能を選び、インストールしましょう。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8197-9dee-ef2d6e79da48",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 57
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-81b6-8c09-dd0582924720.png\"}",
+    "blockId": "1d8a501e-f337-81b6-8c09-dd0582924720",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 58
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このPyhton拡張機能があると、VSCodeでのPythonプログラミングがとても捗ります。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-816c-95b6-f7441427202d",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 59
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-8133-84f3-f95d9aa894a4",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 60
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/branch-fork_blue.svg\"}},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"拡張機能とは？\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-816c-a7cc-f557c47cbb6c",
+    "type": "callout",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 61
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-816c-a7cc-f557c47cbb6c",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"拡張機能とは、VSCodeの機能をさらに強化できるツールのことです。アドオンやプラグインとも呼ばれます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8185-bbb1-ece9c1838bef",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-816c-a7cc-f557c47cbb6c",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"拡張機能にはさまざまな種類があり、作業を効率化してくれる便利なものも数多く存在します。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8145-aa67-eed28cb06d2c",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 2
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-816c-a7cc-f557c47cbb6c",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これらを活用すれば、Pythonだけでなく、さまざまな技術をより簡単に扱えるようになります。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8146-b6fa-f1977aba04c6",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 3
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-816c-a7cc-f557c47cbb6c",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「ここが使いにくいな…」と感じたときは、それを解決できる拡張機能がないか探してみましょう！\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81ed-8028-dc2083b9e5f9",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 4
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeの使い方\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8186-b01a-efdee29f63f6",
+    "type": "heading_1",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 62
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8152-9cdf-e0b03deb8ade",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 63
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"各部名称\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-811c-8943-def93d8d475d",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 64
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8186-8583-c254de7d001f",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 65
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-81d5-b413-ed1200f06c50.png\"}",
+    "blockId": "1d8a501e-f337-81d5-b413-ed1200f06c50",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 66
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeのウィンドウは、大きく分けて「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エディター\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ワークスペース\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ターミナル（コンソール）\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」の3つで構成されています。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8173-9d70-f8e327926c02",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 67
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"それぞれの使い方を紹介していきます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81dc-b4f7-cd9e075998e1",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 68
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エディター\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-817c-b231-c1cdaaa3a0d8",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 69
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "_",
+    "blockId": "1d8a501e-f337-813b-838a-ea3fa71ccbfe",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 70
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エディター\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と呼ばれる部分は、実際にプログラムを書いていく部分です。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81f6-8ba8-ffcae2ec701b",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 71
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-81c1-ad8f-f744efde4cd1.png\"}",
+    "blockId": "1d8a501e-f337-81c1-ad8f-f744efde4cd1",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 72
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeのエディターには「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タブ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」機能と「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行(Run)ボタン\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」が備わっており、視覚的にわかりやすく、便利です。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-817e-9efb-c8fdddb88c19",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 73
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タブ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8120-8a93-fd80bb0b8b90",
+    "type": "heading_3",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 74
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8153-be1e-ebe42a520842",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 75
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タブ機能を利用すると、一つのウィンドウ内で複数のプログラムファイルを同時に編集できます\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8187-ad3b-cc9c042c609a",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 76
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下の動画を見てください。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81ef-8a2a-f48bfefa38d6",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 77
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8149-ad92-cc0215a48099.gif\"}",
+    "blockId": "1d8a501e-f337-8149-ad92-cc0215a48099",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 78
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タブを切り替えることで、異なるファイル間をスムーズに移動しながら編集できます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8165-a4e6-c27781b07faa",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 79
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エクスプローラー\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"(後述)からファイルをドラッグ＆ドロップすることで、新しいタブとして開くことも可能です。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81b4-9c80-f583b9b31ac7",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 80
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行ボタン\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-81ac-ac9b-c6f3a1155539",
+    "type": "heading_3",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 81
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "_",
+    "blockId": "1d8a501e-f337-81b3-80b2-c683bfb5578d",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 82
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行ボタン\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使うと、ワンクリックでPythonプログラムを実行できます。エディターの右上に配置されています。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-814c-84d4-d018ebd6c7d5",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 83
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-812f-aab1-ca78cf690d9d.png\"}",
+    "blockId": "1d8a501e-f337-812f-aab1-ca78cf690d9d",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 84
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このボタンを押すと、ワンクリックで実行され、未保存のファイルも\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"自動的に保存\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"されます。Pythonの実行結果は、ウィンドウ下部の\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンソール\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"(後述)に表示されます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-814c-a83f-c078d89dd9e2",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 85
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"⬆️コンソール\",\"href\":null}],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-81e6-bcf6-dfc64f563786.png\"}",
+    "blockId": "1d8a501e-f337-81e6-bcf6-dfc64f563786",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 86
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エクスプローラー\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8159-9702-d94e8c829179",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 87
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "_",
+    "blockId": "1d8a501e-f337-81d3-a01d-c872807cea0c",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 88
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeの便利機能として、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エクスプローラー\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"があります。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81a7-8689-edb8d8339534",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 89
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-81c8-9c4b-c63de5b0477c.png\"}",
+    "blockId": "1d8a501e-f337-81c8-9c4b-c63de5b0477c",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 90
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-8127-b841-d6aa84ba87b8",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 91
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeの中にエクスプローラーがある\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ので、新しいエクスプローラーのウィンドウを開かなくてもフォルダやファイルを、VSCode内で直接管理できるようになります。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81ce-986c-f8c3104df707",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 92
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エクスプローラーを使うと、ウィンドウがスッキリ整理されます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81ba-b409-f3af1381f235",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 93
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エクスプローラーの開き方\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8169-a2b5-c7753d47a02d",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 94
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まずは、左上にある「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ファイル\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」をクリック、次に「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"新しいウィンドウ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」をクリックしましょう。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8119-8581-cc9490c6dabe",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 95
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "_",
+    "blockId": "1d8a501e-f337-817f-abcb-db8fcfd985bf",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 96
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8124-9fe5-e2a4a1276020.png\"}",
+    "blockId": "1d8a501e-f337-8124-9fe5-e2a4a1276020",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 97
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"すると、下の画面が出てくるので、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"フォルダを開く\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」をクリックしてください。(ファイルを開きたければ「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ファイルを開く\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」をクリック！)\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8131-9823-f3745da0a2d8",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 98
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-81c8-86c1-ff895f5fbdf2.png\"}",
+    "blockId": "1d8a501e-f337-81c8-86c1-ff895f5fbdf2",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 99
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次にエクスプローラーが開かれるので、開きたいフォルダを選び、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"フォルダを選択\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」をクリックしましょう。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81df-a1a1-fbc9c654fca6",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "i": 100
+  }
+]

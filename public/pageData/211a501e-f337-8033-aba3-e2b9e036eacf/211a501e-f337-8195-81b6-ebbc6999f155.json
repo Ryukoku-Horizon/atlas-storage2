@@ -1,0 +1,407 @@
+[
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここでは「Dockerとは何か」について概要を説明します。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-817f-b6d2-df147deebd20",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 1
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"概要\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "211a501e-f337-81c2-a49f-f43cd7e6d994",
+    "type": "heading_2",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 2
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "_",
+    "blockId": "211a501e-f337-8129-b7dd-d534727085df",
+    "type": "divider",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 3
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Dockerを簡単に説明すると：\",\"href\":null}]}",
+    "blockId": "211a501e-f337-8130-84b3-cc3da7077d2f",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 4
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Dockerは、アプリケーションを「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンテナ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という箱にまとめて動かす技術です。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-8122-bb2e-f504c35f7f63",
+    "type": "quote",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 5
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"もう少し具体的に言うと：\",\"href\":null}]}",
+    "blockId": "211a501e-f337-81f0-84d8-c56e0a64e829",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 6
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンテナは、アプリが動くために必要なもの（プログラム本体、ライブラリ、設定など）を\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ひとまとめにしたパッケージ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-8136-8de5-d94e3bbfcebd",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 7
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これにより、「どこでも同じように動く」＝開発環境でも本番環境でも\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"動作の違いが出にくい\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-81d4-915e-f5aa73d4df10",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 8
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"軽量で起動が速く、複数のアプリを\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"効率よく管理・実行\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"できます。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-814b-a3f6-d2294a1385b7",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 9
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えるなら：\",\"href\":null}]}",
+    "blockId": "211a501e-f337-81cc-baa9-c406d56b2a97",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 10
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アプリを動かすための「弁当箱」みたいなもので、中に必要なものが全部そろってるから、どこに持っていってもすぐ食べられる（使える）感じです。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-810e-81cf-ffaf566bae75",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 11
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"どのような場面で便利か\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "211a501e-f337-81df-bd05-d50b4503776a",
+    "type": "heading_2",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 12
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "_",
+    "blockId": "211a501e-f337-81bc-bb7a-cd226df9cb1c",
+    "type": "divider",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 13
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1. 開発環境の構築でとても便利です\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "211a501e-f337-817e-8aee-f8a682a88a27",
+    "type": "heading_3",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 14
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"開発者ごとに異なる環境設定の問題（「俺のPCでは動く」問題）を解消\",\"href\":null}]}",
+    "blockId": "211a501e-f337-812f-a98a-d8c142b7e370",
+    "type": "bulleted_list_item",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 15
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"チームで\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"同じ環境をすばやく共有\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"できる。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-81b2-a1de-d62e56dee1eb",
+    "type": "bulleted_list_item",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 16
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例：Node.jsやPython、MySQLなどを含んだ環境をすぐに再現できる。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-816d-ada4-ff5518ebb20f",
+    "type": "bulleted_list_item",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 17
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2. 本番環境へのデプロイでも役立ちます\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "211a501e-f337-81ba-a2f4-c4412ee19e91",
+    "type": "heading_3",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 18
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"どの環境でも「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"同じように動く\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」ので、本番でも同じように動きます\",\"href\":null}]}",
+    "blockId": "211a501e-f337-818c-9855-d10a6ac1850e",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 19
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3. 複数のアプリ・サービスの統合\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "211a501e-f337-817e-aeda-ff4c491db496",
+    "type": "heading_3",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 20
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Webアプリ、データベース、サーバーなどを一括で構築・起動できます\",\"href\":null}]}",
+    "blockId": "211a501e-f337-816f-a16b-f3d679fd4e5e",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 21
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えば、Webアプリであれば、バックエンド・フロントエンド・データベースを別々のフレームワークやライブラリで構築することが多々ありますが、それらをまとめて起動したり、簡単に統合できます。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-81b1-a762-e0639ec5fcce",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 22
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"4. 軽量な仮想環境としての利用\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "211a501e-f337-81c7-b411-d9f3ab679037",
+    "type": "heading_3",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 23
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"仮想マシンより軽く、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"起動も高速\",\"href\":null}]}",
+    "blockId": "211a501e-f337-81c4-af28-da900f2dd026",
+    "type": "bulleted_list_item",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 24
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"サーバー1台で\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"複数のアプリを効率よく動かせる\",\"href\":null}]}",
+    "blockId": "211a501e-f337-816d-b669-e9cdcdea0739",
+    "type": "bulleted_list_item",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 25
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まとめると、Dockerは「一貫性」「再現性」「効率性」が求められる場面で、非常に強力なツールです。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-81bd-8e5d-ecd9b627ec4e",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 26
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンテナについて\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "211a501e-f337-8163-bf03-e9e07f18927f",
+    "type": "heading_2",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 27
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "_",
+    "blockId": "211a501e-f337-817c-93fe-f9ec58c4da72",
+    "type": "divider",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 28
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Dockerにおいて特に重要な要素が「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンテナ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」です\",\"href\":null}]}",
+    "blockId": "211a501e-f337-81ae-afb3-ea7921ede187",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 29
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンテナとは？\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "211a501e-f337-81c2-abc3-c0681daea324",
+    "type": "heading_3",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 30
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンテナは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アプリケーションとその実行に必要なもの（ライブラリ・設定・コードなど）を一つにまとめたもの\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-81ef-a091-d803c89ee324",
+    "type": "bulleted_list_item",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 31
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"OS（オペレーティングシステム）上で\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"直接動く軽量な仮想環境\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のようなもの。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-81b5-94fb-cbca26ebc74f",
+    "type": "bulleted_list_item",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 32
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"→ 普通の仮想マシン（VM）と違って、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"OSごと仮想化しないため高速・軽量\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-8111-b067-e8c79d00a961",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 33
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンテナは、すべて同じOS上で動きながら、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"お互いに独立しています\",\"href\":null}]}",
+    "blockId": "211a501e-f337-815e-b4a7-c2813accc96a",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 34
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このコンテナを作ったり動かしたりする中心的なソフトウェアを\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Docker Engine\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と呼びます。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-8137-9164-f8bd3df20ad7",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 35
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"図にすると例えば以下のようになります\",\"href\":null}]}",
+    "blockId": "211a501e-f337-8160-939a-f508b9200d1e",
+    "type": "callout",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 36
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8160-939a-f508b9200d1e",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/211a501e-f337-8033-aba3-e2b9e036eacf/image/211a501e-f337-81d4-8cff-f158febc0060.png\"}",
+    "blockId": "211a501e-f337-81d4-8cff-f158febc0060",
+    "type": "image",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 1
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "211a501e-f337-814e-88bf-d5d1fb2671e7",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 37
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まとめ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "211a501e-f337-810f-86d8-f69ec7e9febc",
+    "type": "heading_2",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 38
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "_",
+    "blockId": "211a501e-f337-81f8-aece-ddb90148c8e9",
+    "type": "divider",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 39
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Dockerは、アプリケーションを「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンテナ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という箱にまとめて動かす技術です。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-81b6-b2a0-c990aac9a1ac",
+    "type": "bulleted_list_item",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 40
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Dockerは「一貫性」「再現性」「効率性」が求められる場面で、非常に強力なツールです。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-819c-84e0-dea1d2e45448",
+    "type": "bulleted_list_item",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 41
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンテナはアプリケーションとその実行に必要なもの（ライブラリ・設定・コードなど）を一つにまとめたもので、非常に軽量です。\",\"href\":null}]}",
+    "blockId": "211a501e-f337-81ab-b349-cc5ce008290c",
+    "type": "bulleted_list_item",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 42
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次→\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"イメージとコンテナについて\",\"href\":\"/posts/curriculums/211a501e-f337-8033-aba3-e2b9e036eacf/211a501e-f337-816b-83ce-c443681b6751\"}]}",
+    "blockId": "211a501e-f337-8147-a070-d6b5424f33ad",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 43
+  },
+  {
+    "curriculumId": "211a501e-f337-8033-aba3-e2b9e036eacf",
+    "parentId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "211a501e-f337-8111-a1b1-f124388415d2",
+    "type": "paragraph",
+    "pageId": "211a501e-f337-8195-81b6-ebbc6999f155",
+    "i": 44
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"練習問題\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-81b2-a54c-c7f49ef05c18",
+    "type": "heading_1",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"orange_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題の回答は、HTMLの雛形の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<body>\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タグの中に記述してください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81e3-a3a2-d9924908b1cc",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 2
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここで使う画像はどの画像でもかまいません。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81e1-b526-ead36c1d8ffe",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 3
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題1\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-812b-a68e-fa79f9dc3b4c",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 4
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<img>\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タグを使って以下のようにページに画像を一つ埋め込んでください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81d4-9d13-f6aab2900eda",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 5
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_gray.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"お手本画像\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81e4-b41b-e6a504730cd8",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 6
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-81e4-b41b-e6a504730cd8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/24ba501e-f337-80e6-83f3-dec2d9cb8a44/image/24ba501e-f337-818b-96ba-c7c95678535f.png\"}",
+    "blockId": "24ba501e-f337-818b-96ba-c7c95678535f",
+    "type": "image",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題２\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-81b0-8d07-c06ee8ca2651",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 7
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<figure>\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タグ、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<img>\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タグ、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<figcaptio>\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タグを使って、複数の画像と文字のグループを作ってください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8107-bde6-dcbacb5c5aff",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 8
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_gray.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"お手本画像\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8161-8816-fc8677de5e38",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 9
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8161-8816-fc8677de5e38",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/24ba501e-f337-80e6-83f3-dec2d9cb8a44/image/24ba501e-f337-816e-b095-e7c925cf0e38.png\"}",
+    "blockId": "24ba501e-f337-816e-b095-e7c925cf0e38",
+    "type": "image",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題3\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-815b-b429-d8773c2f801f",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 10
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<iframe>\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タグを使って、HTMLに好きなYouTubeの動画を埋め込んでください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81a4-80ff-d0b69c754d56",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 11
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<iframe>\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タグは自分で記述せずとも、YouTubeのサイトからコピペができます。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-815c-b86b-ce454d28c4ea",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 12
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"詳しくは以下のサイトを参考にしてみてください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81b5-85e8-e5f13b462918",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 13
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"parent\":[],\"url\":\"https://support.google.com/youtube/answer/171780?hl=ja\",\"ogp\":{\"title\":\"動画と再生リストを埋め込む - YouTube ヘルプ\",\"icon\":null,\"image\":null,\"description\":\"ウェブサイトやブログに YouTube の動画や再生リストを埋め込んで追加できます。 教育者の方は、ご利用の教育技術プラットフォームに問い合わせて、YouTube コンテンツをクラスに埋め込む方法をご確認ください。\"}}",
+    "blockId": "24ba501e-f337-81b3-b979-cf1d60b033b3",
+    "type": "bookmark",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 14
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_gray.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"お手本画像\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81bb-9650-e9335c46e65f",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 15
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-81bb-9650-e9335c46e65f",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/24ba501e-f337-80e6-83f3-dec2d9cb8a44/image/24ba501e-f337-8174-853a-da85a5138150.png\"}",
+    "blockId": "24ba501e-f337-8174-853a-da85a5138150",
+    "type": "image",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "24ba501e-f337-8187-bbb8-f2cf63edf11f",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 16
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"演習問題4 \",\"href\":\"/posts/curriculums/24ba501e-f337-80e6-83f3-dec2d9cb8a44/24ba501e-f337-80d6-b531-e0d4dea4689b\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"✏️\",\"iconType\":\"emoji\",\"title\":\"演習問題4 \"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8177-8de2-df0081140c86",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "i": 17
+  }
+]

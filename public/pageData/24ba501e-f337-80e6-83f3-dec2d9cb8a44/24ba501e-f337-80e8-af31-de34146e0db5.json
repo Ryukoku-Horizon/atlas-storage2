@@ -1,0 +1,155 @@
+[
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題１\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-8101-a897-d24520a75dd5",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下のようなHTML要素を作ってください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81dd-bf55-e012f90f03a3",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 2
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "data": "{\"language\":\"html\",\"parent\":[\"<h2>名言</h2>\\n<div class=\\\"container\\\">\\n    <div class=\\\"card1\\\">\\n        <h4>巧詐は拙誠に如かず</h4>\\n        <p>\\n            巧みに偽り誤魔化すのは、拙くても誠意のある行為に及ばないという意味。\\n            巧みに偽り誤魔化してもその場しのぎにしかならない。\\n            たとえ今は拙くても誠実に仕事に取り組んでいくことが長い目で見ると良いということ。\\n            なぜなら、今は拙くても様々な経験を積んでいけばいずれ立派に務めを果たせるから。\\n        </p>\\n    </div>\\n    <div class=\\\"card2\\\">\\n        <h4>知識の発展は意見の相違に依存する</h4>\\n        <p>\\n            お互いの意見が異なるとき自分の意見が１００％正しいと考えてしまうと知識は発展しないということ。\\n            満点ではそれ以上の発展はない。\\n            鍛治職人は刀を叩くことで、出来立ての鉄の隙間にある目に見えない不純物を取り除いてより強い刀を作る。\\n            知識の発展も似たようなもの。\\n            自分と異なる意見を自分の意見にぶつけることで自分の意見にある矛盾に気づき、\\n            その矛盾を取り除いていってより良い意見に発展していく。\\n        </p>\\n    </div>\\n</div>\"],\"caption\":[]}",
+    "blockId": "24ba501e-f337-811e-a22e-e7783ae9c866",
+    "type": "code",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 3
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下のように要素を横並びにしてください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8132-b264-fdd20f0d59c8",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 4
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_gray.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"お手本画像\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8170-82bf-c44210b377cd",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 5
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8170-82bf-c44210b377cd",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/24ba501e-f337-80e6-83f3-dec2d9cb8a44/image/24ba501e-f337-813a-b84f-d621acc1a90e.png\"}",
+    "blockId": "24ba501e-f337-813a-b84f-d621acc1a90e",
+    "type": "image",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題２\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-81c3-8f64-d55c05c0a6fe",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 6
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「問題１」のHTML要素で、card1,2クラスに\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"flex-basis\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティを設定して、以下のように最初の要素の横幅の割合を30%にし、次の要素の大きさの横幅を70%にしてください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-812a-a38d-e9f08052cafc",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 7
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_gray.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"お手本画像\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81cc-9f5a-f55d421261b8",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 8
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-81cc-9f5a-f55d421261b8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/24ba501e-f337-80e6-83f3-dec2d9cb8a44/image/24ba501e-f337-81a7-a941-fbf8db655906.png\"}",
+    "blockId": "24ba501e-f337-81a7-a941-fbf8db655906",
+    "type": "image",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題３\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-81d6-80c0-c114be3c5421",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 9
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「問題１」のHTML要素の、containerクラスに\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"justify-content: center\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を設定し、card1,2クラスに\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"width:300px\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を設定し、以下のように子要素を真ん中に配置してください。(「問題２」のスタイルは削除してください)\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8162-83d1-d11a267da14b",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 10
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_gray.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"お手本画像\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81ba-85ee-d9ec1ee74bed",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 11
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-81ba-85ee-d9ec1ee74bed",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/24ba501e-f337-80e6-83f3-dec2d9cb8a44/image/24ba501e-f337-81c8-bfa0-c353774b1b46.png\"}",
+    "blockId": "24ba501e-f337-81c8-bfa0-c353774b1b46",
+    "type": "image",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "24ba501e-f337-812e-9bd8-c5ef66576cdb",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 12
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"演習問題14\",\"href\":\"/posts/curriculums/24ba501e-f337-80e6-83f3-dec2d9cb8a44/24ba501e-f337-80ce-8fd6-e2a7fc622ed5\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"✏️\",\"iconType\":\"emoji\",\"title\":\"演習問題14\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81bc-abd0-f40a739b4283",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 13
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "24ba501e-f337-814b-8e2b-e0aced0a6dbe",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "i": 14
+  }
+]

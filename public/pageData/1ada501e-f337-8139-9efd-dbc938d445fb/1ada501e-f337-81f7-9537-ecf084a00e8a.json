@@ -1,0 +1,209 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Fletの要素であるコントロールは自分でカスタムすることが可能です。今回は「カスタムコントロール」を紹介します。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-812b-a696-c9674bfc1b79",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カストムコントロールとは\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-8180-8043-ee10584682af",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "_",
+    "blockId": "1ada501e-f337-8142-82fa-e7be49821d1c",
+    "type": "divider",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カスタムコントロールは、Fletにあるコントロールのクラスを継承した新たなクラスを作り、親クラスの属性の値をカスタムしたコントロールです。（クラスの継承については「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"クラスの継承\",\"href\":\"/posts/curriculums/1ada501e-f337-81d0-93c4-cc25006a2031/1ada501e-f337-8139-983b-df7225049e88\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」をご覧ください）\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81f7-b298-f43fc2185e31",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えば、見た目を変更した文字を使い回したいとします。文字を表示するには\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Text\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールを使いますが、その見た目を変更するには\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"style\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"属性を設定しなければいけませんね。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8131-a1ea-c07980f4197c",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"language\":\"python\",\"parent\":[\"ft.Text(\\\"文字\\\", style=ft.TextStyle(size=20))\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-81aa-a695-cf937c58ba31",
+    "type": "code",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Text\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールの\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"style\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"属性の値を何度も書くのは面倒です。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"style\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"属性の値が事前に決まっていれば書く必要はなくなります。それを可能にするのがカスタムコントロールです。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81f3-8941-f9d5d19358d8",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カストムコントロールを作る\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-813e-9a0f-f9e2070ba50f",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "_",
+    "blockId": "1ada501e-f337-81dc-9fd0-f0a1aef6afa9",
+    "type": "divider",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"それでは、カスタムコントロールを作ってみましょう。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81b2-a815-fbf38b6c4c09",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"試しに、以下の設定のカスタムコントロールを作ってみましょう。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8186-b859-f3ff86ef438b",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"language\":\"python\",\"parent\":[\"ft.Text(\\\"文字\\\", style=ft.TextStyle(size=20))\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-8132-9564-fbace46d6ae3",
+    "type": "code",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カスタムコントロールを作る\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-815c-929c-e63e6e656b41",
+    "type": "callout",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-815c-929c-e63e6e656b41",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\nclass CustomText(ft.Text):\\n\\tdef __init__(self,value):\\n\\t\\tsuper().__init__(value=value, style=ft.TextStyle(size=20)\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-81c8-871f-f3f550e2197e",
+    "type": "code",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここでは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"CustomText\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"というカスタムコントロールを定義しました。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81ec-a593-d2e0205660df",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"CustomText\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Text\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールをカスタムしたコントロールであり、最初から\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"style\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が設定されています。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81d1-bbea-f2efb300cb9b",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"さっそく\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"CustomText\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使ってみましょう。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-813f-9726-c36e6d943102",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"CustomText\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使う\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8182-b4c8-cf772ab7e91f",
+    "type": "callout",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-8182-b4c8-cf772ab7e91f",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\nclass CustomText(ft.Text):\\n\\tdef __init__(self,value):\\n\\t\\tsuper().__init__(value=value, style=ft.TextStyle(size=20))\\n\\t\\t\\ndef main(page: ft.Page):\\n\\n\\tnormalText = ft.Text(value=\\\"普通のTextコントロール\\\")\\n\\tcustomText = CustomText(value=\\\"カスタムしたTextコントロール\\\")\\n\\n\\tpage.add(normalText, customText)\\n\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-814f-939d-d4628eee9527",
+    "type": "code",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これを実行すると以下のような出力結果になります。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81a7-9825-cbeb7698219a",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行結果\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81c7-bed3-d2ca4eae10a5",
+    "type": "callout",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81c7-bed3-d2ca4eae10a5",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-8139-9efd-dbc938d445fb/image/1ada501e-f337-813e-bddd-e9729cd374a8.png\"}",
+    "blockId": "1ada501e-f337-813e-bddd-e9729cd374a8",
+    "type": "image",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-8139-9efd-dbc938d445fb",
+    "parentId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このように、カスタムコントロールを作ると、使い回したい設定を毎回書かなくても事前に決めることができ、開発がより効率的となります。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8192-b204-d0250c1eaf1e",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81f7-9537-ecf084a00e8a",
+    "i": 20
+  }
+]

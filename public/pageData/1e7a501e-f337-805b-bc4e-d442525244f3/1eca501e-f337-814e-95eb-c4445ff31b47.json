@@ -1,0 +1,272 @@
+[
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-8117-89a4-f768fc426614",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"続いては、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"正解の数字を全て異なる数字にする\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラムを作成します。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-818a-971b-c260daf8b1ea",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"なぜ、こんなことをするのかという話ですが、実はこの\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"gray\"},\"plain_text\":\"Numer0n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"というゲーム、「112」や「949」、「777」のように、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"正解の数字の中身に同じ数字を2回以上使うことがほとんどないゲーム\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"だからです。なぜなら、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"gray\"},\"plain_text\":\"Numer0n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は3つの数字と位を合わせないといけないゲームなのに、もし、答えが「545」でプレイヤーの解答が「145」だった場合、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2EAT1BITE\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"という風に判定され、ゲームが成り立たないからです。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-810c-b09e-cd79671b5be9",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"なら、百の位の「5」と一の位の「5」を名前は一緒だけど\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"全く別のものとして扱えばいい\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のではないかという話ですが、そうなるとかなり難しいコードを組まないといけなくなるので今回は正解の数字を全て異なる数字にします。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81e3-80f9-f69c1dbc00ff",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 4
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-816a-8a36-cf898f1e2a32",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 5
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"では、実際に作ってみましょう。次のコードを見てください。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-818e-aabe-cc4ecc3896f2",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 6
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"language\":\"python\",\"parent\":[\"import random\\n\\nl = 0\\nwhile l == 0:\\n    a = random.randint(100,999)\\n    b = str(a)\\n    answer = list(b)\\n    print(answer)\\n\\n    for f in range(10):\\n        if answer.count(str(f)) >= 2:\\n            answer = []\\n            break\\n\\n    if answer != []:\\n        l = 1\"],\"caption\":[]}",
+    "blockId": "1eca501e-f337-8103-b88c-ffce26f75dc4",
+    "type": "code",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 7
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"結果\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8156-ac6a-f2b3ea86b743",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 8
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1e7a501e-f337-805b-bc4e-d442525244f3/image/1eca501e-f337-8130-ae19-cbbea1660810.png\"}",
+    "blockId": "1eca501e-f337-8130-ae19-cbbea1660810",
+    "type": "image",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 9
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このコードは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"変数lの値が0である続ける限り、while文の中身を永遠に処理し続けるプログラム\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"になっています。リスト化した3桁の数字を最初に出力し、次にそのリストの中身に0～9の数字が2個以上あるかどうかを\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"for文を使って判定\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"し、if文でどれか1つの数字でも2個以上使われていれば、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"answer内のリストを空にし、全て異なる数字になるまで正解の数字を変え続けます\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。全て異なる数字となればlに1を代入し、lの値が0ではなくなったのでwhile文を抜ける。という動きをします。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81dc-a2e1-dc034c0952f2",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 10
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そして、0～9までの数字を生み出すために\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"range関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使っています。簡単にrange関数を説明すると、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"0からカッコ内に書かれた数字から1引いた数までを作成する関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"になっています。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-810e-bde6-efa2af6d877a",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 11
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"language\":\"python\",\"parent\":[\"a = range(10)\\nb = list(range(10))\\nprint(a)\\nprint(b)\"],\"caption\":[]}",
+    "blockId": "1eca501e-f337-8144-8cbe-e591f2d37d13",
+    "type": "code",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 12
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"結果\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81c2-ad63-f8f40b457953",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 13
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1e7a501e-f337-805b-bc4e-d442525244f3/image/1eca501e-f337-81e2-9219-fa7f6869a3ed.png\"}",
+    "blockId": "1eca501e-f337-81e2-9219-fa7f6869a3ed",
+    "type": "image",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 14
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果からわかる通り、range関数をそのまま変数に代入すると「range(0 , 10)」のようにrange関数の概要だけが出力されています。この概要は\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"0～(10-1)までの数字がこの中にあるよ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"という意味になります。range関数はあくまで\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"0からカッコ内に書かれた数字から1引いた数までを作成する関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"であって、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"それをリストにしてくれる関数ではありません\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。なので、リストにする場合は、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"list関数のカッコの中に入れてリスト化する\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"必要があります。ただ、ここで注意したいのが、for文の「in」の後にあるリスト名を記述するところは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"range関数をリスト化する必要はなく、そのまま書いても動く\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ようになっています。変数に入れようとするとリスト化する必要はあるけど、for文のリストを入れるところはそのままでもいい、ってなんかすごくややこしいですね。はい。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81f7-8c0c-f88030ead3a6",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 15
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"range関数はまだまだいろんな使い方がありますが、今回は説明を省きます。すいません。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81d7-acb8-eed663c64d73",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 16
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-8109-a613-e0bf131b1425",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 17
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"0～9までの数字が2個以上使われているか判定するために、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"count関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使用しています。この関数は\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"count関数のカッコ内に書かれた要素がリストの中に何個あるかというのを数えてくれる関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"となっています。以下のコードはその使用例です。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-812c-869f-f73e94bab6cd",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 18
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"language\":\"python\",\"parent\":[\"alist = [7, 5, 6, 5, 6, 7, 6, 7, 4, 7]\\n\\nb = alist.count(4)\\nc = alist.count(5)\\nd = alist.count(6)\\n\\nprint(b)\\nprint(c)\\nprint(d)\"],\"caption\":[]}",
+    "blockId": "1eca501e-f337-81de-94c5-c8dde8464c98",
+    "type": "code",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 19
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"結果\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81a2-95a6-dfd1665874c1",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 20
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1e7a501e-f337-805b-bc4e-d442525244f3/image/1eca501e-f337-8163-bb58-cd527fda78c1.png\"}",
+    "blockId": "1eca501e-f337-8163-bb58-cd527fda78c1",
+    "type": "image",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 21
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"使い方は、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リスト名.count(個数を調べたい要素)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」と書くだけです。基礎文法カリキュラムでやった\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リスト内に要素を追加したいときに使うappend関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の扱い方とほぼ同じです。なお、「個数を調べたい要素」は\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文字列型でも整数型、小数でも数を数えること\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ができます。また、この関数はリスト内にある個数を整数型として変数に代入することができます。よって、if文の条件式は「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"count関数で数えた個数の数字が2以上なら\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という意味になります。そして、0～9の数字の中でどれか1つでも2つ以上使われたらその数字は正解の数字として扱えないので、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"処理を軽くするため\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に、正解の数字のリストを空にした後に\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"break文\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使っています。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81c7-ad06-fbf223d8df29",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 22
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-8167-bb51-c3f571985b0e",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 23
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これで、実装しなければならない機能の1つ「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"正解となる3桁および4桁の数字をランダムに設定する。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」が完成しました。それでは、ここまでのまとめとして次の練習問題を取り組んでみましょう。なお、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここからの練習問題は「期待する出力結果」という項目はありません\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。求められている答えを想像しながら取り組んでください。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-817a-a94e-dae7ec2ad698",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 24
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-81fb-a195-d84137b3470b",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 25
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "_",
+    "blockId": "1eca501e-f337-8124-9d33-e3c8b8e9c447",
+    "type": "divider",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 26
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2-1 正解の数字をリスト化しよう\",\"href\":\"/posts/curriculums/1e7a501e-f337-805b-bc4e-d442525244f3/1eca501e-f337-818c-9c6d-ddca1f8feb10\"}]}",
+    "blockId": "1eca501e-f337-8139-af3e-cf7c80ef4a99",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 27
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2-3 練習問題\",\"href\":\"/posts/curriculums/1e7a501e-f337-805b-bc4e-d442525244f3/1eca501e-f337-810b-9186-e990e57dedc1\"}]}",
+    "blockId": "1eca501e-f337-8110-8f85-d62bb34fd937",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 28
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-8190-bebf-ed83ba283722",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 29
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"目次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"数当てゲームをPythonで作ってみよう\",\"href\":\"/posts/curriculums/1e7a501e-f337-805b-bc4e-d442525244f3/1eca501e-f337-80fc-a5bd-f2a1ea7ef2ca\"}]}",
+    "blockId": "1eca501e-f337-816a-9b52-e0c8e32e6498",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-814e-95eb-c4445ff31b47",
+    "i": 30
+  }
+]

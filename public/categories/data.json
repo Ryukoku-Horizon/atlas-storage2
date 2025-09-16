@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1e0a501e-f337-8063-b111-dff8a4ce1c9b",
+    "title": "技術ガイド",
+    "description": "ここでは、プログラミングに関連する技術について、広く浅く紹介し、全体を見渡せるような視座を提供します。",
+    "iconUrl": "💻",
+    "iconType": "emoji",
+    "cover": "https://www.notion.so/images/page-cover/webb3.jpg"
+  },
+  {
+    "id": "1aea501e-f337-8112-b0b8-fd0af1fe66fb",
+    "title": "前期",
+    "description": "このカリキュラムでは、Pythonのインストールから基礎文法、GUIライブラリであるFletの基本やGit, Githubの基礎をわかりやすく解説します。\nわからないことがあっても、先輩に聞いたり自分で調べてみたりして、ぜひあなたの力として身につけてください！",
+    "iconUrl": "📕",
+    "iconType": "emoji",
+    "cover": "https://images.unsplash.com/photo-1522748906645-95d8adfd52c7?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600"
+  },
+  {
+    "id": "1aea501e-f337-8132-bd43-e21de0be4f7b",
+    "title": "後期",
+    "description": "後期のカリキュラムには、必須のものと任意のものがあります。「必須のものをすべて終わらせる→任意のものを進める」という順番で進めるのがおすすめです。",
+    "iconUrl": "📔",
+    "iconType": "emoji",
+    "cover": "https://images.unsplash.com/photo-1567584032175-e3605e93b056?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600"
+  },
+  {
+    "id": "1aea501e-f337-81c3-8a8a-f99e680a3dc6",
+    "title": "夏休み",
+    "description": "",
+    "iconUrl": "🏖️",
+    "iconType": "emoji",
+    "cover": "https://images.unsplash.com/photo-1685805576471-2d8bf78366fe?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600"
+  }
+]

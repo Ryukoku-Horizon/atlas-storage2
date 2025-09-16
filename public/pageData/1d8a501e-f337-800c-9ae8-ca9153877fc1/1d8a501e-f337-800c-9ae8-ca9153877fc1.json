@@ -1,0 +1,209 @@
+[
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Horizonでプログラミングをしていくために必要な準備をしていきましょう！\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8068-80e3-f10554ef2a21",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この資料に沿って、順番にやっていきましょう！\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8069-a0ad-d310f53524d0",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 2
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まだ準備段階なので使い方などがわからなくても大丈夫ですよ。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8007-9326-c931286bde98",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 3
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"わからないことや詰まったことがあれば、気軽に先輩に聞いてください！\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-80bb-8884-fa40f9a7b2f3",
+    "type": "callout",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 4
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1. Pythonをインストール\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8094-9f9e-e3037ec1ed52",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 5
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "_",
+    "blockId": "1d8a501e-f337-80e0-8551-e6fa103dcadd",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 6
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まずは、あなたのパソコンでプログラミングができるように、Pythonをインストールしましょう。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8092-959d-d4df91e6277f",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 7
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8092-959d-d4df91e6277f",
+    "data": "{\"parent\":\"Pythonのインストール\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/save_blue.svg\",\"coverUrl\":\"https://images.unsplash.com/photo-1491382825904-a4c6dca98e8c?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb\"}",
+    "blockId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "type": "child_page",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-806c-9140-d99d89bec9c7",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 8
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2. Visual Studio Codeをインストール\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8086-ae02-d67aeae95582",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 9
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "_",
+    "blockId": "1d8a501e-f337-80d4-8376-ebf132f25a21",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 10
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"あなたのパソコンでプログラミングを\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「書く」\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ことができるように、Visual Studio Codeをインストールします。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-80c9-a2f2-e2553bc27a75",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 11
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80c9-a2f2-e2553bc27a75",
+    "data": "{\"parent\":\"Visual Studio Codeのチュートリアル\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/move-document_orange.svg\",\"coverUrl\":\"https://www.notion.so/images/page-cover/rijksmuseum_jansz_1636.jpg\"}",
+    "blockId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "type": "child_page",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-80ac-a507-cd726f8ad555",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 12
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3. Canvaにログイン\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8060-a01f-d2513e98a286",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 13
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "_",
+    "blockId": "1d8a501e-f337-801a-bdc1-d1833ab1ba80",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 14
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"近いうちに使用する予定があるので、Canvaというスライド作成サービスに登録しておきましょう。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8027-97e0-c712e5a097de",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 15
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8027-97e0-c712e5a097de",
+    "data": "{\"parent\":\"Canvaについて\",\"iconType\":\"file\",\"iconUrl\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/pageImageData/icon/1d8a501e-f337-8058-b91c-c0a04b396d44.png\",\"coverUrl\":\"https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb\"}",
+    "blockId": "1d8a501e-f337-8058-b91c-c0a04b396d44",
+    "type": "child_page",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-807a-831a-fd570c5ea2fb",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 16
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"4. Discordの使い方を知ろう\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-80ec-afb7-d0e24ab4fc91",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 17
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "_",
+    "blockId": "1d8a501e-f337-804d-a3f2-e98508aef8eb",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 18
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Horizonでは先ほど参加してもらったDiscordをたくさん使います。今のうちに基本的な使い方を抑えておきましょう！\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-808f-bf30-cd0b0078f90f",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 19
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-808f-bf30-cd0b0078f90f",
+    "data": "{\"parent\":\"Discordの使い方\",\"iconType\":\"file\",\"iconUrl\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/pageImageData/icon/1d8a501e-f337-80fa-90ed-effb876c58ba.png\",\"coverUrl\":\"https://www.notion.so/images/page-cover/webb1.jpg\"}",
+    "blockId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "type": "child_page",
+    "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "i": 1
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"電卓が完成した方は、Todoアプリを作ってみてください。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-818a-9c86-dba4471bf94e",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Todoアプリとは、やること(todo)をリストで保存するアプリです。つまり「やることリストアプリ」のことです。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-815f-b50b-c70e23d561d1",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下は完成品のデモです。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8199-8370-f69677600f7c",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-81a5-8b30-fc05d77c28f4.gif\"}",
+    "blockId": "1f2a501e-f337-81a5-8b30-fc05d77c28f4",
+    "type": "image",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"主な機能\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8194-9afd-d7a8a1e952b4",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 5
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8120-8572-ca588fd635d1",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 6
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"todo（やること）を追加できる\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81f6-b8a6-e02671ebdd18",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 7
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"任意のtodoを削除できる\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81e3-9dd0-f6c4875d3ad9",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 8
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"任意のtodoを編集できる\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81e1-beb5-ce75b8fe00b5",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 9
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"使用するコントロール\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8127-9fe1-f4883775a997",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 10
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "_",
+    "blockId": "1f2a501e-f337-812a-9b9b-e7ac43b8ac7c",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 11
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"TextField\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"新たに追加するtodoを入力するために使用します。\\ntodoを編集する機能にもまた使います。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8179-836c-e07102617f3c",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 12
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ElevatedButton\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\n新たにtodoを作成するためのボタンに使用します。また、編集ダイアログにおける「変更」ボタンや「キャンセル」ボタンにも使用しています。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8130-b524-ff166e291b57",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 13
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Column\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\n作成されたtodoを縦に並べるのに使用します。\\ntodoがないときは「Nothing」と表示されるようにするとよりよいでしょう。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8175-9b12-ec79e0467fbf",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 14
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Text\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\n作成されたtodoを表示するために使用します。\\ntodoの文字列の前に「・」を連結するとよりよく見えます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8193-aa16-e42993687ae0",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 15
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"IconButton\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\ntodoを削除するためのボタンと編集するためのボタンに使用しています。\\n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"icon\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティに\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.icons.DELETE_FOREVER_ROUNDED\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"にすると、ゴミ箱のアイコンになり、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.icons.EDIT\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"にすると、ペンのアイコンになります。\\n（見た目はどうでもいいので、別にアイコンでもかまいません。）\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81d3-ad9c-e82fe597b61d",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 16
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Row\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\n作成されたtodoと削除ボタンと編集ボタンを横に並べることや、編集するときのダイアログで「変更」ボタンと「キャンセル」ボタンとを横に並べるのに使います。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8184-bfd9-c5369460067d",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 17
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"AlertDialog\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\ntodoを編集するボタンを押すと表示されるダイアログに使用しています。\\nダイアログで編集できるようにして、ダイアログ上の変更ボタンを押すと実際に変更が反映されるようにします。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81dd-a829-c25b5bf92f43",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 18
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"仕組み\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8124-8e7d-dd9bf0253188",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 19
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81a6-9bf2-f463b609f946",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 20
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ElevatedButton\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"がクリックされたときに\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"todoを作成する機能\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\nまず、作成されるtodoの文字列は、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"red\"},\"plain_text\":\"TextField\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"red\"},\"plain_text\":\"value\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティを参照すると取得することができます。\\n作成するtodoの文字列を取得したら、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"red\"},\"plain_text\":\"Text\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールを作成し、その中の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"red\"},\"plain_text\":\"value\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティに取得した文字列を代入します。次に、その文字列が表示されるように、新たな\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"red\"},\"plain_text\":\"Text\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールを\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"red\"},\"plain_text\":\"Column\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールで縦に並べます。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"red\"},\"plain_text\":\"Column\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールで、コントロールを列挙するには、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"red\"},\"plain_text\":\"controls\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティのリストの中に入れればいいのです。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81ba-b132-cc894f2d9059",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 21
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"language\":\"python\",\"parent\":[\"todolist = ft.Column(controls=[])\\n#このように中身が空のft.Columnを用意し、controlsプロパティのリストに追加していけば作成したtodoを表示させられる\"],\"caption\":[]}",
+    "blockId": "1f2a501e-f337-811b-b665-e10424ce0b79",
+    "type": "code",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 22
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-81fd-8361-f69bb9ab592f",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 23
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"作成されたtodoを削除する機能\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\nまず、削除する機能を作るには、その機能を実装するボタンが必要です。そのため、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"red\"},\"plain_text\":\"Row\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールを使い、todoの横に削除ボタンを並べるようにします。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-811b-8ad1-d5eef345346d",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 24
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"language\":\"python\",\"parent\":[\"ft.Row(controls=[new_todo, delete_button])\\n#このようにft.Rowを使うことで作成されるtodoと削除ボタンを横に並べる\"],\"caption\":[]}",
+    "blockId": "1f2a501e-f337-8131-81e8-d76d764e348f",
+    "type": "code",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 25
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　　削除ボタンを設置できたら、任意のボタンを押すと該当するtodoを削除できる\\n　　ようにする必要があります。そのために、todoがある各コントロールと削除ボタ\\n　　ンに\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"red\"},\"plain_text\":\"key\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティを追加するようにしましょう。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"red\"},\"plain_text\":\"key\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティに一意（ユ\\n　　ニーク）な値をつけることで、各コントロールが識別可能になります。そうする\\n　　ことで、削除ボタンが押されたときの処理で、e.control.keyによってkeyを取得\\n　　し、同じkeyのコントロールを探して、リストから除外すれば、該当するtodoを\\n　　識別し、削除できるようになります。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8195-a1ef-d7b32f7266dc",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 26
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一意（ユニーク）の値を作る\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\n一意とは、他と被ることのない値ということです。皆さんの学籍番号のようなもので、その値から誰か（どのデータか）を特定できるような値です。今回は格todoのあるコントロールの\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"red\"},\"plain_text\":\"key\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティにこの一意の値をつけて、それぞれのtodoを識別できるようにすればいいので、それほど複雑にする必要はないです。\\n具体的には、まず初期値が\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"0\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の変数を作ります。\\n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"例：todo_counter = 0\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\n新たにtodoが作成されるごとにその変数を\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"1\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ずつ足せば一意の値になります。\\n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"todoを作成する関数の最後に：todo_counter += 1\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\nその変数の値を格todoのコントロールの\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"red\"},\"plain_text\":\"key\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティに保持させればいいわけです。\\n（以下はその例です）\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8189-8b3f-fe19799e1d1f",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 27
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"language\":\"python\",\"parent\":[\"ft.Row\",\"(\",\"controls=\",\"[\",\"new_todo, delete_button\",\"]\",\", key=f\\\"{todo_counter}\\\"\",\")\\n\",\"#key=f\\\"{todo_counter}\\\"の部分がkeyプロパティです\"],\"caption\":[]}",
+    "blockId": "1f2a501e-f337-8161-943e-c17654455029",
+    "type": "code",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 28
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ダイアログを表示・非表示する\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\nまず、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.AlertDialog\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"でダイアログを作ります。titleプロパティでタイトルを指定します。actionsプロパティのリストにコントロールを入れることでダイアログの中身を作ります。\\n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"dlg = ft.AlertDialog(title=ft.Text(\\\"Edit\\\"), actions=[])\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\n上記のようにダイアログを作ったとします。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-810b-858a-d130e900730c",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 29
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-810b-858a-d130e900730c",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そして、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.add(dlg)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のように、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.add\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の中に入れてページに追加します。\\nそうすると、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.open(dlg)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"でダイアログを表示できます。\\n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.close(dlg)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"でダイアログを非表示にできます。\\n\",\"href\":null}]}",
+    "blockId": "238a501e-f337-80c5-adbf-c09989a004ac",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"todoを編集する機能\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\nまず編集ダイアログを開くためのボタンを用意します。todoと削除ボタンの横に設置しましょう。次に、編集ボタンを押したらダイアログを表示する処理を実装します。\\nダイアログを表示できたらダイアログの中身を作ります。文字を入力できる\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.TextField\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と、決定ボタンとキャンセルボタン（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.ElevatedButton\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）を用意します。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.TextField\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"value\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティの初期値は、編集する前のtodoの文字列を割り当てるとよいでしょう。決定ボタンを押すと編集を実際に反映できるようにして、キャンセルボタンを押すとダイアログを閉じるようにします。\\n編集を反映できるようにするには、ダイアログ上で入力された文字を取得し、変更ボタンが押されたら該当するtodoの文字を変更できるようにします。\\n削除する機能と同じように、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"key\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティでそれぞれのtodoに一意の値を割り当て、処理を実装するボタンにも同じ値を\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"key\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティに割り当てます。それで該当するtodoを識別し、該当するtodoの文字を取得した文字を割り当てたら完成です。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8195-bd0c-dba59e498455",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 30
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-81cf-906f-ccac045b836e",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81fa-971e-ff1c96a32fe2",
+    "i": 31
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "_",
+    "blockId": "1b8a501e-f337-81de-9978-e834ed25c74a",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonの学習の第一歩として、好きな言葉を画面に表示する方法を学びましょう。次のようなプログラムを書いてみましょう。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81dc-96cc-e3fbb8adda71",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"blue\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-813d-a177-f29552fa79a9",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-813d-a177-f29552fa79a9",
+    "data": "{\"language\":\"python\",\"parent\":[\"print(\\\"Hello World!\\\")\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81f4-8cf0-fff64216730c",
+    "type": "code",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"書けたら、VSCode上部\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8181-8b20-fb26a704f009",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-81e4-aa9f-c0302b572134.png\"}",
+    "blockId": "1b8a501e-f337-81e4-aa9f-c0302b572134",
+    "type": "image",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の右にある再生ボタン(▷)を押すと実行できます。\\nまた、この時のように何か作業が終わるごとに保存しておきましょう。（保存はWindowsなら Ctrl + S 、Macなら command + Shift + S）\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ed-86e0-f87490fa93c3",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実際に押してみると、以下のように「\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Hello World!\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」とVSCode下部のターミナルという部分に表示されます。（最後の青丸行の次行から黒丸行の前行までが実行結果で今回は一行です。）\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81b3-a07b-f011267e35a4",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-816d-a7b6-c170fceff89c.png\"}",
+    "blockId": "1b8a501e-f337-816d-a7b6-c170fceff89c",
+    "type": "image",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Hello World!\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の部分を別の言葉に変えてみましょう。例えば、\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8159-94b8-df387d1d0d2e",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"blue\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-810f-b6e4-ce8f7881b471",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-810f-b6e4-ce8f7881b471",
+    "data": "{\"language\":\"python\",\"parent\":[\"print(\\\"Hello Horizon!\\\")\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8111-ba4d-f7c3ade9e696",
+    "type": "code",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"保存をして実行してみると、このように「\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Hello Horizon!\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」が表示されます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8187-bf93-ce07e2e1fa9e",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-81dc-b617-f164505fdf1d.png\"}",
+    "blockId": "1b8a501e-f337-81dc-b617-f164505fdf1d",
+    "type": "image",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このように、任意の文字や言葉を画面に表示することをプログラミングでは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"といいます。つまり、一最初のプログラムは「Hello World!を出力した」と言う事ができます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8120-83f6-cc6f701878c7",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、今回\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"print\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"という言葉をプログラムに書いて出力をしました。これを \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"print関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" と呼びます。\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"print関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は続く\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"()\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の中に入っている言葉を出力する働きを持ちます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8148-92a8-c20ad4f270ec",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"()\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の中身を様々な言葉に置き換えて、実行をしてみましょう。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81dc-8fea-e66edb104d29",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-8116-937f-f249fe812d66",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"📌\"},\"color\":\"green_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"yellow\"},\"plain_text\":\"プログラミングは実践あるのみです！\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8195-b660-d3d332b33b01",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-8143-873d-f4d71916ffb3",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここで、これからプログラミングをしていくうえで一つ注意点です。それは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム上に全角文字が存在してはいけない\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ということです。なぜダメなのか簡単にいうと、半角文字と全角文字は意味的には同じでもパソコンにとっては全くの別文字だからです。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81e1-a13f-d4aa827fff55",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"その違いをわかりやすくまとめているのが\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このサイト\",\"href\":\"https://ruby-pc.com/hanzenkaku/\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8112-8f51-ec8a4c61333f",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 20
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"では、以下のプログラムを見てみてください。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8165-a386-f22e2c5d099a",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 21
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"blue\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8125-bca4-c5240503b5c8",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 22
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8125-bca4-c5240503b5c8",
+    "data": "{\"language\":\"python\",\"parent\":[\"print（\\\"Hello Horizon!\\\"）\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-811d-82a7-cb3953e33ce5",
+    "type": "code",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"見た目ではわかりにくいですが、このプログラムは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" と \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"）\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が全角文字になっています。これで実行をすると…\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ff-a883-c46f8441859f",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 23
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-81b0-80bc-d291183e889f.png\"}",
+    "blockId": "1b8a501e-f337-81b0-80bc-d291183e889f",
+    "type": "image",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 24
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"いつもの青丸の行に赤丸の行としてこのようなエラーが出ていしまいます。この他にも、全角の空白によってエラーが引き起こされることもあります。ぜひ意識してみてください。ただし、例外として \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"””\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（ダブルクオーテーション）で括られている中身には全角文字があっても問題ありません。\\n　　↓ これはOK\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8173-8182-e8a18ed3be28",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 25
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"blue\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81e5-aae9-ff9aa6e25dee",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 26
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81e5-aae9-ff9aa6e25dee",
+    "data": "{\"language\":\"python\",\"parent\":[\"print(\\\"こんにちは！\\\")\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8140-9a43-da3eff9e6baf",
+    "type": "code",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これを実行してみると…\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8181-b5a8-e5767deb5e56",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 27
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-8159-a7d3-e66cd8b01286.png\"}",
+    "blockId": "1b8a501e-f337-8159-a7d3-e66cd8b01286",
+    "type": "image",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 28
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"というようにエラーしっかりと実行されます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8116-9d8d-d4762c18dc42",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 29
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-815e-8dbb-ef01d95619ce",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 30
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-815e-8dbb-ef01d95619ce",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(2.変数)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-80f1-af62-f3552733a81d\"}]}",
+    "blockId": "1b8a501e-f337-81ae-bc3f-eb5b0c6b949e",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-806c-8615-f492e93f80b0",
+    "i": 1
+  }
+]

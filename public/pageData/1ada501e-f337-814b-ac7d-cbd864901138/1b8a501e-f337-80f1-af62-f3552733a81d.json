@@ -1,0 +1,245 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(1.Hello World)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-806c-8615-f492e93f80b0\"}]}",
+    "blockId": "1b8a501e-f337-81de-821e-f47c32444a76",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-8188-abbc-f858e993b708",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回はプログラミングをするうえで必要になる \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"orange\"},\"plain_text\":\"変数 \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"について学んでいきます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8156-bc72-d0d8bf22b6ee",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"変数\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-815a-a26d-f6dcb2e51b36",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8188-a827-efdaa3f46957",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"変数という言葉、数学などでは頻繁に聞くかもしれませんが、プログラミングでの変数は数学などでの変数とは少し違います。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8139-be2f-e041d58dd43c",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラミングでの変数とは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データを入れる箱 \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と言えます。以下のプログラムを見てください。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8145-885d-cf8007e29c38",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"blue\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-815f-abf8-fd9d20b9c615",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-815f-abf8-fd9d20b9c615",
+    "data": "{\"language\":\"python\",\"parent\":[\"a = 10\\nb = 5\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8146-99d9-fd1ca7336dee",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これは、「a」という名前の箱（\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"変数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）に10という数字を入れ、「b」という名前の箱（\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"変数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）に5という数字を入れているプログラムです。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-814e-a287-c66885120fa5",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-8155-b3c2-d1bd7f6bb533.jpg\"}",
+    "blockId": "1b8a501e-f337-8155-b3c2-d1bd7f6bb533",
+    "type": "image",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この箱に数字などのデータを入れることをプログラミングでは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"代入\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"といいます。「a=10とする」を「aに10を代入する」と言うことがよくあります。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81cc-b478-dcb89e74cfa1",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonではこの代入を \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"＝（イコール）\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使って表します。数学では ＝ は二つの式や値が等しいときに使う記号ですが、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラミングでは少し違うので注意しましょう。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8142-a8f7-ddfbae93deb0",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"変数の出力\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8121-9973-d11de9d27c1a",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "_",
+    "blockId": "1b8a501e-f337-811c-879f-f0bb82dcda0a",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前章のprint関数を使えば、この変数を画面上に出力することができます。先程のプログラムにprint関数を次のように書き足すと\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81cf-a280-fcbd5341d1d2",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-813c-9fe3-f3a54f3e1e23",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-813c-9fe3-f3a54f3e1e23",
+    "data": "{\"language\":\"python\",\"parent\":[\"a = 10\\nb = 5\\nprint(a)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-814e-8649-e28753145768",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-81a3-817a-d750a78dbff2.png\"}",
+    "blockId": "1b8a501e-f337-81a3-817a-d750a78dbff2",
+    "type": "image",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このように変数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"a\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の中に入っている\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"10\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が出力されました。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8114-9d81-e968a3b3ac12",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カンマで区切ることで、複数の変数を一行の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"print関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で出力したり、テキストといっしょに出力することもできます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8199-9747-c867172280fb",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"blue\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81c3-93be-f278d8a0b70b",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 20
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81c3-93be-f278d8a0b70b",
+    "data": "{\"language\":\"python\",\"parent\":[\"a = 10\\nb = 5\\nprint(a, b)\\nprint(\\\"変数aの値は\\\", a, \\\"です\\\")\\nprint(\\\"変数bの値は\\\", b, \\\"です\\\")\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8103-98b5-c778390654f8",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-810b-94b7-c7277ce2d67a.png\"}",
+    "blockId": "1b8a501e-f337-810b-94b7-c7277ce2d67a",
+    "type": "image",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 21
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-81e8-84c4-cc8ecd768c66",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 22
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81e8-84c4-cc8ecd768c66",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-8146-a51d-df02c69b6933",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81e8-84c4-cc8ecd768c66",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(1.Hello World)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-806c-8615-f492e93f80b0\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(3.変数の型)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8064-b0e1-f200f4276e5e\"}]}",
+    "blockId": "1b8a501e-f337-8124-a733-f8de8f956c9e",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f1-af62-f3552733a81d",
+    "i": 1
+  }
+]

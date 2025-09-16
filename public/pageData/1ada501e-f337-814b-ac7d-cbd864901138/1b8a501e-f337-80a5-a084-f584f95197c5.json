@@ -1,0 +1,281 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(7.リストと辞書)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8032-9bee-de1f29e138fa\"}]}",
+    "blockId": "1b8a501e-f337-8128-a2be-e24962270bdd",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-810e-bcca-f980f79af230",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回はプログラム中で同じような処理を繰り返し行うことができる \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"for文 \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"について学んでいきます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-813d-8119-cf0f3e4f5227",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"余談（別言語でプログラミングしたことある人向け）\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81c0-bb6b-da1f01fbf26d",
+    "type": "toggle",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81c0-bb6b-da1f01fbf26d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonのfor文は、他言語でよく使う\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"for (i = 0; i < 5; i++)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"みたいなforの書き方はできません。この書き方に慣れている人は記述方法や使い方が違いすぎて困惑するかもしれません。ですが、慣れればとても便利と感じるはずです。頑張って触ってみてください。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81d3-827c-c12dc036c4a8",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リストによる繰り返し\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-81ce-83f1-f0d74e07899b",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "_",
+    "blockId": "1b8a501e-f337-81c0-9361-f46fa80a5367",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"for文\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"とは、例えば工場の製造ラインのようなものです。製造ラインには様々な部品（これがリストの要素にあたります）が順番に流れてきて、それぞれに対して同じ作業（これがfor文で定義する操作にあたります）が行われます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ec-8762-e54d618a98be",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"for文\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は以下のように記述をします。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ea-b76d-c0b517e4defb",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"language\":\"python\",\"parent\":[\"for 変数 in リスト:\\n    処理\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-819c-a88c-c34b58e1ef15",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えば、リストに\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"[1, 2, 3, 4, 5]\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が格納されていて、それぞれの数字に対して2を掛けるという処理を行いたいとしましょう。これをPythonの\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"for文\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で書くと次のようになります。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-817a-9686-e195d072d7cd",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"language\":\"python\",\"parent\":[\"numbers = [1, 2, 3, 4, 5]\\nfor number in numbers:\\n    print(number * 2)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8129-861c-c47af0c1fadb",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このプログラムでは、まず\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"numbers\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"という名前でリストが定義され、その中には\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"[1, 2, 3, 4, 5]\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が格納されます。そして\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"for文\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が始まり、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"numbers\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の中にある各要素（ここでは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"number\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と名付けています）に対して、その数値を2倍にして表示するという操作が行われます。よって、実行結果は以下のようになります。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81d5-8f78-e60e04b4f9a3",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"＜実行結果＞\\n2\\n4\\n6\\n8\\n10\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-812f-9ec1-fb3a9eb84880",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実はリストや辞書の中身の型は、最初に入れた値で固定されるわけではありません。たとえば、以下のようなリストも作成可能です。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81c9-a7ea-f971dc2d0118",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"language\":\"python\",\"parent\":[\"mixed_list = [1, \\\"apple\\\", 3.14, True]\\nprint(mixed_list)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8141-a574-f240daa4b5b4",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これは有効ですが、異なる型が混在していると、for文などで処理するときにエラーの原因になったり、意図しない動作を引き起こす可能性があります。そのため、リストや辞書の要素の型を統一することが推奨されます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ee-ac3b-c081784bbe55",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"range関数による繰り返し\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-81e6-96ae-dfa4bbc39242",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "_",
+    "blockId": "1b8a501e-f337-813a-8956-d9877c59e0b7",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonのfor文には、リストだけでなく\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"range関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"というものも使用できます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-818f-b57e-cb1c025b50f2",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これは、単純に◯回同じ処理を繰り返したい、といったときに便利です。基本的な記述方法はこんな感じです。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81d5-bb27-e5db55710a58",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 20
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"language\":\"python\",\"parent\":[\"for 変数 in range(繰り返したい回数):\\n    処理\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81dc-ad24-d4726619f6ac",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 21
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えば、5回繰り返して「Hello World!」と出力したい場合はこのようにプログラムになります。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ab-8c2f-f3889b08367a",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 22
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"language\":\"python\",\"parent\":[\"for i in range(5):\\n    print(\\\"Hello World!\\\")\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81bb-96c2-c0a22839f6ad",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 23
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"＜実行結果＞\\nHello World!\\nHello World!\\nHello World!\\nHello World!\\nHello World!\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81f4-b8d7-ff823490705a",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 24
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"事前にリストを用意する必要がないため気軽に実行できます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81dd-b5f7-cd3594cee300",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 25
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ちなみに繰り返したい回数は、0から始まり(0,1,2,3,4)となるので、表示されるHello world!の回数は5つになります。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8141-8d92-e6c9cab2d248",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 26
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"range関数については、かなり便利なものなのですが、ここでは詳しく解説しません。気になる方は、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"こちら\",\"href\":\"https://www.javadrive.jp/python/function/index6.html\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"や\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"こちら\",\"href\":\"https://atmarkit.itmedia.co.jp/ait/articles/2011/20/news018.html\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"がわかりやすいと思います。読んでみてください。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8165-a7de-e6d3cdc26396",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 27
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-817b-9120-cfa97df3b926",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 28
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-817b-9120-cfa97df3b926",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-817f-b146-d0faf2806301",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-817b-9120-cfa97df3b926",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(7.リストと辞書)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8032-9bee-de1f29e138fa\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(練習問題3)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-803f-8590-d0737976ab27\"}]}",
+    "blockId": "1b8a501e-f337-8101-8fbf-de0cf4508ba7",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80a5-a084-f584f95197c5",
+    "i": 1
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここではアプリーケーションでデータを保存するために使用する「データベース」の基礎について学習できます。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81fc-aec0-f72af00af805",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1ada501e-f337-81e8-94f9-f28fa2af3229",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Section1：基本情報\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81ed-b7b0-e1ec76e410d0",
+    "type": "quote",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ed-b7b0-e1ec76e410d0",
+    "data": "{\"parent\":\"データベースとは\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/question-mark_blue.svg\",\"coverUrl\":\"\"}",
+    "blockId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "type": "child_page",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ed-b7b0-e1ec76e410d0",
+    "data": "{\"parent\":\"Pythonでデータベースを扱うためのライブラリ\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/snippet_blue.svg\",\"coverUrl\":\"\"}",
+    "blockId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "type": "child_page",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Section2：データベースの操作\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-817e-a926-ce51c10f819e",
+    "type": "quote",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-817e-a926-ce51c10f819e",
+    "data": "{\"parent\":\"データの保存(Create)\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/arrow-down-line_blue.svg\",\"coverUrl\":\"\"}",
+    "blockId": "1ada501e-f337-8124-834c-d232ae4e3855",
+    "type": "child_page",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-817e-a926-ce51c10f819e",
+    "data": "{\"parent\":\"データの削除(Delete)\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/delete_blue.svg\",\"coverUrl\":\"\"}",
+    "blockId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "type": "child_page",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-817e-a926-ce51c10f819e",
+    "data": "{\"parent\":\"データベースとの接続とテーブルの作成\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/branch-create_blue.svg\",\"coverUrl\":\"\"}",
+    "blockId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "type": "child_page",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-817e-a926-ce51c10f819e",
+    "data": "{\"parent\":\"データの取得(Read)\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/move-document_blue.svg\",\"coverUrl\":\"\"}",
+    "blockId": "1ada501e-f337-81fe-9043-da67e48709a8",
+    "type": "child_page",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-817e-a926-ce51c10f819e",
+    "data": "{\"parent\":\"データの編集(Update)\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/pencil_blue.svg\",\"coverUrl\":\"\"}",
+    "blockId": "1ada501e-f337-815a-a9e6-d8cdd63afa9c",
+    "type": "child_page",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Section3：データベースの実用\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8121-baf9-d3b57298cc62",
+    "type": "quote",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8121-baf9-d3b57298cc62",
+    "data": "{\"parent\":\"CRUD操作を使い回せるようにしよう\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/sliders-horizontal_blue.svg\",\"coverUrl\":\"\"}",
+    "blockId": "1ada501e-f337-81d2-8f41-cd45c5a72b38",
+    "type": "child_page",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"番外編：テーブルの編集\",\"href\":null}]}",
+    "blockId": "255a501e-f337-8002-9d51-eafd8aafde20",
+    "type": "quote",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "255a501e-f337-8002-9d51-eafd8aafde20",
+    "data": "{\"parent\":\"テーブルの編集\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/drafts_blue.svg\",\"coverUrl\":\"\"}",
+    "blockId": "1ada501e-f337-81a2-bb7a-d5bc48cd5f09",
+    "type": "child_page",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "255a501e-f337-8002-9d51-eafd8aafde20",
+    "data": "{\"parent\":\"マイグレーション\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/keyboard-alternate_blue.svg\",\"coverUrl\":\"\"}",
+    "blockId": "1ada501e-f337-81ac-a7f5-efdaf65ef9e7",
+    "type": "child_page",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"チートシート\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8191-a8f4-ca6ccda12367",
+    "type": "quote",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8191-a8f4-ca6ccda12367",
+    "data": "{\"parent\":\"カラムの属性\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/column_blue.svg\",\"coverUrl\":\"\"}",
+    "blockId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "type": "child_page",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8191-a8f4-ca6ccda12367",
+    "data": "{\"parent\":\"SQL文\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/blood-pressure_blue.svg\",\"coverUrl\":\"\"}",
+    "blockId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "type": "child_page",
+    "pageId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "i": 2
+  }
+]

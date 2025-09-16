@@ -1,0 +1,200 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "_",
+    "blockId": "1dfa501e-f337-81a8-827a-f39e69f7e94d",
+    "type": "divider",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここでは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCode\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"(Visual Studio Code)でpythonを始める方法を説明します。\",\"href\":null}]}",
+    "blockId": "1dfa501e-f337-8141-8ae5-c4aeeb146f35",
+    "type": "paragraph",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まずVSCodeを開いてください。\",\"href\":null}]}",
+    "blockId": "1dfa501e-f337-8160-bc63-d37c8acedd9e",
+    "type": "paragraph",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「フォルダを開く」をクリックします。\",\"href\":null}]}",
+    "blockId": "1dfa501e-f337-8185-8b8f-e988b7229fa9",
+    "type": "paragraph",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1dfa501e-f337-8137-993e-cfcfbd363302.png\"}",
+    "blockId": "1dfa501e-f337-8137-993e-cfcfbd363302",
+    "type": "image",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"するとエクスプローラー（ファイルやフォルダを管理できるところ）が開きます。\",\"href\":null}]}",
+    "blockId": "1dfa501e-f337-81ff-b92b-f1f21390c207",
+    "type": "paragraph",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エクスプローラー上で右クリックし、「新規作成」から「フォルダ」を選んでください。\",\"href\":null}]}",
+    "blockId": "1dfa501e-f337-81be-a370-ec77a77f787d",
+    "type": "paragraph",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1dfa501e-f337-81f7-8d77-d170e1734597.png\"}",
+    "blockId": "1dfa501e-f337-81f7-8d77-d170e1734597",
+    "type": "image",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"フォルダの名前を「python-basic」としてください。\",\"href\":null}]}",
+    "blockId": "1dfa501e-f337-8172-aa4a-fd47bea8ee22",
+    "type": "paragraph",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"⚠️\"},\"color\":\"yellow_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"操作しずらくなるので、フォルダの名前には空白（スペース）を含めないようにしましょう\",\"href\":null}]}",
+    "blockId": "1dfa501e-f337-81ad-b273-e4a448149a10",
+    "type": "callout",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1dfa501e-f337-8154-86ca-e4deba8db917.png\"}",
+    "blockId": "1dfa501e-f337-8154-86ca-e4deba8db917",
+    "type": "image",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"フォルダを作成したら、作成したフォルダをダブルクリックしてから、「フォルダの選択」をクリックしてください。\",\"href\":null}]}",
+    "blockId": "1dfa501e-f337-8136-96c6-c56f7a1d629a",
+    "type": "paragraph",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1dfa501e-f337-8152-96a2-d865a2bbcc39.png\"}",
+    "blockId": "1dfa501e-f337-8152-96a2-d865a2bbcc39",
+    "type": "image",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これで、VSCodeでフォルダを開くことができました。\",\"href\":null}]}",
+    "blockId": "1dfa501e-f337-81ce-8d91-f7c7a1a7936e",
+    "type": "paragraph",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次に、画面左にカーソルを移動させ、「+ボタン」をクリックしてファイルを作成します。\",\"href\":null}]}",
+    "blockId": "1dfa501e-f337-81ce-a269-ffce00e912aa",
+    "type": "paragraph",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1dfa501e-f337-8168-872b-c0942155e553.png\"}",
+    "blockId": "1dfa501e-f337-8168-872b-c0942155e553",
+    "type": "image",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ファイルの名前は、「python-test.py」としましょう。\",\"href\":null}]}",
+    "blockId": "1dfa501e-f337-81a8-b479-c2d63b610a72",
+    "type": "paragraph",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1dfa501e-f337-815e-a621-d63875a46cf6.png\"}",
+    "blockId": "1dfa501e-f337-815e-a621-d63875a46cf6",
+    "type": "image",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"orange_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"pythonを実行するファイルは、必ずファイル名の語尾に「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\".py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」とつけますので、覚えておいてください。\",\"href\":null}]}",
+    "blockId": "1dfa501e-f337-81d0-8ad5-de8f1f5fad76",
+    "type": "callout",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これでpythonを実行できる、ファイルができたので、次のカリキュラムでpythonを実際に書いて動かしましょう！\",\"href\":null}]}",
+    "blockId": "1dfa501e-f337-8141-af29-e9379b3ccc24",
+    "type": "paragraph",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 20
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1dfa501e-f337-8195-803a-d81de3200672",
+    "type": "paragraph",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 21
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回（Hello World!）\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-806c-8615-f492e93f80b0\"}]}",
+    "blockId": "1dfa501e-f337-8102-af36-d4faa2944802",
+    "type": "paragraph",
+    "pageId": "1dfa501e-f337-80b3-9835-e82769bd01f8",
+    "i": 22
+  }
+]

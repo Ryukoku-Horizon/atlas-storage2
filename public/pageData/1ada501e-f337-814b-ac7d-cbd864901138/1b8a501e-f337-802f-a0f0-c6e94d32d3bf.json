@@ -1,0 +1,650 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前章\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8022-a217-fb1418047a05\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で解説した\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は、実は自分で作ることもできます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8198-b334-d4e977fb298e",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数を自作すれば、複雑な処理もいちいち書くことなく関数を呼び出すだけで完結するので、プログラムの規模が大きくなってくると非常に便利です。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81d0-af3d-e1a40ea3bb50",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数の利点\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-81f8-998d-ee7e70e6f217",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8172-a624-f4c8f5b87c6d",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えば、「ユーザーの名前を入力してもらい、その名前を『あなたの名前は {名前} です』の形で出力する」という一連の処理があったとします。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8145-9d9e-f6ae62ceab2a",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"language\":\"python\",\"parent\":[\"name = input(\\\"あなたの名前を入力してください；\\\")\\nmassage = \\\"あなたの名前は\\\" + name + \\\"です\\\"\\nprint(message)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-816f-9b9c-cde4025b2722",
+    "type": "code",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この処理を実行するのが一度や二度だけならそのたびに書けば良いので問題ありません。しかし、1つにプログラム中でこの処理を何十回も書かなければいけなくなると、たった3行の処理といえど記述が大変です。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8127-87d0-c1dfbab4dbb7",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"では、この処理を\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"たった1行で済ませる\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ことができれば、少しは負担が減るのではないでしょうか？\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8173-97b7-c63e147a0f2e",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"それを実現できるのが\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数の自作\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-817c-92e3-da063a53e993",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インデント\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-81fe-ba71-c47b9cbd43ae",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8125-b3a9-cd21dcc52650",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"早速\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数の自作\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に関して紹介をしていきたいところですが、その前に…\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-811a-b8c2-f550b4ad0440",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonを学習するうえで特に重要な概念となる、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インデント\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"について説明をします。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-816f-a940-c520602ded4d",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インデント\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"とは、別名\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"字下げ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ともよばれ、行頭を後ろにズラすことです。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-816e-b04e-d17701eece51",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"language\":\"python\",\"parent\":[\"n = 10        # この行はインデント\",\"されていません\",\"。\\n\\nif n > 5:     # この行はインデント\",\"されていません\",\"。\\n\\tprint(\\\"nは5より大きいです。\\\")     # この行はインデント\",\"されています\",\"。\\nelse:         # この行はインデント\",\"されていません\",\"。\\n\\tprint(\\\"nは5より小さいです。\\\")          # この行はインデント\",\"されています\",\"。\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8199-bdc8-e13d99c71a2b",
+    "type": "code",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このインデントは、基本的に「Tab」キーを押して行います。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8147-9321-c745f13d39fa",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エディタを開いて、何度か「Tab」キーを押してみてください。一定間隔で空白が入っていくと思います。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8127-aca4-c6ea0f5b84d9",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"行頭にこのタブを入れることを\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インデント\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"というのです。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8153-8d41-dbd1cc410fae",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実は、Pythonではこの\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インデント\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"がとても重要なのです。Pythonではこのインデントを使って\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ブロック\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を形作るのです。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8100-9883-edd1d4a46931",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ブロック\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-81a7-8b09-ecd472d6a7ec",
+    "type": "heading_2",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 20
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "_",
+    "blockId": "1b8a501e-f337-81b1-9200-f0b64a960293",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 21
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ブロック\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"とは、処理のかたまりを定義する単位です。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8159-947c-e86f2cb26adc",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 22
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このブロックを使って、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"if文\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で条件に当てはまるときに実行する処理や、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"for文\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で繰り返す処理を定義するのです。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8154-9f0f-d0fa8c158b19",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 23
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次の画像を見てください。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8107-a02e-e4a6da0d0ef4",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 24
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-813f-9f64-ee49cefd0311.png\"}",
+    "blockId": "1b8a501e-f337-813f-9f64-ee49cefd0311",
+    "type": "image",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 25
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このように、インデントによって各\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"if文\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"や\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"for文\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"によって実行される処理を明確化しています。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ac-acc5-f7f194fe7932",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 26
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、このブロックの中には、さらにブロックを入れてより高度な処理を行うこともできます。以下の例を見てください。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8120-b7a3-faf716fbdcb4",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 27
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-8113-8177-f4a5b21b8bcd.png\"}",
+    "blockId": "1b8a501e-f337-8113-8177-f4a5b21b8bcd",
+    "type": "image",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 28
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この例では、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"for文\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に属するブロックの中に、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"if文\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に属するブロックが入っています。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81f2-97e8-f07d54a35cbd",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 29
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-8189-9675-eafa72637ce9",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 30
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"if文\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"や\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"for文\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の下などのインデントが必要な部分にインデントを入れないと、以下のようなエラーが起こって実行ができなくなってしまいます。気をつけましょう！\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-810f-81c2-d16acffa8ac6",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 31
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"language\":\"python\",\"parent\":[\"# インデントを入れ忘れたプログラム\\nn = 10\\n\\nif n > 5:\\nprint(\\\"nは5より大きいです。\\\")\\nelse:\\nprint(\\\"nは5よりです。\\\")\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81b3-b208-c8f097311fff",
+    "type": "code",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 32
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インデントを入れ忘れたことによるエラー文\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8161-90fa-d549cddfa2e5",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 33
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"  File \\\"Main.py\\\", line 5\\n    print(\\\"nは5より大きいです。\\\")\\n    ^\\nIndentationError: expected an indented block after 'if' statement on line 4\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8183-bc4b-ccb5b3fc84f5",
+    "type": "code",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 34
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数の自作\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-81de-8af2-f9091603aa23",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 35
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "_",
+    "blockId": "1b8a501e-f337-81ed-ae85-ea3cf66fb08b",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 36
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数は以下のように記述することで作成ができます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8104-8efc-ff72f1532ed6",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 37
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"language\":\"python\",\"parent\":[\"def 関数の名前():\\n    関数を呼び出したときに行う処理\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8111-8d56-e18ef21605d9",
+    "type": "code",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 38
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"上記の名前のプログラムを関数にしようとすると、以下のようになります。これを\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数の宣言\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と呼びます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8162-a4d0-c90532fd6ef5",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 39
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"language\":\"python\",\"parent\":[\"def print_your_name():\\n    name = input(\\\"あなたの名前を入力してください：\\\")\\n    massage = \\\"あなたの名前は\\\" + name + \\\"です\\\"\\n    print(massage)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81f6-a1f0-dec0e2522185",
+    "type": "code",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 40
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この関数で実行される範囲も、先述のインデントで\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ブロック\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を作って定義します。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-812e-90e5-e26656816788",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 41
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-8164-83a8-e51c2cba59f3.png\"}",
+    "blockId": "1b8a501e-f337-8164-83a8-e51c2cba59f3",
+    "type": "image",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 42
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この関数を実行するには、関数を宣言したのと同じファイル内で、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"print_your_name()\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を呼び出します。試しに、3回連続で呼び出してみましょう。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8187-8991-fb74f69077ca",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 43
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"language\":\"python\",\"parent\":[\"def print_your_name():\\n    name = input(\\\"あなたの名前を入力してください；\\\")\\n    massage = \\\"あなたの名前は\\\" + name + \\\"です\\\"\\n    print(massage)\\n\\nprint_your_name()\\nprint_your_name()\\nprint_your_name()\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81b7-872f-f9e9f9f85cb9",
+    "type": "code",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 44
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"するとこのように、「名前を入力してもらい、表示する」という一連の処理が3回連続で実行されました。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8168-bb5c-c395d40d2ece",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 45
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"あなたの名前を入力してください；Tanaka\\nあなたの名前はTanakaです\\nあなたの名前を入力してください；Sato\\nあなたの名前はSatoです\\nあなたの名前を入力してください；Nishiura\\nあなたの名前はNishiuraです\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81e0-81ba-d816f723d74b",
+    "type": "code",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 46
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"引数を受け取る関数\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-81a7-980e-cfa338c778a9",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 47
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8149-b383-cdeedad425ae",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 48
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"先程の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"print_your_name()\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数は、引数も戻り値もない関数でした。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8184-aff3-d6a682b61998",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 49
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"language\":\"python\",\"parent\":[\"↓戻り値がない\\n print_your_name()\\n                ↑引数もない\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81f8-890f-e07626160438",
+    "type": "code",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 50
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"引数を受け取って、その引数をもとに処理を行う関数を作りたいときは、次のように書きます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ca-9918-e4085cf294c9",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 51
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"language\":\"python\",\"parent\":[\"def 関数の名前(引数を受け取る変数):\\n    関数を呼び出したときに行う処理\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8187-8204-dacbaaa6722d",
+    "type": "code",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 52
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"引数も戻り値もない関数\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-802f-a0f0-c6e94d32d3bf\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"から増えた部分は、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"引数を受け取る変数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」です。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-815a-9c3a-f5b2615ea531",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 53
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えば、「三角形の底辺と高さを受け取り、その面積を求めて表示する」という処理内容の関数を作るときには、以下のように書きます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81b4-bf77-c199e0468bb2",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 54
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"language\":\"python\",\"parent\":[\"def find_triangle_area(tei, taka):  #受け取った底辺と高さを変数 tei と taka とする\\n    area = tei * taka / 2\\n    print(\\\"底辺\\\" + str(tei) + \\\"、高さ\\\" + str(taka) + \\\"の三角形の面積は\\\" + str(area) + \\\"です\\\")\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8102-9857-c0925aacc6a0",
+    "type": "code",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 55
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この関数を実行するには、以下のように書きます。底辺が3、高さが5だとすると…\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8114-b0dc-e4e2c2996037",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 56
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"language\":\"python\",\"parent\":[\"find_triangle_area(3, 5)\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t ↑  ↑ この二つが引数！\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-817c-bdf3-f4094c62e4d0",
+    "type": "code",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 57
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"こうすることで、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"find_triangle_area()\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数の \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"引数を受け取る変数 \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"である\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"tei\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に3、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"taka\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に5が格納され、関数の中身が実行されます。よって、実行結果は以下のようになります。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ee-bd7a-e8546ac26ef7",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 58
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"底辺3、高さ5の三角形の面積は7.5です\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81a8-b050-feaf3b2f6560",
+    "type": "code",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 59
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"戻り値を返す関数\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-81f9-89af-ce54a9cf1796",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 60
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8192-8abd-ebc1b5184193",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 61
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"さらに、戻り値を返す関数の作成方法も紹介します。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81fb-a13f-ff72c58495fa",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 62
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"language\":\"python\",\"parent\":[\"def 関数の名前(引数を受け取る変数):\\n    関数を呼び出したときに行う処理\\n    return 戻り値として返したい値\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8169-9599-e444534e91da",
+    "type": "code",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 63
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"引数を受け取る関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"から増えた部分は「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"return 戻り値として返したい値\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」ですね。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ce-96ce-d2fdcc2c26dc",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 64
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"先程の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"三角形の面積を求めて表示する関数\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-802f-a0f0-c6e94d32d3bf\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を、「三角形の面積を求め、面積を戻り値として返す関数」に作り変えると、以下のようになります。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8126-b888-ce224e89f9d5",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 65
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"language\":\"python\",\"parent\":[\"def find_triangle_area(tei, taka):  #受け取った底辺と高さを変数 tei と taka とする\\n    area = tei * taka / 2\\n    return area     #変数 area を戻り値として返す\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-818c-9b50-c44be93779c2",
+    "type": "code",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 66
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この関数を実行し、結果をprint関数で表示するには以下のようになります。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ee-a0c9-ddf19df3c489",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 67
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"language\":\"python\",\"parent\":[\"def find_triangle_area(tei, taka):\\n    area = tei * taka / 2\\n    return area\\n\\ntriangle_area = find_triangle_area(5, 3)\\nprint(triangle_area)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81c6-b05d-e90b835c2da4",
+    "type": "code",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 68
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これにより、find_triangle_area関数は受け取った底辺と高さをもとに三角形の面積を求め、その結果を戻り値として変数triangle_areaに代入するという働きをしてくれます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81fe-8b8d-c8f33dfa3e7a",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 69
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-8194-a3c5-f88ed2e42067",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 70
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8194-a3c5-f88ed2e42067",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(10.関数とは)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8022-a217-fb1418047a05\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(練習問題5)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-804e-ada7-c904a1585fd1\"}]}",
+    "blockId": "1b8a501e-f337-81f4-9975-c7f35388c430",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-8125-a649-f6d6699637f6",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-802f-a0f0-c6e94d32d3bf",
+    "i": 71
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-80a1-ad80-d603f91f07c6",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"✅\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"概要\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-8046-a83d-e7ecd735b63c",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このガイドは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"C言語\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"がどんな言語なのかを紹介し、「Hello, World!」を出力するところまでをわかりやすく解説する学習資料です。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80bc-8c76-d38b73826ac7",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "_",
+    "blockId": "1e0a501e-f337-805d-837f-ee9cf787dd62",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 4
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1. C言語とは？\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-800f-9d8d-f485f12f3a5a",
+    "type": "heading_2",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 5
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"✔️ OS(windows, Linuxカーネル)やシステム、ゲーム開発などで広く使用されています。\\n✔️ 手続き型言語で、ポインタや構造体を活用し効率的なプログラムのメモリ管理が可能です。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8083-9f57-d7130da106bc",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 6
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"💡\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"C言語の特徴\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80dd-81cf-df172917349a",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 7
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"高速かつ効率的\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：コンパイルしたC言語のプログラムは実行速度が速く、リソースの少ない環境でも作動します。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-801c-8910-e6930392e384",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 8
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"低レベルプログラミング\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：ソフトの深い操作（例：メモリ、アドレス操作）ができるため、ドライバやOS開発に多く使われています。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80fc-82fe-e4877967ffe6",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 9
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"多くの言語基礎\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：C++、Java、Pythonなど近年多くの使われているプログラミング言語は、C言語の構造や概念を基に作られています。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80fd-a951-e13556abc508",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 10
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-80bc-946e-de39e2068f7a",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 11
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "_",
+    "blockId": "1e0a501e-f337-8025-9c8b-dba41e67fa5e",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 12
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1-2. 開発環境の構築\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-806e-90dd-cb723a2c941d",
+    "type": "heading_2",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 13
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"(1) WindowsでのC開発環境構築 (おすすめ)\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-80a3-b7af-dba4f09055cf",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 14
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "_",
+    "blockId": "1e0a501e-f337-80e7-992d-f1330bd6a264",
+    "type": "column_list",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 15
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80e7-992d-f1330bd6a264",
+    "data": "_",
+    "blockId": "1e0a501e-f337-80e2-a3c8-dc5abfac51d3",
+    "type": "column",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80e7-992d-f1330bd6a264",
+    "data": "_",
+    "blockId": "1e0a501e-f337-8094-9478-d3b22e9ce2dc",
+    "type": "column",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80e2-a3c8-dc5abfac51d3",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Visual Studio\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：C++向けの機能が充実したMicrosoft公式IDE\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8083-b604-ff58b96329b4",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b604-ff58b96329b4",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"→ \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Visual Studio公式サイト\",\"href\":\"https://visualstudio.microsoft.com/ja/\"}]}",
+    "blockId": "1e0a501e-f337-806a-a4fa-e53e2a431a8e",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8094-9478-d3b22e9ce2dc",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VS Codeの設定\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-805c-b46b-ddc297ea4472",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-805c-b46b-ddc297ea4472",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"C拡張機能 (\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"C/C++\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" by Microsoft) をインストール\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-804c-b329-e16e5db31aeb",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-805c-b46b-ddc297ea4472",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイラとして\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"MinGW\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"や\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"MSVC\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を利用\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8009-bfff-f76a4bd3d323",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"(2) Mac & Linuxでの開発環境構築\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-8056-83ed-c429473335fe",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 16
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "_",
+    "blockId": "1e0a501e-f337-8066-8ca8-d12a016b2a80",
+    "type": "column_list",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 17
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8066-8ca8-d12a016b2a80",
+    "data": "_",
+    "blockId": "1e0a501e-f337-80c3-b923-e40279a62e1c",
+    "type": "column",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8066-8ca8-d12a016b2a80",
+    "data": "_",
+    "blockId": "1e0a501e-f337-809c-a275-cd642d43c7f5",
+    "type": "column",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80c3-b923-e40279a62e1c",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VS Codeの設定\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：Visual Studio CodeのC/C++, Code runner 拡張機能をインストール\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8025-a0ab-fbca5730c30c",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-809c-a275-cd642d43c7f5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ターミナルでGCCをインストール\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\":\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80e4-b50f-e877c2b2dc55",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80e4-b50f-e877c2b2dc55",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Mac: \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"brew install gcc\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8087-836e-f3bba02d40e8",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80e4-b50f-e877c2b2dc55",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Ubuntu: \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"sudo apt install gcc\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-806f-acb2-c75b9edfb061",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-8094-bc7d-f358d49b814a",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 18
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "_",
+    "blockId": "1e0a501e-f337-80d2-a6d8-f789285261bc",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 19
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1-3. はじめてのプログラム - \\\"Hello, World!\\\"\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-80f3-9a2b-fd7c34e46e5b",
+    "type": "heading_2",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 20
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"C言語の基本的な作動方法を理解するために、「Hello, World!」を出力する簡単なコードを見てみましょう！\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80e3-bc82-f9af3e82c595",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 21
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Hello Worldを表示するコード\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-80f8-b82c-ec40e32c5079",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 22
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"language\":\"c\",\"parent\":[\"#include <stdio.h>\\n\\nint main() {\\n    printf(\\\"Hello, World!\\\\n\\\");\\n    return 0;\\n}\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-80d1-af0c-f83a733acd41",
+    "type": "code",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 23
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行方法：\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-807a-9eb9-fd78aaacd68f",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 24
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ファイルを保存 ( \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"example.c\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"など )\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80df-abb3-cc6011a8f671",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 25
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイル\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-808b-9fcc-e9f5f6de82f2",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 26
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-800c-a3a8-cee099243e59",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 27
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-8058-9131-fd65ec0e95af",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 28
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行結果：\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-80ad-b26c-ea5611d07a5e",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 29
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"Hello, World!\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-8014-a06a-e4d1a73d076f",
+    "type": "code",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 30
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-80d8-9872-e2821a9d7534",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 31
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-8094-9a62-cda50b6043ad",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 32
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コード概説：\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-8099-aaa8-df31e0a5ac96",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 33
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"language\":\"c\",\"parent\":[\"#include <stdio.h>             // 1. stdio.hというヘッダーファイルを参照する。\\n\\nint main() {                   // 2. mainの宣言\\n    printf(\\\"Hello, World!\\\\n\\\"); // 3. 出力するprint関数\\n    return 0;                  // 4. 関数が終わったら0をreturn\\n}\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-8012-877d-e1576f8e839e",
+    "type": "code",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 34
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このように、C言語では\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"#include <stdio.h>\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で入出力ヘッダーを読み込み、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数からプログラムが実行されます。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-808e-a664-c433cc4ae63d",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 35
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そして\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"printf\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数でconsoleに文字列を出力し、最後に\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"return 0;\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で正常的に終了したことを表します。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8021-99b0-f040186314fc",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 36
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"C言語は\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"手続き言語\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で必ず1行目から下にコンパイル、実行されますので順序を気を付けて使いましょう。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8095-b59c-d31547069822",
+    "type": "callout",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 37
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-8046-82c9-fb300d71ded8",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-807d-8d51-ffdbd5aa590b",
+    "i": 38
+  }
+]

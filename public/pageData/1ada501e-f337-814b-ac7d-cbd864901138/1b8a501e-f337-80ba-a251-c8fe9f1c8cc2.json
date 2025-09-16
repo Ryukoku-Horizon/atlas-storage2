@@ -1,0 +1,434 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(4.四則演算)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-80f0-a9cd-f0d196c362de\"}]}",
+    "blockId": "1b8a501e-f337-81ae-a533-c95b9ae224e2",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題1\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-81fd-86af-f4e2b53ee0a0",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"縦3、横4の長方形の面積を求め、その値を変数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"a\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に代入し、結果を出力するプログラムを書いてください。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ed-9a61-f8bbe4a9d483",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※プログラムは「prac1-1.py」として保存\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-813b-880c-e3a2657fabed",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"期待する出力結果\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-813f-8649-cb359bad042e",
+    "type": "heading_3",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-812d-b709-f4f4b77c555b.jpg\"}",
+    "blockId": "1b8a501e-f337-812d-b709-f4f4b77c555b",
+    "type": "image",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-8179-a276-de9435ccf4df",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-811e-becc-f26707cf3c2b",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "_",
+    "blockId": "1b8a501e-f337-81fc-a236-ee98e72a243b",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題2\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-818f-bb99-dcfc3f1b22d6",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"半径が5の円の面積を求め、その値を変数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"b\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に代入し、結果を出力するプログラムを書いてください。ただし、円周率は3.14としてください。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8151-aae8-c567835c8f1c",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※プログラムは「prac1-2.py」として保存\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8167-9e46-c44c32e429bc",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"円の面積の公式は \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"半径^2 × 円周率\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8109-8a65-cc850d69dde6",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"期待する出力結果\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8169-9462-fd35cc76df05",
+    "type": "heading_3",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-81ac-ac08-d868bd6a637f.jpg\"}",
+    "blockId": "1b8a501e-f337-81ac-ac08-d868bd6a637f",
+    "type": "image",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-815f-85d4-ec29ef62f479",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-81f2-bc7e-cb0662047fe1",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8133-8082-d0979fedf810",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題3\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8160-a8ca-d2bcaa0110b7",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"適切な演算子を用いて、次の計算を行ってください。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81b7-a42b-c1b1f3b79a94",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 20
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"500 を 7 で割ったあまり\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-811e-815a-d4cbda06866e",
+    "type": "numbered_list_item",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 21
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1000 を 80 で割った結果の整数部のみ\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8169-8604-c5a42e17694e",
+    "type": "numbered_list_item",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 22
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ただし、結果の出力は変数を介さずprint関数に直接計算式を記述して行ってください。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8121-acb4-d4aa4eaee2cf",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 23
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※プログラムは「prac1-3.py」として保存\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81b0-8532-eca014c5a737",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 24
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"期待する出力結果\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8189-926d-ef44de47216c",
+    "type": "heading_3",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 25
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-815e-9a36-f7cffce8b2ff.jpg\"}",
+    "blockId": "1b8a501e-f337-815e-9a36-f7cffce8b2ff",
+    "type": "image",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 26
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-8173-8144-d0d6b63ff32c",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 27
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-8142-99f8-c1bd81907b67",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 28
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "_",
+    "blockId": "1b8a501e-f337-81e0-8ede-f07463c24b7b",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 29
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"発展問題\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8161-ba11-f963770d15b3",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 30
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"変数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に代入した数字と、変数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"m\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に代入した値を入れ替えてください。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8102-9cdf-fba942597837",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 31
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、出力として入れ替え前の変数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"m\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の内容、入れ替えを実施すること、入れ替え後の変数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"m\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の内容の３つを表示してください。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8101-b089-cba16107b594",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 32
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ただし、この問題では必ず\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"orange\"},\"plain_text\":\"3つ\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の変数を使用してください。(\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"m\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"n\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" ともう一つ)\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81c7-b41d-ebe2bd69fa68",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 33
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※プログラムは「prac1-4.py」として保存\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8195-bffa-ff5214a31d18",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 34
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"期待する出力結果\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-818b-9984-ffcc454ba5ae",
+    "type": "heading_3",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 35
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-8158-bbdf-d9af960d9023.jpg\"}",
+    "blockId": "1b8a501e-f337-8158-bbdf-d9af960d9023",
+    "type": "image",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 36
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "24ca501e-f337-8037-9e61-c9e9efa3f529",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 37
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "original",
+    "blockId": "24ca501e-f337-806c-bdd7-dc4251317ba1",
+    "type": "synced_block",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 38
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "24ca501e-f337-806c-bdd7-dc4251317ba1",
+    "data": "_",
+    "blockId": "24ca501e-f337-80c2-93fd-fdf4aef7d61d",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "24ca501e-f337-806c-bdd7-dc4251317ba1",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "24ca501e-f337-80d3-9119-f24c16297ff9",
+    "type": "quote",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "24ca501e-f337-806c-bdd7-dc4251317ba1",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"進捗アンケート\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ca501e-f337-809a-ab9e-de726ab2da37",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "24ca501e-f337-806c-bdd7-dc4251317ba1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題が終了した人は、以下のGoogleフォームに回答してください\",\"href\":null}]}",
+    "blockId": "24ca501e-f337-8038-a3cc-c5a4aa971b99",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "24ca501e-f337-806c-bdd7-dc4251317ba1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"gray\"},\"plain_text\":\"※大学のGoogleアカウントにログインして回答してください。個人アカウントでリクエストをいただいても回答できません。\",\"href\":null}]}",
+    "blockId": "24ca501e-f337-80c1-a076-f06e16dbeb3c",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "24ca501e-f337-80d3-9119-f24c16297ff9",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "24ca501e-f337-807a-ad0d-d3bc4dd851f6",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "24ca501e-f337-80d3-9119-f24c16297ff9",
+    "data": "{\"parent\":[],\"url\":\"https://docs.google.com/forms/d/e/1FAIpQLSe9QeNjrX3W6lOu_QCxHm7iQzndA4WsCRqhyZeBjqAlTRODJQ/viewform?usp=dialog\",\"ogp\":{\"title\":\"Google フォーム: ログイン\",\"icon\":null,\"image\":null,\"description\":\"Google フォームには、個人の Google アカウントまたは Google Workspace アカウント（ビジネス ユーザー向け）でアクセスできます。\"}}",
+    "blockId": "24ca501e-f337-80ae-b103-e4338fe0517d",
+    "type": "bookmark",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-810f-bba3-cd0670d9814d",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 39
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(4.四則演算)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-80f0-a9cd-f0d196c362de\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(5.入力)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8081-9a0c-d8aafc4b4c17\"}]}",
+    "blockId": "1b8a501e-f337-81a8-ac34-fc569bfb15d1",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 40
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-816b-a2fd-d63ce43f32a9",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80ba-a251-c8fe9f1c8cc2",
+    "i": 41
+  }
+]

@@ -1,0 +1,659 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(練習問題3)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-803f-8590-d0737976ab27\"}]}",
+    "blockId": "1b8a501e-f337-8185-a94c-fa25fb90975e",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "_",
+    "blockId": "1b8a501e-f337-81e7-897f-d57fe16c929e",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-81b4-8846-f0752d7131fe",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここでは、これまで何度か触れてきた\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文字列\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に関してより詳しく学習します。文字列といえば、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"”Hello World!”\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"とか\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"”Horizon”\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"とかですね\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8127-9022-f3a7df11e16b",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ダブルクォートとシングルクォート\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8124-99dd-ebcd4d78fa35",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "_",
+    "blockId": "1b8a501e-f337-81f4-b481-c7616a41708f",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これまで、Pythonで文字列を作成するには、テキストを\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ダブルクォート\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"\\\"\\\"\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）で囲ってきました。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81bb-bd80-dbc9782d9554",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-812d-8104-cfa005a0814f",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-812d-8104-cfa005a0814f",
+    "data": "{\"language\":\"python\",\"parent\":[\"str = \\\"Hello World!\\\"\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8190-ba4b-febd3502adf5",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonでは同様のことが、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"シングルクォート\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"''\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）でも行えます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8100-ad4c-ea8ffa611ea5",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81e2-a120-f5fb8ad4536b",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81e2-a120-f5fb8ad4536b",
+    "data": "{\"language\":\"python\",\"parent\":[\"str = 'Helllo World!'\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-816d-89c2-d622eef24ef1",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ダブルクォートとシングルクォートを組み合わせれば、文字列の中にダブルクォートまたはシングルクォートを入れることもできます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8139-8f66-ee2698304615",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8174-9e79-ea897e38bc2e",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8174-9e79-ea897e38bc2e",
+    "data": "{\"language\":\"python\",\"parent\":[\"str1 = \\\"Hello 'World'!\\\"\\nstr2 = 'プログラミング部 \\\"Horizon\\\"'\\nprint(str1)\\nprint(str2)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8170-b89c-e9eed37d2553",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81f7-8642-d8499215f434",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81f7-8642-d8499215f434",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"Hello 'World'!\\nプログラミング部 \\\"Horizon\\\"\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8117-bc04-d5d441f8d6bb",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"トリプルクォート\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-81cd-85e8-decdd4ed3551",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "_",
+    "blockId": "1b8a501e-f337-817b-b771-dd3621cb0fd4",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"さらにトリプルクォートというものも存在します。書き方は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"””””””\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"または\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"’’’’’’\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" であり位置付けとしては先ほどの二種類の上位互換です。\\nこれを使うと改行が出来るようになります。（括弧のように使える）\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8168-9486-ed956952705e",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-811a-9536-ddf83172cadf",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-811a-9536-ddf83172cadf",
+    "data": "{\"language\":\"python\",\"parent\":[\"str3 = \\\"\\\"\\\"\\n\\t\\tHello \\n\\t\\t'World'!\\n\\\"\\\"\\\"\\nstr4 = '''\\n\\t\\t\\t\\t\\tプログラミング部 \\n\\t\\t\\t\\t\\t\\\"Horizon\\\"\\n\\t\\t\\t '''\\nprint(str3)\\nprint(str4)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81a7-9caa-f3e9cecc1cad",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81e8-8095-f2d7276e5e50",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81e8-8095-f2d7276e5e50",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"\\nHello\\n'World'!\\n\\n\\nプログラミング部\\n\\\"Horizon\\\"f\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-817a-b3bc-f911563b9cb3",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リストとの類似点\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-81f0-a837-f72502b144f1",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8162-a834-e2177e30e607",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 20
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インデックスによる指定\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-81e1-b0d9-e4e1533a4e58",
+    "type": "heading_3",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 21
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8189-b5b3-d3dd54ed4c7f",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 22
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文字列はリストと同じように、インデックスを使って特定の一文字を取り出すことができます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-815d-ab8f-ea8f77e532e0",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 23
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-818a-997b-fb4a9e17c86c",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 24
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-818a-997b-fb4a9e17c86c",
+    "data": "{\"language\":\"python\",\"parent\":[\"str = 'Horizon'\\nprint(str[0])   #strの0番目（最初）\\nprint(str[3])   #strの3番目\\nprint(str[-1])  #strの最後\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81bc-ba35-e6c8087d5a86",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81a4-a0e1-ebecb4815a30",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 25
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a4-a0e1-ebecb4815a30",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"H\\ni\\nn\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-817f-a470-d02c4847ea82",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"スライス\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8123-88ab-e1d5da25c5e0",
+    "type": "heading_3",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 26
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8162-a552-cd0b9d94f14f",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 27
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リストで行ったのと同じように、文字列も\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"スライス\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を行うことができます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8147-8f4c-e173d4bb44d5",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 28
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8112-88c9-d050140fbe5e",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 29
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8112-88c9-d050140fbe5e",
+    "data": "{\"language\":\"python\",\"parent\":[\"sliced_str = str[x:y]\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8126-a32e-ec8ec03c24b5",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このようにすることで、最初の文字を0文字目とした\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"str\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"x文字目\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" ～ \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"y-1文字目\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" (yは含まれず、yの直前の文字まで)を抜き出すことができます。例えば、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「Hello World!」\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"から\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「World」\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のみを抜き出すには、次のようなプログラムになります。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8130-a5e4-c29ea3d236f5",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 30
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81a8-98b3-ff2e15171098",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 31
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a8-98b3-ff2e15171098",
+    "data": "{\"language\":\"python\",\"parent\":[\"#      0123456    11\\nstr = 'Hello World!'\\nsliced_str = str[6:11]\\nprint(sliced_str)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81c2-be6e-fa812fbb68f6",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8154-bcf7-f83c6b9a291e",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 32
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8154-bcf7-f83c6b9a291e",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"World\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-815b-b42e-d93a780a1c70",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"for文との組み合わせ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8179-b0bb-c3b3b2625f07",
+    "type": "heading_3",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 33
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "_",
+    "blockId": "1b8a501e-f337-813e-b223-f126b04f3afa",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 34
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文字列はfor文と組み合わせると、文字列から１文字ずつ取り出して処理を行うことができます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81b6-b790-f1e8dc7770ee",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 35
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8132-b754-e6c38024a05a",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 36
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8132-b754-e6c38024a05a",
+    "data": "{\"language\":\"python\",\"parent\":[\"str = 'Horizon'\\nfor char in str:\\n    print(char)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81a7-a5d7-d87621412b3e",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8198-acd3-c71b538354f3",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 37
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8198-acd3-c71b538354f3",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"H\\no\\nr\\ni\\nz\\no\\nn\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81b7-bd48-fd139f983df5",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"結合\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-816d-83fa-ef0ac4d825cc",
+    "type": "heading_3",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 38
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "_",
+    "blockId": "1b8a501e-f337-81a2-8b5a-f8aeeb58b00b",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 39
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonでの文字列は、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"結合\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（複数の文字列を繋げる処理）がとても簡単です。足し算のように\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"+\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で文字列の結合を行うことができます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ea-82c5-e6427bfcf440",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 40
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81d5-a981-f548dd6f069d",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 41
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d5-a981-f548dd6f069d",
+    "data": "{\"language\":\"python\",\"parent\":[\"a = \\\"Hello\\\"\\nb = \\\"World!\\\"\\nstr = a + b\\nprint(str)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8185-afaa-cbb8b4281be5",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8115-b7b3-fd2d155a96a6",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 42
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8115-b7b3-fd2d155a96a6",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"HelloWorld!\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8180-a433-ea4a7b18a449",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これによって、文字列を含む文章を出力しようと思ったとき、これまでは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"print(”あなたの名前は”, name, “です”)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のようにカンマで区切っていましたが、以下のように一つの変数にまとめてから出力ができるようになります。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8132-9846-ea5e88688e7e",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 43
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ed-b03c-e1de1bfadd00",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 44
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81ed-b03c-e1de1bfadd00",
+    "data": "{\"language\":\"python\",\"parent\":[\"name = input(\\\"あなたの名前を入力してください；\\\")\\nmassage = \\\"あなたの名前は\\\" + name + \\\"です\\\"\\nprint(massage)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-812a-b0b5-d3653d9e7c02",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81d6-972c-fbe08aa0cb74",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 45
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d6-972c-fbe08aa0cb74",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"あなたの名前を入力してください：Haruto\\nあなたの名前はHarutoです\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-816d-a344-c0a5583524bf",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"f文字列（フォーマット済み文字列リテラル）\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-81d4-940f-fde9ef8d1d0c",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 46
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8149-90d8-c7b614956fc5",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 47
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"結合と似ている別の書き方も紹介します。以下のコードを実行すると\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81db-9349-d61f0363c6a8",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 48
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8178-8351-c701ce2c0af7",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 49
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8178-8351-c701ce2c0af7",
+    "data": "{\"language\":\"python\",\"parent\":[\"name = input(\\\"あなたの名前を入力してください；\\\")\\nmassage = f\\\"あなたの名前は{name}です\\\"\\nprint(massage)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81ce-8819-c162f8cadc72",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81c4-acb3-c4ceed4405a8",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 50
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81c4-acb3-c4ceed4405a8",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"あなたの名前を入力してください：Haruto\\nあなたの名前はHarutoです\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81b9-aaba-c75c492674f0",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"というように先ほどと同じ結果が得られます。\\nですが、これは本当に様々な活用法があるのでぜひ自分で調べるか\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このサイト\",\"href\":\"https://note.nkmk.me/python-f-strings/\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を見ておくことをお勧めします。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8164-8275-df104d44f1b4",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 51
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-81bc-a4a6-c853d9ee0cfc",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 52
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81bc-a4a6-c853d9ee0cfc",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-8144-b1b9-f0036dec7fb7",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81bc-a4a6-c853d9ee0cfc",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(練習問題3)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-803f-8590-d0737976ab27\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(練習問題4)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8010-8067-de8083f6ecc5\"}]}",
+    "blockId": "1b8a501e-f337-819f-bcfd-e4c5ad1140d1",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80fa-b3ce-c5016923e198",
+    "i": 1
+  }
+]

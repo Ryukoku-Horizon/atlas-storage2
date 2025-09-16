@@ -1,0 +1,182 @@
+[
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1. VSCodeとは？\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8166-bba7-e2ed6db7b3e2",
+    "type": "heading_1",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8134-9617-e8b3fde5f357",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 2
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8159-a63a-d166e5969258.png\"}",
+    "blockId": "1d8a501e-f337-8159-a63a-d166e5969258",
+    "type": "image",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 3
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これがVSCodeです！\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-814e-898b-df7524f8f994",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 4
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Visual Studio Code（略称：VSCode）は、プログラムを書くためのアプリであり、Pythonをはじめ、他さまざまな言語の開発環境として利用できます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8187-ad70-f3b9ed1b6597",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 5
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-8147-9df5-f84173c04a33",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 6
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeには、以下のような便利な機能が備わっています。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81a3-87ef-c6aaa3abcd76",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 7
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "data": "{\"icon\":null,\"color\":\"blue_background\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-8133-ba9a-fe318abf17e0",
+    "type": "callout",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 8
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8133-ba9a-fe318abf17e0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エディターと実行結果を同じ画面で確認できる\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-813b-bdd5-cfdb25e4197b",
+    "type": "bulleted_list_item",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8133-ba9a-fe318abf17e0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ワンクリックでプログラム実行が可能\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8131-8fb1-c5f8bbc83621",
+    "type": "bulleted_list_item",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 2
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8133-ba9a-fe318abf17e0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エクスプローラーを開かずにファイル管理ができる\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81d3-8263-c38944f0edf0",
+    "type": "bulleted_list_item",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 3
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8133-ba9a-fe318abf17e0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"豊富な拡張機能で自分好みにカスタマイズできる\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81c2-b88b-c349c77362b7",
+    "type": "bulleted_list_item",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 4
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"では、さっそくインストールしてみましょう！\\n\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-818b-ab96-c9fcc0958023",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 9
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-815d-85ab-f5c3362e66c1",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 10
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と、その前にWindowsとMacでVSCodeのダウンロード方法が違います。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81db-9151-eb9172e46a8e",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 11
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下にWindowsユーザーとMacユーザー別のページがあるのでクリックしてください。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81f7-a77c-e3f18bdc132a",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 12
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/book-closed_gray.svg\"}},\"color\":\"yellow_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"パソコン別\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-816d-891b-fea92cb044a2",
+    "type": "callout",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 13
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-816d-891b-fea92cb044a2",
+    "data": "{\"parent\":\"VSCodeのチュートリアル：Windows\",\"iconType\":\"emoji\",\"iconUrl\":\"🪟\",\"coverUrl\":\"https://www.notion.so/images/page-cover/met_fitz_henry_lane.jpg\"}",
+    "blockId": "1d8a501e-f337-8156-9349-f0f8face44f2",
+    "type": "child_page",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-816d-891b-fea92cb044a2",
+    "data": "{\"parent\":\"VSCodeのチュートリアル：Mac\",\"iconType\":\"emoji\",\"iconUrl\":\"🍎\",\"coverUrl\":\"https://www.notion.so/images/page-cover/nasa_great_sandy_desert_australia.jpg\"}",
+    "blockId": "1d8a501e-f337-8102-92b5-ff2f78906951",
+    "type": "child_page",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 2
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-811a-9d5d-e94022cd68fd",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 14
+  }
+]

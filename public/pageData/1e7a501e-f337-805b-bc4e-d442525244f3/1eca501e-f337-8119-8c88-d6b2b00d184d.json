@@ -1,0 +1,101 @@
+[
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-81f8-b694-c4aebec4c19b",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここでは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"百の位に0が使えるようにするプログラムを作る\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題になります。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-813e-bb77-fc2a1d32cc78",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-81fe-8d49-fb8a86ae5df2",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"先に謝らせてください。本当にごめんなさい。今回作成した\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"gray\"},\"plain_text\":\"Numer0n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ですが、実は一つ欠陥がありました。それは、3桁の数字を作成するときに、100～999までの範囲の乱数を使っていたと思うのですが、これだと、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「012」や「094」といった百の位に0がある3桁の数字が作成できない\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ことにこのカリキュラムを完成させてから気づきました。本来なら第2章でそれを取り入れて解説しようと考えたのですが、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このカリキュラムを再編しなければいけない\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ので今回は第4章で扱うことになりました。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8195-96ae-f8b00d84c53b",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "i": 4
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-8168-90a7-edf8d0585a12",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "i": 5
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ちなみに、この機能を実装するために必要な新しい知識はありません。ヒントは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"正解の数字が何桁になった時に百の位に0が必要なのか\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3桁の数字を扱っていたリストをどうやって扱うか\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"第2章で扱うとなぜカリキュラムを再編しなくてはいけないのか\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を考えると何を使って実装するかが見えてくると思います。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8192-b392-df6b42cddc03",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "i": 6
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-81d7-9282-ee8c7e2b1542",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "i": 7
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "data": "_",
+    "blockId": "1eca501e-f337-811f-af9a-eed72365f44e",
+    "type": "divider",
+    "pageId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "i": 8
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"4-3 正解するまでにかかった回数を表示できるようにしよう\",\"href\":\"/posts/curriculums/1e7a501e-f337-805b-bc4e-d442525244f3/1eca501e-f337-81e2-bb62-d04269f9236f\"}]}",
+    "blockId": "1eca501e-f337-814c-b4e5-cd6617ebcf7e",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "i": 9
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-8181-b345-e0d204b3b301",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "i": 10
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"目次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"数当てゲームをPythonで作ってみよう\",\"href\":\"/posts/curriculums/1e7a501e-f337-805b-bc4e-d442525244f3/1eca501e-f337-80fc-a5bd-f2a1ea7ef2ca\"}]}",
+    "blockId": "1eca501e-f337-8152-92ee-ea0c995d2fd2",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8119-8c88-d6b2b00d184d",
+    "i": 11
+  }
+]

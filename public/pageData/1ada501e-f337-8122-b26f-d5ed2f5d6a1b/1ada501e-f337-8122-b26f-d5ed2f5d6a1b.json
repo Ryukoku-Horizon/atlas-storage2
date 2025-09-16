@@ -1,0 +1,245 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここでは活動で使用するツールである\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Gitのインストール\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Githubのアカウント登録\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"をする方法を説明します。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8134-b974-e1f5cf038db4",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"👌\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Mac\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"にはGitが最初からインストールされています。\",\"href\":null}]}",
+    "blockId": "232a501e-f337-805d-b5a2-e8a0ea65119e",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "232a501e-f337-805d-b5a2-e8a0ea65119e",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この下の「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"GitHubアカウント登録\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」から進めてください！\",\"href\":null}]}",
+    "blockId": "232a501e-f337-800e-b1a2-d2f9b46fef82",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Gitのインストール\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-8160-a2fa-fa891722b183",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "_",
+    "blockId": "1ada501e-f337-815d-b2f5-c83c3e1cb91b",
+    "type": "divider",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※Windowsのみ\",\"href\":null}]}",
+    "blockId": "232a501e-f337-80e1-95aa-e2c321fb9a66",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1. インストーラーのダウンロード\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-8190-935b-dba4d00f3aa9",
+    "type": "heading_3",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Git公式サイト（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"https://gitforwindows.org/?_fsi=LfoGMNmY\",\"href\":\"https://gitforwindows.org/?_fsi=LfoGMNmY\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）にアクセスしてください。 Downloadボタンをクリックしてください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-813d-8cd7-d93f65f4c4f3",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-8122-b26f-d5ed2f5d6a1b/image/1ada501e-f337-8163-af71-c24b8c21f6cc.png\"}",
+    "blockId": "1ada501e-f337-8163-af71-c24b8c21f6cc",
+    "type": "image",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Gitのインストーラーがダウンロードされます。（※数分かかります）\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8184-a413-c925d0fb4c40",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-8122-b26f-d5ed2f5d6a1b/image/1ada501e-f337-810c-8a21-ee40e46f7e60.png\"}",
+    "blockId": "1ada501e-f337-810c-8a21-ee40e46f7e60",
+    "type": "image",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"２. インストール\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-819b-952a-e9e2b4ad2eac",
+    "type": "heading_3",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ダウンロードしたインストーラーをダブルクリックして起動しましょう。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81fc-afbf-c70e94e7fca5",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-8122-b26f-d5ed2f5d6a1b/image/1ada501e-f337-81fa-ab2f-e75961071c9a.png\"}",
+    "blockId": "1ada501e-f337-81fa-ab2f-e75961071c9a",
+    "type": "image",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"あとは「Next」ボタンを押し続けてインストーラーをすすめ、最後の画面で「Install」ボタンをクリックして下さい。（設定値を変更する必要はありません。）\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-818d-92bc-f8e36abf0e19",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"GitHubアカウント登録\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-8186-a149-d29577f2f78e",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "_",
+    "blockId": "1ada501e-f337-81fd-90af-f5162de46c19",
+    "type": "divider",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"GitHub公式サイト（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"https://github.com/\",\"href\":\"https://github.com/\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）にアクセスしてください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-811b-b004-d2128a535cd9",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「Sign up for GitHub」をクリックしてください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8147-9f0c-d23e7d3480ce",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-8122-b26f-d5ed2f5d6a1b/image/1ada501e-f337-81e9-8eb9-d350f46e0e93.png\"}",
+    "blockId": "1ada501e-f337-81e9-8eb9-d350f46e0e93",
+    "type": "image",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Sign up画面でメールアドレスとパスワードとユーザーネームを登録してください。\\nEmail preferences項目のチェックボックスはチェックする必要はないです（不定期に製品の更新情報やお知らせを受け取るかどうかという項目）。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-819b-b164-f95f6554414d",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 20
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"画面遷移したら「検証する」をクリックしてください。ロボットによる登録でないことを証明するため、画面の指示に従って進めてください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-811f-a36f-df5a3ba2819a",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 21
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-8122-b26f-d5ed2f5d6a1b/image/1ada501e-f337-81e7-898f-fccdd61b371c.png\"}",
+    "blockId": "1ada501e-f337-81e7-898f-fccdd61b371c",
+    "type": "image",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 22
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"画面が遷移したら、登録したメールアドレス宛のメールに記載されたコードを入力してください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8126-8209-fefc2178a667",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 23
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-8122-b26f-d5ed2f5d6a1b/image/1ada501e-f337-81a6-8d5c-c8298874fc43.png\"}",
+    "blockId": "1ada501e-f337-81a6-8d5c-c8298874fc43",
+    "type": "image",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 24
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下のようなGitHub管理画面が表示されれば、GitHubのアカウント登録は完了です。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81ea-b05b-ed46a08a006f",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 25
+  },
+  {
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-8122-b26f-d5ed2f5d6a1b/image/1ada501e-f337-81a0-9ff5-c6a0190d8aac.png\"}",
+    "blockId": "1ada501e-f337-81a0-9ff5-c6a0190d8aac",
+    "type": "image",
+    "pageId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "i": 26
+  }
+]

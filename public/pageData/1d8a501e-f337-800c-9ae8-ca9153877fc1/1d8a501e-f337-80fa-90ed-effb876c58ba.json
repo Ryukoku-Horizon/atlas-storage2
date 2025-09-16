@@ -1,0 +1,1091 @@
+[
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8017-a254-dec4e36f4dcd",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"目次\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-80a3-a0c2-dbedc24ab364",
+    "type": "toggle",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 2
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80a3-a0c2-dbedc24ab364",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8140-a6c8-f2cc913f71a5",
+    "type": "table_of_contents",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Discordとは？\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8124-883e-f61c9231e4c7",
+    "type": "heading_1",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 3
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "_",
+    "blockId": "1d8a501e-f337-81a4-869e-cf314a54cef8",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 4
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8150-9918-cf7a95ed5192.png\"}",
+    "blockId": "1d8a501e-f337-8150-9918-cf7a95ed5192",
+    "type": "image",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 5
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Discordとは、テキストチャット、ボイスチャット、ビデオ通話ができるコミュニケーションツールです。サーバー内で話題ごとにチャンネルを分けて整理でき、通知設定も細かく調整できるため、ゲームや仕事、学習コミュニティなど幅広い用途で利用されています。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-815e-90d6-c70d2e7bc6aa",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 6
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-8170-acf3-f2f421fa68ed",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 7
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラミング部Horizonでも、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"連絡手段\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"として使用するため、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"red\"},\"plain_text\":\"インストール必須\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"となっています。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81ef-8e7a-c03a6af13331",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 8
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Discordを入れたら（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"red\"},\"plain_text\":\"重要\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8154-a744-f23ea4af39d8",
+    "type": "heading_1",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 9
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "_",
+    "blockId": "1d8a501e-f337-812c-b3d4-e196251ef4a4",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 10
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Discordを入れたら、まず皆さんにしてもらいたいことがあります。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-810e-9628-da3a4fa774e8",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 11
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"それは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"自分に関連のある\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"red\"},\"plain_text\":\"notificationは必ず通知をオン\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"することです。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81a7-80a7-efc7bbf2852f",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 12
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-8175-88b4-f6c734802a29",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 13
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"基本的に、初期設定で\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"notificationの通知はオンになっているはずです（自分でオフにしない限り）\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81eb-9e2d-ceb12864ec63",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 14
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この通知が来なければ、活動の連絡ができないので、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"red\"},\"plain_text\":\"オンになっているか確認\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"をしてください\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8103-97ad-c8616f386c53",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 15
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"⬆️PCの場合\",\"href\":null}],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-81eb-a6e2-fa28aa9f2bba.png\"}",
+    "blockId": "1d8a501e-f337-81eb-a6e2-fa28aa9f2bba",
+    "type": "image",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 16
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"⬆️スマホの場合\",\"href\":null}],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8174-8359-c9edcaefb0e2.png\"}",
+    "blockId": "1d8a501e-f337-8174-8359-c9edcaefb0e2",
+    "type": "image",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 17
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"上記の方法でnotification-\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"総会、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"notification-○○学舎、notification-基礎班は通知オンの確認をお願いします。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-818f-a9c7-c23c0a335f7f",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 18
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝🏻\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"notificationでは部の運営から活動などの連絡がきます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8162-8c44-f8ee604db9fb",
+    "type": "callout",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 19
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8162-8c44-f8ee604db9fb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"red\"},\"plain_text\":\"重要な通知\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が多いので、定期的にチェックすることをお勧めします。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8154-856b-cfe271815d87",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Discordの基本構造\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8183-acb1-db56db673bf8",
+    "type": "heading_1",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 20
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "_",
+    "blockId": "1d8a501e-f337-81b4-ae19-e678445623f9",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 21
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Discordでは、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"サーバー\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という単位でコミュニケーションの場が作られます。サーバーの中には「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"チャンネル\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という会話のスペースがあり、目的に合わせて分けることができます。また、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カテゴリ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」を作ることで、関連するチャンネルをまとめて整理することもできます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-812a-88aa-cd6906b77786",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 22
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8101-9082-d1ec16597ed0.png\"}",
+    "blockId": "1d8a501e-f337-8101-9082-d1ec16597ed0",
+    "type": "image",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 23
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これから、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"サーバー\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"チャンネル\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カテゴリ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」それぞれの機能を紹介します。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81e0-b2a3-c8b889e1fb48",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 24
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"サーバーとは？\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-816f-8127-cd2f09f6537f",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 25
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "_",
+    "blockId": "1d8a501e-f337-81e3-a9b6-fba46d76a7b3",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 26
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"サーバーは、LINEでいう「グループ」に相当するものです。ひとつのサーバーの中で、複数のチャンネルを作成し、話題ごとに分けて会話を進めることができます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-819f-ae95-d4580aca5489",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 27
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-81b3-b2c5-e01a782ce867.png\"}",
+    "blockId": "1d8a501e-f337-81b3-b2c5-e01a782ce867",
+    "type": "image",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 28
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"チャンネルとは？\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-813a-b169-f3bbd9dd2777",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 29
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8178-a96e-ee6740ea67fa",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 30
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"チャンネルは、サーバー内で特定の話題に関する会話をするためのスペースです。チャンネルには、大きく分けて \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「テキストチャンネル」\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" と \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「ボイスチャンネル」\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" の2種類があります。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81b6-89fe-d5453305ac43",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 31
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-811e-a529-cb0ec3dc2cdf",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 32
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「テキストチャンネル」\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" は、文字でのやりとりを行うチャンネルで、メッセージの送信だけでなく、画像・動画・リンクの共有も可能です。一方、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「ボイスチャンネル」\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は、通話や画面共有ができるチャンネルで、クリックすると自動的に接続され、音声での会話や画面の共有ができます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-819e-990c-f1988860db8c",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 33
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-81f6-a10d-e58cdb6c77c8.png\"}",
+    "blockId": "1d8a501e-f337-81f6-a10d-e58cdb6c77c8",
+    "type": "image",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 34
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カテゴリとは？\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-813d-8921-f82423c799dd",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 35
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8127-bcb4-e1a93131e2b4",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 36
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カテゴリは、複数のチャンネルをグループ化するための機能です。サーバーが大きくなると、チャンネルが増えて管理しづらくなるため、カテゴリを使って整理します。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81af-9169-cb6e87c8497b",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 37
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-811b-ad01-c848d633e753.png\"}",
+    "blockId": "1d8a501e-f337-811b-ad01-c848d633e753",
+    "type": "image",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 38
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💬\"},\"color\":\"green_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"LINEと何が違うの？\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8163-82ae-c5083f192091",
+    "type": "callout",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 39
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8163-82ae-c5083f192091",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"LINEは1対1やグループでのシンプルなチャットが中心なのに対し、Discordは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"サーバー内で話題ごとにチャンネルを分けて整理できる\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のが特徴です。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8134-88c4-ed51b1cba894",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8163-82ae-c5083f192091",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えば、LINEのグループでは雑談や連絡が混ざりますが、Discordなら「#雑談」「#お知らせ」などチャンネルごとに分けて管理できるという違いがあります！\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8129-a047-e8a5a2664a45",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 2
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"通知設定について\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8118-a4ba-cc7376030074",
+    "type": "heading_1",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 40
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8133-afae-f9eedbc2e2fa",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 41
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「Discordの通知が多すぎてうるさい」と感じる人はいませんか？ \",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81bd-b433-e70e82872736",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 42
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実は、Discordの通知は\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"細かくカスタマイズできる\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ので、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"必要な情報だけ通知を受け取り、不要な通知はオフにする\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ことができます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81c4-a129-f6f2f97e6f7d",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 43
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"通知設定できる場所と通知の種類\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8145-85fc-f5edb6ff361b",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 44
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8141-aca9-e83d32a92263",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 45
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Discordの通知は、「すべて通知が来る」or「完全にオフ」ではなく、細かく調整できるのが特徴です。サーバー内のどの範囲の通知を受け取るかを、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"4つの範囲\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で設定できます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-813a-a726-e54b193bfe52",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 46
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"📢\"},\"color\":\"yellow_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"通知設定できる場所\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-817c-bd72-fc02a766f15f",
+    "type": "callout",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 47
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-817c-bd72-fc02a766f15f",
+    "data": "{\"table_width\":2,\"has_column_header\":true,\"has_row_header\":false}",
+    "blockId": "1d8a501e-f337-81df-a092-f32b1ca223fe",
+    "type": "table",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-81df-a092-f32b1ca223fe",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"設定できる場所\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"設定できる場所\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"説明\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"説明\",\"href\":null}]]",
+    "blockId": "1d8a501e-f337-818f-91cf-fe96ffd75b43",
+    "type": "table_row",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-81df-a092-f32b1ca223fe",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"サーバー全体\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"サーバー全体\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"そのサーバー内のすべての通知が来る。\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そのサーバー内のすべての通知が来る。\",\"href\":null}]]",
+    "blockId": "1d8a501e-f337-81de-879f-d8524832d29a",
+    "type": "table_row",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 2
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-81df-a092-f32b1ca223fe",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"カテゴリごと\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カテゴリごと\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"そのカテゴリに含まれるすべてのチャンネルの通知が来る。\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そのカテゴリに含まれるすべてのチャンネルの通知が来る。\",\"href\":null}]]",
+    "blockId": "1d8a501e-f337-8171-a148-fe7302a2ac8e",
+    "type": "table_row",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 3
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-81df-a092-f32b1ca223fe",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"チャンネルごと\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"チャンネルごと\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"そのチャンネルの通知のみ来る。\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そのチャンネルの通知のみ来る。\",\"href\":null}]]",
+    "blockId": "1d8a501e-f337-819d-8fef-f1f6bf88f7ae",
+    "type": "table_row",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 4
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-81df-a092-f32b1ca223fe",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"スレッド・フォーラムごと\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"スレッド・フォーラムごと\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"そのスレッド・フォーラム内の通知が来る。\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そのスレッド・フォーラム内の通知が来る。\",\"href\":null}]]",
+    "blockId": "1d8a501e-f337-813a-a901-e663fb1e092b",
+    "type": "table_row",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 5
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、各チャンネルの通知は、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下の3種類\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のどれかを選択できます。（＠メンションは後述）\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81c0-8579-f16697d6f875",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 48
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"🔔\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"通知の種類\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8193-a266-cdbeb32dbcb7",
+    "type": "callout",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 49
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8193-a266-cdbeb32dbcb7",
+    "data": "{\"table_width\":2,\"has_column_header\":false,\"has_row_header\":false}",
+    "blockId": "1d8a501e-f337-8168-9913-c01324a4cf2d",
+    "type": "table",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8168-9913-c01324a4cf2d",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"通知の種類\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"通知の種類\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"説明\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"説明\",\"href\":null}]]",
+    "blockId": "1d8a501e-f337-8169-8a61-d7a462f84d2e",
+    "type": "table_row",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8168-9913-c01324a4cf2d",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"すべてのメッセージ\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"すべてのメッセージ\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"そのチャンネルすべてのメッセージを通知\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そのチャンネルすべてのメッセージを通知\",\"href\":null}]]",
+    "blockId": "1d8a501e-f337-8108-8787-df83b92536c9",
+    "type": "table_row",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 2
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8168-9913-c01324a4cf2d",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"＠メンションのみ\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"＠メンションのみ\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"＠で自分が指名された時だけ通知\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"＠で自分が指名された時だけ通知\",\"href\":null}]]",
+    "blockId": "1d8a501e-f337-81dc-a8ff-d6bb3c97c6bd",
+    "type": "table_row",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 3
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8168-9913-c01324a4cf2d",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"通知しない\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"通知しない\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"そのチャンネルの通知を完全にオフ\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そのチャンネルの通知を完全にオフ\",\"href\":null}]]",
+    "blockId": "1d8a501e-f337-815a-873e-c32caf546335",
+    "type": "table_row",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 4
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"通知設定のやり方\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8126-a5bb-c2a8ba2f8474",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 50
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "_",
+    "blockId": "1d8a501e-f337-81fc-8182-e9f2b0c40e86",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 51
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"先ほど紹介したように、Discordの通知は、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"4つの範囲（サーバー全体・カテゴリ・チャンネル・スレッド）\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ごとに細かく設定できます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8198-a7c1-e884a2efc174",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 52
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、通知の種類も\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3つ（すべてのメッセージ・＠メンションのみ・通知しない）\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"あり、必要な通知だけを受け取ることが可能です。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81e2-9585-f3c4290da1e6",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 53
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-8165-b464-d5a504841dd5",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 54
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今から、これらの機能の使い方を説明します。スマホとpcではやり方が少し違うので注意してください。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-811f-a6ce-f1f4f218d105",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 55
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1. サーバー全体の通知設定方法\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-81ea-bb40-fcb7d66e7827",
+    "type": "heading_3",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 56
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "_",
+    "blockId": "1d8a501e-f337-811e-a016-f6e0f2f413ab",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 57
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"📱スマホ版\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81fa-843e-f4e3ff75b41e",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 58
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-81ea-9597-d652a607af9f.png\"}",
+    "blockId": "1d8a501e-f337-81ea-9597-d652a607af9f",
+    "type": "image",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 59
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"設定したいサーバーを選択（左側のサーバー一覧からタップ）\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8102-be97-dd13ad425dcb",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 60
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"サーバー名をタップ（画面上部）\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8173-b0e6-dc061ff7aa39",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 61
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「通知設定」を選択\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8140-a4c3-da1da5a9f3b3",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 62
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下から通知設定を選ぶ\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8186-9d6a-e8c25bfce38e",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 63
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8186-9d6a-e8c25bfce38e",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"すべてのメッセージ（サーバー内の全通知を受け取る）\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81da-846f-ed91d567d48b",
+    "type": "bulleted_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8186-9d6a-e8c25bfce38e",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"@メンションのみ（自分に関連する通知のみ受け取る）\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-818b-aea4-c72ff932ccae",
+    "type": "bulleted_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 2
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8186-9d6a-e8c25bfce38e",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"通知しない（サーバーの通知を完全ミュート）\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-810c-b4e6-e106f7fddbbc",
+    "type": "bulleted_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 3
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-8111-9c8a-c28e2474fce9",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 64
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"💻PC版\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8190-8c0f-e5f5ad61c237",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 65
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8110-85c5-d5ceeb053705.png\"}",
+    "blockId": "1d8a501e-f337-8110-85c5-d5ceeb053705",
+    "type": "image",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 66
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-81e2-bd34-c365db4bf84c.png\"}",
+    "blockId": "1d8a501e-f337-81e2-bd34-c365db4bf84c",
+    "type": "image",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 67
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"左側のサーバー一覧から設定したいサーバーをクリック\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8179-8bfd-c889a93d4792",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 68
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"サーバー名をタップ（画面上部）\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81c1-91b0-d225395a42b2",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 69
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「通知設定」を選択\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8189-894a-cdbd8b92670b",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 70
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下から通知設定を選ぶ\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81da-bf79-f61016ce6f01",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 71
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-81da-bf79-f61016ce6f01",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"すべてのメッセージ\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-812b-bb00-cd4ed1b18614",
+    "type": "bulleted_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-81da-bf79-f61016ce6f01",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"@メンションのみ（オススメ）\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8154-827f-ea159024c14f",
+    "type": "bulleted_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 2
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-81da-bf79-f61016ce6f01",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"通知しない\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8160-9fa3-c5b1dcad7b65",
+    "type": "bulleted_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 3
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"完了をクリック\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8145-9ef1-f152ad8c6fbb",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 72
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2. カテゴリごとの通知設定方法\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-81ed-bff9-f9d1faa5cecb",
+    "type": "heading_3",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 73
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8124-860a-e05c38594131",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 74
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"📱 スマホ版\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8108-ad16-c7aacba09a2c",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 75
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-819d-807a-f2a0abac00c3.png\"}",
+    "blockId": "1d8a501e-f337-819d-807a-f2a0abac00c3",
+    "type": "image",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 76
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カテゴリ名を長押し\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81bf-8d3b-e5e252ef9061",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 77
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「通知設定」をタップ\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8186-9398-ec6a9f8d763b",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 78
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"通知設定を選ぶ\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81bb-83a4-f500da5598ef",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 79
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"💻 PC版\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8153-a338-d269ee2a9d36",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 80
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-810e-aad6-ed118926f9e2.png\"}",
+    "blockId": "1d8a501e-f337-810e-aad6-ed118926f9e2",
+    "type": "image",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 81
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カテゴリ名を右クリック\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81de-baad-e6fd87fa37a7",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 82
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「通知設定」を選択\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81ed-bd7a-fd0386cb6049",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 83
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"通知設定を選ぶ\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81fb-adfb-eba2f1d1d3e4",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 84
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"PC版では「ミュート期間」（15分・1時間・1日・無期限など）を選べます！\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81a7-b4b2-e25c10a25493",
+    "type": "callout",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 85
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-81ec-a1ac-d3026f756119",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 86
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3. チャンネルごとの通知設定方法\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8144-89e0-e2b9dd365874",
+    "type": "heading_3",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 87
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "_",
+    "blockId": "1d8a501e-f337-81d5-a213-c2d67d635f45",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 88
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Discordを入れたら（\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"red\"},\"plain_text\":\"重要\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で紹介したのと同じ方法で通知設定を変えれます。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8138-884a-fdc62e61e39a",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 89
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"4. スレッド・フォーラムごとの通知設定方法\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-81b6-ad3d-c6b60e618540",
+    "type": "heading_3",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 90
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8172-97f6-f995d18942ef",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 91
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"📱 スマホ版\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81cf-97d5-f43f3a85b041",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 92
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-81af-9a0b-e1040a55d706.png\"}",
+    "blockId": "1d8a501e-f337-81af-9a0b-e1040a55d706",
+    "type": "image",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 93
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"通知を受け取りたいスレッド・フォーラムを長押し\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8135-9511-c67ad4a85266",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 94
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「通知」をタップ\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81d9-aaf6-ddf3cf10a090",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 95
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「通知設定」を選択\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81af-a8ba-fe3d6ffa1549",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 96
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"💻 \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"PC版\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8186-ab0f-cf1e077bc723",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 97
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-81b4-b11d-f760bb7b3905.png\"}",
+    "blockId": "1d8a501e-f337-81b4-b11d-f760bb7b3905",
+    "type": "image",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 98
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"スレッド・フォーラムを開く\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-81f7-828f-da54add0c010",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 99
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"画面右上の「…」をクリック\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-812c-bd8c-c920ebbe19db",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
+    "i": 100
+  }
+]

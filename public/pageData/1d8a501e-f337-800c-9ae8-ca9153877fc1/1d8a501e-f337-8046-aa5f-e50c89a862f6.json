@@ -1,0 +1,254 @@
+[
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここでは、これから活動で使用するプログラミング言語である \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Python\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" をインストールする方法を紹介します。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-80da-b80d-e9fe98ce3f36",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8011-9284-edf0f6cb8d8f",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 2
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"目次\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-80c2-99e3-ef59ecb8d096",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 3
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "_",
+    "blockId": "1d8a501e-f337-802e-ba8a-ce83cf71852a",
+    "type": "table_of_contents",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 4
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"⚠️\"},\"color\":\"yellow_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここで紹介する方法はWindows PC向けです。Windows以外のパソコン（MacやLinux）をお使いでPythonのインストール方法がわからない人は誰か先輩に聞いて下さい。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8054-be13-f4bd31910487",
+    "type": "callout",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 5
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonインストール方法\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-8051-9598-dc66548323b6",
+    "type": "heading_1",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 6
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "_",
+    "blockId": "1d8a501e-f337-8054-b248-f9632ae04876",
+    "type": "divider",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 7
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1. ダウンロード\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-808d-9071-de19b7e14c1c",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 8
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まず、Python公式サイト（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"https://www.python.org/downloads/\",\"href\":\"https://www.python.org/downloads/\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"にアクセスしてください。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-808d-b11e-cdb150037718",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 9
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Download Python 3.12.2\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」をクリックして、インストールファイルをダウンロードしましょう。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-808b-9a4a-dd33bf1d97bb",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 10
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-80a2-99a6-d35bb1377104.jpg\"}",
+    "blockId": "1d8a501e-f337-80a2-99a6-d35bb1377104",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 11
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2. インストール\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1d8a501e-f337-807d-9245-d9d92bde9728",
+    "type": "heading_2",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 12
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ダウンロードが完了したら、インストールをしましょう。ブラウザの右上のアイコンからインストールファイルを実行するか、エクスプローラーから実行しましょう。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8056-999d-cce3ecd384c9",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 13
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ブラウザから実行\",\"href\":null}],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-80d5-8a28-ce013ef0765b.jpg\"}",
+    "blockId": "1d8a501e-f337-80d5-8a28-ce013ef0765b",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 14
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"または\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8008-8060-e84451847d75",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 15
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エクスプローラーから実行\",\"href\":null}],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-805b-b073-d81e8038ca59.jpg\"}",
+    "blockId": "1d8a501e-f337-805b-b073-d81e8038ca59",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 16
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行されたら\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8093-ab70-e5540096acd3",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 17
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Add python.exe to PATH\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」にチェックを入れてから、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Install Now\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」をクリック\\n（「このアプリがデバイスに変更を加えることを許可しますか?」と出たら、「はい」をクリック）\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8071-bd35-fb0d8b0d62be",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 18
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8071-bd35-fb0d8b0d62be",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-80a6-99ec-d0d99b2ecab0.jpg\"}",
+    "blockId": "1d8a501e-f337-80a6-99ec-d0d99b2ecab0",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インストールが進行するので、完了するまで少し待つ\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8000-8ec2-d5b1c6745e84",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 19
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8000-8ec2-d5b1c6745e84",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-802d-bc33-d16940c0b09b.jpg\"}",
+    "blockId": "1d8a501e-f337-802d-bc33-d16940c0b09b",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インストールが終了したら、右下の「Close」をクリック\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8004-b8ec-cd6a0aea7797",
+    "type": "numbered_list_item",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 20
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8004-b8ec-cd6a0aea7797",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"❗\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"人によっては、このウィンドウに「Disable path length limit」と出るかもしれません。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-8064-a83e-ca1a03aafbd8",
+    "type": "callout",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 2
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8004-b8ec-cd6a0aea7797",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8036-a81e-fbbba1ca6a9e.jpg\"}",
+    "blockId": "1d8a501e-f337-8036-a81e-fbbba1ca6a9e",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8064-a83e-ca1a03aafbd8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"その場合には、その「Disable path length limit」をクリックして次に進んでください。もし「このアプリがデバイスに変更を加えることを許可しますか?」と出たら、「はい」をクリックしてください。\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-80e5-9a96-f2d7375fc187",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8064-a83e-ca1a03aafbd8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8035-9679-edf2b89bf2af.png\"}",
+    "blockId": "1d8a501e-f337-8035-9679-edf2b89bf2af",
+    "type": "image",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 2
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1d8a501e-f337-8052-a415-ff74900cbe25",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 21
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これで、Pythonのインストールは完了です！\",\"href\":null}]}",
+    "blockId": "1d8a501e-f337-80d1-b8b6-d7d6c10b1c52",
+    "type": "paragraph",
+    "pageId": "1d8a501e-f337-8046-aa5f-e50c89a862f6",
+    "i": 22
+  }
+]

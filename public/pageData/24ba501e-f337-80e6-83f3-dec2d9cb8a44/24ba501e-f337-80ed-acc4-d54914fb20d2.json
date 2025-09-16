@@ -1,0 +1,380 @@
+[
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"演習：Webページの作成\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-81c6-b1c5-ee4f159da505",
+    "type": "heading_1",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "_",
+    "blockId": "24ba501e-f337-81e1-bfc0-e3263033dd3f",
+    "type": "divider",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 2
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この演習問題では、本格的なWebページの作成を通じてHTML, CSSの基礎を固めて行きます。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81b7-8f22-eef2fac623d3",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 3
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"演習問題1～演習問題○○までで、以下のようなWebサイトを完成させます。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81c5-af63-eae1cb4e0e90",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 4
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_gray.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"完成画像\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81de-ba87-f1f3dee880cc",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 5
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-81de-ba87-f1f3dee880cc",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/24ba501e-f337-80e6-83f3-dec2d9cb8a44/image/24ba501e-f337-8165-9ac1-e8386ecbb1a5.png\"}",
+    "blockId": "24ba501e-f337-8165-9ac1-e8386ecbb1a5",
+    "type": "image",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このWebページはHTMLとCSSを使用して作成されています。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-817a-8791-df0c93787534",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 6
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このWebページの各部名称は以下のようになっています。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81ad-b1fa-e6185ead10bd",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 7
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_gray.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Webページの各部名称\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-818e-b166-cd4161ede9c6",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 8
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-818e-b166-cd4161ede9c6",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/24ba501e-f337-80e6-83f3-dec2d9cb8a44/image/24ba501e-f337-8134-bb17-c78932b7a636.png\"}",
+    "blockId": "24ba501e-f337-8134-bb17-c78932b7a636",
+    "type": "image",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そのWebページの最も上部に表示される画像を「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ヘッダー画像\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」、その下の他のページへジャンプするためのリンクを「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"グローバルナビゲーション\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」、大宮キャンパスの紹介などメインとなる内容の部分を「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"メインコンテンツ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」、その横にある目次の部分を「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"サイドバー\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」と呼びます。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-812a-b266-e730a8333360",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 9
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まずは、演習問題1～演習問題7で\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"HTMLのみ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使用して、以下のようなシンプルなページを作成します。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8161-b93a-fc9cb8020ae9",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 10
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_gray.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"HTMLオンリー\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8165-b4df-dfbbc29aed34",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 11
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8165-b4df-dfbbc29aed34",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/24ba501e-f337-80e6-83f3-dec2d9cb8a44/image/24ba501e-f337-8121-a3db-f2f5bbbdb50b.png\"}",
+    "blockId": "24ba501e-f337-8121-a3db-f2f5bbbdb50b",
+    "type": "image",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これをもとに、演習問題8～演習問題〇〇でCSSを使用して、上記のような完成形に近づけていきます。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8117-b4f8-f374f5b672c5",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 12
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"では、演習問題を始めましょう！\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81a7-9e4f-dace980391e5",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 13
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"準備\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-8166-882d-d1cd56d2eca7",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 14
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "_",
+    "blockId": "24ba501e-f337-812f-8c4c-cfe6c94efec6",
+    "type": "divider",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 15
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題の前に、Webページを作成する下準備を始めます。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81ec-85aa-e15282f913ca",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 16
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まずは、今回の演習問題に関するファイルを保存するフォルダを作成しましょう。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-816e-bf42-e6bf07bd2d3e",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 17
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeのエクスプローラー機能を使用して作成するのがおすすめです！\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81f4-affb-e0fde44f31ac",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 18
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Horizonの活動用のフォルダの中に、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"大宮キャンパス紹介\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という名前のフォルダを作ってください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-817c-8743-de482c167d0e",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 19
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"その中に、HTMLを記述する「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"index.html\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ファイル\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、CSSファイルを格納するための「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"styles\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"フォルダ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、画像を格納するための「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"images\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"フォルダ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を作成してください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-814d-bf71-d3ddd4d0928e",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 20
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ファイル\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"フォルダ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の違いに注意！\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81fe-a3c6-c29ca92aa39a",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 21
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"フォルダ階層のイメージは以下のようになります。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8143-86f9-ef755ff44bab",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 22
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"📂\"},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"[Horizon活動用フォルダ]\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8145-8213-e56c480305a1",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 23
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8145-8213-e56c480305a1",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"📂\"},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"大宮キャンパス紹介\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8151-8fc5-f8dcf47fb805",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8151-8fc5-f8dcf47fb805",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"📄\"},\"color\":\"yellow_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"index.html\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8163-a459-e96e17dd6471",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8151-8fc5-f8dcf47fb805",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"📂\"},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"styles\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8186-8391-feb75eb873d1",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 2
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8151-8fc5-f8dcf47fb805",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"📂\"},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"images\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8129-b976-e5a91e0b9578",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 3
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-8142-b687-fbea60eb0e26",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 24
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "_",
+    "blockId": "24ba501e-f337-811a-9927-f7ec97b6bc07",
+    "type": "divider",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 25
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"❗\"},\"color\":\"orange_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここから先の演習問題は、先ほど作成した「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"index.html\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」を編集していきます。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81be-a0d1-d346a396037c",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 26
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「index.html」のにHTMLの雛形を書き込み、その\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ページの言語を日本語\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ページタイトルを「大宮キャンパス紹介」\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と設定してください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-814e-991e-eb9ac0b52441",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 27
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ヒント\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-811d-b831-dc318d1fa5f0",
+    "type": "heading_3",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 28
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "_",
+    "blockId": "24ba501e-f337-81ae-bdf6-ca320ae055b8",
+    "type": "divider",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 29
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ヒント1：VSCodeの便利機能\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-816a-b446-eb0f4ac3c809",
+    "type": "toggle",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 30
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-816a-b446-eb0f4ac3c809",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeで何も書き込んでいないHTMLに、「!」とだけ打ち込むと、HTMLの雛形を自動生成することができます。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81d2-96bb-ef15efd11235",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ヒント2：変更する設定\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8131-9abe-f76e55308fd0",
+    "type": "toggle",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 31
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8131-9abe-f76e55308fd0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"HTMLファイルでページの言語を変更するには\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"html\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タグの\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"lang\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"属性を、ページタイトルを変更するには\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"title\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タグを編集すればよい。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-816c-a732-da59b8b97c3d",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "24ba501e-f337-8176-a82d-f3c6b7ae4e70",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 32
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2. テキストに関するタグ\",\"href\":\"/posts/curriculums/24ba501e-f337-80e6-83f3-dec2d9cb8a44/24ba501e-f337-80b4-8a8a-c9458eaef4ab\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"\",\"iconType\":\"\",\"title\":\"2. テキストに関するタグ\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "24ba501e-f337-814d-95c0-c4267f1c7a59",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "i": 33
+  }
+]

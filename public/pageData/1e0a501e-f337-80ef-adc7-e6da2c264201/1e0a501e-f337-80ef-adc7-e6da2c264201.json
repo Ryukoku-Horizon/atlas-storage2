@@ -1,0 +1,164 @@
+[
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ゲーム、Web、アプリなど、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"用途別分類\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を見たいなら\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-801b-8919-e987b47db960",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "{\"parent\":\"プログラミング言語用途による分類\",\"iconType\":\"\",\"iconUrl\":\"\",\"coverUrl\":\"\"}",
+    "blockId": "1e0a501e-f337-804e-bed1-f93373407682",
+    "type": "child_page",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-805c-82fd-d722153984ac",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "_",
+    "blockId": "1e0a501e-f337-80c2-a51d-cdbcb5167e90",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 4
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイル、インタプリタ別分類\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を見たいなら\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80bd-91a7-c18beafc5564",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 5
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "{\"parent\":\"実行方法による分類\",\"iconType\":\"\",\"iconUrl\":\"\",\"coverUrl\":\"\"}",
+    "blockId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "type": "child_page",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 6
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-8050-8b45-c899a4d30df0",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 7
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "_",
+    "blockId": "1e0a501e-f337-80f4-845d-f4ef8a75fd97",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 8
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"言語の\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"難易度分類\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を見たいなら\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80bc-a360-f891c384b0af",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 9
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "{\"parent\":\"難易度による分類\",\"iconType\":\"\",\"iconUrl\":\"\",\"coverUrl\":\"\"}",
+    "blockId": "1e0a501e-f337-8037-bf53-f8e3f878872a",
+    "type": "child_page",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 10
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-8045-a949-f871c0290d13",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 11
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "_",
+    "blockId": "1e0a501e-f337-80c6-831e-e43715ebf433",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 12
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラミング言語以外の\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"開発ツール\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を知りたいなら\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8046-ab39-c525137a6552",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 13
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "{\"parent\":\"開発ツール\",\"iconType\":\"\",\"iconUrl\":\"\",\"coverUrl\":\"\"}",
+    "blockId": "1e0a501e-f337-802f-9270-d323affa25d8",
+    "type": "child_page",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 14
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-8017-849d-cd977aa22723",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 15
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "_",
+    "blockId": "1e0a501e-f337-8087-91c2-ea2d5fd1d7b8",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 16
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-80a0-a213-f4aca29fe321",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 17
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リンクがない言語(ツール)は順序更新予定です。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-809e-bb10-ca1f0a9ffd99",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "i": 18
+  }
+]

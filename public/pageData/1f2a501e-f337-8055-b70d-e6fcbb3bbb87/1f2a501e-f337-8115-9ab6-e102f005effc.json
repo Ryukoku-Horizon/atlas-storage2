@@ -1,0 +1,155 @@
+[
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81f9-a3ba-f15e3b18e9ee",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここからは \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Flet\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" の基礎について学んでいきます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81e0-ac29-d415f458e824",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まず、PythonのプログラムにこれからFletを使うことを明記しなければなりません。プログラムの先頭にこのように書きます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8189-b151-e8e7f71def44",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\"],\"caption\":[]}",
+    "blockId": "1f2a501e-f337-8175-a6e2-ee0425d02ac8",
+    "type": "code",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"import flet\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で「このプログラムではFletを使うよ」ということを示しており、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"as ft\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で、「Fletを\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"という名前で使うよ」と示しています。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-813d-8704-cedabb179faa",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 5
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"つづいて、このようなコードを書くとFletでウィンドウを作ることができます。このウィンドウを生成することがGUI開発の第一歩です。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81c8-8ce8-f6e130d77373",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 6
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page :ft.Page):\\n    pass    #ここにさまざまなパーツなどを配置\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "1f2a501e-f337-8144-b06d-caaf90cd21f5",
+    "type": "code",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 7
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "data": "{\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"復習：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"#\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ってなんだよ！？\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81d6-815d-f9016ff30f98",
+    "type": "toggle",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 8
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81d6-815d-f9016ff30f98",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"#\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コメントアウト\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と呼ばれるもので、Pythonのプログラムでは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"#\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以降に書いたものは実行されずに無視されるのです。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8158-b6b2-d303035ee6f4",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81d6-815d-f9016ff30f98",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラムに関する説明や注意を残したいときに便利です。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81c5-8619-eb8b6cf1a6df",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これでコマンド\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"flet run プログラムファイル名\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を実行することで中身になにも表示されないウィンドウが立ち上がるはずです。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81ef-9255-ec98181c92a5",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 9
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8160-bd6e-edeaac4e134b.png\"}",
+    "blockId": "1f2a501e-f337-8160-bd6e-edeaac4e134b",
+    "type": "image",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 10
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"定義したmain関数の中身に、GUIを構成するパーツとなる\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「コントロール」\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"というもの（次回紹介）を配置していきます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8193-9f2b-daf4408ba2a6",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 11
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、Fletではこのウィンドウ内の領域を\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「ページ」\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と呼びます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81a8-83bc-cb383512bbc5",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 12
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回紹介した\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コード\",\"href\":\"/posts/curriculums/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/1f2a501e-f337-8115-9ab6-e102f005effc\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は、全てきちんと意味のあるプログラムではあるのですが、今それを完全に理解する必要はありません。今は、ウィンドウを生成できる魔法のコード、ぐらいの感覚で大丈夫です。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81bb-bdc3-f8e00a924548",
+    "type": "callout",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 13
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"現在配置している\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"pass\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は「なにもしない（配置しない）」ということを示す文言です。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"gray\"},\"plain_text\":\"たぶん使うのは最初で最後です。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81ff-ad4b-d8d5deac3fdd",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 14
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-8132-9f88-d40ec9792f95",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8115-9ab6-e102f005effc",
+    "i": 15
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"公式ドキュメント\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-811e-9cf0-c74dd0c531b6",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8163-a90e-e47ec3bb2ce3",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"parent\":[],\"url\":\"https://flet.dev/docs/controls/checkbox/\",\"ogp\":{\"title\":\"Checkbox | Flet\",\"icon\":\"https://flet.dev/img/favicon.ico\",\"image\":null,\"description\":\"Checkbox allows to select one or more items from a group, or switch between two mutually exclusive options (checked or unchecked, on or off).\"}}",
+    "blockId": "1f2a501e-f337-8111-be07-fcd9d074b99f",
+    "type": "bookmark",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"概要\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8110-936d-f46fccf62577",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8182-a765-c16f530175b8",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 5
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"その名の通りチェックボックスを作成することが出来ます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81f5-b5a3-c3384f5f5b56",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 6
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実装例\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8160-a34a-d98fb5104002",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 7
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "_",
+    "blockId": "1f2a501e-f337-813c-8237-e449bb65c101",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 8
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実装例とコード\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81e4-85af-e0ef1a1139e0",
+    "type": "quote",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 9
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"主なプロパティ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-813d-80f2-eaba8b19acb8",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 10
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8122-9685-e783574b7291",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 11
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"value\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-81aa-96a7-e831047ac926",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 12
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81c7-8c3c-fcbebf17f3f7",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 13
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"チェックボックスにチェックがされているかどうかを変更・参照できます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8131-a4ff-ea2c86a94480",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 14
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"value = True\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のときはチェックされている状態です。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81ba-8aa4-cc619c3bf4c6",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 15
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"デフォルトは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"value = False\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8124-8b7c-eb99d5afa178",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 16
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"label\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8140-a3f3-f31fbc7521be",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 17
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8188-8d35-dff560fc2078",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 18
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"チェックボックスの右側に表示されるラベル（テキスト）を設定します。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8177-897f-f9daaff7036f",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 19
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"on_change\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-81a5-837b-e8bfb2d4e965",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 20
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8179-bb87-dd0d0e85c533",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 21
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"イベントハンドラ\",\"href\":\"/posts/curriculums/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/1f2a501e-f337-814f-8d9a-d3ff930e4a0c\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81f2-a146-c508393e80f2",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 22
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"チェックボックスが変更されたときに発火します。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81d4-8656-eb359866537e",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 23
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-81a6-aa01-d33008d3c481",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 24
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"上記以外にも複数の便利なプロパティが存在します。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-812d-8ec5-ce9ec9469cfa",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 25
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"詳しくは、公式ドキュメントを読んでみてください。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-816e-aadd-e28f0d3ada1c",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 26
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "data": "{\"parent\":[],\"url\":\"https://flet.dev/docs/controls/checkbox/\",\"ogp\":{\"title\":\"Checkbox | Flet\",\"icon\":\"https://flet.dev/img/favicon.ico\",\"image\":null,\"description\":\"Checkbox allows to select one or more items from a group, or switch between two mutually exclusive options (checked or unchecked, on or off).\"}}",
+    "blockId": "1f2a501e-f337-8120-b731-c1e4c9c7e438",
+    "type": "bookmark",
+    "pageId": "1f2a501e-f337-8143-a535-edb6d9256710",
+    "i": 27
+  }
+]

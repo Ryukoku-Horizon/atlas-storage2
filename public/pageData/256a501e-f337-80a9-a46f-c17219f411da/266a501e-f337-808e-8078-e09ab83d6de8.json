@@ -1,0 +1,749 @@
+[
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここではGit、GitHubを始める上で必須となる操作方法を説明します。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8024-a98a-c34e38b25653",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Git,GitHubで開発をするとき、以下のセットアップをする必要があります\",\"href\":null}]}",
+    "blockId": "26aa501e-f337-80ba-b4d9-fe2ad4bb8915",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"セットアップの流れ\",\"href\":null}]}",
+    "blockId": "26aa501e-f337-8027-8f6d-dba26665d28c",
+    "type": "quote",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "26aa501e-f337-8027-8f6d-dba26665d28c",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"(1) GitHubでリポジトリを作成\",\"href\":null}]}",
+    "blockId": "26aa501e-f337-8026-988e-ce6e8ff40368",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "26aa501e-f337-8027-8f6d-dba26665d28c",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"(2) リポジトリを自分のPCにクローン\",\"href\":null}]}",
+    "blockId": "26aa501e-f337-80d6-95aa-dc25ecd4f9f0",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "26aa501e-f337-8027-8f6d-dba26665d28c",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"(3) 初回Pushする\",\"href\":null}]}",
+    "blockId": "26aa501e-f337-80b3-96af-ee8b34c15601",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回はこの３つの操作を説明します\",\"href\":null}]}",
+    "blockId": "26aa501e-f337-80c4-bb7f-c7f1ac2d2302",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 4
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リポジトリを作成する\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "266a501e-f337-8034-ab0e-f563b82ca3f5",
+    "type": "heading_2",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 5
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "_",
+    "blockId": "266a501e-f337-8057-a7b0-f3f6f570a8fa",
+    "type": "divider",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 6
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"orange_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リポジトリとは？\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80a9-9384-e9792087b4af",
+    "type": "callout",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 7
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-80a9-9384-e9792087b4af",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロジェクトのフォルダみたいなもの\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で、コードやドキュメント、設定ファイルなどをまとめて保存しておける場所です。GitHubでは、オンライン上でリポジトリにアクセスできるため、チーム開発をする際にコードやその他のファイルを共有することができます。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8078-80f6-cb50e2cde26f",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-80a9-9384-e9792087b4af",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"特徴をシンプルにいうと：\",\"href\":null}]}",
+    "blockId": "266a501e-f337-808e-b333-eda6522298a4",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-80a9-9384-e9792087b4af",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"📂 \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロジェクトごとの保管庫\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：ソースコードやその他のファイルなどが入る。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8019-a791-f9b628e34a9a",
+    "type": "bulleted_list_item",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 4
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-80a9-9384-e9792087b4af",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"🌍 \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"オンラインで共有可能\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：他の人と一緒に開発できる。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80ce-964d-e1c32317b4c7",
+    "type": "bulleted_list_item",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 5
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-80a9-9384-e9792087b4af",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"⏪ \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"変更履歴が残る\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（Gitによるバージョン管理）。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80df-930d-e8a5363a3f8d",
+    "type": "bulleted_list_item",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 6
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-80a9-9384-e9792087b4af",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"🔗 \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"公開/非公開を選べる\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（オープンソースにしたり、自分だけのプライベートにしたりできる）。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8084-b28e-eea17cf59253",
+    "type": "bulleted_list_item",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 7
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-80a9-9384-e9792087b4af",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"つまり、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"GitHubのリポジトリ = プロジェクトのデータと履歴をまとめた保管庫\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" です。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80c2-a59a-c6481b1cfb5a",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 8
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-80a9-9384-e9792087b4af",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"👉 例えると、\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80d6-b328-fd95b758cca0",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 9
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-80a9-9384-e9792087b4af",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「パソコンのフォルダ」＋「過去の変更履歴」＋「クラウド共有」が合わさったもの、と考えると分かりやすいです。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8067-bf12-ccddf16dd704",
+    "type": "bulleted_list_item",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 10
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-80a9-9384-e9792087b4af",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/256a501e-f337-80a9-a46f-c17219f411da/image/26aa501e-f337-80e2-b118-cc73aecbbff2.png\"}",
+    "blockId": "26aa501e-f337-80e2-b118-cc73aecbbff2",
+    "type": "image",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リポジトリを作成するには、まずGitHubのホームページで、以下の画像のように「New repository」をクリックします。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80a1-a5b0-c6fafe2f2b19",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 8
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/256a501e-f337-80a9-a46f-c17219f411da/image/266a501e-f337-80b3-8a03-e49a6dee5f0a.png\"}",
+    "blockId": "266a501e-f337-80b3-8a03-e49a6dee5f0a",
+    "type": "image",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 9
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リポジトリの作成ページが表示されたら、リポジトリの名前を入力します。（名前は「~~ is available」と出てきたらなんでもOKです）\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8056-b955-c7ecce04db88",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 10
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/256a501e-f337-80a9-a46f-c17219f411da/image/266a501e-f337-8027-b3b6-f0a5f257476a.png\"}",
+    "blockId": "266a501e-f337-8027-b3b6-f0a5f257476a",
+    "type": "image",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 11
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"下にスクロールし、「Create repository」をクリックします。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8048-939c-dbc83e01dba5",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 12
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/256a501e-f337-80a9-a46f-c17219f411da/image/266a501e-f337-802e-8420-c8b64adf1a88.png\"}",
+    "blockId": "266a501e-f337-802e-8420-c8b64adf1a88",
+    "type": "image",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 13
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下のようなページが表示されればリポジトリの作成は完了です。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80f2-a70a-eec892f16617",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 14
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/256a501e-f337-80a9-a46f-c17219f411da/image/266a501e-f337-803c-9e45-f684a326d2f5.png\"}",
+    "blockId": "266a501e-f337-803c-9e45-f684a326d2f5",
+    "type": "image",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 15
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このページがリポジトリのページです。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80b8-8199-ea2b6bb31b06",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 16
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リポジトリをクローンする\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "266a501e-f337-807e-9e6a-dc795c4b1b97",
+    "type": "heading_2",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 17
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "_",
+    "blockId": "266a501e-f337-804f-bf9f-d19189894918",
+    "type": "divider",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 18
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"orange_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リポジトリのクローンとは？\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8054-978d-e70899f7c9e6",
+    "type": "callout",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 19
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8054-978d-e70899f7c9e6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リポジトリのクローンとは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"GitHubにあるリポジトリをローカル（自分のパソコン）にコピーすること\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80dd-b95a-c5a7dd959f2a",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8054-978d-e70899f7c9e6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ポイントを簡単に言うと：\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80c2-90f2-e3f4d1ed8eed",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8054-978d-e70899f7c9e6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"📥 \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ダウンロード＋Git管理付き\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：単なるダウンロードと違って、変更履歴も全部コピーされる。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8066-a04b-f4b614b2a683",
+    "type": "bulleted_list_item",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 4
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8054-978d-e70899f7c9e6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"🖥️ \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ローカル作業が可能\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：コピーしたリポジトリの中で、ファイルを編集・追加できる。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8001-bf25-f1c98e5988bf",
+    "type": "bulleted_list_item",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 5
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8054-978d-e70899f7c9e6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"🔄 \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"GitHubと同期できる\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：編集後にGitHubに「push」すれば、変更を共有できる。（pushについては後述）\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80b2-8c85-c3153e4b561e",
+    "type": "bulleted_list_item",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 6
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8054-978d-e70899f7c9e6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"👉 例えると：\",\"href\":null}]}",
+    "blockId": "266a501e-f337-807c-854b-f19fc300fca1",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 7
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8054-978d-e70899f7c9e6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"GitHubにある「プロジェクトの本」を、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"自分の机にまるごとコピーして持ってくる\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"感じです。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8006-a177-d347bb279a40",
+    "type": "bulleted_list_item",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 8
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8054-978d-e70899f7c9e6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"机の上で書き込み（編集）したら、またGitHubに送り返して（push）、みんなと共有できます。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80db-9bb6-ff5c980ebdc8",
+    "type": "bulleted_list_item",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 9
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8054-978d-e70899f7c9e6",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/256a501e-f337-80a9-a46f-c17219f411da/image/26aa501e-f337-80d2-bd1f-f8d6c29832fb.png\"}",
+    "blockId": "26aa501e-f337-80d2-bd1f-f8d6c29832fb",
+    "type": "image",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リポジトリのページで、以下の画像にあるボタンをクリックしてコマンドをコピーします。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-803b-ac64-f8a0092cab59",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 20
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/256a501e-f337-80a9-a46f-c17219f411da/image/266a501e-f337-80ff-b9b9-ef455f1d3461.png\"}",
+    "blockId": "266a501e-f337-80ff-b9b9-ef455f1d3461",
+    "type": "image",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 21
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeでターミナルを開きます\",\"href\":null}]}",
+    "blockId": "26aa501e-f337-804a-9611-e6d0b5365e5f",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 22
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/256a501e-f337-80a9-a46f-c17219f411da/image/26aa501e-f337-8041-b1e4-c8f4951fb424.png\"}",
+    "blockId": "26aa501e-f337-8041-b1e4-c8f4951fb424",
+    "type": "image",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 23
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/256a501e-f337-80a9-a46f-c17219f411da/image/26aa501e-f337-8059-8d1b-cb7107e5ea78.png\"}",
+    "blockId": "26aa501e-f337-8059-8d1b-cb7107e5ea78",
+    "type": "image",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 24
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/256a501e-f337-80a9-a46f-c17219f411da/image/26aa501e-f337-8001-bf6c-c70fb6a36b01.png\"}",
+    "blockId": "26aa501e-f337-8001-bf6c-c70fb6a36b01",
+    "type": "image",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 25
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下のように、VSCodeでフォルダを開き、ターミナルに貼り付けてEnterで実行します。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8040-9d52-ee7118f1e6c6",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 26
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/256a501e-f337-80a9-a46f-c17219f411da/image/266a501e-f337-8004-9f78-ea990d3b90e8.png\"}",
+    "blockId": "266a501e-f337-8004-9f78-ea990d3b90e8",
+    "type": "image",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 27
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下のようにターミナルに出てきて、README.mdと言うファイルが作成されていればクローン完了です\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80e3-9240-fdcd33c2402e",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 28
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/256a501e-f337-80a9-a46f-c17219f411da/image/266a501e-f337-806c-b79e-cd18129cf102.png\"}",
+    "blockId": "266a501e-f337-806c-b79e-cd18129cf102",
+    "type": "image",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 29
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/256a501e-f337-80a9-a46f-c17219f411da/image/266a501e-f337-802d-a431-e58ce2eb5dfa.png\"}",
+    "blockId": "266a501e-f337-802d-a431-e58ce2eb5dfa",
+    "type": "image",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 30
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"pushをする（初回Push）\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "266a501e-f337-80d1-9600-e27bdc30e7ec",
+    "type": "heading_2",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 31
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "_",
+    "blockId": "266a501e-f337-805b-9e0a-c6046fa346b5",
+    "type": "divider",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 32
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"orange_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"pushとは？\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8096-bf10-dbe7b05494d0",
+    "type": "callout",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 33
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8096-bf10-dbe7b05494d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"GitHubでpushとは、自分のパソコン（ローカル）のリポジトリで行った変更を、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"GitHub上のリポジトリに送る操作\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のことです。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80c8-8304-edf249271a10",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8096-bf10-dbe7b05494d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ポイントを簡単に言うと：\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8089-8d1f-ec79a0e8893c",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8096-bf10-dbe7b05494d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"✏️ ローカルでコードを編集して保存する。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-802c-b001-c0f1726a753d",
+    "type": "bulleted_list_item",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 4
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8096-bf10-dbe7b05494d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"🚀 その変更をGitHubにアップロードするのが \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"push\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8004-a865-f09436f65c55",
+    "type": "bulleted_list_item",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 5
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8096-bf10-dbe7b05494d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"🌍 こうすることで、GitHub上でも変更が反映されて、他の人と共有できる（これでチーム開発が効率的に行える）。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8021-b63e-c02915c3ed06",
+    "type": "bulleted_list_item",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 6
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8096-bf10-dbe7b05494d0",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/256a501e-f337-80a9-a46f-c17219f411da/image/26aa501e-f337-8066-86f1-fc3b0e880c80.png\"}",
+    "blockId": "26aa501e-f337-8066-86f1-fc3b0e880c80",
+    "type": "image",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"pushをするには、ターミナルで以下のコマンドを順番に実行していきます。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8039-aba9-e9f742ebe4fd",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 34
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"git add .\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8098-bffe-fd84b8dd3432",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 35
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"git commit -m “メッセージ”\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80dc-a69a-c983765b4cfa",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 36
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"git push\",\"href\":null}]}",
+    "blockId": "266a501e-f337-805d-9f6d-de8981243d95",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 37
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/playback-play-button_red.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行動画\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80ee-961c-e1604b12f1c9",
+    "type": "callout",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 38
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-80ee-961c-e1604b12f1c9",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/256a501e-f337-80a9-a46f-c17219f411da/video/266a501e-f337-805b-90e6-d261a1e963c3.mov\"}",
+    "blockId": "266a501e-f337-805b-90e6-d261a1e963c3",
+    "type": "video",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"orange_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"git commit -m “メッセージ”\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"について補足\",\"href\":null}]}",
+    "blockId": "266a501e-f337-8061-ab9b-c9d2d5f9d892",
+    "type": "callout",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 39
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8061-ab9b-c9d2d5f9d892",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"”メッセージ”\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の部分は、実際の開発においてはそのpushがどのような変更を行なったかを説明する文章を入れます。チーム開発では誰がどのような変更を加えたのかがわかることが重要なので、できるだけ明確にどこをどのように編集したかを書いておきましょう。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-800b-91ba-c80557ff5229",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-8061-ab9b-c9d2d5f9d892",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えば、アプリのトップページを編集した場合、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"git commit -m “トップページを編集”\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のように書きます。\",\"href\":null}]}",
+    "blockId": "266a501e-f337-805b-a9b4-e796f71079c7",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"GitHubのリポジトリのページにいき、以下のようにREADME.mdファイルが追加されていればpush完了です！\",\"href\":null}]}",
+    "blockId": "266a501e-f337-80fc-817f-d94ae6012924",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 40
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/256a501e-f337-80a9-a46f-c17219f411da/image/266a501e-f337-8077-adaf-cb7863544690.png\"}",
+    "blockId": "266a501e-f337-8077-adaf-cb7863544690",
+    "type": "image",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 41
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここでは、リポジトリを作成してから最初のPushを「初回Push」と呼びます。初回Pushをするまでリポジトリは空です。\",\"href\":null}]}",
+    "blockId": "26aa501e-f337-809e-b20a-d00bbbff815e",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 42
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まとめ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "26aa501e-f337-804a-b3da-efa5dd7a085a",
+    "type": "heading_2",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 43
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "_",
+    "blockId": "26aa501e-f337-8080-ae79-ed86f64db0d1",
+    "type": "divider",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 44
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここではGitとGitHubを使い始める上で必要な操作を説明しました。\",\"href\":null}]}",
+    "blockId": "26aa501e-f337-8061-a8de-e5c0964329a1",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 45
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"使い始めるには、上記のように、\",\"href\":null}]}",
+    "blockId": "26aa501e-f337-8039-8f47-cf30a6d1b300",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 46
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リポジトリを作成する\",\"href\":null}]}",
+    "blockId": "26aa501e-f337-809b-b909-fffe71ddeb05",
+    "type": "bulleted_list_item",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 47
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リポジトリを自分のパソコンにクローンする\",\"href\":null}]}",
+    "blockId": "26aa501e-f337-8032-9c2c-eae3a308ec6a",
+    "type": "bulleted_list_item",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 48
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リポジトリにデータをPushする（初回Push）\",\"href\":null}]}",
+    "blockId": "26aa501e-f337-800c-b953-e6e14fb13f26",
+    "type": "bulleted_list_item",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 49
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"という操作が基本となります。\",\"href\":null}]}",
+    "blockId": "26aa501e-f337-80f5-af51-d7ca6a03c9f2",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 50
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "_",
+    "blockId": "26aa501e-f337-807f-a285-e51a9d2a67d7",
+    "type": "divider",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 51
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次→\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"チーム開発での使い方\",\"href\":\"/posts/curriculums/256a501e-f337-80a9-a46f-c17219f411da/26aa501e-f337-80ca-b7ca-e768aa7bc7f0\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"👥\",\"iconType\":\"emoji\",\"title\":\"チーム開発での使い方\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "26aa501e-f337-8060-a070-dab169f435c1",
+    "type": "paragraph",
+    "pageId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "i": 52
+  }
+]

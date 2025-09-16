@@ -1,0 +1,452 @@
+[
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-810d-9552-c07146bc6ecc",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"✅\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"概要\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-81d7-81d9-cdbce42ef4b3",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このガイドは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"JavaScript\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"がどんな言語なのかを紹介し、「Hello, World!」を出力するところまでをわかりやすく解説する学習資料です。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8105-b2cd-f8a45906c992",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "_",
+    "blockId": "1e0a501e-f337-811d-bd18-eb8350611a05",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 4
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1. JavaScriptとは？\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-8197-a920-ea12ed090008",
+    "type": "heading_2",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 5
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"✔️ Html, Cssと共にWebの構成要素の1つであり、動的な動きやアニメーション、ゲームが作れます。\\n✔️ スクリプト言語型で、コンパイルが必要ではなく、非同期処理、通信に特化されている。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-81ec-bbbc-ff7edaaa3a93",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 6
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"💡\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"JavaScriptの特徴\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-81e6-92fa-e6f8a10c23eb",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 7
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"動的型付け\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8140-95b5-d3744dbd36ff",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 8
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"オブジェクト指向・関数型どちらもできる\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8195-8981-fa249fab5325",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 9
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インタプリタ型言語\",\"href\":null}]}",
+    "blockId": "1e2a501e-f337-802f-88eb-c52e618794ef",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 10
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ブラウザ上で動く\",\"href\":null}]}",
+    "blockId": "1e2a501e-f337-8008-90cc-f6f980fec81e",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 11
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e2a501e-f337-8008-90cc-f6f980fec81e",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"→ 特別なソフトなしで、誰でもWebページ上で動かせる。\",\"href\":null}]}",
+    "blockId": "1e2a501e-f337-80e1-9278-d7f3639917da",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-814d-a10d-cd880e94dc26",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 12
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "_",
+    "blockId": "1e0a501e-f337-81d3-8f5b-c9360cbed4b4",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 13
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1-2. 開発環境の構築\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-817a-84ee-c44fbbd13104",
+    "type": "heading_2",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 14
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"(1) WindowsでのJS言語開発環境構築\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-81e3-9b25-cb9c8222c526",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 15
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "_",
+    "blockId": "1e0a501e-f337-818b-a6a5-ce8c42c82347",
+    "type": "column_list",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 16
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-818b-a6a5-ce8c42c82347",
+    "data": "_",
+    "blockId": "1e0a501e-f337-81a4-b5ff-e7a635ebb3ac",
+    "type": "column",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-818b-a6a5-ce8c42c82347",
+    "data": "_",
+    "blockId": "1e0a501e-f337-816a-9573-ddb86da149e1",
+    "type": "column",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-81a4-b5ff-e7a635ebb3ac",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VS Codeを使用\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：Visual Studio Codeを使用\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-81af-898b-db49ff44be6b",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-816a-9573-ddb86da149e1",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-8112-93c6-f3758502a3ed",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-816a-9573-ddb86da149e1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テキストエディタ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：メモ帳やnotepad++などを使用\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8141-b543-fa6488e841d9",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"(2) Macでの開発環境構築\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-819b-82b3-f8987ded1831",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 17
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "_",
+    "blockId": "1e0a501e-f337-81c4-b528-cf82f8041312",
+    "type": "column_list",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 18
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-81c4-b528-cf82f8041312",
+    "data": "_",
+    "blockId": "1e0a501e-f337-81e3-8cd0-c8111a847d9d",
+    "type": "column",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-81c4-b528-cf82f8041312",
+    "data": "_",
+    "blockId": "1e0a501e-f337-81fc-897b-dc8d04f48584",
+    "type": "column",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-81fc-897b-dc8d04f48584",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ブラウザのコンソール\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：ブラウザの中で\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Cmd + Opt + I\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で開発者ツール(コンソール)を使用\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8191-8319-fbcd82f25e40",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-81e3-8cd0-c8111a847d9d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VS Codeの設定\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：Visual Studio Codeを使用\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-81f9-a765-ebd152f72410",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-81f2-8a79-dace207d02b4",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 19
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "_",
+    "blockId": "1e0a501e-f337-810d-8a96-eb0c7adfb975",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 20
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1-3. はじめてのプログラム - \\\"Hello, World!\\\"\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-8197-bcac-ef7ee8173542",
+    "type": "heading_2",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 21
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"C言語の基本的な作動方法を理解するために、「Hello, World!」を出力する簡単なコードを見てみましょう！\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-818d-a489-d863586d75e3",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 22
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Hello Worldを表示するコード\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-8148-af91-cfa162f5fa03",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 23
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"language\":\"javascript\",\"parent\":[\"console.log(\\\"Hello World!\\\")\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-81e4-96c5-ff0cb30da4ce",
+    "type": "code",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 24
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行方法：\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-81ec-8ce5-d4f7264bfd13",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 25
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" コードを作成\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8109-a5f3-eaaa6b264583",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 26
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8109-a5f3-eaaa6b264583",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"( 1 ) コードを\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"hello.js\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ファイルとして保存する\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8127-b7f0-cdb236e10c9f",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8109-a5f3-eaaa6b264583",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"( 2 ) コンソールにタイピングする\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8115-b6e7-e509e636fc5e",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-81c3-8db3-c4705243022f",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 27
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-81ce-abad-c27269ac0b68",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 28
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行結果：\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-81e9-a4dc-cbd9682af461",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 29
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"Hello, World!\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-812e-8224-dffedf7a2f09",
+    "type": "code",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 30
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-8160-9c31-c2a7e8aba5b3",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 31
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コード概説：\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-8145-adf6-cfa9c649ea0d",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 32
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"language\":\"javascript\",\"parent\":[\"console.log(\\\"Hello World!\\\")\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-81b3-bfc7-e5242fe45e57",
+    "type": "code",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 33
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このように、Javascriptでは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"console.log\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数でconsoleのカッコにある文字列を出力する。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8182-8661-cd8aa59f998e",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 34
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-81b6-a2d4-ec5939506d6f",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 35
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Javascriptは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"スクリプト言語\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で元のプログラムを制御する為に使われます。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-81c1-8517-eb69c39132ce",
+    "type": "callout",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 36
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-81c1-8517-eb69c39132ce",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インタプリタ方式を採択している言語なのでインタプリタ言語の特徴を大部分持っています。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8102-b20a-c62d8c4affa8",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-817c-8c98-c8de87294add",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ca-9e4d-d6ed64bb9789",
+    "i": 37
+  }
+]

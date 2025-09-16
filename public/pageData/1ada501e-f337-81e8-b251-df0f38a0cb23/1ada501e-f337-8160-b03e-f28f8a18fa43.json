@@ -1,0 +1,488 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回はpythonとそのライブラリであるsqlite3を使用して、データベースとの接続方法と、テーブルの作成方法を紹介します。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-818f-9927-edc36ef7d009",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データの保存形式\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-8174-8930-fef084af484d",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "_",
+    "blockId": "1ada501e-f337-81e3-bfb1-f77f87ad47b2",
+    "type": "divider",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データの保存形式については「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"データベースとは\",\"href\":\"/posts/curriculums/1ada501e-f337-81e8-b251-df0f38a0cb23/1ada501e-f337-81ce-889f-d99449a4ba30\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」で一度説明しましたが、ここで改めて解説します。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81b1-9c80-d5f36ec050bf",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベースはテーブル（表）の形式で保存されます。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8147-ae7b-eb85d461fe06",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下は人の基本情報を保存するためのpersonテーブルの例です。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81a4-a506-e819e5914c9d",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-81e8-b251-df0f38a0cb23/image/1ada501e-f337-81fa-b995-f07049c29104.png\"}",
+    "blockId": "1ada501e-f337-81fa-b995-f07049c29104",
+    "type": "image",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テーブル\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は、データの集まりを格納する場所です。テーブルはデータを行とカラム（列）の構造で整理し、それぞれの行が個別のデータ項目を表し、列がデータの属性や種類を示します。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8182-888d-fb6a739def1d",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カラム\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"はテーブルの各列を指し、それぞれの属性を表します。例えば、personテーブルには、「id」、「name」、「gender」のカラムを含ます。カラムごとにデータの型（文字列、数値など）が決められており、各カラムに保存されたデータがその属性に応じた情報を提供します。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81ff-a5bb-ff70cc53d11d",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"行\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は、実際のデータが格納されている単位です。例えば、personテーブルの1行目が「1、Sato、Man」であれば、それが1つのデータとして保存されます。テーブル内の各行は通常、識別のために一意（他と重複しない値）のID（\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"主キー\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）を持ちます。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8195-8bb6-fcd04c35acba",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベースと接続する\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-8187-98eb-eed602469e12",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "_",
+    "blockId": "1ada501e-f337-8162-965f-e8306ca23df7",
+    "type": "divider",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"pythonでデータベースを操作するには、まずデータベースと接続する必要があります。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81f0-9dff-daad0dbabed4",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まず、「TEST.db」という名前のデータベースファイルを作ってください。\\n(すでに「TEST.db」を作った人はそのままでいいです)\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8167-998c-f2572495e932",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そして、conn.pyというファイルを作ってください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-819f-8550-f0679afda90d",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"conn.pyに、以下のようなコードを書いてください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81e7-85fd-d88befc7af88",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"conn.py\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-811e-a06e-e2aada157f8a",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-811e-a06e-e2aada157f8a",
+    "data": "{\"language\":\"python\",\"parent\":[\"import sqlite3\\n\\n# データベースファイルの名前を保持\\ndbname = 'TEST.db'\\n# データベースに接続\\nconn = sqlite3.connect(dbname)\\n# データベースを操作するカーソルオブジェクトを作成\\ncur = conn.cursor()\\n# データベースにデータをコミット\\nconn.commit()\\n\\n# データベースの接続を切断\\ncur.close()\\nconn.close()\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-81ef-a7ff-c018980318c1",
+    "type": "code",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コードを上から順番に説明します。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81bf-ac6c-f15d1ed7ec26",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"最初に、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"sqlite3\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"モジュールをインポートします。\\n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"dbname\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"にデータベースの名前を代入します。\\n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"sqlite3\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"モジュールの\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"connect\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数の引数に\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"dbname\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を入れて、データベースと接続します。\\nデータベースを操作するための\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"cursor\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"オブジェクトを作成します。\\nデータベースにデータをコミット（確定）します。\\n最後に、データベースの接続を切断します。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81a8-81e7-e944999211f0",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これでデータベースに接続し、操作することが可能となります。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8184-a01c-d36aa7fb6006",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 20
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このコードはsqlite3を使う場合、ほぼ毎回必要になります。これだけで内容を理解することはできないと思いますが、とりあえず今はデータベースを操作するために必要な前準備だと思っておいてください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8119-97c8-eb4e3274a54c",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 21
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベースの操作方法\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-81b4-bf76-d43e23756fad",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 22
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "_",
+    "blockId": "1ada501e-f337-81d7-87a4-d49a20602ad2",
+    "type": "divider",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 23
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベースを操作するためには、基本的に\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"cursor\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"オブジェクトの\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"execute\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" メソッドを使います。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81dc-8db7-c091037a8382",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 24
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベース操作方法\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8142-95db-cb348e6039ba",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 25
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8142-95db-cb348e6039ba",
+    "data": "{\"language\":\"python\",\"parent\":[\"cursorオブジェクト.execute('データベースへの命令')\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-8176-9233-d916de55f29a",
+    "type": "code",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"green\"},\"plain_text\":\"データベースへの命令\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の部分は、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"SQL\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"というデータベースを操作するための言語で書きます。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-815e-9b8f-e79761f669ff",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 26
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"CRUD操作（データの保存、データの取得、データの編集、データの削除）は、基本的にこの\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"execute\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"メソッドを使い、引数にSQL文を入れて行います。なお、SQL文の部分が文字列であることに注意してください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81b0-bc92-e1e121dfaa61",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 27
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベーステーブルを作成する\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-81fb-bb8a-c6367781420b",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 28
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "_",
+    "blockId": "1ada501e-f337-8127-bebb-dc882d910d08",
+    "type": "divider",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 29
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"それでは、ここから実際にデータベースを操作しましょう。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81cf-a45f-e6c940a41154",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 30
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データを保存するためには、まずテーブルを作成しなければなりません。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8174-8451-e0eab9c16b3b",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 31
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テーブルを作成するには、SQL文では\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"CREATE TABLE\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" を使います。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8157-87f7-d7da00a649a8",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 32
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"CREATE TABLE\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の書き方\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81ee-b4c5-cfa93abf8050",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 33
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ee-b4c5-cfa93abf8050",
+    "data": "{\"language\":\"sql\",\"parent\":[\"CREATE TABLE テーブル名(’カラム名 カラムの属性’)\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-81cf-8706-fe25c4ea0652",
+    "type": "code",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えば、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"person\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"という名前のテーブルに、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"id、name、age、gender\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"というカラムを持たせたければ、下のように書きます。\\nconn.pyの内容を以下のようにしてください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-813f-9201-c72ba3b4b446",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 34
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"conn.py\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81a9-b1b5-cbb5dc6ab093",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 35
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81a9-b1b5-cbb5dc6ab093",
+    "data": "{\"language\":\"python\",\"parent\":[\"import sqlite3\\n\\n# データベースファイルの名前\\ndbname = 'TEST.db'\\n# データベースに接続\\nconn = sqlite3.connect(dbname)\\n\\n# データベースを操作するカーソルオブジェクトを作成\\ncur = conn.cursor()\\n\\n\",\"# テーブル作成\\ncur.execute(\\n    'CREATE TABLE person(id INTEGER PRIMARY KEY AUTOINCREMENT, name STRING, age INTEGER, gender STRING)')\",\"\\n\\n# データベースにデータをコミット\\nconn.commit()\\n\\n# データベースの接続を切断\\ncur.close()\\nconn.close()\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-81c3-8857-dc5c2dd41ac4",
+    "type": "code",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テーブルを作成するSQL文は以下のようになっています。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8158-93bb-c7b42e2c0480",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 36
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"language\":\"sql\",\"parent\":[\"CREATE TABLE person(id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, age INTEGER, gender TEXT)\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-81d1-8eb4-ca89074f2e7c",
+    "type": "code",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 37
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"id\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の属性は、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"INTEGER PRIMARY KEY AUTOINCREMENT\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8122-9770-e40355ade769",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 38
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"name\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の属性は、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"TEXT\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-817e-b2a7-eadfe55b51e3",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 39
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"age\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の属性は、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"INTEGER\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81a9-9583-dfc7dc2bbd57",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 40
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"gender\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の属性は、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"TEXT\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-811d-bca0-c9389a808f8b",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 41
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まずidを見ましょう。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-811a-a226-c5b352e49be2",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 42
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"id\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"には、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"INTEGER\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"PRIMARY KEY\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"AUTOINCREMENT\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の三つの属性があります。\\n・\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"INTEGER\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は、値の型であり、pythonでいうところのint型です。\\n・\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"PRIMARY KEY\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" は、テーブル内で各行を一意に識別するカラムに設定します。カラムは重複を許さず、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"NULL\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" 値（空の値）も許可しません。\\n・\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"AUTOINCREMENT\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は、あるデータが保存される時、idの値を指定していなくても自動で値が入るようにする属性です。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81ed-8477-f38157858149",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 43
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"他を見ると、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"name\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"gender\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の属性は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"STRING\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"であり、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"age\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の属性は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"INTEGER\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\\n・\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"TEXT\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は、値の型であり、pythonで言うところのstr型です。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81b2-ae7c-f98d6fb9adf1",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 44
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一度、conn.pyを実行してみましょう。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8109-af84-eed3619c2d6f",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 45
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"TEST.dbの中を確認してください。TEST.dbの中が以下のようになっていればテーブルの作成に成功です。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81fe-a249-dbe6bca4cf86",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 46
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-81e8-b251-df0f38a0cb23/image/1ada501e-f337-81ba-a5ab-d04996bc3e86.png\"}",
+    "blockId": "1ada501e-f337-81ba-a5ab-d04996bc3e86",
+    "type": "image",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 47
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ちなみに、データベースではテーブルを複数作ることが可能です\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81da-b4c0-c41e15dc7aa2",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 48
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1ada501e-f337-81f5-890b-fb26d359a5e9",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 49
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次→\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データの保存(Create)\",\"href\":\"/posts/curriculums/1ada501e-f337-81e8-b251-df0f38a0cb23/1ada501e-f337-8124-834c-d232ae4e3855\"}]}",
+    "blockId": "1ada501e-f337-8126-bd25-cfe8de389983",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "i": 50
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"練習問題\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-8141-9b67-fcd6d36e819e",
+    "type": "heading_1",
+    "pageId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題1\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-819c-9b8e-f0635d9dcbdd",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "i": 2
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeの便利機能\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使用して、以下のようなHTMLの雛形を作成しましょう。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81b1-a7bf-d8c1ab5d0de0",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "i": 3
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "data": "{\"language\":\"html\",\"parent\":[\"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n    <meta charset=\\\"UTF-8\\\">\\n    <meta name=\\\"viewport\\\" content=\\\"width=device-width, initial-scale=1.0\\\">\\n    <title>Document</title>\\n</head>\\n<body>\\n    \\n</body>\\n</html>\"],\"caption\":[]}",
+    "blockId": "24ba501e-f337-81f4-aa52-d5abdd5b0c20",
+    "type": "code",
+    "pageId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "i": 4
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題2\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-810f-a25d-cf30a96178e9",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "i": 5
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"先程の雛形の一部を変更して、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"言語を日本語\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ページタイトルを「HTMLの雛形です」\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に変更しましょう。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-819f-9b1e-c04210d3643f",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "i": 6
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "24ba501e-f337-80ba-9464-f7e8811937ad",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "i": 7
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"演習問題1\",\"href\":\"/posts/curriculums/24ba501e-f337-80e6-83f3-dec2d9cb8a44/24ba501e-f337-80ed-acc4-d54914fb20d2\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"✏️\",\"iconType\":\"emoji\",\"title\":\"演習問題1\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "24ba501e-f337-815e-962c-e5a7cce32cb6",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "i": 8
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "24ba501e-f337-811c-a934-c7ba7cc107f6",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "i": 9
+  }
+]

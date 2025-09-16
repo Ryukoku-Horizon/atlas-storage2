@@ -1,0 +1,390 @@
+[
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"公式ドキュメント\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-81d6-99e3-cc69d01e3e04",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "_",
+    "blockId": "1f2a501e-f337-817b-8593-c5f76d1758fc",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"parent\":[],\"url\":\"https://flet.dev/docs/controls/text/\",\"ogp\":{\"title\":\"Text | Flet\",\"icon\":\"https://flet.dev/img/favicon.ico\",\"image\":null,\"description\":\"Text is a control for displaying text.\"}}",
+    "blockId": "1f2a501e-f337-8117-9d3a-f2de66acb1ea",
+    "type": "bookmark",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"概要\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8184-8cfc-d3defcae0e9f",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81c5-b3a8-e202349f43fa",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 5
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Text\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールはその名のとおり、テキスト（＝文章・文字）を表示することができるコントロールです。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81b9-8bec-f621fcca7180",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 6
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文字のサイズや色、細かいスタイルも設定が可能です。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81b3-9aee-f7da17f33645",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 7
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実装例\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8189-a16c-df7d8f98fda3",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 8
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "_",
+    "blockId": "1f2a501e-f337-813a-8a33-e53c57042dc2",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 9
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-81ba-a9d0-d68b7fe66d90.png\"}",
+    "blockId": "1f2a501e-f337-81ba-a9d0-d68b7fe66d90",
+    "type": "image",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 10
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コード例\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81ce-ae95-fed728762896",
+    "type": "toggle",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 11
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81ce-ae95-fed728762896",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n    t1 = ft.Column(\\n        controls=[\\n            ft.Text(\\n                value=\\\"これはテストテキストです。\\\",\\n            ),\\n            ft.Text(\\n                value='value=\\\"これはテストテキストです。\\\"',\\n                color=ft.colors.BLACK54,\\n            )\\n        ]\\n    )\\n\\n    t2 = ft.Column(\\n        controls=[\\n            ft.Text(\\n                value=\\\"大きさや色を変えたり\\\",\\n                size=50,\\n                color=ft.colors.PINK,\\n            ),\\n            ft.Text(\\n                value='value=\\\"大きさや色を変えたり\\\"   size=50  color=ft.colors.PINK',\\n                color=ft.colors.BLACK54,\\n            )\\n        ]\\n    )\\n\\n    t3 = ft.Column(\\n        controls=[\\n            ft.Text(\\n                value=\\\"背景色も変えられます\\\",\\n                size=30,\\n                color=ft.colors.WHITE,\\n                bgcolor=ft.colors.GREEN\\n            ),\\n            ft.Text(\\n                value='value=\\\"背景色も変えられます\\\"  size=30  color=ft.colors.WHITE  bgcolor=ft.colors.GREEN',\\n                color=ft.colors.BLACK54,\\n            )\\n        ]\\n    )\\n\\n    t4 = ft.Column(\\n        controls=[\\n            ft.Text(\\n                spans=[\\n                    ft.TextSpan(\\n                        text=\\\"styleやspansを設定すると\\\"\\n                    ),\\n                    ft.TextSpan(\\n                        text=\\\"斜体にしたり、\\\",\\n                        style=ft.TextStyle(\\n                            color=ft.colors.PURPLE,\\n                            italic=True,\\n                        )\\n                    ),\\n                    ft.TextSpan(\\n                        text=\\\"取り消し線を引いたり、\\\",\\n                        style=ft.TextStyle(\\n                            color=ft.colors.RED,\\n                            decoration=ft.TextDecoration.LINE_THROUGH,\\n                            decoration_thickness=3,\\n                        )\\n                    ),\\n                    ft.TextSpan(\\n                        text=\\\"影をつけたり、\\\",\\n                        style=ft.TextStyle(\\n                            color=ft.colors.ORANGE,\\n                            shadow=ft.BoxShadow(\\n                                spread_radius=10,\\n                                blur_radius=3,\\n                                color=ft.colors.BLACK26,\\n                            )\\n                        )\\n                    ),\\n                    ft.TextSpan(\\n                        text=\\\"リンクを設定したり\\\",\\n                        style=ft.TextStyle(\\n                            color=ft.colors.BLUE_500,\\n                            decoration=ft.TextDecoration.UNDERLINE,\\n                            decoration_color=ft.colors.BLUE_500,\\n                        ),\\n                        url=\\\"https://flet.dev/\\\"\\n                    ),\\n                    ft.TextSpan(\\n                        text=\\\"できます。\\\"\\n                    )\\n                ],\\n            ),\\n            ft.Text(\\n                value=\\\"spans=[中略・下記コードを参照]\\\",\\n                color=ft.colors.BLACK54,\\n            )\\n        ]\\n    )\\n\\n    clm = ft.Column(\\n        controls=[\\n            t1, t2, t3, t4,\\n        ]\\n    )\\n\\n    page.add(clm)\\n\\nft.app(target=main)\\n\"],\"caption\":[]}",
+    "blockId": "1f2a501e-f337-8179-a6d1-fdd8cf8cf059",
+    "type": "code",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"主なプロパティ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-817f-9394-cde92a041b9b",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 12
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81ee-b09d-c180454fcfee",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 13
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"value\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8187-af66-ec99697a798b",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 14
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "_",
+    "blockId": "1f2a501e-f337-815e-ba1d-e03d0c4d64a7",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 15
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"表示するテキストを設定します。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81d8-8879-dc4e7baaa0fa",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 16
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"size\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8136-8cb5-f374827b2809",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 17
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8163-977d-d9ab4b054aea",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 18
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文字サイズを設定します。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81b6-ba5a-cbe97a9bc5a3",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 19
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"color\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-81a4-aa27-df25b5332183",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 20
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81e3-88d7-f295f1ee038d",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 21
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文字の色を設定します。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8130-92cb-d3dc1e106ea2",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 22
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"色の設定には\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Colors\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラスを使用できます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81c5-a86a-e03ec70a8048",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 23
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": {
+      "link": "/posts/curriculums/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/1f2a501e-f337-81dd-9aab-c21539a0882b",
+      "iconUrl": "🎨",
+      "iconType": "emoji",
+      "title": "Colors"
+    },
+    "blockId": "1f2a501e-f337-817e-9715-ec7912431ebc",
+    "type": "link_to_page",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 24
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"bgcolor\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8132-bb0e-da00d87f948d",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 25
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8153-bb57-cc528721b1fe",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 26
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文字の背景色を設定します。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-814b-9d7e-df0e79cdaf7f",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 27
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"色の設定には\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Colors\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラスを使用できます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8186-901b-ca4819f6a098",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 28
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": {
+      "link": "/posts/curriculums/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/1f2a501e-f337-81dd-9aab-c21539a0882b",
+      "iconUrl": "🎨",
+      "iconType": "emoji",
+      "title": "Colors"
+    },
+    "blockId": "1f2a501e-f337-8154-b2b5-f497611ac451",
+    "type": "link_to_page",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 29
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"spans\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-817d-a6c3-dfdcc4ffc3aa",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 30
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8157-afc1-f308c5919106",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 31
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"設定することで、より細かく文字のレイアウトを組むことが出来ます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8110-88fe-f296b2da68e8",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 32
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"詳しくは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"blue\"},\"plain_text\":\"TextSpan\",\"href\":\"https://flet.dev/docs/reference/types/textspan/\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラスを参照してください。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81de-a43b-dc9e09491259",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 33
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"style\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8153-8d21-d0a9447b474f",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 34
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "_",
+    "blockId": "1f2a501e-f337-814d-b5e4-fc51049c8eb6",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 35
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"設定することで、テキストのスタイルを詳細に決めることが出来ます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81e8-b38f-c0d85d619d37",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 36
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"詳しくは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"blue\"},\"plain_text\":\"TextStyle\",\"href\":\"https://flet.dev/docs/reference/types/textstyle\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラスを参照してください。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81f4-a987-deedf17a306f",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 37
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-816c-85ba-f305d8156819",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 38
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"上記以外にも複数の便利なプロパティが存在します。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8114-a565-f7a815d2b600",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 39
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"詳しくは、公式ドキュメントを読んでみてください。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8105-a7c9-c9ad50367884",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 40
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "data": "{\"parent\":[],\"url\":\"https://flet.dev/docs/controls/text/\",\"ogp\":{\"title\":\"Text | Flet\",\"icon\":\"https://flet.dev/img/favicon.ico\",\"image\":null,\"description\":\"Text is a control for displaying text.\"}}",
+    "blockId": "1f2a501e-f337-8176-aaac-ffb90c038317",
+    "type": "bookmark",
+    "pageId": "1f2a501e-f337-81f9-a0da-f94add8e7cc3",
+    "i": 41
+  }
+]

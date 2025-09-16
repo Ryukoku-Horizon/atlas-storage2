@@ -1,0 +1,398 @@
+[
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エラーを体験して理解することは初心者にとって非常に効果的です。そこで、Python・Fletでわざとエラーの出るコードを出すので、その原因を考え、解決してください。\",\"href\":null}]}",
+    "blockId": "229a501e-f337-8138-a3ed-cb919e7d5844",
+    "type": "paragraph",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"正しいコードは、グループで誰かが問題ごとに一つファイルを作り、そこに書いてください。\",\"href\":null}]}",
+    "blockId": "229a501e-f337-8157-ab11-cf0c07c48f61",
+    "type": "callout",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"解決のステップ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "229a501e-f337-8180-96f4-e62266f72daa",
+    "type": "heading_2",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ステップ１：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\n実行してみて、出てきたエラーの内容を読んでみよう。\\n\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ステップ ２：\",\"href\":null}]}",
+    "blockId": "229a501e-f337-8108-b1d8-fdb0effffda1",
+    "type": "quote",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-8108-b1d8-fdb0effffda1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エラーの内容をヒントに、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"何が間違っているか？\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" を考えよう。\",\"href\":null}]}",
+    "blockId": "229a501e-f337-81b8-8b9c-f07ad412d8c1",
+    "type": "paragraph",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-8108-b1d8-fdb0effffda1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ステップ３：\",\"href\":null}]}",
+    "blockId": "229a501e-f337-8162-87d7-d8ffe4ce8337",
+    "type": "paragraph",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-8108-b1d8-fdb0effffda1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"原因が分かったら、そこで正しいコードに修正してみてください\",\"href\":null}]}",
+    "blockId": "229a501e-f337-81cb-80ca-f4bf85cb742b",
+    "type": "paragraph",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"守ること\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "229a501e-f337-8178-aa2c-c575e1154425",
+    "type": "heading_2",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 5
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※今回はグループワークなので、グループ内での知識の共有を徹底してください。\",\"href\":null}]}",
+    "blockId": "229a501e-f337-81f0-9a82-c1e8076b4df1",
+    "type": "paragraph",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 6
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"調べて学んだことは問題解決に繋がる・繋がらないに関わらず全員で共有\",\"href\":null}]}",
+    "blockId": "229a501e-f337-8132-8c4e-e6c87f76c864",
+    "type": "numbered_list_item",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 7
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"もしうまく行かなかったら、なぜそうなったのかも考えてみる\",\"href\":null}]}",
+    "blockId": "229a501e-f337-812e-9b21-f51583d990df",
+    "type": "numbered_list_item",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 8
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"すでにエラーの理由・解決法を知っていたら、なぜそうなるのかをチームメンバーに説明する\",\"href\":null}]}",
+    "blockId": "229a501e-f337-81e5-9000-ef3be5135382",
+    "type": "numbered_list_item",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 9
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例題\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "229a501e-f337-81b2-9b91-f34f1a01d6d3",
+    "type": "heading_1",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 10
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "_",
+    "blockId": "229a501e-f337-8121-8fb4-cd46828bfbbc",
+    "type": "divider",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 11
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n    txt = ft.Text(value=\\\"Hello, World!\\\")\\n\\n    page.add(txt)\\n\\nft.app(target=mian)\"],\"caption\":[]}",
+    "blockId": "229a501e-f337-81f7-818a-eee57adb6f0b",
+    "type": "code",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 12
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"⚠️\"},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エラーの内容\",\"href\":null}]}",
+    "blockId": "229a501e-f337-8134-bea8-de8c3867e483",
+    "type": "callout",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 13
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-8134-bea8-de8c3867e483",
+    "data": "{\"language\":\"powershell\",\"parent\":[\"Traceback (most recent call last):\\n  File \\\"H:\\\\user\\\\pythonex\\\\ex.py\\\", line 8, in <module>\\n    ft.app(target=mian)\\n                  ^^^^\\nNameError: name 'mian' is not defined.\"],\"caption\":[]}",
+    "blockId": "229a501e-f337-81f0-ba81-f824b7bd5b19",
+    "type": "code",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これは、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"として関数を定義したのに、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.app\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の引数を\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"m\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ia\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" と語字してしまったのが原因ですね。\",\"href\":null}]}",
+    "blockId": "229a501e-f337-819e-a7f9-da044a80329d",
+    "type": "paragraph",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 14
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "229a501e-f337-81fd-9683-fbc8e07680c8",
+    "type": "paragraph",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 15
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"本番\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "229a501e-f337-816c-a38b-de6458db5bde",
+    "type": "heading_1",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 16
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "_",
+    "blockId": "229a501e-f337-817c-908e-e5e3c29a972b",
+    "type": "divider",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 17
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題１\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "229a501e-f337-815a-a46b-d04f6f764712",
+    "type": "heading_2",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 18
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "_",
+    "blockId": "229a501e-f337-81d0-b0f8-ebac98ac95f5",
+    "type": "divider",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 19
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例題と同じように、画面上に「Hello, World!」を表示させたいです。が、エラーが出てしまいました…\",\"href\":null}]}",
+    "blockId": "229a501e-f337-8136-b656-e6411f8663d7",
+    "type": "paragraph",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 20
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n    txt = ft.Text(value=\\\"Hello, World!\\\")\\n\\npage.add(txt)\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "229a501e-f337-81e2-b286-f91f26094dd5",
+    "type": "code",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 21
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題２\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "229a501e-f337-8194-94fe-f1952196a015",
+    "type": "heading_2",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 22
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"m\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ia\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と正しく直せば、エラーは解決します。\",\"href\":null}]}",
+    "blockId": "229a501e-f337-8104-bde3-f8bf99c89830",
+    "type": "paragraph",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 23
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "_",
+    "blockId": "229a501e-f337-81c9-b0fa-f4ec1cbf641c",
+    "type": "divider",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 24
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"特に意味はありませんが、こんな感じでボタンを２つ並べたいと思います。\",\"href\":null}]}",
+    "blockId": "229a501e-f337-811b-8da3-f123e92f0185",
+    "type": "paragraph",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 25
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1f5a501e-f337-8055-b23c-f8b1b79b780a/image/229a501e-f337-8112-9d0f-fb4277e194fa.png\"}",
+    "blockId": "229a501e-f337-8112-9d0f-fb4277e194fa",
+    "type": "image",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 26
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このために以下のようなコードを書きましたが、エラーが起きてしまいます。エラーを解決するには…？\",\"href\":null}]}",
+    "blockId": "229a501e-f337-8112-a055-dd79ab754a9f",
+    "type": "paragraph",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 27
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n    txt = ft.Text(value=\\\"利用規約に同意しますか？\\\")\\n    ok_button = ft.ElevatedButton(text=\\\"同意！\\\")\\n    cancel_button = ft.ElevatedButton(text=\\\"拒否！\\\")\\n\\n    page.add(\\n        txt,\\n        ft.Row(ok_button, cancel_button)\\n    )\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "229a501e-f337-81fd-b737-f46cb34df6bd",
+    "type": "code",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 28
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題３\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "229a501e-f337-8152-a071-ea987a684594",
+    "type": "heading_2",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 29
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "_",
+    "blockId": "229a501e-f337-812f-ab6d-ddf676222bf6",
+    "type": "divider",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 30
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クリックされたボタンの内容を、その下にあるテキストフィールドに反映するプログラミングを書いてみました。\",\"href\":null}]}",
+    "blockId": "229a501e-f337-8122-ba0f-eae48d245a39",
+    "type": "paragraph",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 31
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1f5a501e-f337-8055-b23c-f8b1b79b780a/image/229a501e-f337-813a-9e48-dbe1908c3ff5.png\"}",
+    "blockId": "229a501e-f337-813a-9e48-dbe1908c3ff5",
+    "type": "image",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 32
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"しかし、実行してみるとボタンを押しても何も起きません。それどころか、エラーすら出てきません。さて、何が原因でしょうか…？\",\"href\":null}]}",
+    "blockId": "229a501e-f337-8109-8fbd-df01d37af4e0",
+    "type": "paragraph",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 33
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n    def clicked(e):\\n        txtfld.value = e.control.text\\n        txtfld.update\\n    \\n    button_a = ft.ElevatedButton(text=\\\"A!\\\", on_click=clicked)\\n    button_b = ft.ElevatedButton(text=\\\"B!\\\", on_click=clicked)\\n    button_c = ft.ElevatedButton(text=\\\"C!\\\", on_click=clicked)\\n    txtfld = ft.TextField(value=\\\"\\\")\\n\\n    page.add(\\n        ft.Row(\\n            controls=[button_a, button_b, button_c]\\n        ),\\n        txtfld\\n    )\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "229a501e-f337-8127-914f-d0601542538f",
+    "type": "code",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 34
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題４\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "229a501e-f337-815c-86d8-ccbdf6880c6b",
+    "type": "heading_2",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 35
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "_",
+    "blockId": "229a501e-f337-81de-9d4e-ced1876e3d81",
+    "type": "divider",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 36
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プラスボタンを押すと数字が１ずつ増え、マイナスボタンを押すと数字が１ずつ減るアプリを作ってみました。\",\"href\":null}]}",
+    "blockId": "229a501e-f337-81d5-ac18-d61e8bddfc90",
+    "type": "paragraph",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 37
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1f5a501e-f337-8055-b23c-f8b1b79b780a/image/229a501e-f337-8170-a1c8-ec38ce053254.png\"}",
+    "blockId": "229a501e-f337-8170-a1c8-ec38ce053254",
+    "type": "image",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 38
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"でも、ボタンを押しても数字は変わらず、エラーが出てしまいます。このエラーを解決し、数字が変わるようにするには…？\",\"href\":null}]}",
+    "blockId": "229a501e-f337-819b-aacc-fc019a3ce2e4",
+    "type": "paragraph",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 39
+  },
+  {
+    "curriculumId": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
+    "parentId": "229a501e-f337-803e-a0be-d46547063528",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n    def plus(e):\\n        txt.value = txt.value + 1\\n        txt.update()\\n    \\n    def minus(e):\\n        txt.value = txt.value - 1\\n        txt.update()\\n    \\n    txt = ft.Text(value=\\\"0\\\")\\n    plus_button = ft.ElevatedButton(text=\\\"プラス\\\", on_click=plus)\\n    minus_button = ft.ElevatedButton(text=\\\"マイナス\\\", on_click=minus)\\n\\n    page.add(txt, plus_button, minus_button)\\n\\nft.app(target=main)\\n\"],\"caption\":[]}",
+    "blockId": "229a501e-f337-81ca-8630-dff7aede9f64",
+    "type": "code",
+    "pageId": "229a501e-f337-803e-a0be-d46547063528",
+    "i": 40
+  }
+]

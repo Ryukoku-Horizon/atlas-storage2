@@ -1,0 +1,389 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(3.変数の型)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8064-b0e1-f200f4276e5e\"}]}",
+    "blockId": "1b8a501e-f337-81d3-8d59-e4b563b05a6f",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"算術演算子\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8111-9e53-fc5e57c14d76",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "_",
+    "blockId": "1b8a501e-f337-81db-8719-db6934bbbef0",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回は、プログラム上で四則演算（足し算、引き算、掛け算、割り算）を行う方法を学びます。といっても、やり方は非常に単純です。次のプログラムを見てください。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-815a-b79f-ef7aa03e72fc",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8176-8e17-f7ba53101e49",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8176-8e17-f7ba53101e49",
+    "data": "{\"language\":\"python\",\"parent\":[\"a = 10 + 5  #足し算\\nb = 10 - 5  #引き算\\nc = 10 * 5  #掛け算\\nd = 10 / 5  #割り算\\nprint(\\\"10 + 5 =\\\", a)\\nprint(\\\"10 - 5 =\\\", b)\\nprint(\\\"10 * 5 =\\\", c)\\nprint(\\\"10 / 5 =\\\", d)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81b2-8bae-f7e242690043",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"書き方は数学での四則演算に非常に似ていますが、掛け算と割り算だけ記号が少し違うので注意してください。この記号出力は以下のようになります。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81c7-b1b7-f49d29028abc",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-81d2-900c-dd5b4040a7cc.png\"}",
+    "blockId": "1b8a501e-f337-81d2-900c-dd5b4040a7cc",
+    "type": "image",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、この演算は、変数同士でも同様に行うことができます。以下のプログラムは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"v1\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"v2\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"という二つの変数に対して四則演算を施しています。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8125-9809-e43c618157a8",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81cc-adf2-c70029ad7902",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81cc-adf2-c70029ad7902",
+    "data": "{\"language\":\"python\",\"parent\":[\"v1 = 10\\nv2 = 5\\na = v1 + v2  #足し算\\nb = v1 - v2  #引き算\\nc = v1 * v2  #掛け算\\nd = v1 / v2  #割り算\\nprint(\\\"v1 + v2 =\\\", a)\\nprint(\\\"v1 - v2 =\\\", b)\\nprint(\\\"v1 * v2 =\\\", c)\\nprint(\\\"v1 / v2 =\\\", d)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-819c-ae50-f6acdb15adcb",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-813c-9f83-c8d056fc5c5c.png\"}",
+    "blockId": "1b8a501e-f337-813c-9f83-c8d056fc5c5c",
+    "type": "image",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"加えて、Pythonでは次のように割り算のあまりや累乗、小数点以下の切り捨て割り算などを計算することができます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-816d-a81a-cb0348affcff",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-815c-97b0-eaf811c745cf",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-815c-97b0-eaf811c745cf",
+    "data": "{\"language\":\"python\",\"parent\":[\"v1 = 5\\nv2 = 2\\na = v1 % v2     #割り算のあまり\\nb = v1 // v2    #切り捨ての割り算\\nc = v1 ** v2    #累乗\\nprint(\\\"v1 % v2 =\\\", a)\\nprint(\\\"v1 // v2 =\\\", b)\\nprint(\\\"v1 ** v2 =\\\", c)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8187-9574-f9e23f067dc7",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-81e8-a580-f6829748516c.png\"}",
+    "blockId": "1b8a501e-f337-81e8-a580-f6829748516c",
+    "type": "image",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　これらの \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"+  -  *  /  % //\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" をあわせて、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"算術演算子\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と呼びます。以下の表に各算術演算子と処理内容を示します。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81fd-a352-cb1f2909135f",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"table_width\":2,\"has_column_header\":true,\"has_row_header\":false}",
+    "blockId": "1b8a501e-f337-81a9-a5be-f7ab2a78ac94",
+    "type": "table",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a9-a5be-f7ab2a78ac94",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"算術演算子\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"算術演算子\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"処理内容\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"処理内容\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-810c-868a-f9642c9fbd93",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a9-a5be-f7ab2a78ac94",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"+\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"+\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"足し算\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"足し算\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-8149-aac5-e84f3e427775",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a9-a5be-f7ab2a78ac94",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"-\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"-\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"引き算\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"引き算\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-81cd-b212-e289c33715d5",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a9-a5be-f7ab2a78ac94",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"*\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"*\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"掛け算\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"掛け算\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-81c9-9a09-dab559f38d45",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a9-a5be-f7ab2a78ac94",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"/\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"/\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"割り算\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"割り算\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-8135-8fc1-c9c9f3066e80",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a9-a5be-f7ab2a78ac94",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"%\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"%\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"あまり\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"あまり\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-814c-af0c-f6599e5b91f5",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a9-a5be-f7ab2a78ac94",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"**\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"**\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"累乗\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"累乗\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-81af-8864-d51bc1b105a3",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a9-a5be-f7ab2a78ac94",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"//\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"//\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"切り捨て除算\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"切り捨て除算\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-81b6-b43e-f0657e40d9e0",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"もちろん、複数の算術演算子を用いて複雑な計算を行うこともできます。その際には数学での計算と同じように掛け算と割り算が優先されますし、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"()\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で囲って計算順序を指定することもできます。また、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"a\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"や\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"b\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"などの変数を介さずとも、計算式の答えをprint関数で直接出力することもできます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81be-924f-d038160fcae0",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-814f-92db-ea17770a5c3e",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-814f-92db-ea17770a5c3e",
+    "data": "{\"language\":\"python\",\"parent\":[\"print(\\\"上底4, 下底6, 高さ3の台形の面積\\\", (4 + 6) * 3 / 2)\\nprint(\\\"半径5の球の表面積\\\", 4 * 3.14 * (5 ** 2))    #4πr^2\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8184-b1c9-e8bb2c6d4306",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-81ea-b557-e7bfd966e7d6.png\"}",
+    "blockId": "1b8a501e-f337-81ea-b557-e7bfd966e7d6",
+    "type": "image",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"計算をするときの注意点\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8150-a42f-d641aed89432",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "_",
+    "blockId": "1b8a501e-f337-81eb-9b26-e404db134918",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 20
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"変数を用いて計算をするとき、その変数の\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"型\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に注意しておかなければ、エラーや意図しない動作を引き起こす可能性があります。例えば、次のプログラムを見てください。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-817f-9d1e-e0cb1864eab0",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 21
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8197-94f8-c1d857e05f90",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 22
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8197-94f8-c1d857e05f90",
+    "data": "{\"language\":\"python\",\"parent\":[\"a = 10\\nb = \\\"5\\\"\\nc = a + b\\nprint(c)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-819e-8c39-e51db9fe6279",
+    "type": "code",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"a\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"には整数の10が、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"b\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"には\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文字列として\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"5が格納されています。そのため、3行目の計算では数字と文字を足す計算式となっています。これを実行してみると…\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-811c-a241-c5a93c30bfd5",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 23
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-813a-a048-c1caebee106b.jpg\"}",
+    "blockId": "1b8a501e-f337-813a-a048-c1caebee106b",
+    "type": "image",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 24
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"赤色でエラーが出てしまい、実行ができませんでした。簡単に日本語訳すると「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"red\"},\"plain_text\":\"int型（整数型）とstr型（文字列型）の足し算はサポートされてないやで\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という感じです。当たり前といえば当たり前ですが、このようなミスが規模の大きいプログラムではバグを生み出したりするのです…\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8125-9133-eea439cedbe3",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 25
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラミングをするときは、常に変数の\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"型\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を意識しよう！\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-812b-a4fc-d2a3364871f6",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 26
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-8157-89e5-fc8ffcb6a75a",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 27
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-819d-94c9-fedcff0b86fd",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 28
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-819d-94c9-fedcff0b86fd",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(3.変数の型)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8064-b0e1-f200f4276e5e\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(練習問題1)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-80ba-a251-c8fe9f1c8cc2\"}]}",
+    "blockId": "1b8a501e-f337-8180-a562-e82fbcdfe7d8",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-814b-8ee2-fd1762231ba9",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-80f0-a9cd-f0d196c362de",
+    "i": 29
+  }
+]

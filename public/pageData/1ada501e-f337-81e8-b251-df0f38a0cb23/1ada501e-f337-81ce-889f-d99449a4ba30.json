@@ -1,0 +1,317 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここでは、データベース（Database）とは何か、その概要について紹介します。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8186-9cb9-e6314e5b673f",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベースとは\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-816e-be52-cd21f1d192cf",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "_",
+    "blockId": "1ada501e-f337-8133-8da6-edf9d22e4b99",
+    "type": "divider",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベースは、データを効率的に保存・管理するためのシステムです。データを保存するだけであればメモ帳やファイルでも可能ですが、データベースは、データの検索や管理が容易という利点があります。そのため、多くのアプリケーションでデータベースが活用されています。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81ce-977c-f3a9478bb133",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベース管理システム（DBMS）\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-8169-918a-dd7284960b63",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "_",
+    "blockId": "1ada501e-f337-8186-a335-c8f40a860ad7",
+    "type": "divider",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベースは、「データを効率的に保存・管理・検索するための仕組み」ですが、それを可能にしているのが、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「データベース管理システム（DBMS）」\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8190-9994-c0a18de0c624",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"DBMSは、データベースを管理するためのソフトウェアです。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81ca-ae54-fea46f49932f",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"DBMSには種類がありますが、ここで紹介するのは「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リレーショナルデータベース」\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と呼ばれるDBMSです。リレーショナルデータベースは、簡単に言えば、データをテーブル形式で管理するデータベースです。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8182-9117-f56b32f8cb2a",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データの保存形式\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-81db-96ea-e47d42ee258e",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "_",
+    "blockId": "1ada501e-f337-81d1-9b32-d0a90d75eabe",
+    "type": "divider",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"では、リレーショナルデータベースでどのようにデータが保存されるのかを見ていきましょう。データベース内のデータは、表（テーブル）という形式で保存されます。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81b3-9242-cb722036299c",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "_",
+    "blockId": "1ada501e-f337-81ea-b01d-e35e8ae07b76",
+    "type": "column_list",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-b01d-e35e8ae07b76",
+    "data": "_",
+    "blockId": "1ada501e-f337-8196-b1d3-f547cc472f93",
+    "type": "column",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-b01d-e35e8ae07b76",
+    "data": "_",
+    "blockId": "1ada501e-f337-81ab-8283-d66ef2456a58",
+    "type": "column",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ab-8283-d66ef2456a58",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-81e8-b251-df0f38a0cb23/image/1ada501e-f337-81d8-9b17-e598582e256f.png\"}",
+    "blockId": "1ada501e-f337-81d8-9b17-e598582e256f",
+    "type": "image",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8196-b1d3-f547cc472f93",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えば、右図のテーブルはプログラミング部の部員のデータをまとめたものです。ここでは、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"id\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"name\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"group\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"post\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"といったカラム（列）でデータを整理しており、一人の部員ごとに行として保存されています。山田さんの場合、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"id\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が1で、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"name\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が山田、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"group\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が基礎班、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"post\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"がnull（空）です。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81e4-a1a4-e36e0164e821",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベースの基本操作（CRUD）\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-8128-92e3-eaaeb0a164c7",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "_",
+    "blockId": "1ada501e-f337-81e7-9c45-eadb6191a2c1",
+    "type": "divider",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベースでの基本操作は、CRUDと呼ばれます。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8144-8d32-d19a3f11d34a",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"CRUDは、以下の四つの操作の頭文字をとったものです。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8107-92f7-cf46be5535be",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"C\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"reate\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（作成）\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：新しいデータの追加\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8175-93e8-ddb75964417f",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"R\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ead\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（読み取り）\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：データの取得\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81e9-85eb-f2482e104392",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"U\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"pdate\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（更新）\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：既存のデータの変更\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81ad-aaec-e2af575faeee",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 20
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"D\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"elete\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（削除）\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：データの削除\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-814c-aa6f-e38e6cdd526a",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 21
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベースは基本的に以上の四つの基本操作でほとんどのことが可能です。そして、データベースは、これらの操作を非常に簡単にできるようになっています。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-816c-8f37-e08106421056",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 22
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まとめ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-81c7-99ca-f21951e5423b",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 23
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "_",
+    "blockId": "1ada501e-f337-81b7-b38d-d7d9768b1718",
+    "type": "divider",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 24
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベースは、データを保存できるだけでなく、データの検索や管理が容易であるという特徴があります。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-815d-af08-f9a3fa5448a3",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 25
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベースは、データベース管理システム（DBMS）によって、データの効率的な管理が可能となっています。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-813e-a4ac-d3ccf3165d9c",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 26
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベースは、表（テーブル）の形式で保存されます。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8134-98b0-e937a72f3983",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 27
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベースは、CRUDと呼ばれる基本操作を簡単にできるようになっています。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81af-88b2-ec80aa928050",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 28
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1ada501e-f337-81c2-8be6-faf9cbfacd03",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 29
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次→\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"Pythonでデータベースを扱うためのライブラリ\",\"href\":\"/posts/curriculums/1ada501e-f337-81e8-b251-df0f38a0cb23/1ada501e-f337-81ea-92d1-dcb4d8f60e2a\"}]}",
+    "blockId": "1ada501e-f337-8108-aca2-eb598d531958",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 30
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1ada501e-f337-8106-9cac-f9fc995a939f",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "i": 31
+  }
+]

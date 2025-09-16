@@ -1,0 +1,209 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回は、Pythonでデータベースを操作するためのライブラリの紹介をします。そして、データベースを便利に扱うためのVSCodeの拡張機能のインストールをしてもらいます。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8158-912e-e121d51f66e5",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"使用するライブラリ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-815e-9769-eb5e61635c59",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "_",
+    "blockId": "1ada501e-f337-81d6-9dc6-de285923f04e",
+    "type": "divider",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonでデータベースを扱うライブラリはいくつかありますが、ここでは「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"sqlite3\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」というライブラリを使用します。sqlite3は、pythonの標準ライブラリであるため、ライブラリをインストールする必要はありません。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8149-aa5d-c2d111c15daf",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"sqlite3は、SQLiteという、軽量のDBMS（データベース管理システム）を扱えるライブラリです。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81d5-95bd-eed64cf6574a",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"SQLiteは名前のとおり、簡易的な（ライトな）データベースです。データベースは大掛かりなシステムで利用される、という印象が強いものですが、SQLiteは簡易的に利用することが可能です。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8125-a392-f8e00b6ab121",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"SQLiteが他のDBMS（データベース管理システム）よりも簡単にデータベースを扱える理由は、他の多くのDBMSがデータベースをサーバーとして扱うのに対して、SQLiteがデータベースをファイルで扱うからです。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81b0-9eb2-e828b8d82132",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeで拡張機能をインストールする\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-81e8-8515-c29b6cd990d4",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "_",
+    "blockId": "1ada501e-f337-8123-b487-e1dc5e249f46",
+    "type": "divider",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"sqlite3を使う前に、sqlite3を使う上で便利なVSCodeの拡張機能をインストールしましょう。「SQLite3 Editor」という拡張機能をインストールします。この拡張機能を入れることによって、sqlite3で扱うデータベースファイルの中身を見たり編集したりすることができるようになります。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81e0-a5e5-de103b155207",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeの画面左の拡張機能で「sqlite3」と検索してください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8165-95a0-fc35be82cfaf",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-81e8-b251-df0f38a0cb23/image/1ada501e-f337-8170-8ca0-cb217a6f3b50.png\"}",
+    "blockId": "1ada501e-f337-8170-8ca0-cb217a6f3b50",
+    "type": "image",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「SQLite3 Editor」を選択して、インストールしてください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8115-8f38-f0a3c7c63d1d",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-81e8-b251-df0f38a0cb23/image/1ada501e-f337-8126-9003-e22cd7207668.png\"}",
+    "blockId": "1ada501e-f337-8126-9003-e22cd7207668",
+    "type": "image",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベースファイル作成\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-813f-8ffc-f03cab7ce301",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "_",
+    "blockId": "1ada501e-f337-811c-9595-f7a29c878502",
+    "type": "divider",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"SQLiteで扱うデータベースファイルは、ファイルの拡張子が「.db」です。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-810d-ad75-e0b117cd8a36",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"試しに、VSCode上で、「TEST.db」というファイルを作成してください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8142-8374-fbe5496fb1ee",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"TEST.dbを開いてください。上述した拡張機能をインストールしていれば、以下のように表示されます。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81f6-9c32-e062aa5af97a",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-81e8-b251-df0f38a0cb23/image/1ada501e-f337-8152-8410-ddb1aed5a4cc.png\"}",
+    "blockId": "1ada501e-f337-8152-8410-ddb1aed5a4cc",
+    "type": "image",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 20
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1ada501e-f337-811b-96aa-f429c95174a1",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 21
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次→\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"データベースとの接続とテーブルの作成\",\"href\":\"/posts/curriculums/1ada501e-f337-81e8-b251-df0f38a0cb23/1ada501e-f337-8160-b03e-f28f8a18fa43\"}]}",
+    "blockId": "1ada501e-f337-81eb-8e26-e74de760c2d7",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 22
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1ada501e-f337-81d0-bf67-f376ddb3d14e",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "i": 23
+  }
+]

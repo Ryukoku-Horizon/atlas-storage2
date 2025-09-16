@@ -1,0 +1,119 @@
+[
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-8159-aa47-e20f534f6d93",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"さぁ、いよいよ大詰めです。最後まで頑張っていきましょう。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-813f-960e-c6a55c7e794e",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"最後は数字と桁が一致している数が桁数と一致しているかどうかを判定するプログラムを作ります。次のコードを見てください。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8189-a174-e4d47b8d0abb",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "data": "{\"language\":\"python\",\"parent\":[\"answer = [\\\"1\\\", \\\"2\\\", \\\"3\\\"]\\nplayer_number = 123\\nplayer = [\\\"1\\\", \\\"2\\\", \\\"3\\\"]\\nEAT = 3\\n\\nif EAT == 3:\\n    print(\\\"おめでとう!\\\\n正解は\\\",player_number,\\\"でした!\\\")\\n    break\\nelse:\\n    print(\\\"残念、正解の数字とは違うよ\\\")\"],\"caption\":[]}",
+    "blockId": "1eca501e-f337-815d-b151-e307e3a62fd7",
+    "type": "code",
+    "pageId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "i": 4
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このコードは、正解の数字が「123」で入力された数字も「123」だった時のものです。当然3EATなので変数EATには3を代入しています。\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このゲームのクリア条件は3EATになること\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"なので、if文内の処理を実行させる条件は「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"変数EATの値が3だった場合\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」にしなければいけません。それ以外はelse文内の処理に移り、ループさせます。また、EATの値が3だった場合、if文内の処理が行われるとき、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この処理が行われている時点で正解の数字と入力された数字が完全に一致している\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ので、正解の番号を出力する場面では入力された数字の変数名が書かれています。その出力が終わったのち、break文を実行し、while文を抜けてプログラムを終了させます。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8108-a068-fc4b2dbc56bd",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "i": 5
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-8108-9a6e-e19c99110e20",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "i": 6
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これにて当初の予定の7つの機能を実装することができ、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"数当てゲーム「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"gray\"},\"plain_text\":\"Numer0n\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」が完成しました！\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ただ、申し訳ありませんが\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"完成したプログラムはここでは見せることはできません\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。見せてしまうとここのページを見るだけで\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"gray\"},\"plain_text\":\"Numer0n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ができてしまうので。\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今まで学んだプログラムを組み合わせて自分で完成させてください！\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8163-aa03-cc4eee9b25af",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "i": 7
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-810e-8417-f9e491530be5",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "i": 8
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "data": "_",
+    "blockId": "1eca501e-f337-814a-8ff9-c43d2d84931b",
+    "type": "divider",
+    "pageId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "i": 9
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3-2 数字や桁の一致判定システムを作成しよう\",\"href\":\"/posts/curriculums/1e7a501e-f337-805b-bc4e-d442525244f3/1eca501e-f337-8166-a58b-e172fea0ca95\"}]}",
+    "blockId": "1eca501e-f337-8185-b992-cbc441e280b9",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "i": 10
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3-4 練習問題\",\"href\":\"/posts/curriculums/1e7a501e-f337-805b-bc4e-d442525244f3/1eca501e-f337-81e4-a7a8-c9a25f22dcb5\"}]}",
+    "blockId": "1eca501e-f337-8178-aaad-eb7a48a3d969",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "i": 11
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-8167-9c57-dfacb2683591",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "i": 12
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"目次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"数当てゲームをPythonで作ってみよう\",\"href\":\"/posts/curriculums/1e7a501e-f337-805b-bc4e-d442525244f3/1eca501e-f337-80fc-a5bd-f2a1ea7ef2ca\"}]}",
+    "blockId": "1eca501e-f337-8104-be1d-e42fd6b59d49",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8151-b8d2-da01eb4c2a83",
+    "i": 13
+  }
+]

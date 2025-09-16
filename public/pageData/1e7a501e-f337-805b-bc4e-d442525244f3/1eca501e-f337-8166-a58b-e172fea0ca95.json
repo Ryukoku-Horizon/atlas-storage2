@@ -1,0 +1,317 @@
+[
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-81cf-828c-ea420be63004",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このシステムを作る前に、一旦今まで作った物を合わせてみましょう。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8189-ad02-d232e347eab5",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"language\":\"python\",\"parent\":[\"import random\\n\\nl = 0\\nwhile l == 0:\\n    a = random.randint(100,999)\\n    b = str(a)\\n    answer = list(b)\\n\\n    for f in range(10):\\n        if answer.count(str(f)) >= 2:\\n            answer = []\\n            break\\n\\n    if answer != []:\\n        l = 1\\n\\nwhile 1:\\n    player_number = input(\\\"正解だと思う3ケタの数字を入力してください。:\\\")\\n    player = list(player_number)\\n\\n    if len(player) != 3:\\n        continue\"],\"caption\":[]}",
+    "blockId": "1eca501e-f337-81c9-8ff7-d740537bf9fe",
+    "type": "code",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"おそらくこれとほぼ同じコードになっていると思います。少し変わっているところと言えば、ところどころにあったprint関数と、最後のところにあったelse文が消えているぐらいでしょうか。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-810c-9c06-eb294817f21e",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 4
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回の一致システムは「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"while 1:\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」内に導入します。それでは、次のコードを見てください。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81ad-aea0-d81e32a6e4b9",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 5
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"language\":\"python\",\"parent\":[\"while 1:\\n    EAT = 0\\n    BITE = 0\\n    player_number = input(\\\"正解だと思う3ケタの数字を入力してください。:\\\")\\n    player = list(player_number)\\n\\n    if len(player) != 3:\\n        continue\\n\\n    for i in range(3):\\n        if player[i] == answer[i]:\\n            EAT += 1\\n        else:\\n            for j in range(3):\\n                if player[i] == answer[j]:\\n                    BITE += 1\\n                    \\n    print(EAT, \\\"EAT \\\", BITE, \\\"BITE\\\")\"],\"caption\":[]}",
+    "blockId": "1eca501e-f337-81ed-8e39-f2a7d5127b8a",
+    "type": "code",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 6
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"導入の部分で、桁と数字が一致していることを「EAT」、数字だけが一致していることを「BITE」ということを言いました。今回のこのコードは簡単に言うと、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"入力された数字と桁が正解の数字と桁が完全一致していればEATに1を足し、数字だけが一致していればBITEに1を足したあと、その数をそれぞれ出力する\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"という意味になります。それをどのように判定させているかを解説します。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81bc-8ca4-da1a4e9c5c98",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 7
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"playerとanswerにはリストが格納されています。「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リスト名[整数]\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」と記述すれば\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リストの左から大カッコの中にある数字番目を取り出すことができる\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ことは基礎文法カリキュラムで学んだと思います。その何番目かを指定するものとして、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"for i in range(3)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」というfor文を使用しています。これで\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"変数iには0と1と2が順番に代入される\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ので、それを「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リスト名[整数]\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」の整数部分に入れると\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"正解の数字や入力された数字を1つずつ取り出す\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ことができます。それを使って、if文の条件式で「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"入力された数字のリストの左からi番目の要素と正解の数字のリストの左からi番目の要素が同じならば\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という意味があることによって、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"桁と数字が一致しているならば\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」を再現することができます。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8144-8d66-f627837380c3",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 8
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"数字と桁が合っていなかった場合、if文内の処理が行われず、else文の処理へと移りますが、個々の中でもfor文が使われていると思います。なぜかというと、数字だけが一致しているかを判定するために、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"もう一つの変数jに0と1と2を代入しなければならないから\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。こうすることによって、if文では\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"入力された数字のリストの左からi番目の要素が正解の数字のリストの中にあるかどうか\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を条件式で書くことができるのです。これが一致システムの全容です。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81a0-adf2-dd2af35196f9",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 9
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-81f9-89e2-cd1777ed5d19",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 10
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"さて、ここまで何とか一致システムを解説しましたがちょっと気になることがあると思います。それは「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"EAT += 1\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」と「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"BITE += 1\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」の部分です。さらっと「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"EATに1を足す\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」とか「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"BITEに1を足す\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」とか言って流していましたが、これについてちょっと説明します。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8144-be55-f612b9a5280f",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 11
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実はこの「+=」、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"演算子\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"なんです。名前を「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"代入演算子\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」と言います。次の表を見てください。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8138-8a3e-d9c9aa8ab1f1",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 12
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"table_width\":3,\"has_column_header\":false,\"has_row_header\":false}",
+    "blockId": "1eca501e-f337-8100-a42e-e2b52f06dea1",
+    "type": "table",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 13
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8100-a42e-e2b52f06dea1",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"代入演算子\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"代入演算子\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"使用例\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"使用例\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"使用例の言い換え(意味)\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"使用例の言い換え(意味)\",\"href\":null}]]",
+    "blockId": "1eca501e-f337-813f-9887-f5baa776a03d",
+    "type": "table_row",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8100-a42e-e2b52f06dea1",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"+=\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"+=\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"a += 1\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"a += 1\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"a = a + 1\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"a = a + 1\",\"href\":null}]]",
+    "blockId": "1eca501e-f337-8100-8d5e-fb821bd9bed3",
+    "type": "table_row",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8100-a42e-e2b52f06dea1",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"-=\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"-=\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"a -= 1\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"a -= 1\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"a = a - 1\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"a = a - 1\",\"href\":null}]]",
+    "blockId": "1eca501e-f337-8121-a4d5-cdd19c31e07b",
+    "type": "table_row",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8100-a42e-e2b52f06dea1",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"*=\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"*=\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"a *= 2\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"a *= 2\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"a = a * 2\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"a = a * 2\",\"href\":null}]]",
+    "blockId": "1eca501e-f337-8103-b6a4-c3b3b0571784",
+    "type": "table_row",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 4
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8100-a42e-e2b52f06dea1",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"/=\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"/=\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"a /= 2\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"a /= 2\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"a = a / 2\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"a = a / 2\",\"href\":null}]]",
+    "blockId": "1eca501e-f337-8146-b81b-d137825de654",
+    "type": "table_row",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 5
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これ以外にもまだまだありますが、よく使われる代入演算子をまとめてみました。「a += 1」は、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"変数aに1を足したものをaに代入する\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という意味であることからこの式は、「a = a + 1」と同じ意味になり、この式に言い換えることができます。これは引き算、掛け算、割り算も一緒です。しかし、この演算子を使うためには\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"事前に変数があることを宣言しなければいけません\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。次のコードを見てください。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81d0-ac06-ceb6613c7667",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 14
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"language\":\"python\",\"parent\":[\"a += 1\\nprint(a)\"],\"caption\":[]}",
+    "blockId": "1eca501e-f337-81d6-93e4-c5bab2650b18",
+    "type": "code",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 15
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"結果\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-811c-8736-f1e269042741",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 16
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1e7a501e-f337-805b-bc4e-d442525244f3/image/1eca501e-f337-8165-87c4-f41a0b74f667.png\"}",
+    "blockId": "1eca501e-f337-8165-87c4-f41a0b74f667",
+    "type": "image",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 17
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このように、事前に宣言しておかないと「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"変数aなんてものありません\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」というエラーが出てしまいます。実際、演算子の左にある変数に演算子の右にある式の結果を代入するわけですから何も代入されていない変数を使うというのは確かにおかしな話です。なので、エラー対策として事前にその変数があることを宣言するのです。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8144-b900-e64a55701c30",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 18
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"language\":\"python\",\"parent\":[\"a = 0\\n\\na += 1\\nprint(a)\"],\"caption\":[]}",
+    "blockId": "1eca501e-f337-8197-8e4c-f2d3a91d28fb",
+    "type": "code",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 19
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"結果\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8130-a401-d64db0846790",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 20
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1e7a501e-f337-805b-bc4e-d442525244f3/image/1eca501e-f337-81dd-a5f2-fdddf14e891f.png\"}",
+    "blockId": "1eca501e-f337-81dd-a5f2-fdddf14e891f",
+    "type": "image",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 21
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"事前に変数aに0が代入されているので、aに1が足すことができましたね。これが、元の一致システムでは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"while文の処理が始まってすぐにEATとBITEに0を代入している意味\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"になります。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-819c-972e-d3e19672e315",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 22
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"では、なぜこんな書き方をするのかという話ですが、僕個人の意見としては\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コードが見やすくなるから\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"だと思っています。同じ行に同じ変数があると、あとでそのコードを見た時に何を書いているかが少しわかりにくいと感じてしまうのでしょう。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":true,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まぁ、僕は思ったことは無いのですが。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81b4-aef5-c929f04f15ef",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 23
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ただ、この演算子は結構使われることが多いので、他人のコードを見た時に知っておくとかなり便利です。ぜひ覚えていってください。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8116-8091-e6c235a74725",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 24
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-81e0-864b-f05e01e6dc11",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 25
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "_",
+    "blockId": "1eca501e-f337-819f-8990-e0d1d12e44a2",
+    "type": "divider",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 26
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3-1 入力される数字の桁数を制限しよう\",\"href\":\"/posts/curriculums/1e7a501e-f337-805b-bc4e-d442525244f3/1eca501e-f337-817a-9e5b-c6190535af2e\"}]}",
+    "blockId": "1eca501e-f337-81ea-9bee-e951df5a7a5b",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 27
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3-3 ゲームクリア判定を作成しよう\",\"href\":\"/posts/curriculums/1e7a501e-f337-805b-bc4e-d442525244f3/1eca501e-f337-8151-b8d2-da01eb4c2a83\"}]}",
+    "blockId": "1eca501e-f337-81b3-9b1d-fed45a8fe166",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 28
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-81b4-ac72-d778c2602210",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 29
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"目次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"数当てゲームをPythonで作ってみよう\",\"href\":\"/posts/curriculums/1e7a501e-f337-805b-bc4e-d442525244f3/1eca501e-f337-80fc-a5bd-f2a1ea7ef2ca\"}]}",
+    "blockId": "1eca501e-f337-811f-9c49-eae22232d98a",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-8166-a58b-e172fea0ca95",
+    "i": 30
+  }
+]

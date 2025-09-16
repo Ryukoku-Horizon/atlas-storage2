@@ -1,0 +1,362 @@
+[
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"夏休み中の課題として、全3つのFletアプリの作成をします。\",\"href\":null}]}",
+    "blockId": "232a501e-f337-809c-b153-ff8d96c2d0f9",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 1
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これは基本的に\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"夏休み中の空き時間\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で進めていくものです。\",\"href\":null}]}",
+    "blockId": "232a501e-f337-80b2-bded-d9cd3a7f6a3b",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 2
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"作成するアプリについて\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "232a501e-f337-80d8-9dc4-dd7ccaef8dfc",
+    "type": "heading_1",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 3
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"作成する3つのアプリの内訳は以下です。\",\"href\":null}]}",
+    "blockId": "232a501e-f337-8028-9c19-fe1ffa224931",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 4
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"回分判定アプリ\",\"href\":null}]}",
+    "blockId": "232a501e-f337-8091-aafb-c83555332f5e",
+    "type": "bulleted_list_item",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 5
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-8091-aafb-c83555332f5e",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"１つ目のサンプルアプリは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ソースコード\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（プログラム）をすべて公開しています。\",\"href\":null}]}",
+    "blockId": "232a501e-f337-80bd-85de-c3d4209657aa",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 1
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-8091-aafb-c83555332f5e",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そのうえで、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アプリ作成の手引\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を用意しています。作成の手引を読みながら、ソースコードを読み解き、どのような仕組みで動いているのかを考えて作っていってください！\",\"href\":null}]}",
+    "blockId": "232a501e-f337-80e2-8f8a-c78b24665f4d",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 2
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"シンプルメモ\",\"href\":null}]}",
+    "blockId": "232a501e-f337-8069-bafb-f9d6b8a9251b",
+    "type": "bulleted_list_item",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 6
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-8069-bafb-f9d6b8a9251b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"２つ目のサンプルアプリは、アプリ作成の手引は公開していますが、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ソースコードは公開していません\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。\",\"href\":null}]}",
+    "blockId": "232a501e-f337-8001-be01-ef45b1f8051b",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 1
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-8069-bafb-f9d6b8a9251b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"[サンプルアプリ１]を思い出しながら、作成の手引に沿って作っていきましょう！\",\"href\":null}]}",
+    "blockId": "232a501e-f337-807c-8119-cbcd4649451d",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 2
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"完全オリジナルなアプリ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"×1つ\",\"href\":null}]}",
+    "blockId": "232a501e-f337-8042-aa47-f9a42e4ad01a",
+    "type": "bulleted_list_item",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 7
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-8042-aa47-f9a42e4ad01a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"２つのサンプルアプリの作成を通して身につけた知見を活かして、簡単なものでもいいので、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"あなたの完全オリジナルなアプリ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を作ってみましょう！\",\"href\":null}]}",
+    "blockId": "232a501e-f337-801b-a893-f7d5bb318900",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 1
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "232a501e-f337-8094-a345-e2d263885ef1",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 8
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"それぞれのアプリが完成したら、以下の進捗フォームから、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラムを記述したファイル\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\".pyファイル\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）を提出してください。\",\"href\":null}]}",
+    "blockId": "232a501e-f337-8081-a86b-f728c5963136",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 9
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"icon\":null,\"color\":\"green_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"夏休みアプリ提出フォーム\",\"href\":null}]}",
+    "blockId": "247a501e-f337-808b-b9dd-d94ba1bb36e8",
+    "type": "callout",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 10
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "247a501e-f337-808b-b9dd-d94ba1bb36e8",
+    "data": "{\"parent\":[],\"url\":\"https://docs.google.com/forms/d/e/1FAIpQLSe9QeNjrX3W6lOu_QCxHm7iQzndA4WsCRqhyZeBjqAlTRODJQ/viewform?usp=dialog\",\"ogp\":{\"title\":\"Google フォーム: ログイン\",\"icon\":null,\"image\":null,\"description\":\"Google フォームには、個人の Google アカウントまたは Google Workspace アカウント（ビジネス ユーザー向け）でアクセスできます。\"}}",
+    "blockId": "24ba501e-f337-806d-a089-da05913c6bae",
+    "type": "bookmark",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 1
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"サンプルアプリ１ - \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default_background\"},\"plain_text\":\"回文判定アプリ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "232a501e-f337-8034-8ff4-f1b469301c51",
+    "type": "heading_2",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 11
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "_",
+    "blockId": "247a501e-f337-807b-8426-f8f9b8b8172d",
+    "type": "divider",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 12
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"parent\":\"回文判定アプリの手引き\",\"iconType\":\"emoji\",\"iconUrl\":\"🍅\",\"coverUrl\":\"https://images.unsplash.com/photo-1505705694340-019e1e335916?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb\"}",
+    "blockId": "232a501e-f337-8064-a9cc-e16e066f0f48",
+    "type": "child_page",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 13
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "232a501e-f337-80f2-912a-d704b22afc3d",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 14
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"サンプルアプリ２ - \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default_background\"},\"plain_text\":\"シンプルメモ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "232a501e-f337-8072-9593-d0296803c3e7",
+    "type": "heading_2",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 15
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "_",
+    "blockId": "247a501e-f337-8007-bcc1-c0d6e46b7fcd",
+    "type": "divider",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 16
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"parent\":\"シンプルメモアプリの手引き\",\"iconType\":\"emoji\",\"iconUrl\":\"📝\",\"coverUrl\":\"https://www.notion.so/images/page-cover/met_william_morris_1877_willow.jpg\"}",
+    "blockId": "232a501e-f337-8021-ab94-e9762df05e86",
+    "type": "child_page",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 17
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "232a501e-f337-8024-a26e-f98b531ed62a",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 18
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"完全オリジナルアプリ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "232a501e-f337-80d8-aef4-f0aa2ae9fbf6",
+    "type": "heading_2",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 19
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "_",
+    "blockId": "247a501e-f337-8009-877d-ebbb98b2ec52",
+    "type": "divider",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 20
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2つのサンプルアプリを作成できたら、いよいよあなたのオリジナルアプリを作ってみましょう！\",\"href\":null}]}",
+    "blockId": "232a501e-f337-802c-9e92-d5bfdf83a2ee",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 21
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テーマや機能には条件をつけない\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ので、とにかくあなたが作りたいと思ったものを作ってみてください。\",\"href\":null}]}",
+    "blockId": "247a501e-f337-802f-a5ae-d4335ff7950c",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 22
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"❓\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カリキュラムでやってないことやってもいいの？\",\"href\":null}]}",
+    "blockId": "247a501e-f337-805e-98e2-c65d9cc240a2",
+    "type": "callout",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 23
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "247a501e-f337-805e-98e2-c65d9cc240a2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"もちろん、カリキュラムで紹介していないコントロールや技術、ライブラリなどを使用するのもOKです！\",\"href\":null}]}",
+    "blockId": "247a501e-f337-8078-ae5d-ff6a88c4488f",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 1
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えば、オリジナルアプリのアイデアとして次のようなものがあります。\",\"href\":null}]}",
+    "blockId": "247a501e-f337-8030-a652-c5298623b557",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 24
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ご参考までに…\",\"href\":null}]}",
+    "blockId": "247a501e-f337-80d2-ab8b-cbecb82f06d2",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 25
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"日記アプリ\",\"href\":null}]}",
+    "blockId": "247a501e-f337-807a-b503-f6d3a712e011",
+    "type": "bulleted_list_item",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 26
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"単位変換アプリ\",\"href\":null}]}",
+    "blockId": "247a501e-f337-8001-8ffb-db93ff2bfd87",
+    "type": "bulleted_list_item",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 27
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数電卓\",\"href\":null}]}",
+    "blockId": "247a501e-f337-80ee-9705-def5f74ab4e5",
+    "type": "bulleted_list_item",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 28
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"AIチャットアプリ（難易度高め）\",\"href\":null}]}",
+    "blockId": "247a501e-f337-80f0-9963-d5333217cc9b",
+    "type": "bulleted_list_item",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 29
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "247a501e-f337-80f0-9963-d5333217cc9b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"etc…\",\"href\":null}]}",
+    "blockId": "247a501e-f337-800f-a173-fd998b4d692f",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 1
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"オリジナルアプリ発表について\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "247a501e-f337-8000-9b82-e2a330427a3d",
+    "type": "heading_3",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 30
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"夏休みで作ったオリジナルアプリは、後期活動で発表会を行う予定です。\",\"href\":null}]}",
+    "blockId": "247a501e-f337-807f-a6ff-f03cee9cb7b6",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 31
+  },
+  {
+    "curriculumId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "parentId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"詳細は後日通知しますので、それまでお待ちください。\",\"href\":null}]}",
+    "blockId": "247a501e-f337-80e2-97ee-ed9f3fa09bac",
+    "type": "paragraph",
+    "pageId": "232a501e-f337-80c8-920d-c85f8ca9efde",
+    "i": 32
+  }
+]

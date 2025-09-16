@@ -1,0 +1,218 @@
+[
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"CLIってなに？\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f0a501e-f337-802a-8c45-f2dbb55b4019",
+    "type": "heading_1",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 1
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "_",
+    "blockId": "1f0a501e-f337-80bb-b55e-f49bcf35d8f2",
+    "type": "divider",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 2
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"CLIの意味\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f0a501e-f337-80ed-bdcc-ccd5761d366c",
+    "type": "heading_2",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 3
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "_",
+    "blockId": "1f0a501e-f337-801a-9a4f-d7ce2b0d5ed0",
+    "type": "divider",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 4
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"CLIは「Command Line Interface」の略で、意味はコンピューターソフトウェアやオペレーティングシステムと対話するためのテキストベースのユーザーインターフェース…\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-80ed-b9f3-f0048dc6ac15",
+    "type": "paragraph",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 5
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"要するに、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"yellow\"},\"plain_text\":\"パソコンと文字によって対話をするためのもの\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-8014-b027-e94fe80fef22",
+    "type": "paragraph",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 6
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"CLIの例\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f0a501e-f337-801b-b666-ca0a0b296b05",
+    "type": "heading_2",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 7
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "_",
+    "blockId": "1f0a501e-f337-80ab-942b-feb7cde75ecb",
+    "type": "divider",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 8
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実は…\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f0a501e-f337-804b-8f82-d74a1018ec56",
+    "type": "heading_3",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 9
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "_",
+    "blockId": "1f0a501e-f337-8056-bf54-c6a05ba52088",
+    "type": "divider",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 10
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"身近なCLIとしては、VSCodeにある実行結果が出る場所の「ターミナル」という場所、これがそうです。\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-80b0-915c-e2c303af87dd",
+    "type": "paragraph",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 11
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1bea501e-f337-804c-90e8-da6f1f5384c1/image/1f0a501e-f337-807a-8c55-fc02deebf53f.png\"}",
+    "blockId": "1f0a501e-f337-807a-8c55-fc02deebf53f",
+    "type": "image",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 12
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"確かにここには文字しか出てこないですよね？\\n例えば、print関数で打たせたものやエラー文…etc。\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-801d-b65a-e8090719bb4c",
+    "type": "paragraph",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 13
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そして、この「ターミナル」を通じてCLIをある程度使えるようにするのがこの「CLIの基礎」の目標です。\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-80c1-b143-f3cc5d836905",
+    "type": "paragraph",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 14
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"よく見ると\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f0a501e-f337-8087-b010-c891d82718a3",
+    "type": "heading_3",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 15
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "_",
+    "blockId": "1f0a501e-f337-80e0-9e83-f8b8fab7da4a",
+    "type": "divider",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 16
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"でもこの「ターミナル」にはいつも出てくるのに、まだ説明していない部分があります。\\nそれは実行結果などが出る部分ではないところ、以下のようなことが書かれているところです。\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-8094-98f1-c8a621124b08",
+    "type": "paragraph",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 17
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Windowsの人なら↓\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-80d7-8997-d9c0824f31d8",
+    "type": "paragraph",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 18
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"language\":\"bash\",\"parent\":[\"PS C:\\\\Users\\\\user\\\\Desktop\\\\python\\\\practices> \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-802f-a05a-fc860ee7fb98",
+    "type": "code",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 19
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Macの人なら↓\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-8054-8ad4-c6b92bbd4b95",
+    "type": "paragraph",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 20
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"language\":\"bash\",\"parent\":[\"user@MacBook practices % \"],\"caption\":[]}",
+    "blockId": "1f0a501e-f337-80d8-a796-cadb05ca8b29",
+    "type": "code",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 21
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"もちろんそれだけが機能ではありませんが…\\nこれを含めた他機能の説明をする上でOSによってこのように説明が変わってしまうので、自分の使っているOSに合わせた方の説明ページに移動しましょう。\",\"href\":null}]}",
+    "blockId": "1f0a501e-f337-80ef-84ba-d691f8f314ad",
+    "type": "paragraph",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 22
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"parent\":\"for Windows(PowerShell)\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/grid_blue.svg\",\"coverUrl\":\"\"}",
+    "blockId": "1f0a501e-f337-80d8-a091-da399b7fa1e2",
+    "type": "child_page",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 23
+  },
+  {
+    "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "data": "{\"parent\":\"for Mac(zsh)\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/apple_red.svg\",\"coverUrl\":\"\"}",
+    "blockId": "1f0a501e-f337-8007-9a3f-f6f6db3fec52",
+    "type": "child_page",
+    "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
+    "i": 24
+  }
+]

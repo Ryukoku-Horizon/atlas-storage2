@@ -1,0 +1,1118 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(5.入力)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8081-9a0c-d8aafc4b4c17\"}]}",
+    "blockId": "1b8a501e-f337-8166-8ba9-e214157422f5",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "_",
+    "blockId": "1b8a501e-f337-81f9-9ac7-e653cbf59610",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"if文の基本\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8114-b1ea-f6221943fe04",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "_",
+    "blockId": "1b8a501e-f337-81eb-9bb0-c3a3c45fa9e0",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回はプログラミングをするうえで重要な概念となる\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"条件分岐\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"について学んでいきます。\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"条件分岐\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"とは、プログラム内で特定の条件を満たすか否かで、処理を変えるための機能です。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8142-a62a-de3cf5d45e45",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"たとえば、テストの点数が70点以上の場合は「合格」、そうでない場合は「不合格」と表示する、などを実現できます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-811a-bf35-d9bfca262d7f",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonで条件分岐を実現するには、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" if文 \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と呼ばれる構文を使用します。\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"if文 \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は次のように書くことができます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8161-be44-e336f651399d",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81b9-af8a-c92d499c409f",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81b9-af8a-c92d499c409f",
+    "data": "{\"language\":\"python\",\"parent\":[\"if 条件式:\\n    #ここに、条件式が成立するときの処理を書く\\nelse:\\n    #ここに、条件式が成立しなかったときの処理を書く\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-811e-ad5f-e05643a47824",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"if\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の後ろにある「条件式」 には大なり記号（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\">\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）や小なり記号（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）、イコール（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"=\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）などを使用した条件を示す式を書きます。例えば、「点数（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"score\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）が70点以上」という条件を示すには\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"score >= 70\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と書きます。ここでの\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\">=\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は数学での「≧」と同じ意味です。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8183-a1ef-f8a363ffaeb3",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"上に書いたような、点数によって合否を判定するプログラムを作るには、以下のように書きます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81c8-bbe9-cef3fbb8d269",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81fa-908e-f596bc392c52",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81fa-908e-f596bc392c52",
+    "data": "{\"language\":\"python\",\"parent\":[\"score = 75\\nprint(\\\"あなたは\\\", score, \\\"点です\\\")\\nif score >= 70:\\n    print(\\\"合格です\\\")\\nelse:\\n    print(\\\"不合格です\\\")\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8173-b365-e77984d60dd1",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行結果は以下のようになります。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-810b-a6d7-eccd457d815f",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8101-968f-fd2ebb1a2925",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8101-968f-fd2ebb1a2925",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"あなたは 75 点です\\n合格です\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8167-a0b2-d5994ecebd45",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-8125-acd8-cbceb215697c",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"⚠️\"},\"color\":\"yellow_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回から実行結果の表示方法を、画像からテキストに変更していますが、お気になさらず。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81d3-840d-ed3973a14766",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"変数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"score\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"には\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"75\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が格納されているため、条件式\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"score >= 70\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が成立し、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"print(”合格です”)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が実行されています。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8163-bb94-f2a61d8f40b0",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"では、変数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"score\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に格納する数字を70未満に変更してみましょう。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8122-b77b-f4a3b56e4b04",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8180-9232-cdd4cedcabd7",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8180-9232-cdd4cedcabd7",
+    "data": "{\"language\":\"python\",\"parent\":[\"score = 60\\nprint(\\\"あなたは\\\", score, \\\"点です\\\")\\nif score >= 70:\\n    print(\\\"合格です\\\")\\nelse:\\n    print(\\\"不合格です\\\")\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81f7-b9ae-c03e76c4f4f2",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行結果は以下のようになります。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-816c-a195-c77610bc5f70",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8117-b552-dadfc603294b",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 20
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8117-b552-dadfc603294b",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"あなたは 60 点です\\n不合格です\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8105-a307-c8a476577a64",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81e3-9839-cc1b6ec4f889",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 21
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81e3-9839-cc1b6ec4f889",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"あなたは 60 点です\\n不合格です\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-816b-9fe8-e924e2a97c62",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"変数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"score\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に格納されている数値が\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"60\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"score >= 70\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"という条件式を満たさなかったため、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"print(”不合格です”)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が実行されました。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ee-a29f-d1af5a75c344",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 22
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラミングでは、if文などで条件式が成立することを真（True）、成立しないことを偽（False）と呼びます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-814e-9ded-f0aec58917a2",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 23
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、if文は以下のように\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"else\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を省略して、条件式が真の場合のみ特定の処理を実行することもできます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-812b-88ce-c9c3c69fe102",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 24
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-817d-9bd8-c3a491356083",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 25
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-817d-9bd8-c3a491356083",
+    "data": "{\"language\":\"python\",\"parent\":[\"score = 80\\nprint(\\\"あなたは\\\", score, \\\"点です\\\")\\nif score >= 70:\\n    print(\\\"あなたは合格です\\\")\\n#score が70未満のときは何も行われない\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8125-aa36-fc0576a282bc",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"比較演算子\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8165-ad21-ef4528b93182",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 26
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8158-8793-f4beace79b37",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 27
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"if文で使用する条件式は、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\">=\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のような記号を用いて表します。これを比較演算子 と呼びます。比較演算子にはいくつか種類があるため、以下の一覧表で紹介します。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8140-8435-c9013b249057",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 28
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"table_width\":4,\"has_column_header\":true,\"has_row_header\":false}",
+    "blockId": "1b8a501e-f337-813b-adae-d6b1f35fc994",
+    "type": "table",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 29
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-813b-adae-d6b1f35fc994",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"比較演算子\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"比較演算子\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"使用例\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"使用例\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"説明\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"説明\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"備考\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"備考\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-81ac-a43c-f0e903eb3349",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-813b-adae-d6b1f35fc994",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\">\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\">\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"x > y\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"x > y\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"xがyより大きい（超過）\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"xがyより大きい（超過）\",\"href\":null}],[]]",
+    "blockId": "1b8a501e-f337-81de-a02e-c219e9093391",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-813b-adae-d6b1f35fc994",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"<\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"x < y\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"x < y\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"xがyより小さい（未満）\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"xがyより小さい（未満）\",\"href\":null}],[]]",
+    "blockId": "1b8a501e-f337-8147-88a7-f1c2d9b5936b",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-813b-adae-d6b1f35fc994",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\">=\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\">=\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"x >= y\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"x >= y\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"xがy以上\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"xがy以上\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"数学の ≧ と一緒\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"数学の ≧ と一緒\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-816e-bc5a-d467de235ae8",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-813b-adae-d6b1f35fc994",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"<=\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<=\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"x <= y\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"x <= y\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"xがy以下\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"xがy以下\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"数学の ≦ と同じ\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"数学の ≦ と同じ\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-81a4-8d9c-d9c40152386f",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-813b-adae-d6b1f35fc994",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"==\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"==\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"x == y\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"x == y\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"xとyが等しい\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"xとyが等しい\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"数学の = と一緒\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"数学の = と一緒\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-81c1-b594-f515f2cb7890",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-813b-adae-d6b1f35fc994",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"!=\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"!=\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"x != y\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"x != y\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"xとyが等しくない\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"xとyが等しくない\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"数学の ≠ と一緒\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"数学の ≠ と一緒\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-8197-939b-fafed2402712",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"⚠️\"},\"color\":\"yellow_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"= が付く比較演算子は = を必ず右に書きます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-816d-8555-e1a530898cc6",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 30
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"よく使う演算子\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8188-843c-f432424dd133",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 31
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "_",
+    "blockId": "1b8a501e-f337-81bc-be2d-fc4873ecf349",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 32
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"if文で使用する条件式をつなげたり特定の意味を付与します。これを比較演算子 と呼び、演算子にもいくつか種類があるため、以下の一覧表で紹介します。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81d1-a7ce-eb4bce34b273",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 33
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"table_width\":4,\"has_column_header\":true,\"has_row_header\":false}",
+    "blockId": "1b8a501e-f337-81f3-9238-f11efaea3753",
+    "type": "table",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 34
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81f3-9238-f11efaea3753",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"演算子\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"演算子\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"使用例\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"使用例\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"説明\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"説明\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"備考\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"備考\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-81cc-97bd-e76309cdf23b",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81f3-9238-f11efaea3753",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"not\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"not\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"not (x < y)\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"not (x < y)\",\"href\":null},{\"type\":\"text\",\"text\":{\"content\":\" \",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"直後を否定\\n\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"yellow\"},\"plain_text\":\"直後を否定\\n\",\"href\":null},{\"type\":\"text\",\"text\":{\"content\":\"(この場合はxがy以上)\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"(この場合はxがy以上)\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"下のbool型の説明中のトグルで少し詳しい説明があります\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"下のbool型の説明中のトグルで少し詳しい説明があります\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-812c-9826-cae413d9e772",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81f3-9238-f11efaea3753",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"and\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"and\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"(x <= z) and (y <= z)\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"(x <= z) and (y <= z)\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"xがz以下\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"xがz以下\",\"href\":null},{\"type\":\"text\",\"text\":{\"content\":\"かつ\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"yellow\"},\"plain_text\":\"かつ\",\"href\":null},{\"type\":\"text\",\"text\":{\"content\":\"yがz以下\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"yがz以下\",\"href\":null}],[]]",
+    "blockId": "1b8a501e-f337-81f9-a9da-f5bdc05566df",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81f3-9238-f11efaea3753",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"or\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"or\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"(x <= z) or (y <= z)\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"(x <= z) or (y <= z)\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"xがz以下\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"xがz以下\",\"href\":null},{\"type\":\"text\",\"text\":{\"content\":\"または\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"yellow\"},\"plain_text\":\"または\",\"href\":null},{\"type\":\"text\",\"text\":{\"content\":\"yがz以下\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"yがz以下\",\"href\":null}],[]]",
+    "blockId": "1b8a501e-f337-8160-a4b2-e5750d41fd9e",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81f3-9238-f11efaea3753",
+    "data": "[[{\"type\":\"text\",\"text\":{\"content\":\"in\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"in\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"x in y\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"x in y\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"x \",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"x \",\"href\":null},{\"type\":\"text\",\"text\":{\"content\":\"が \",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"yellow\"},\"plain_text\":\"が \",\"href\":null},{\"type\":\"text\",\"text\":{\"content\":\"y \",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"y \",\"href\":null},{\"type\":\"text\",\"text\":{\"content\":\"中に存在する\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"yellow\"},\"plain_text\":\"中に存在する\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"文字列やリストなどに使う\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文字列やリストなどに使う\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-8193-be7b-ecda13e42cf9",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"elif\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8192-815d-c184dd1376ed",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 35
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8143-b06a-fb949684b9c1",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 36
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"if文では「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"もし〜ならば◯◯する\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という処理でしたが、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"elif文 \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使用することで「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"それ以外で、もしーならば△△する\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という処理も行うことができます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8103-aae7-ec132246c62d",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 37
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"書き方は、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"if\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"else\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の間に\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"elif 条件式\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を追加することで、複数の条件を順にチェックし、最初に条件式が真の部分の処理を実行します。以下のコードが記述例です。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-814a-bbfd-e1d9aaa08517",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 38
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81f8-b460-e543a86fe507",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 39
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81f8-b460-e543a86fe507",
+    "data": "{\"language\":\"python\",\"parent\":[\"score = 75\\nprint(\\\"あなたは\\\", score, \\\"点です\\\")\\nif score >= 90:\\n    print(\\\"あなたの評価はSです\\\")\\nelif score >= 80:\\n    print(\\\"あなたの評価はAです\\\")\\nelif score >= 70:\\n    print(\\\"あなたの評価はBです\\\")\\nelif score >= 60:\\n    print(\\\"あなたの評価はCです\\\")\\nelse:\\n    print(\\\"あなたの評価はDです\\\")\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81a2-95f0-fbf1d944c742",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"先程のプログラムは点数から合否を判定することしかできませんでしたが、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"elif\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使用することで、点数に対して多段階の評価を判定することができます。実行結果は以下のようになります。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81d7-9105-f04f023ffa70",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 40
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-815d-b58d-c768daec3d3d",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 41
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-815d-b58d-c768daec3d3d",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"あなたは 75 点です\\nあなたの評価はBです\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-817e-81eb-f13624634f23",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラムの流れを簡単に解説します。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8140-b178-f8d2386a58b1",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 42
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"最初の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"if\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の条件式が評価され、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"score\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の値が90以上かどうかをチェックする。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"score\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の値は75なので、この条件は\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"偽\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"となる。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8129-8bfc-eceb2f02e22c",
+    "type": "numbered_list_item",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 43
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次に\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"elif\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の条件式が評価され、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"score\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の値が80以上かどうかをチェックする。この場合、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"score\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の値は75なので、この条件も\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"偽\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"となる。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8124-af77-c1f3b29062c0",
+    "type": "numbered_list_item",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 44
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"さらに次の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"elif\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の条件式が評価され、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"score\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の値が70以上かどうかをチェックする。この場合、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"score\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の値は75なので、この条件は\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"真\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"となり、「あなたの評価はBです」と出力される。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81e1-989f-dcdbe679dda2",
+    "type": "numbered_list_item",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 45
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このように\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"if\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"elif\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"else\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を組み合わせることで、より複雑な条件分岐を実現できます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81d7-959e-f2cb34d56e8e",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 46
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-81f8-b854-d06644d94bfe",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 47
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ギモン：ifだけをたくさん使えば同じことできんじゃね？\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81d5-ba22-cd1950e316a2",
+    "type": "toggle",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 48
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d5-ba22-cd1950e316a2",
+    "data": "{\"language\":\"python\",\"parent\":[\"score = 75\\nprint(\\\"あなたは\\\", score, \\\"点です\\\")\\nif score >= 90:\\n    print(\\\"あなたの評価はSです\\\")\\nif score >= 80:\\n    print(\\\"あなたの評価はAです\\\")\\nif score >= 70:\\n    print(\\\"あなたの評価はBです\\\")\\nif score >= 60:\\n    print(\\\"あなたの評価はCです\\\")\\nif score >= 0:\\n    print(\\\"あなたの評価はDです\\\")\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81d1-a1d5-f03924e95529",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d5-ba22-cd1950e316a2",
+    "data": "{\"language\":\"python\",\"parent\":[\"＜出力結果＞\\nあなたは 75 点です\\nあなたの評価はBです\\nあなたの評価はCです\\nあなたの評価はDです\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8160-81e2-c21eb9c8adc3",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d5-ba22-cd1950e316a2",
+    "data": "{\"language\":\"python\",\"parent\":[\"#ifのみ\\nscore = 75\\nprint(\\\"あなたは\\\", score, \\\"点です\\\")\\nif score >= 90:                   ←条件式が\",\"偽\",\"なので実行しない\\n    print(\\\"あなたの評価はSです\\\")\\nif score >= 80:                   ←条件式が\",\"偽\",\"なので実行しない\\n    print(\\\"あなたの評価はAです\\\")\\nif score >= 70:                   ←条件式が\",\"真\",\"なので実行\\n    print(\\\"あなたの評価はBです\\\")\\nif score >= 60:                   ←条件式が\",\"真\",\"なので実行\\n    print(\\\"あなたの評価はCです\\\")\\nif score >= 0:                    ←条件式が\",\"真\",\"なので実行\\n    print(\\\"あなたの評価はDです\\\")\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8111-92cc-fbad5ccb1705",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d5-ba22-cd1950e316a2",
+    "data": "{\"language\":\"python\",\"parent\":[\"#elifあり\\nscore = 75\\nprint(\\\"あなたは\\\", score, \\\"点です\\\")\\nif score >= 90:                   ←条件式が\",\"偽\",\"なので次のelifへ\\n    print(\\\"あなたの評価はSです\\\")\\nelif score >= 80:                 ←条件式が\",\"偽\",\"なので次のelifへ\\n    print(\\\"あなたの評価はAです\\\")\\nelif score >= 70:                 ←条件式が\",\"真\",\"なので実行\\n    print(\\\"あなたの評価はBです\\\")\\nelif score >= 60:                 ←以降の条件式はチェックしない\\n    print(\\\"あなたの評価はCです\\\")\\nelse:\\n    print(\\\"あなたの評価はDです\\\")\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8124-948c-ef555674fa68",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d5-ba22-cd1950e316a2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と思った人もいるかもしれません。あなたが思い浮かべたコードは、このようなものではないでしょうか？\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81e9-b9eb-c094ae7ebbd8",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d5-ba22-cd1950e316a2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一見、elifを使用したプログラムと同様の結果が得られるように見えるかもしれません。では、このコードの実行結果を見てみましょう。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8122-8cff-edc145e63c26",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d5-ba22-cd1950e316a2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「あなたの評価は…」が複数行出力されてしまいましたね。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"if\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のみのプログラムと、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"elif\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使用したプログラム違いはここにあります。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"if\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のみのプログラムでは、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"if\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の条件式が真の処理がもれなく実行されてしまいます。対して\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"if\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"elif\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使用したプログラムは、一番上のifから条件式のチェックを始め、偽であった場合には次のelif、それも偽ならさらに次のelif…とチェックを進めていきます。そして、初めて真となった条件の処理だけを実行するのです。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ae-8071-f5509d3f0504",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"bool型\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "208a501e-f337-80b9-9de5-f32056068d75",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 49
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "_",
+    "blockId": "208a501e-f337-8025-b74a-f80c10956659",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 50
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここでは、if文に関連して、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3章\",\"href\":\"/1aea501ef33781afb0e2f06169bd61d1\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で登場していないもう一つの「変数の型」を紹介します。それが \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"bool型\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" です。\\n\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"bool型\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" とは真理値を格納するための型です。真理値とは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"orange\"},\"plain_text\":\"True\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（真）\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"または\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"orange\"},\"plain_text\":\"False\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（偽）\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のいずれかを取る値のことです。（\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"→\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"このサイトわかりやすい！\",\"href\":\"https://wa3.i-3-i.info/word16809.html\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）\",\"href\":null}]}",
+    "blockId": "208a501e-f337-8034-bf25-cff3b98a1ce0",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 51
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えば、このように定義できます。\",\"href\":null}]}",
+    "blockId": "208a501e-f337-8061-aca6-f1ab1ce53331",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 52
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "208a501e-f337-802b-a6ac-ce8aa2a5d96f",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 53
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-802b-a6ac-ce8aa2a5d96f",
+    "data": "{\"language\":\"python\",\"parent\":[\"is_true = True\\nis_false = False\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-804d-b47b-cd55837eecef",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"bool型の使い道\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "208a501e-f337-8097-8385-d4fadd19339f",
+    "type": "heading_2",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 54
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "_",
+    "blockId": "208a501e-f337-80d8-968d-f172560bc02d",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 55
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"bool型は条件文に使われます。\\n\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"bool型は（他にも使い道はありますが）基本的に条件文にのみ使われます。\\n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"条件文の条件分岐というのは、必ずbool型（真か偽か）で判断されます。\",\"href\":null}]}",
+    "blockId": "208a501e-f337-80e8-8395-e9e974757aa7",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 56
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "208a501e-f337-801a-a2d9-e30f2f788d0b",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 57
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-801a-a2d9-e30f2f788d0b",
+    "data": "{\"language\":\"python\",\"parent\":[\"is_true = True\\nis_false = False\\nif is_true:  # ←ここがTrue（真）なので処理が実行される\\n    print(\\\"これは真です(1)\\\")\\nif is_false: # ←ここがFalse(偽)なので処理が実行されない\\n    print(\\\"これは真です(2)\\\")\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-8070-b4f1-e80f92d1f72b",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "208a501e-f337-803b-a4c8-ff462444b470",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 58
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-803b-a4c8-ff462444b470",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"これは真です(1)\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-8018-afe7-ecf97e1e1892",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行結果を見ると、「これは真です(1)」が出力されています。よって、if文はbool型の変数の中身が\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"True\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の場合のみ処理を実行したことがわかります。\",\"href\":null}]}",
+    "blockId": "208a501e-f337-80e5-9517-ddb2b9b1cca9",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 59
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"比較演算子との関係\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "208a501e-f337-8006-94cf-e439db6b1653",
+    "type": "heading_2",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 60
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "_",
+    "blockId": "208a501e-f337-80d8-affb-e78bf72e4da4",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 61
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"比較演算子（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\">\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"や\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"や\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"==\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）は、簡単に言えば、結果としてbool型の値（TrueかFalseか）を得られる演算子です。\",\"href\":null}]}",
+    "blockId": "208a501e-f337-80f6-8909-ecd14fab9341",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 62
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "208a501e-f337-8000-a7cd-d99971f344be",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 63
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-8000-a7cd-d99971f344be",
+    "data": "{\"language\":\"python\",\"parent\":[\"x = 10\\ny = 20\\nflag = x < y \\nprint(flag)\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-8004-a34d-e1a322243c2b",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "208a501e-f337-8010-aafe-eb2fed5ba41d",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 64
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-8010-aafe-eb2fed5ba41d",
+    "data": "{\"language\":\"python\",\"parent\":[\"True\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-80e2-8900-e79b0d5b795e",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"比較演算子の結果は必ずbool型です。なので、比較演算子は基本的に条件文で使います。\",\"href\":null}]}",
+    "blockId": "208a501e-f337-80aa-a41c-e47a18345d24",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 65
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "208a501e-f337-80a7-a741-de275d562ece",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 66
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-80a7-a741-de275d562ece",
+    "data": "{\"language\":\"python\",\"parent\":[\"x = 10\\ny = 20\\nflag = x < y \\nif flag: #flagがTrueなので処理が実行される\\n\\tprint(\\\"真\\\")\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-8086-85fb-d760b4610c61",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "208a501e-f337-807c-a700-ed7408ab6835",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 67
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-807c-a700-ed7408ab6835",
+    "data": "{\"language\":\"python\",\"parent\":[\"真\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-805c-9e5d-caa81c6fe8f4",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"bool型とnot演算子の関係\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "208a501e-f337-8010-ac2f-f79cc640c358",
+    "type": "heading_2",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 68
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "_",
+    "blockId": "208a501e-f337-80a0-9f14-f29fc8e682a5",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 69
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"先ほど紹介した\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"not演算子は、bool値（真偽値）を反転させる\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ための演算子です。\",\"href\":null}]}",
+    "blockId": "208a501e-f337-80a0-87c3-ce6be23e6eca",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 70
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例１\",\"href\":null}]}",
+    "blockId": "208a501e-f337-809f-ad71-d92b2da93f2e",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 71
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-809f-ad71-d92b2da93f2e",
+    "data": "{\"language\":\"python\",\"parent\":[\"# 反転させる\\nprint(not True)      # False\\nprint(not False)     # True\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-8033-94d8-e780de044e95",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例２\",\"href\":null}]}",
+    "blockId": "208a501e-f337-8058-beb3-db16a49e30c0",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 72
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-8058-beb3-db16a49e30c0",
+    "data": "{\"language\":\"python\",\"parent\":[\"x = 10\\nprint(not x == 10)  # False（x == 10 → True、なので not True → False）\\n\\ny = 5\\nprint(not y > 10)   # True（y > 10 → False、なので not False → True）\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-80b0-8fee-dc7695f4cdba",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ちなみに…(ちょっと難しいので見なくても大丈夫)\",\"href\":null}]}",
+    "blockId": "208a501e-f337-8083-90d7-d0c9b189d488",
+    "type": "toggle",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 73
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-8083-90d7-d0c9b189d488",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実はbool型の値というのは数値型のある値と等しいんです。（数値型とはintなどの数値で定義する型の総称です。）\\nでは対応する数値はなんなのかというと、Falseが0でTrueは1です。（どちらも数学的記法でその値と等しいものであれば構いません。）\\nそれを確かめるために以下のコードとその結果を見てみましょう。\",\"href\":null}]}",
+    "blockId": "208a501e-f337-80c4-8130-c134d83c2203",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-8083-90d7-d0c9b189d488",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "208a501e-f337-8020-b3d9-ff9707127471",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-8083-90d7-d0c9b189d488",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "208a501e-f337-809b-abb9-d43eade753ab",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-8083-90d7-d0c9b189d488",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これは比較演算子の時点で型が違うので比べられずに判定結果がFalseとなりそれをさらにbool型に変換し、もちろん元の値がbool型なので変わらないために出力されないのです。\\nでは、出力させるためにはどうすればいいかですが、もちろんbool型にもその型に変換する関数がありるのでそれを使いましょう。\\nそれは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"bool()\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。これに変数を入れてif文の条件式の変数部分にすると、以下のように中身が存在する時に実行されます。例としては以下のようになります。\",\"href\":null}]}",
+    "blockId": "208a501e-f337-8084-b711-c0cae6d4a755",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-8083-90d7-d0c9b189d488",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラム\",\"href\":null}]}",
+    "blockId": "208a501e-f337-80fb-a92a-d6a41d8cdd57",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-8083-90d7-d0c9b189d488",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "208a501e-f337-8035-8164-ce2c6bd01af3",
+    "type": "callout",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-8083-90d7-d0c9b189d488",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これで、先に変数をbool型に変換しているので問題なく出力されます。\",\"href\":null}]}",
+    "blockId": "208a501e-f337-8023-a229-fa4202de3a2d",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-809b-abb9-d43eade753ab",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"intの偽(F)\\nintの真1(T)\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-802a-bafe-e31aaa0df74f",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-80fb-a92a-d6a41d8cdd57",
+    "data": "{\"language\":\"python\",\"parent\":[\"int_F  = 0 # Falseと同値\\nint_T1 = 1 # Trueと同値\\nint_T2 = 8 # これ自体はTrueと同値では無い\\n\\nif bool(int_F) == True: print(\\\"intの偽(T)\\\")\\nif bool(int_F) == False: print(\\\"intの偽(F)\\\")\\nif bool(int_T1) == True: print(\\\"intの真1(T)\\\")\\nif bool(int_T1) == False: print(\\\"intの真1(F)\\\")\\nif bool(int_T2) == True: print(\\\"intの真2(T)\\\")\\nif bool(int_T2) == False: print(\\\"intの真2(F)\\\")\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-8080-ae2f-ff955554999e",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-8035-8164-ce2c6bd01af3",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"intの偽(F)\\nintの真1(T)\\nintの真2(T)\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-8061-a12d-d7afcbfd2d5c",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-8020-b3d9-ff9707127471",
+    "data": "{\"language\":\"python\",\"parent\":[\"int_F  = 0 # Falseと同値\\nint_T1 = 1 # Trueと同値\\nint_T2 = 8 # これ自体はTrueと同値では無い\\n\\nif int_F == True: print(\\\"intの偽(T)\\\")\\nif int_F == False: print(\\\"intの偽(F)\\\")\\nif int_T1 == True: print(\\\"intの真1(T)\\\")\\nif int_T1 == False: print(\\\"intの真1(F)\\\")\\nif int_T2 == True: print(\\\"intの真2(T)\\\")\\nif int_T2 == False: print(\\\"intの真2(F)\\\")\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-8071-9a6a-d2c626cd3715",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-8185-948c-ce2729a1225b",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 74
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8185-948c-ce2729a1225b",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-812d-aada-c061bae76c6a",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8185-948c-ce2729a1225b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(5.入力)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8081-9a0c-d8aafc4b4c17\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(練習問題2)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8040-be11-fcc20622dd7c\"}]}",
+    "blockId": "1b8a501e-f337-81d0-9486-e444cef4ea6f",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  }
+]

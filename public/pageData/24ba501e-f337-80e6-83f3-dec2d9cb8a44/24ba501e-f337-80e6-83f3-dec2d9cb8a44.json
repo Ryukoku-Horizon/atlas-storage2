@@ -1,0 +1,605 @@
+[
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このページでは、HTML, CSSの基本を身につけるための\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"教材\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"基礎問題\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、実際にWebページを作成する\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"演習形式の問題\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を公開しています。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-80fe-9371-d5ce0088ee9b",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"教材\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-80fd-957a-d2b4c437ac81",
+    "type": "heading_1",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 2
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "_",
+    "blockId": "24ba501e-f337-80ef-a8f2-e5820bc3b78c",
+    "type": "divider",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 3
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"HTMLの基本\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-802e-9f07-def14b59218c",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 4
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "_",
+    "blockId": "24ba501e-f337-80c9-ac21-c623b87059ed",
+    "type": "divider",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 5
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"HTMLを身につけるために重要な、HTMLの基礎となる考え方や知識を解説したページです。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-80e6-bc75-eb91e5c33eeb",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 6
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まずは、このページを読んで\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"HTMLとはどんなものか\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、を学んでみてください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-80f4-a817-fb59c11fae4a",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 7
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"📘\"},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"教材①\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-80d2-8482-e8ea9d6c344a",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 8
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80d2-8482-e8ea9d6c344a",
+    "data": "{\"parent\":\"HTMLの基本\",\"iconType\":\"emoji\",\"iconUrl\":\"📔\",\"coverUrl\":\"https://images.unsplash.com/photo-1478104718532-efe04cc3ff7f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb\"}",
+    "blockId": "24ba501e-f337-8161-a4df-fdaf7b0fed22",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeの設定\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-807b-bac1-fac361d3e0e0",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 9
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "_",
+    "blockId": "24ba501e-f337-80c7-994e-deb8c8e57531",
+    "type": "divider",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 10
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"HTML, CSSの学習を快適に進めるためのVSCodeの設定等をまとめました。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8060-9577-db45cf935f7b",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 11
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"HTML, CSSを書き始める前にこの設定を済ませることがおすすめです。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-800c-a19a-db4133311f3d",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 12
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"📘\"},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"教材②\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-80db-af92-fa7facdc357a",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 13
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80db-af92-fa7facdc357a",
+    "data": "{\"parent\":\"VSCodeの設定\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/command-line_purple.svg\",\"coverUrl\":\"https://images.unsplash.com/photo-1623520333087-62b8793e3d23?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb\"}",
+    "blockId": "24ba501e-f337-8103-83ac-cac23c85dce4",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文系大学生のためのHTML／CSS入門\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-80a8-9dc8-cd65c2cac786",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 14
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "_",
+    "blockId": "24ba501e-f337-8058-90a8-df1e460ecea9",
+    "type": "divider",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 15
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"HTMLからCSSのにわたって、Zennで公開されている「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文系大学生のためのHTML／CSS入門\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」を主な教材として使用させていただきます。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-80dc-96aa-d42028b54808",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 16
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下にある基礎問題および演習問題は、基本的にこの教材を読めば解くことができるようになっています。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-806c-a75a-d2f851621794",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 17
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"📘\"},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"教材③\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-80ec-9c78-e0da655acec1",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 18
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80ec-9c78-e0da655acec1",
+    "data": "{\"parent\":[],\"url\":\"https://zenn.dev/ojk/books/intro-to-html-css\",\"ogp\":{\"title\":\"文系大学生のためのHTML／CSS入門\",\"icon\":null,\"image\":\"https://res.cloudinary.com/zenn/image/upload/s--aAH-6i9H--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9mOGYxMWYxNTVlLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg\",\"description\":\"文系学科の大学生を対象としたHTML／CSSの入門書です。文系でなくても（大学生ですらなくても）、これから初めてHTML／CSSを勉強する人には参考になるかもしれません。OJKの担当しているHTML／CSSの授業テキストを順次公開しているものです。\"}}",
+    "blockId": "24ba501e-f337-807b-98e1-f093bfbd75a0",
+    "type": "bookmark",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"教材の使い方\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-80a0-8908-e342bce94c01",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 19
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "_",
+    "blockId": "24ba501e-f337-808f-bfcd-f01ff88459bf",
+    "type": "divider",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 20
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VSCodeの設定\",\"href\":\"/posts/curriculums/24ba501e-f337-80e6-83f3-dec2d9cb8a44/24ba501e-f337-8103-83ac-cac23c85dce4\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/command-line_purple.svg\",\"iconType\":\"external\",\"title\":\"VSCodeの設定\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"  でVSCodeの設定を済ませたあと、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"HTMLの基本\",\"href\":\"/posts/curriculums/24ba501e-f337-80e6-83f3-dec2d9cb8a44/24ba501e-f337-8161-a4df-fdaf7b0fed22\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"📔\",\"iconType\":\"emoji\",\"title\":\"HTMLの基本\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" を読み、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"https://zenn.dev/ojk/books/intro-to-html-css\",\"href\":\"https://zenn.dev/ojk/books/intro-to-html-css\",\"mention\":{\"type\":\"link_mention\",\"content\":{\"href\":\"https://zenn.dev/ojk/books/intro-to-html-css\",\"title\":\"文系大学生のためのHTML／CSS入門\",\"icon_url\":\"https://static.zenn.studio/images/icon.png\",\"description\":\"文系学科の大学生を対象としたHTML／CSSの入門書です。文系でなくても（大学生ですらなくても）、これから初めてHTML／CSSを勉強する人には参考になるかもしれません。OJKの担当しているHTML／CSSの授業テキストを順次公開しているものです。\",\"link_provider\":\"Zenn\",\"thumbnail_url\":\"https://res.cloudinary.com/zenn/image/upload/s--KZVoMazU--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8zMDg1NzdmNjk4LmpwZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を読みながら以下の問題を解いて行くのがおすすめです。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-80be-bae7-e7f0a8db6a32",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 21
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"基礎・演習問題\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-8069-b3b7-e0bbc355a112",
+    "type": "heading_1",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 22
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "_",
+    "blockId": "24ba501e-f337-80a7-9dcb-cba037caec55",
+    "type": "divider",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 23
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下の問題を解いてHTML, CSSの基礎を身に着けていきましょう！\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-80a6-819a-fa51d27ccd5b",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 24
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"HTML, CSSは「なんでもできる」\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8002-a711-e7e5475fc9ad",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 25
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8002-a711-e7e5475fc9ad",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"HTML, CSSは「なんでもできる」無限の可能性を秘めた技術です。そのため、教材を読むだけでは得られないものもたくさんあります。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-80ba-82c7-d70a43079c5e",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8002-a711-e7e5475fc9ad",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「こう書いたら、こうなるんじゃない？」と思ったら、とりあえず試してみましょう。もし思い通りいかなかったら、どうして思った通りにいかないのか、それを実現するにはどうすればいいか、調べてみましょう！\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8032-b1c8-d9bbf215dfc6",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 2
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題の進め方\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-80f6-870d-e3586c0e8661",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 26
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "_",
+    "blockId": "24ba501e-f337-8033-ab68-c93fcdfd2b8e",
+    "type": "divider",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 27
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題は、基本的に上から順に解いていってください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-802c-894d-c054cfa268e7",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 28
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この問題は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"https://zenn.dev/ojk/books/intro-to-html-css\",\"href\":\"https://zenn.dev/ojk/books/intro-to-html-css\",\"mention\":{\"type\":\"link_mention\",\"content\":{\"href\":\"https://zenn.dev/ojk/books/intro-to-html-css\",\"title\":\"文系大学生のためのHTML／CSS入門\",\"icon_url\":\"https://static.zenn.studio/images/icon.png\",\"description\":\"文系学科の大学生を対象としたHTML／CSSの入門書です。文系でなくても（大学生ですらなくても）、これから初めてHTML／CSSを勉強する人には参考になるかもしれません。OJKの担当しているHTML／CSSの授業テキストを順次公開しているものです。\",\"link_provider\":\"Zenn\",\"thumbnail_url\":\"https://res.cloudinary.com/zenn/image/upload/s--KZVoMazU--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8zMDg1NzdmNjk4LmpwZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を読みながら進めることを想定して作成しています。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-80aa-a27a-d0be20414da1",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 29
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"○. ～～～～\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」と「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"演習問題○\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」の○（数字部分）が対応しており、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"○. ～～～～\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」では基礎問題、「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"演習問題○\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」ではそれを実際のWebページ用に応用した問題が載っています。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8081-8ac6-e1568a34ad12",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 30
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"現時点で演習問題2, 3, 4, 5, 7には進捗フォームがあります。演習問題が終了したら、必ず回答してください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-806d-bcbe-fb16f739a63b",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 31
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-8085-a846-eb00a3d4b608",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 32
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "_",
+    "blockId": "24ba501e-f337-806a-a6c0-c4187f50a28c",
+    "type": "divider",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 33
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"1. HTMLの雛形\",\"iconType\":\"emoji\",\"iconUrl\":\"🐣\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-8075-9e6e-d3f3efbc8126",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 34
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"演習問題1\",\"iconType\":\"emoji\",\"iconUrl\":\"✏️\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-80ed-acc4-d54914fb20d2",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 35
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"2. テキストに関するタグ\",\"iconType\":\"\",\"iconUrl\":\"\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-80b4-8a8a-c9458eaef4ab",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 36
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"演習問題2\",\"iconType\":\"emoji\",\"iconUrl\":\"✏️\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 37
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"3. リストに関するタグ\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/list_red.svg\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-806f-b46c-ceef79e9cbfc",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 38
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"演習問題3\",\"iconType\":\"emoji\",\"iconUrl\":\"✏️\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-8030-96c5-cad4dbbcae90",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 39
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"4. メディアに関するタグ\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/movie-clapboard-play_green.svg\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-80fe-b7a1-d55613cbe24a",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 40
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"演習問題4 \",\"iconType\":\"emoji\",\"iconUrl\":\"✏️\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-80d6-b531-e0d4dea4689b",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 41
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"5. 表に関するタグ\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/table_blue.svg\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-808f-8a33-f3a85747e022",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 42
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"演習問題5\",\"iconType\":\"emoji\",\"iconUrl\":\"✏️\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-8091-8917-e5fae94158fe",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 43
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"6. フォームに関するタグ\",\"iconType\":\"emoji\",\"iconUrl\":\"⌨️\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-80e6-b96f-d7eadaa901ad",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 44
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"演習問題6\",\"iconType\":\"emoji\",\"iconUrl\":\"✏️\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-8059-8a9a-f21efd54865b",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 45
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"7.リンクに関するタグ\",\"iconType\":\"emoji\",\"iconUrl\":\"🔗\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-805d-b232-cfe5deefbd55",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 46
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"演習問題7\",\"iconType\":\"emoji\",\"iconUrl\":\"✏️\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-802c-bf85-d1ad6091cc1e",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 47
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"8. 体裁を整えるタグとCSS\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/tag_orange.svg\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-8086-8c69-e83ac9cafc32",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 48
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"演習問題8\",\"iconType\":\"emoji\",\"iconUrl\":\"✏️\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-80bd-837e-e391fe4c5635",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 49
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"9. HTMLファイルとCSSファイルの分離\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/activity_purple.svg\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-8052-82f6-fb088ef57af6",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 50
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"演習問題9\",\"iconType\":\"emoji\",\"iconUrl\":\"✏️\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-80c6-80be-ec31f1976f83",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 51
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"10. クラス名とセレクター\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/checkmark-square_green.svg\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-8050-b7f7-db36a1cd6c75",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 52
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"演習問題10\",\"iconType\":\"emoji\",\"iconUrl\":\"✏️\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-807c-9bb7-e37598f43272",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 53
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"11. ボーダー\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/wall_lightgray.svg\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-8060-892e-d2d23d1ea1ec",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 54
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"演習問題11\",\"iconType\":\"emoji\",\"iconUrl\":\"✏️\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-8047-a78e-ce9b3076de36",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 55
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"12. 擬似クラス : ◯個目の子要素\",\"iconType\":\"emoji\",\"iconUrl\":\"🔢\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 56
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"演習問題12\",\"iconType\":\"emoji\",\"iconUrl\":\"✏️\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-8069-a67f-dc413a0c4ec7",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 57
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"13. 擬似クラス : ユーザーの操作と状態\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/cursor-click_gray.svg\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 58
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"演習問題13\",\"iconType\":\"emoji\",\"iconUrl\":\"✏️\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-80bd-89a7-c708a73b73bc",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 59
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"14. フレックスボックス\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/playback-pause_red.svg\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-80e8-af31-de34146e0db5",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 60
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"演習問題14\",\"iconType\":\"emoji\",\"iconUrl\":\"✏️\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-80ce-8fd6-e2a7fc622ed5",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 61
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "data": "{\"parent\":\"演習問題15：仕上げ\",\"iconType\":\"emoji\",\"iconUrl\":\"✏️\",\"coverUrl\":\"\"}",
+    "blockId": "24ba501e-f337-8063-9d95-f52543138802",
+    "type": "child_page",
+    "pageId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "i": 62
+  }
+]
