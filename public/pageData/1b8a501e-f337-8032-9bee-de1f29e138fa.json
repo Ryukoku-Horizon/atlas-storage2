@@ -1,0 +1,758 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(練習問題2)\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-8040-be11-fcc20622dd7c\"}]}",
+    "blockId": "1b8a501e-f337-818c-9569-de69e0cc2b0d",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-81e1-bac1-c51b5ae51581",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回は、Pythonの特に重要な機能であるリストと辞書について学んでいきます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-819c-9f2e-e0ef11b17c85",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リスト\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-81df-8131-f929fcb89272",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "_",
+    "blockId": "1b8a501e-f337-81f5-930d-d2841ca64412",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonの\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リスト\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は、複数のデータを一緒にまとめるための便利な機能です。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8121-8180-f723fc37d5fe",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リスト\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は、数字や文字列、他のリストなど、どんな種類のデータでも含めることができます。リストを作るには、データを角括弧(\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"[]\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\")で囲み、データの間にカンマ(\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\",\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\")を入れます。例えば、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"[1, 2, 3]\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は整数のリストで、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"[\\\"りんご\\\", \\\"バナナ\\\", \\\"チェリー\\\"]\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は文字列のリストです。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8143-b322-f6737bf15997",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リスト\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は順序があり、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"orange\"},\"plain_text\":\"最初の要素は0から数えます\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。したがって、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"\\\"りんご\\\"\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"[\\\"りんご\\\", \\\"バナナ\\\", \\\"チェリー\\\"]\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の0番目の要素です。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8195-97d4-c02d30794c3f",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonでリストを定義するには、次のように記述します。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8101-a873-d2b0a4506b69",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"language\":\"python\",\"parent\":[\"list_data = [1, 2, 3]\\nprint(list_data)      \"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8177-ad89-e0bb24c8a6ae",
+    "type": "code",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"＜出力結果＞\\n[1, 2, 3]\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81c5-b7e6-f8651f773a1a",
+    "type": "code",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インデックス\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8125-b150-d1879b0f5ff0",
+    "type": "heading_2",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8113-b0b5-d52c006d4720",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リストの各要素にアクセスするには、その位置を指定します。この位置のことを \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インデックス \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"といいます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81a0-b166-e9cd73f9649c",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonでは、インデックスを角括弧内に書くことで要素を取り出せます。例えば\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"list_data[0]\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"とすると、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"list_data\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の0番目の要素、つまり\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"1\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を得られます。また、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"list_data[-1]\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"というようにインデックスに\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"-1\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を指定すれば、リストの最後の要素を得ることができます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81ad-ac03-fdef6cc5353b",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"language\":\"python\",\"parent\":[\"list_data = [1, 2, 3]\\nprint(list_data[0])\\nprint(list_data[-1])\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8103-a813-f115b98fcc09",
+    "type": "code",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"＜出力結果＞\\n1\\n3\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8173-aca1-f60730271c74",
+    "type": "code",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-81c9-925b-c138d24ff39f",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"スライス\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8143-849c-dee8016cc545",
+    "type": "heading_2",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8117-8f84-d521e785335f",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 20
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonのリストは「◯番目から△番目」というように、指定した範囲の要素を取り出すこともできます。これを\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"スライス\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"といいます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-811c-a7b1-eae26c3dfcf7",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 21
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"スライスは、コロンを挟む形で、取り出したい範囲の始点と終点のインデックスを記述します。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81bd-bb39-c8d7d1af8509",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 22
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"list_data[\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"blue\"},\"plain_text\":\"始点のインデックス\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\":\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"green\"},\"plain_text\":\"終点のインデックス\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"]\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-811a-b1b4-f589deaba520",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 23
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"しかし、ここで注意すべき点は、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"終点として指定した要素は含まれない\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ということです。以下のコードで確認してみましょう。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81a6-a113-c08666d88672",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 24
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"language\":\"python\",\"parent\":[\"list_data = [0, 1, 2, 3, 4, 5, 6]\\nsliced_list = list_data[2:5]\\nprint(sliced_list)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-812f-9b6c-c1e5c03c0572",
+    "type": "code",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 25
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"＜出力結果＞\\n[2, 3, 4]\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81be-8358-d8a9bcb513bf",
+    "type": "code",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 26
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このように、終点として指定した5番目の要素は出力結果に含まれていないことがわかります。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81fc-bf92-cb6443407ddf",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 27
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"list_data[x:y]\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"とするとき、実際に得られる範囲は \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"x番目から y-1番目\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と考えると良いでしょう。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-815e-a9f3-e558997e0f5c",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 28
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"各種メソッド\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8181-85aa-ef067c457b90",
+    "type": "heading_2",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 29
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8157-8e44-f5cb09e51efd",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 30
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonのリストには、データを追加したり、削除したりするための便利な機能が搭載されています。これを\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"メソッド\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"といいます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81c1-8363-db80e60f0791",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 31
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"メソッドは、操作したいリスト名の後ろにドット（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\".\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）をつけ、さらにその後ろにメソッド名をくっつけます。こんなふうに…\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8198-a315-c8e7a2eedbd5",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 32
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"language\":\"python\",\"parent\":[\"list_data = [1, 2, 3, 4, 5]\\nlist_data.append(6)     #listに新しい要素6を追加\\nprint(list_data)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8193-a876-ee83a8fce9de",
+    "type": "code",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 33
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"＜出力結果＞\\n[1, 2, 3, 4, 5, 6]\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8176-874b-c4d972398ab3",
+    "type": "code",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 34
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このappendメソッドを使うと、リストに新しい要素を追加することができます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-810e-b020-d635c35b479e",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 35
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下に、Pythonのリストで使用できる主なメソッドを一覧で紹介します。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8157-ac88-ef7a24f482b4",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 36
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※この表は紹介程度なのでまだ使えなくても大丈夫です。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8171-9798-d1204edd90b5",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 37
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"table_width\":3,\"has_column_header\":true,\"has_row_header\":false}",
+    "blockId": "1b8a501e-f337-81a2-8f91-d38e7896bd1a",
+    "type": "table",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 38
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a2-8f91-d38e7896bd1a",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"メソッド名\",\"href\":null}],[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"説明\",\"href\":null}],[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"使用例\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-8194-875c-d3ca5ebd0209",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a2-8f91-d38e7896bd1a",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"append(x)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リストの末尾に要素をひとつ追加します。\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"list.append(3)\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-8114-99f0-d139c21d3b55",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a2-8f91-d38e7896bd1a",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"remove(x)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"値がxである最初の項目を削除します。該当する項目がない場合はエラーになります。\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"list.remove(2)\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-81c5-90ab-fb1a81942025",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a2-8f91-d38e7896bd1a",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"insert(i, x)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"指定した位置に要素を挿入します。第一引数は挿入される要素のインデックスを指定します。\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"list.insert(1, 2)\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-8144-afda-ec5ffdd37f63",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a2-8f91-d38e7896bd1a",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"pop(x)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リストから指定した位置の要素を削除し、その要素を返します。インデックスを指定しない場合はリストの最後の要素を削除します。\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"list.pop(1)\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-81fe-b47f-f890a0e0cff7",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a2-8f91-d38e7896bd1a",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"index(x)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"値がxである最初の項目のインデックスを返します。該当する項目がない場合はエラーになります。\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"list.index(3)\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-81f0-accc-ce8b4121e111",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a2-8f91-d38e7896bd1a",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"count(x)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リストでのxの出現回数を返します。\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"list.count(3)\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-8131-addd-ef405ec81168",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81a2-8f91-d38e7896bd1a",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"sort(key=None, reverse=False)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リストの項目を、キー関数によって提供される基準で並び替えます。\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"list.sort()\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-811e-b746-f184526ad1f8",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-811c-9da1-c2a097643232",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 39
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8165-ae8a-d0718f2970e8",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 40
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"辞書\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8109-98a0-f894d3902411",
+    "type": "heading_1",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 41
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "_",
+    "blockId": "1b8a501e-f337-81cb-8ed8-f48f59d78ad4",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 42
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonの\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"辞書\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"とは、例えば「名前と電話番号」や「商品名と価格」のような、それぞれペアになっている情報を保存しておける便利機能です。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8106-b7fe-da8cc64bce8f",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 43
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonで\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"辞書\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を作成するときには、まずペアにしたい値を\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\":\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で示し、複数ある場合はカンマで区切ります。さらにそれを中括弧（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"{}\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）で囲むことで作成可能です。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81d2-acd0-c121d4383b73",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 44
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ちなみに\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81d2-98ea-c0936e1267bd",
+    "type": "toggle",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 45
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d2-98ea-c0936e1267bd",
+    "data": "{\"language\":\"python\",\"parent\":[\"my_dict = dict(apple=100, banana=200, orange=300)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-812a-8ae5-ce1ecf8aa0af",
+    "type": "code",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d2-98ea-c0936e1267bd",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"dict()でも同じことができます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8169-8351-e11c24b9a429",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d2-98ea-c0936e1267bd",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このように、({})で囲む以外でも辞書を作る方法があるので、よければ使ってみてください。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81e5-be25-c114dd4ce3c9",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"language\":\"python\",\"parent\":[\"my_dict = {\\\"apple\\\": 100, \\\"banana\\\": 200, \\\"orange\\\": 300}\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8127-ad68-decf64bdd5d4",
+    "type": "code",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 46
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これは、「リンゴが100円」「バナナは200円」「オレンジは300円」というように、フルーツとその値段を\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"my_dict\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"にペアで格納しています。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8116-8533-f657c211b9a3",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 47
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"my_dict\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"をprint関数で出力すると以下のようになります。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-818c-95ca-dc7c27fcb780",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 48
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"＜出力結果＞\\n{'apple': 100, 'banana': 200, 'orange': 300}\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81ea-b775-c39f309a730f",
+    "type": "code",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 49
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"バリューの取り出し\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8172-a356-fc9f8e251004",
+    "type": "heading_2",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 50
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "_",
+    "blockId": "1b8a501e-f337-814f-b5b7-fad4a6a1f65d",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 51
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"”apple”\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"“banana”\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"“orange”\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"キー（Key）\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と呼ばれ、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"100\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"200\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"300\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"バリュー（Value）\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と呼ばれます。辞書ではこの\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"キー\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を用いて\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"バリュー\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を取り出します。例えば、リンゴの価格を取り出したい場合には、このようにします。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8174-902d-ea91baac0aea",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 52
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"language\":\"python\",\"parent\":[\"my_dict = {\\\"apple\\\": 100, \\\"banana\\\": 200, \\\"orange\\\": 300}\\nprint(my_dict[\\\"apple\\\"])\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8188-8c44-d5d09cf73fb0",
+    "type": "code",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 53
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"＜出力結果＞\\n100\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8106-94a8-f621a32ac0d3",
+    "type": "code",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 54
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"要素の追加\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-8101-9f51-f9fd5bab3cde",
+    "type": "heading_2",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 55
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8188-bc2d-eec3578fe140",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 56
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"辞書に新しい要素を追加するには、新しいキーとバリューのペアを指定することで可能です。具体的には、既存の辞書名の後ろに新しいキー名を角括弧(\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"[]\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\")内に書き、それに等号(\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"=\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\")を使って新しいバリューを割り当てます。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81e2-8c8b-e04dc32f02ea",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 57
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えば、既存の辞書\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"my_dict\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に新しいフルーツ（例えば、「grape」）とその価格（例えば、400）を追加したい場合、以下のように記述します。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-81c0-b5e3-c75415628142",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 58
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"language\":\"python\",\"parent\":[\"my_dict = {\\\"apple\\\": 100, \\\"banana\\\": 200, \\\"orange\\\": 300}\\nmy_dict[\\\"grape\\\"] = 400\\nprint(my_dict)\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-81e6-ac6f-e01899da1619",
+    "type": "code",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 59
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このコードを実行すると、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"my_dict\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に新しいキーとバリューのペア\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"\\\"grape\\\": 400\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が追加されています。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8100-b06d-df5257013174",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 60
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"＜出力結果＞\\n{'apple': 100, 'banana': 200, 'orange': 300, 'grape': 400}\"],\"caption\":[]}",
+    "blockId": "1b8a501e-f337-8153-b0c9-f787f7be274d",
+    "type": "code",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 61
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"各種メソッド\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1b8a501e-f337-810b-a898-c2f6e23fe944",
+    "type": "heading_2",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 62
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "_",
+    "blockId": "1b8a501e-f337-8102-affa-ce9a705856e4",
+    "type": "divider",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 63
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※この表は紹介程度なのでまだ使えなくても大丈夫です。\",\"href\":null}]}",
+    "blockId": "1b8a501e-f337-8149-97e4-c099236ac4a4",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 64
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"table_width\":3,\"has_column_header\":true,\"has_row_header\":false}",
+    "blockId": "1b8a501e-f337-81d9-b85c-de992571f026",
+    "type": "table",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 65
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d9-b85c-de992571f026",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"メソッド名\",\"href\":null}],[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"説明\",\"href\":null}],[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"使用例\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-819c-a6ef-e260bc798a43",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d9-b85c-de992571f026",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"keys()\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"辞書のすべてのキーを返す。\",\"href\":null}],[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"my_dict.keys()\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-8174-ab72-eb088e945459",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d9-b85c-de992571f026",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"values()\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"辞書のすべての値を返す。\",\"href\":null}],[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"my_dict.values()\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-81fe-ad4d-c177f9cfafec",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d9-b85c-de992571f026",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"get(key, default)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"指定したキーの値を返す。キーが存在しない場合は、defaultの値を返す。\",\"href\":null}],[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"my_dict.get('apple', 0)\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-816c-b19b-f5a2d1c93710",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-81d9-b85c-de992571f026",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"pop(key, default)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"指定したキーの値を返し、そのキーと値のペアを辞書から削除する。キーが存在しない場合は、defaultの値を返す。\",\"href\":null}],[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"my_dict.pop('apple', 0)\",\"href\":null}]]",
+    "blockId": "1b8a501e-f337-813a-a5e4-e34846900d7a",
+    "type": "table_row",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-814b-88f9-db1f5cc57b6f",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 66
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-814b-88f9-db1f5cc57b6f",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前回(6.条件分岐(if文))\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-800d-909d-c7f9943aba15\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"　|　\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次回(8.繰り返し(for文))\",\"href\":\"/posts/curriculums/1ada501e-f337-814b-ac7d-cbd864901138/1b8a501e-f337-80a5-a084-f584f95197c5\"}]}",
+    "blockId": "1b8a501e-f337-811b-a6fb-fe43e7d847e2",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1b8a501e-f337-818e-9f92-f6de2eda544e",
+    "type": "paragraph",
+    "pageId": "1b8a501e-f337-8032-9bee-de1f29e138fa",
+    "i": 67
+  }
+]

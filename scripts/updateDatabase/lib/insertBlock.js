@@ -11,7 +11,7 @@ export async function insertChildren(children,curriculumId,pageInfoBuffer,synced
     for(let i=0;i<children.length;i++){
         await insertChild(children[i],curriculumId,curriculumId,curriculumId,i,`${i + 1}/${children.length}`,buffer,pageInfoBuffer,syncedBuffer)
     }
-    await flushBuffer(buffer,curriculumId,curriculumId)
+    await flushBuffer(buffer,curriculumId)
 }
 
 async function insertChild(block,curriculumId,pageId,parentId,i,p,buffer,pageInfoBuffer,syncedBuffer){
@@ -35,7 +35,7 @@ async function insertChild(block,curriculumId,pageId,parentId,i,p,buffer,pageInf
                     syncedBuffer
                 )
             }
-            await flushBuffer(newBuffer,curriculumId,block.id)
+            await flushBuffer(newBuffer,block.id)
         }else if((type==="synced_block" && block.synced_block.synced_from===null) || type!=="synced_block"){
             const children = await getChildBlocks(block.id)
             await Promise.all(

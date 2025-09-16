@@ -6,6 +6,10 @@ export async function insertPage(data,pageId,curriculumId){
     await fs.writeFile(`public/pageData/${curriculumId}/${pageId}.json`,JSON.stringify(data,null,2),"utf-8")
 }
 
+export async function insertSinglePage(data,pageId){
+    await fs.writeFile(`public/pageData/${pageId}.json`,JSON.stringify(data,null,2),"utf-8")
+}
+
 export async function upsertCategory(categoryId, title, description, iconUrl,iconType, cover){
     await upsertJsonById(`public/categories/data.json`,categoryId,{id:categoryId, title, description, iconUrl,iconType, cover})
 }

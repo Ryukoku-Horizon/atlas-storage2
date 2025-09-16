@@ -1,9 +1,9 @@
-import { insertBlock, insertPage, insertPageInfo } from "../gateway/fileGW.js";
+import { insertBlock, insertPageInfo, insertSinglePage } from "../gateway/fileGW.js";
 import { readFile } from "fs/promises"
 
-export async function flushBuffer(buffer,curriculumId,pageId) {
+export async function flushBuffer(buffer,pageId) {
     console.log("writing file...")
-    await insertPage(buffer,pageId,curriculumId)
+    await insertSinglePage(buffer,pageId)
 }
 
 // export async function flushPageBuffer(buffer,curriculumId){

@@ -39,7 +39,6 @@ export const initDir=(pageId)=>{
     const imageDir = `./public/notion_data/eachPage/${pageId}/image/`;
     const iframeDir = `./public/notion_data/eachPage/${pageId}/iframeData/`;
     const pageImageDir = `./public/notion_data/eachPage/${pageId}/pageImageData/`;
-    const pageDataDir = `./public/pageData/${pageId}`
-    const dirList = [ogsDir,imageDir,iframeDir,pageImageDir,pageDataDir]
+    const dirList = [ogsDir,imageDir,iframeDir,pageImageDir]
     mkAndClearDir(dirList);
 }
