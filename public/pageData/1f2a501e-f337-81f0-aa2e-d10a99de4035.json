@@ -100,6 +100,15 @@
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f6-8fc8-f5e338a3768d",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-81ef-a70c-dcd21c2326cb.png\"}",
+    "blockId": "1f2a501e-f337-81ef-a70c-dcd21c2326cb",
+    "type": "image",
+    "pageId": "1f2a501e-f337-81f0-aa2e-d10a99de4035",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
     "parentId": "1f2a501e-f337-8158-a7b6-e0a69cfe95f0",
     "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"←こんな感じ\",\"href\":null}]}",
     "blockId": "1f2a501e-f337-8146-b775-d1e5138aafb9",
@@ -115,15 +124,6 @@
     "type": "paragraph",
     "pageId": "1f2a501e-f337-81f0-aa2e-d10a99de4035",
     "i": 2
-  },
-  {
-    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
-    "parentId": "1f2a501e-f337-81f6-8fc8-f5e338a3768d",
-    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-81ef-a70c-dcd21c2326cb.png\"}",
-    "blockId": "1f2a501e-f337-81ef-a70c-dcd21c2326cb",
-    "type": "image",
-    "pageId": "1f2a501e-f337-81f0-aa2e-d10a99de4035",
-    "i": 1
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",

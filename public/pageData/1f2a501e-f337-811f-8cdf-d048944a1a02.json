@@ -82,18 +82,18 @@
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
-    "parentId": "1f2a501e-f337-8104-9ffc-ce09c054c356",
-    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テキストフィールド\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8112-9b0e-e957270dff54.jpg\"}",
-    "blockId": "1f2a501e-f337-8112-9b0e-e957270dff54",
+    "parentId": "1f2a501e-f337-8152-80e9-efd9b7bed95c",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アイコン\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8152-a1d4-e7be9391f410.jpg\"}",
+    "blockId": "1f2a501e-f337-8152-a1d4-e7be9391f410",
     "type": "image",
     "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
     "i": 1
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
-    "parentId": "1f2a501e-f337-8152-80e9-efd9b7bed95c",
-    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アイコン\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8152-a1d4-e7be9391f410.jpg\"}",
-    "blockId": "1f2a501e-f337-8152-a1d4-e7be9391f410",
+    "parentId": "1f2a501e-f337-8104-9ffc-ce09c054c356",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テキストフィールド\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8112-9b0e-e957270dff54.jpg\"}",
+    "blockId": "1f2a501e-f337-8112-9b0e-e957270dff54",
     "type": "image",
     "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
     "i": 1

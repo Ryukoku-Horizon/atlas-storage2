@@ -237,7 +237,7 @@ async function insertLinkToPage(curriculumId,pageId,parentId,res,i,buffer){
         buffer.push({curriculumId,parentId,data:pageLink,blockId:res.id,type:res.type,pageId,i})
         return;
     }
-    const link = `/posts/curriculums/${curriculum}/${pageLink}`
+    const link = `/posts/curriculums/${pageLink}`
     const pageData = await getSinglePageBlock(pageLink)
     const icon = await getPageIcon(curriculum,pageLink,pageData.icon,true)
     const data = {

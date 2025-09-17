@@ -370,6 +370,16 @@
     "parentId": "1f5a501e-f337-8055-b23c-f8b1b79b780a"
   },
   {
+    "title": "Git、GitHubセットアップ",
+    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/gear_orange.svg",
+    "coverUrl": "",
+    "order": 10,
+    "id": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
+    "parentId": ""
+  },
+  {
     "title": "Flet の基礎",
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
     "iconType": "emoji",
@@ -648,15 +658,5 @@
     "id": "1f2a501e-f337-8146-ba46-cbed686c0185",
     "order": 19,
     "parentId": "1f2a501e-f337-8121-8bfd-edd80b5b35ad"
-  },
-  {
-    "title": "Git、GitHubセットアップ",
-    "curriculumId": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/gear_orange.svg",
-    "coverUrl": "",
-    "order": 10,
-    "id": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
-    "parentId": ""
   }
 ]

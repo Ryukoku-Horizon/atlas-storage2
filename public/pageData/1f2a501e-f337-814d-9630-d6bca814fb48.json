@@ -227,7 +227,7 @@
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
     "parentId": "1f2a501e-f337-814d-9630-d6bca814fb48",
-    "data": "{\"parent\":[],\"url\":\"https://flet.dev/docs/controls/page/#vertical_alignment\",\"ogp\":{\"title\":\"Flet\",\"icon\":\"https://flet.dev/img/favicon.ico\",\"image\":null,\"description\":null}}",
+    "data": "{\"parent\":[],\"url\":\"https://flet.dev/docs/controls/page/#vertical_alignment\",\"ogp\":{\"title\":\"Page | Flet\",\"icon\":\"https://flet.dev/img/favicon.ico\",\"image\":null,\"description\":\"Page is a container for View controls.\"}}",
     "blockId": "1f2a501e-f337-8145-81de-edfba1409f66",
     "type": "bookmark",
     "pageId": "1f2a501e-f337-814d-9630-d6bca814fb48",

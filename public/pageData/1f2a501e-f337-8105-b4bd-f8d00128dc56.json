@@ -343,15 +343,6 @@
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
-    "parentId": "217a501e-f337-8027-adf4-d062e3b142bf",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"colors = ft.Colors.BLUE\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のように、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.Colors.\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の後ろに大文字でキーワードをくっつけます。VSCodeの補完機能で使用できる色が一覧できるので便利です。\",\"href\":null}]}",
-    "blockId": "217a501e-f337-80ec-a7c9-df02f25b7db2",
-    "type": "paragraph",
-    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
-    "i": 1
-  },
-  {
-    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
     "parentId": "1f2a501e-f337-818a-a109-e71911ba1cda",
     "data": "{\"color\":\"default\",\"parent\":[]}",
     "blockId": "1f2a501e-f337-81ad-9da4-c157ce096885",
@@ -388,6 +379,24 @@
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-8027-adf4-d062e3b142bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"colors = ft.Colors.BLUE\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のように、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.Colors.\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の後ろに大文字でキーワードをくっつけます。VSCodeの補完機能で使用できる色が一覧できるので便利です。\",\"href\":null}]}",
+    "blockId": "217a501e-f337-80ec-a7c9-df02f25b7db2",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-816b-9ece-ca9ab0bdb374",
+    "data": "{\"parent\":[],\"url\":\"https://flet.dev/docs/reference/colors/#material-colors\",\"ogp\":{\"title\":\"Colors | Flet\",\"icon\":\"https://flet.dev/img/favicon.ico\",\"image\":null,\"description\":\"Color value\"}}",
+    "blockId": "217a501e-f337-802c-afd3-d6268ccee04b",
+    "type": "bookmark",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
     "parentId": "217a501e-f337-803e-91c1-ec5a2eab743d",
     "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"16進数カラーコード(透明度なし)\",\"href\":null}]}",
     "blockId": "1f2a501e-f337-8116-9b98-f3d9dcd5bb51",
@@ -412,24 +421,6 @@
     "type": "paragraph",
     "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
     "i": 3
-  },
-  {
-    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
-    "parentId": "1f2a501e-f337-8169-8f61-c3757ab0e91c",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"“#AARRGGBB”\",\"href\":null}]}",
-    "blockId": "1f2a501e-f337-81a3-9d2d-c9aeaca243f7",
-    "type": "paragraph",
-    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
-    "i": 1
-  },
-  {
-    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
-    "parentId": "1f2a501e-f337-8169-8f61-c3757ab0e91c",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2の16進数カラーコード(透明度なし)に加えて、Aが透明度、強さは同じように設定できるけれど数が少ない方が透明に近づく。\",\"href\":null}]}",
-    "blockId": "1f2a501e-f337-8140-925b-d67f25b078cd",
-    "type": "paragraph",
-    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
-    "i": 2
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
@@ -460,12 +451,21 @@
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
-    "parentId": "1f2a501e-f337-816b-9ece-ca9ab0bdb374",
-    "data": "{\"parent\":[],\"url\":\"https://flet.dev/docs/reference/colors/#material-colors\",\"ogp\":{\"title\":\"Colors | Flet\",\"icon\":\"https://flet.dev/img/favicon.ico\",\"image\":null,\"description\":\"Color value\"}}",
-    "blockId": "217a501e-f337-802c-afd3-d6268ccee04b",
-    "type": "bookmark",
+    "parentId": "1f2a501e-f337-8169-8f61-c3757ab0e91c",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"“#AARRGGBB”\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81a3-9d2d-c9aeaca243f7",
+    "type": "paragraph",
     "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
     "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8169-8f61-c3757ab0e91c",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2の16進数カラーコード(透明度なし)に加えて、Aが透明度、強さは同じように設定できるけれど数が少ない方が透明に近づく。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8140-925b-d67f25b078cd",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
@@ -649,15 +649,6 @@
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
-    "parentId": "217a501e-f337-80a4-a965-e42649087e3e",
-    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/217a501e-f337-80fc-b5fa-dd1d9ee2d02c.png\"}",
-    "blockId": "217a501e-f337-80fc-b5fa-dd1d9ee2d02c",
-    "type": "image",
-    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
-    "i": 1
-  },
-  {
-    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
     "parentId": "217a501e-f337-8033-b0a9-d10573a06d02",
     "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文字は「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"登録\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」\",\"href\":null}]}",
     "blockId": "217a501e-f337-8041-96f1-eef34d5af380",
@@ -700,6 +691,15 @@
     "type": "bulleted_list_item",
     "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
     "i": 5
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-80a4-a965-e42649087e3e",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/217a501e-f337-80fc-b5fa-dd1d9ee2d02c.png\"}",
+    "blockId": "217a501e-f337-80fc-b5fa-dd1d9ee2d02c",
+    "type": "image",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
   },
   {
     "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
