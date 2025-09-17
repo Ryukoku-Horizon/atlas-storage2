@@ -1,0 +1,74 @@
+[
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-802f-9270-d323affa25d8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"戻る\",\"href\":\"/posts/curriculums/1e0a501e-f337-80ef-adc7-e6da2c264201\"}]}",
+    "blockId": "1e0a501e-f337-80ed-9144-f5f620eda953",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-802f-9270-d323affa25d8",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-802f-9270-d323affa25d8",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-808e-bff3-d44266475610",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-802f-9270-d323affa25d8",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-802f-9270-d323affa25d8",
+    "data": "{\"table_width\":2,\"has_column_header\":false,\"has_row_header\":false}",
+    "blockId": "1e0a501e-f337-80e5-be0f-e4a8d20a2cbf",
+    "type": "table",
+    "pageId": "1e0a501e-f337-802f-9270-d323affa25d8",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80e5-be0f-e4a8d20a2cbf",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3Dグラフィック(Mesh)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Substance 3D, Maya, Blender\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-801a-bd18-c36520d36c2d",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-802f-9270-d323affa25d8",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80e5-be0f-e4a8d20a2cbf",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3Dグラフィック(Render)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Unreal Engine\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-8045-8108-e351ee25d878",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-802f-9270-d323affa25d8",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80e5-be0f-e4a8d20a2cbf",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"UI/UXデザイン\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Figma\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-80a9-a88c-f292da4e611d",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-802f-9270-d323affa25d8",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-80e5-be0f-e4a8d20a2cbf",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"仮想マシン(VM)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"AWS, Azure\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-803a-a9e9-e27df7b97a97",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-802f-9270-d323affa25d8",
+    "i": 4
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-802f-9270-d323affa25d8",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-80e8-be94-c388087ace01",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-802f-9270-d323affa25d8",
+    "i": 4
+  }
+]

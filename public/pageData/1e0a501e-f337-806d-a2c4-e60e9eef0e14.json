@@ -1,0 +1,209 @@
+[
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"戻る\",\"href\":\"/posts/curriculums/1e0a501e-f337-80ef-adc7-e6da2c264201\"}]}",
+    "blockId": "1e0a501e-f337-809b-8f78-e505d7df2e63",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-8011-8b8e-e3b792c82ec6",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "data": "{\"table_width\":2,\"has_column_header\":false,\"has_row_header\":true}",
+    "blockId": "1e0a501e-f337-8117-b7a1-c54c8e91ea00",
+    "type": "table",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-8117-b7a1-c54c8e91ea00",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ハイブリッド\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Dart, TypeScript\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-81d0-9dd8-c889ad63fe94",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-8117-b7a1-c54c8e91ea00",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インタプリタ言語\",\"href\":\"/posts/curriculums/1e0a501e-f337-806d-a2c4-e60e9eef0e14\"}],[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"green\"},\"plain_text\":\"JavaScript\",\"href\":\"/posts/curriculums/1e0a501e-f337-80ca-9e4d-d6ed64bb9789\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"Python\",\"href\":\"/posts/curriculums/1e0a501e-f337-8083-b011-d3e519821520\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", PHP, Ruby, Lua\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-8173-a22d-f676a0a3d956",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-8117-b7a1-c54c8e91ea00",
+    "data": "[[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイル言語\",\"href\":\"/posts/curriculums/1e0a501e-f337-806d-a2c4-e60e9eef0e14\"}],[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"yellow\"},\"plain_text\":\"C\",\"href\":\"/posts/curriculums/1e0a501e-f337-807d-8d51-ffdbd5aa590b\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"C++\",\"href\":\"/posts/curriculums/1e0a501e-f337-80af-ba2c-e028d73d0c32\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"purple\"},\"plain_text\":\"C#\",\"href\":\"/posts/curriculums/1e0a501e-f337-80c2-bdb7-e83ebc6675f6\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"GO\",\"href\":\"/posts/curriculums/1e0a501e-f337-80ef-bfce-d4e500670fcb\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", Rust, Swift, Objective-C, \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"red\"},\"plain_text\":\"Java\",\"href\":\"/posts/curriculums/1e0a501e-f337-8039-b5ff-e8ff7a3b160c\"}]]",
+    "blockId": "1e0a501e-f337-81b6-839a-c8c2e9bd1ff4",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイル言語：\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-81f6-a352-e198e1a9b845",
+    "type": "heading_1",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 4
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行前に必ず書き込んだコードを機械言語化(コンパイル)、デバッグ(エラーがないか確認)を行い、駆動に最適化を行う言語。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-816f-b9fe-e3be035603f5",
+    "type": "callout",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 5
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\n\\n\\n\\n\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-81f9-8244-fa2a4120bed4",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 6
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-819d-8da3-c443d03109ab",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 7
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インタプリタ言語：\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-8160-a6ad-f1391294cbc0",
+    "type": "heading_1",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 8
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"すべてのコードを読み込まず、その時に行ごとで変換し実行する言語。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-816d-93f0-d04d185c5aa6",
+    "type": "callout",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 9
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"\\n\\n\\n\\n\\n\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-81f5-add7-fe94b959a696",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 10
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイル言語とインタプリタ言語の比較\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":true}",
+    "blockId": "1e0a501e-f337-81d9-9f67-f6a03c06a581",
+    "type": "heading_1",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 11
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-81d9-9f67-f6a03c06a581",
+    "data": "{\"table_width\":2,\"has_column_header\":true,\"has_row_header\":false}",
+    "blockId": "1e0a501e-f337-8173-979d-e9ea43417a13",
+    "type": "table",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-8173-979d-e9ea43417a13",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイル言語\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インタプリタ言語\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-81b7-8432-cf05bc647015",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-8173-979d-e9ea43417a13",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コード実行前、コンパイルでコード全体を一度\\n機械語に変換して実行する。\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コードが実行時にコード1行ずつのバイトコードを変換して実行する。\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-81f0-aa0f-fc6863e40318",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-8173-979d-e9ea43417a13",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイル後、実行ファイル作成O　(exe, jarなど)\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行ファイル作成X　(exportの必要がある。)\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-81d2-aed4-d9e5eaa868a2",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-8173-979d-e9ea43417a13",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイル段階と実行段階が分離されている。\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インタープリト段階と実行段階の分離されなく同時に実行される。\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-8196-8ce4-c7db4adad69e",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 4
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-8173-979d-e9ea43417a13",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイルには時間がかかるが、コンパイルはコード変化がないなら一度だけすればいい。\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コードを実行する度にインタープリート過程を繰り返し実行され、コンパイルする時間がかからなくするその場で実行できる。\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-81be-9b63-f6a82cd2bcf5",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 5
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-8173-979d-e9ea43417a13",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行時は実行するだけなのでコード実行速度が速い。\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インタープリート段階と実行段階が分離されていないため、繰り返し実行するため実行速度が遅い。\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-81ec-93fd-c79047847a10",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 6
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-8140-b766-ca9f1907a4ee",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 12
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80ef-adc7-e6da2c264201",
+    "parentId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-8134-a39c-f10f48d3fdfb",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-806d-a2c4-e60e9eef0e14",
+    "i": 13
+  }
+]
