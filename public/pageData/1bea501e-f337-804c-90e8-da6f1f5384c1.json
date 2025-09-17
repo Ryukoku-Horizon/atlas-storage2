@@ -101,7 +101,7 @@
   {
     "curriculumId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
     "parentId": "1bea501e-f337-804c-90e8-da6f1f5384c1",
-    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1bea501e-f337-804c-90e8-da6f1f5384c1/image/1f0a501e-f337-807a-8c55-fc02deebf53f.png\"}",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1bea501e-f337-804c-90e8-da6f1f5384c1/image/1f0a501e-f337-807a-8c55-fc02deebf53f.png\"}",
     "blockId": "1f0a501e-f337-807a-8c55-fc02deebf53f",
     "type": "image",
     "pageId": "1bea501e-f337-804c-90e8-da6f1f5384c1",

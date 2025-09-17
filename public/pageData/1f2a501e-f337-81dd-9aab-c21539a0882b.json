@@ -1,0 +1,38 @@
+[
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81dd-9aab-c21539a0882b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"色の設定には\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"colors\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラスを使用できます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8150-a93d-feba35883131",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81dd-9aab-c21539a0882b",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81dd-9aab-c21539a0882b",
+    "data": "{\"parent\":[],\"url\":\"https://flet.dev/docs/reference/colors/\",\"ogp\":{\"title\":\"Colors | Flet\",\"icon\":\"https://flet.dev/img/favicon.ico\",\"image\":null,\"description\":\"Color value\"}}",
+    "blockId": "1f2a501e-f337-8116-8fb2-c510c2495396",
+    "type": "bookmark",
+    "pageId": "1f2a501e-f337-81dd-9aab-c21539a0882b",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81dd-9aab-c21539a0882b",
+    "data": "{\"parent\":[],\"url\":\"https://qiita.com/obukhov/items/9419105c0b810fccad09\",\"ogp\":{\"title\":\"[Python] flet.colorsで簡便に利用できる色の一覧 #Flet - Qiita\",\"icon\":\"https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico\",\"image\":\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyODQxODc0JTJGYjBiYjA1ZjhjNWJmNGJmMjE4YmRmZDQ0NTVjYmYyMjZiNmY3NWMxNiUyRmxhcmdlLnBuZyUzRjE2NjI3NzYyMjg_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWM2ZjcwZDk0NDNiMmEyMGFhOWM2ZTFiZDFhYWM5MmEy%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D14b5f94a76d4030887b1a779f24b2155?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCUHl0aG9uJTVEJTIwZmxldC5jb2xvcnMlRTMlODElQTclRTclQjAlQTElRTQlQkUlQkYlRTMlODElQUIlRTUlODglQTklRTclOTQlQTglRTMlODElQTclRTMlODElOEQlRTMlODIlOEIlRTglODklQjIlRTMlODElQUUlRTQlQjglODAlRTglQTYlQTcmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02MTQ0MjM2ODM5NjhkNTAzOTYxZGU5NmEwYjJlYzE1ZQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBvYnVraG92JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZDc2OTZhYjBmMzk2NTcyNTY0ZmFkMWFjODQwYTFiZjQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=acae05762ec45ec686801fe43e105a7a\",\"description\":\"blend_mode=flet.BlendMode.SRC 実際の色の見え方はBlendモードに依存します。 デフォルトのBlendモードはMODULATEで、各要素のbgcolorの見え方がPageなどの大要素のbgcolorに影響されます。 BlendモードをSRC...\"}}",
+    "blockId": "1f2a501e-f337-8129-9bfe-c916b685dac7",
+    "type": "bookmark",
+    "pageId": "1f2a501e-f337-81dd-9aab-c21539a0882b",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81dd-9aab-c21539a0882b",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-8175-a51b-ec32a934f49a",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-81dd-9aab-c21539a0882b",
+    "i": 4
+  }
+]

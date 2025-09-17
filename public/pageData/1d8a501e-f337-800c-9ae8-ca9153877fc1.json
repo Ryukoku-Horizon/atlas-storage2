@@ -155,7 +155,7 @@
   {
     "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
     "parentId": "1d8a501e-f337-8027-97e0-c712e5a097de",
-    "data": "{\"parent\":\"Canvaについて\",\"iconType\":\"file\",\"iconUrl\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/pageImageData/icon/1d8a501e-f337-8058-b91c-c0a04b396d44.png\",\"coverUrl\":\"https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb\"}",
+    "data": "{\"parent\":\"Canvaについて\",\"iconType\":\"file\",\"iconUrl\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/pageImageData/icon/1d8a501e-f337-8058-b91c-c0a04b396d44.png\",\"coverUrl\":\"https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb\"}",
     "blockId": "1d8a501e-f337-8058-b91c-c0a04b396d44",
     "type": "child_page",
     "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
@@ -200,7 +200,7 @@
   {
     "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
     "parentId": "1d8a501e-f337-808f-bf30-cd0b0078f90f",
-    "data": "{\"parent\":\"Discordの使い方\",\"iconType\":\"file\",\"iconUrl\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/pageImageData/icon/1d8a501e-f337-80fa-90ed-effb876c58ba.png\",\"coverUrl\":\"https://www.notion.so/images/page-cover/webb1.jpg\"}",
+    "data": "{\"parent\":\"Discordの使い方\",\"iconType\":\"file\",\"iconUrl\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/pageImageData/icon/1d8a501e-f337-80fa-90ed-effb876c58ba.png\",\"coverUrl\":\"https://www.notion.so/images/page-cover/webb1.jpg\"}",
     "blockId": "1d8a501e-f337-80fa-90ed-effb876c58ba",
     "type": "child_page",
     "pageId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",

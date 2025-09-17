@@ -1,0 +1,344 @@
+[
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "_",
+    "blockId": "1f2a501e-f337-818b-96d6-d269104ecec9",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まずは、これから開発していくGUIと、開発に使用するFletがどんなものか、簡単に紹介します。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81f7-81ab-da9eb515b2d8",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"CUIとGUI\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-81fe-82d0-cf8510fd90ec",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "_",
+    "blockId": "1f2a501e-f337-817f-a4ec-cebe0db8d808",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"突然ですが、パソコンを使用するのに、この世界には大きく分けて2通りの方法があります。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8101-91bd-dd44c50472ca",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 5
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"それは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"orange\"},\"plain_text\":\"CLI\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" と \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"orange\"},\"plain_text\":\"GUI \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。CUIは \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Command Line Interface\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、GUIは  \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Graphical User Interface \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の略です。（覚えなくても大丈夫ですよ。）\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8170-9727-f36a398f2600",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 6
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"CLI\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8193-93aa-fd84ec59a6cb",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 7
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8179-bf4b-c6c9dd1cc4b5",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 8
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"CLIの基礎\",\"href\":\"/posts/curriculums/1bea501e-f337-804c-90e8-da6f1f5384c1\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/keyboard_lightgray.svg\",\"iconType\":\"external\",\"title\":\"CLIの基礎\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" でもやりましたね。CLI (Command Line Interface) は、パソコンを文字だけで操作する方法です。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8182-a0ce-f625c57dc96b",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 9
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、これまでPythonで使用していた\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"print\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数や\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"input\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数も、文字のみの出力と入力しか扱っていないのでCLIといえます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-817b-8b54-fbead13db1d6",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 10
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/command-line_gray.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"CLIの例\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81cf-840f-ec9aa3687b91",
+    "type": "callout",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 11
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81cf-840f-ec9aa3687b91",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コマンド操作\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8169-ac4c-cdc62e1c1976.png\"}",
+    "blockId": "1f2a501e-f337-8169-ac4c-cdc62e1c1976",
+    "type": "image",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81cf-840f-ec9aa3687b91",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonで作成したプログラム\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8181-ad27-e0daec13a0d9.jpg\"}",
+    "blockId": "1f2a501e-f337-8181-ad27-e0daec13a0d9",
+    "type": "image",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このCLIを使用したプログラム・アプリは、作成が簡単、動作が軽量などといったメリットがあります。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81c7-b8c4-dd2d699392b2",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 12
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"でも、見た目もパッとしないし、なにより慣れている人でないとCLIを使用したアプリを使いこなすことは難しいでしょう。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8164-a11a-e95308d8310b",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 13
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そこで登場するのが、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"GUI\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81ab-a1da-e5d2d908427a",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 14
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"GUI\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-81ff-a36d-dbfc88a9898c",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 15
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81c6-bef0-e1174cbae506",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 16
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このようなCLIのデメリットを解決するものが、GUI (Graphical User Interface) です。このGUIは日常生活でもっとも普及している方法で、文字に加え図形や画像、さらには映像や音声でパソコンを操作しやすくします。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81d1-ba28-c762193156d9",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 17
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8112-b89c-f0e0cc075a96.jpg\"}",
+    "blockId": "1f2a501e-f337-8112-b89c-f0e0cc075a96",
+    "type": "image",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 18
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"みなさんが日常的に使っているパソコンやスマートフォンも、ほとんどがこのGUIを用いて構成されています。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8139-8e23-f3bfe230965b",
+    "type": "callout",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 19
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-81c8-b374-f902659af7ef",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 20
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Flet\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8114-90ec-f6370f9dae60",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 21
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "_",
+    "blockId": "1f2a501e-f337-811f-9bce-c4143b70fd9f",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 22
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Flet\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"とは先ほど紹介したGUIのアプリケーションを、Pythonで簡単に作ることができる\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ライブラリ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-812c-a269-fec86096a6f0",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 23
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ライブラリとは？\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-812e-a794-f132daa598ad",
+    "type": "callout",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 24
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-812e-a794-f132daa598ad",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ライブラリとは、Pythonに追加でインストールすることで、さまざまな便利な機能を使えるようになるものです。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8153-8253-c48c0e5a920a",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-812e-a794-f132daa598ad",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"拡張機能やアドオン、ゲームで言うMODなどのイメージに近いです。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8131-94c1-f68df45a6c18",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-812e-a794-f132daa598ad",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"PythonにはFlet以外にも多くのライブラリが存在しており、それらを追加でインストールすることでPythonをさらに使いやすく、多機能にできるのです。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81d3-85f6-c7a8835c4c8c",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-812e-a794-f132daa598ad",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"有名なものには\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Flask\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"django\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Kivy\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"NumPy\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"pandas\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"OpenCV\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"などがあります。気になったらぜひ調べて見てください！\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81b9-b26c-f451ec9b1c26",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Flet\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使えば、以下のようなモダンな見た目で動作の軽快なアプリケーションを簡単に作ることができるのです。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8102-b243-fc3b19d17a2e",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 25
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"From : \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"https://flet.dev/gallery/\",\"href\":\"https://flet.dev/gallery/\"}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8115-ad64-d5ff327b82e9.png\"}",
+    "blockId": "1f2a501e-f337-8115-ad64-d5ff327b82e9",
+    "type": "image",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 26
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下のサイトから公式のFletアプリデモを触ることができます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81ad-9e2e-c7a8a3a8c4b3",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 27
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ToDoアプリ\",\"href\":\"https://gallery.flet.dev/todo/\"}]}",
+    "blockId": "1f2a501e-f337-8184-b100-f5ac60b951d9",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 28
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"電卓\",\"href\":\"https://gallery.flet.dev/calculator/\"}]}",
+    "blockId": "1f2a501e-f337-81db-92ae-da558640f8b8",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 29
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Emoji Enigma（ゲーム）\",\"href\":\"https://ee.lshss.app/\"}]}",
+    "blockId": "1f2a501e-f337-81a7-af15-d2eab5b34668",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 30
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-81c6-9348-ca8e9e1b7979",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 31
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これからは、この\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Flet\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使って実際にGUIアプリケーションの作り方を学んでいきます！\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8160-8ac0-c8b079421ca2",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-814a-b324-f922a04c07a9",
+    "i": 32
+  }
+]

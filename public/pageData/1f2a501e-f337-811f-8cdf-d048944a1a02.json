@@ -1,0 +1,398 @@
+[
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81b2-9c6d-cf1f9c9a943e",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回はFlet特有の要素である\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「コントロール」\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"について学びます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8135-9140-dcf49895304f",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロール\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"とはFletでつくるGUIアプリの\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"パーツ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のことを指します。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81d6-a5af-d074bf46e9d8",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"たとえば、ボタンやテキストボックス、アイコンなどがそれに該当します。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81d5-8dea-cb6e02122e82",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8165-9de9-d81be5e18606",
+    "type": "column_list",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 5
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8165-9de9-d81be5e18606",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8175-a52c-d2998e4538fb",
+    "type": "column",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8165-9de9-d81be5e18606",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8104-9ffc-ce09c054c356",
+    "type": "column",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8165-9de9-d81be5e18606",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8152-80e9-efd9b7bed95c",
+    "type": "column",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8175-a52c-d2998e4538fb",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ボタン\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8101-a1ba-faf2f91ef242.jpg\"}",
+    "blockId": "1f2a501e-f337-8101-a1ba-faf2f91ef242",
+    "type": "image",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8104-9ffc-ce09c054c356",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テキストフィールド\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8112-9b0e-e957270dff54.jpg\"}",
+    "blockId": "1f2a501e-f337-8112-9b0e-e957270dff54",
+    "type": "image",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8152-80e9-efd9b7bed95c",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アイコン\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8152-a1d4-e7be9391f410.jpg\"}",
+    "blockId": "1f2a501e-f337-8152-a1d4-e7be9391f410",
+    "type": "image",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Flet公式の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールギャラリー\",\"href\":\"https://flet-controls-gallery.fly.dev/layout\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"も公開されており、さまざまなコントロールの実装例が見れます。また、各コントロールの詳細や使用方法も\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"説明されています\",\"href\":\"https://flet.dev/docs/controls\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8177-b5c0-ed4954d00952",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 6
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールギャラリーを含む複数のFlet公式ページは、Fletを使用して開発されていたりします\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81e4-b2e1-fe481d7b80d9",
+    "type": "callout",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 7
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールの配置\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-81b0-a8fc-d10a38d2f298",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 8
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81ef-b731-c8960df8847d",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 9
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まずは、ウィンドウ内にコントロールを配置する方法を紹介します。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8157-995a-f409f63b9322",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 10
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Fletでコントロールを配置する主な流れは以下のようになっています。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8130-9f58-c8768eb93a10",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 11
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8157-8aa4-eb3e0fd4262c.png\"}",
+    "blockId": "1f2a501e-f337-8157-8aa4-eb3e0fd4262c",
+    "type": "image",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 12
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールは前章で出てきた\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"なにもないウィンドウを生成するコード\",\"href\":\"/posts/curriculums/1f2a501e-f337-8115-9ab6-e102f005effc\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のmain関数内で\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"定義\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"していきます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8188-a27a-d57ec1cae883",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 13
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"たとえば、ウィンドウ上に赤色の「Hello World!」を表示したければ…\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8199-8321-ef25dd4f3cde",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 14
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n    t = ft.Text(value=\\\"Hello, world!\\\", color=\\\"red\\\")\\n\\t\\t# テキストをページ上に追加\\n    page.add(t)\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "1f2a501e-f337-816e-a44f-d209c3363799",
+    "type": "code",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 15
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.Text(value=\\\"Hello, world!\\\", color=\\\"red\\\")\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"はシンプルなテキストを示すコントロールです。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8189-a0ac-d3efe0006e8f",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 16
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これを変数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"t\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に代入（=\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"t\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"として準備\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）し、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.add(t)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"でページに定義したコントロールを\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"追加\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"します。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8104-bb85-d3916877a0a3",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 17
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-81e3-af80-e6ee26df419e.png\"}",
+    "blockId": "1f2a501e-f337-81e3-af80-e6ee26df419e",
+    "type": "image",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 18
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールのプロパティ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8156-a0ed-db3fd0a30d35",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 19
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8106-affd-f08fdf2b1670",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 20
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Fletのコントロールには、その内容や見た目などを設定するための\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「プロパティ」\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が存在します。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8100-8548-c4f94ffd0140",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 21
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"先程の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.Text(value=\\\"Hello, world!\\\", color=\\\"red\\\")\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"では、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"value\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"color\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"がプロパティに該当します。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8173-8877-ff8272d7a822",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 22
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"value\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ではこのテキストコントロールで表示する内容を設定します。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"color\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"では、そのテキストの色を指定することができます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81c9-8c05-dff276925095",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 23
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テキストコントロールのプロパティはこの他にも存在し、サイズを指定する\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"size\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、背景色を設定する\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"bgcolor\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、テキストを斜体に設定する\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"italic\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"などがあります。これらのプロパティを追加で設定すると、以下のようになります。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81ee-95a7-f2757f1e5f0e",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 24
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n    t = ft.Text(\\n        value=\\\"Hello, world!\\\",\\n        color=\\\"red\\\",\\n        size=50,\\n        bgcolor=\\\"blue\\\",\\n        italic=True,\\n    )\\n\\n    page.add(t)\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "1f2a501e-f337-81e9-98e2-e048d189ba7b",
+    "type": "code",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 25
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8185-a7ef-cea6ea3a6a79.png\"}",
+    "blockId": "1f2a501e-f337-8185-a7ef-cea6ea3a6a79",
+    "type": "image",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 26
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"各コントロールには数多くのプロパティが存在し、その各プロパティの詳細や設定方法は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Flet公式ドキュメント\",\"href\":\"https://flet.dev/docs/controls\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"から確認できます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81e8-9856-d1d658f260c3",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 27
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラミングの情報は英語のものも多いですが、ブラウザの翻訳機能を使用して読んでみてください。先輩を頼るのもヨシ！\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-817c-9dcb-c33c887d3bdd",
+    "type": "callout",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 28
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"複数コントロールの配置\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-81cb-8d27-d25f17cfad9d",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 29
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "_",
+    "blockId": "1f2a501e-f337-811b-8ef9-e0490bba83df",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 30
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このコントロールは、もちろん複数個設置することができます。次のように書いてみましょう。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8143-a43d-f347e91ca768",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 31
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n    icon = ft.Icon(name=ft.Icons.DRIVE_FILE_RENAME_OUTLINE)\\n    field = ft.TextField(label=\\\"名前を入力\\\")\\n    button = ft.FilledButton(text=\\\"送信\\\")\\n\\n    page.add(icon, field, button)\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "1f2a501e-f337-811d-8698-d29eabcf5680",
+    "type": "code",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 32
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"main関数内で複数のコントロールを定義し、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.add()\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に複数のコントロールを引数として渡すことで、次のようなウィンドウが表示されます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81ad-bc41-c5dace774306",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 33
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-81fb-b19d-ed26c06835c0.png\"}",
+    "blockId": "1f2a501e-f337-81fb-b19d-ed26c06835c0",
+    "type": "image",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 34
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"複数のコントロールを表示することはできましたが、できることならこんなふうに横に並べたりしたほうが見栄えがいいですよね。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8137-a75c-c22980b09ab0",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 35
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-81b9-a010-e9fb7447812f.png\"}",
+    "blockId": "1f2a501e-f337-81b9-a010-e9fb7447812f",
+    "type": "image",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 36
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールを横並びにする方法は、また今度！\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8104-aa5b-d5342ad1343c",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 37
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まずは、基本的なコントロールの使い方に慣れましょう！\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81f1-88e2-f6303c057df3",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-811f-8cdf-d048944a1a02",
+    "i": 38
+  }
+]

@@ -1,0 +1,1217 @@
+[
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "_",
+    "blockId": "1f2a501e-f337-815c-ade9-f536ab41591a",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ft.ElevatedButton(ft.Button)\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-814c-851a-f22ffbdd5c44",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8167-8fdd-f49a28daf0ef",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ft.ElevatedButtonのFlet公式ページ\",\"href\":\"https://flet.dev/docs/controls/elevatedbutton/\"}]}",
+    "blockId": "1f2a501e-f337-815f-b145-fd84517a21e7",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"見た目\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-81b4-8d7d-da22b92c5acf",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 5
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "_",
+    "blockId": "1f2a501e-f337-815f-a84c-e5b1356a610f",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 6
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実装すると浮き出たように表示されるボタンです。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-819a-9fea-f5e6fd8a33ec",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 7
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81db-b2a6-c2a4c9cf1897",
+    "type": "column_list",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 8
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81db-b2a6-c2a4c9cf1897",
+    "data": "_",
+    "blockId": "1f2a501e-f337-813b-84bf-ecc869bc790f",
+    "type": "column",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81db-b2a6-c2a4c9cf1897",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8189-a228-d3d74b11967b",
+    "type": "column",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8189-a228-d3d74b11967b",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "215a501e-f337-805c-ac0a-ddd1ebb9cb0b",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8189-a228-d3d74b11967b",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "215a501e-f337-80be-9217-d844b1525fa6",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 5
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8189-a228-d3d74b11967b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"←こんな感じ\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81ad-a1fb-e4445b9cc2dc",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8189-a228-d3d74b11967b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"text\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティに\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"これがElevatedButtonです\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を設定しています。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8160-8a82-f4849a11f777",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8189-a228-d3d74b11967b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※このft.ElevatedButtonは内部的にはft.Buttonと同じものです。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81e4-a28b-d25c17dfe5f7",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-813b-84bf-ecc869bc790f",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-811a-ab2f-ff1282996400.png\"}",
+    "blockId": "1f2a501e-f337-811a-ab2f-ff1282996400",
+    "type": "image",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"最初にやりがちなエラー\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8184-ad9c-fdae6b7d2278",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 9
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "_",
+    "blockId": "1f2a501e-f337-815f-8765-d7bedc33369e",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 10
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"⚠️\"},\"color\":\"yellow_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"大体のコントロールでは、プロパティに何も設定しなくてもデフォルトの表示をしてくれますが、このコントロールは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"text\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティだけは設定しないと表示どころか実行もできなくなってしまいます。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81d4-8be0-fb4c28891d3e",
+    "type": "callout",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 11
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8134-937e-e54d065dc3bf",
+    "type": "column_list",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 12
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8134-937e-e54d065dc3bf",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81bf-9b76-c7d6b0088273",
+    "type": "column",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8134-937e-e54d065dc3bf",
+    "data": "_",
+    "blockId": "1f2a501e-f337-812f-a16d-c606113d60dd",
+    "type": "column",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-812f-a16d-c606113d60dd",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"←こんなエラーが出る\\n　↓\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8184-b35d-dcd19ca10cc2",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81bf-9b76-c7d6b0088273",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8140-a5ff-f2cb8a1fbb4e.png\"}",
+    "blockId": "1f2a501e-f337-8140-a5ff-f2cb8a1fbb4e",
+    "type": "image",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-812f-a16d-c606113d60dd",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-81d7-aa79-e69680f3ba3a.png\"}",
+    "blockId": "1f2a501e-f337-81d7-aa79-e69680f3ba3a",
+    "type": "image",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"よく使うプロパティとその特徴や設定方法\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-81c9-9791-d6784ea59ae3",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 13
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81fc-8ec8-f6319bb89434",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 14
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"text\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（表示する文字）\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8122-a2ea-e45d6a22b511",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 15
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8122-a2ea-e45d6a22b511",
+    "data": "{\"color\":\"red_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このプロパティだけは必須！！！！！\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81b5-977b-e7a6cbdeb0ad",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8122-a2ea-e45d6a22b511",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文字列型を渡すのが基本。(他の型も可能だけれど公式に推奨されていない)\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8137-abc6-f3be9dadd0de",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8122-a2ea-e45d6a22b511",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"どうしても文字を書きたくない場合は空白を入力しよう。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8142-9f86-cf21f6acaa35",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-8177-8a0a-efa3742b5c7a",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 16
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"color\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（文字の色）\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81ac-b33d-d8628a22dd97",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 17
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81ac-b33d-d8628a22dd97",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"色の指定方法(「\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"color = \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」の後に繋げる部分)はいくつかあります。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81e3-8037-c94813830055",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81ac-b33d-d8628a22dd97",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"キーワード(一番使いやすい)\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-818a-a109-e71911ba1cda",
+    "type": "numbered_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81ac-b33d-d8628a22dd97",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.Colors\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使用する\",\"href\":null}]}",
+    "blockId": "217a501e-f337-8027-adf4-d062e3b142bf",
+    "type": "numbered_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81ac-b33d-d8628a22dd97",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カラーコードによる指定\",\"href\":null}]}",
+    "blockId": "217a501e-f337-803e-91c1-ec5a2eab743d",
+    "type": "numbered_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81ac-b33d-d8628a22dd97",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"color\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティは大体のコントロールにある(他の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"color\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と付くプロパティも同じ設定方法)。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81b4-8942-f533dae8d5d9",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 5
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-8027-adf4-d062e3b142bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"colors = ft.Colors.BLUE\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のように、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.Colors.\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の後ろに大文字でキーワードをくっつけます。VSCodeの補完機能で使用できる色が一覧できるので便利です。\",\"href\":null}]}",
+    "blockId": "217a501e-f337-80ec-a7c9-df02f25b7db2",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-818a-a109-e71911ba1cda",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-81ad-9da4-c157ce096885",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-818a-a109-e71911ba1cda",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"青色の場合\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"\\\"color = BLUE\\\"と、色の名前をダブルクォーテーションで括って指定します。\",\"href\":null}]}",
+    "blockId": "217a501e-f337-8022-9e90-f6904f86b1eb",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-818a-a109-e71911ba1cda",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"↓このページのMaterial Colorsの部分に色を指定できるキーワードが羅列されています。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8168-88c3-fcfe8bd83892",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-818a-a109-e71911ba1cda",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"⚙\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"設定できる色(Flet公式)\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-816b-9ece-ca9ab0bdb374",
+    "type": "callout",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-803e-91c1-ec5a2eab743d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"16進数カラーコード(透明度なし)\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8116-9b98-f3d9dcd5bb51",
+    "type": "toggle",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-803e-91c1-ec5a2eab743d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"16進数カラーコード(透明度あり)\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8169-8f61-c3757ab0e91c",
+    "type": "toggle",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-803e-91c1-ec5a2eab743d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※大文字と小文字は混ざっていても、どちらか片方でも問題なく動く。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81c1-b805-c67567790182",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8169-8f61-c3757ab0e91c",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"“#AARRGGBB”\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81a3-9d2d-c9aeaca243f7",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8169-8f61-c3757ab0e91c",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2の16進数カラーコード(透明度なし)に加えて、Aが透明度、強さは同じように設定できるけれど数が少ない方が透明に近づく。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8140-925b-d67f25b078cd",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8116-9b98-f3d9dcd5bb51",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"“#RRGGBB”\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-810f-91c1-f8b3d1b7a6ea",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8116-9b98-f3d9dcd5bb51",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Rが赤、Gが緑、Bが青の強さで「0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F」の十六文字の組み合わせ二桁で指定する。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81f4-b1e0-d14822b32e40",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8116-9b98-f3d9dcd5bb51",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"”#99BbaF”\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8179-b10e-e4fe559ab539",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-816b-9ece-ca9ab0bdb374",
+    "data": "{\"parent\":[],\"url\":\"https://flet.dev/docs/reference/colors/#material-colors\",\"ogp\":{\"title\":\"Colors | Flet\",\"icon\":\"https://flet.dev/img/favicon.ico\",\"image\":null,\"description\":\"Color value\"}}",
+    "blockId": "217a501e-f337-802c-afd3-d6268ccee04b",
+    "type": "bookmark",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-8165-aea5-ca6eca93e303",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 18
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"bgcolor\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（ボタン自体の色）\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8131-ae30-ec594fbece22",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 19
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8131-ae30-ec594fbece22",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"設定できる色は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"color\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティと同じ。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8104-a6b1-f4827d87662c",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8131-ae30-ec594fbece22",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"大体のコントロールにある。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-819d-87f6-f5921fa43915",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-818a-823e-e8f8365c11f4",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 20
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"width\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（横幅）\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8127-a70c-c399f4e582cf",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 21
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8127-a70c-c399f4e582cf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"数値ならなんでも大丈夫(設定できないくらいの細かい数値は無視される)\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-816c-973c-ca8518f2c794",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8127-a70c-c399f4e582cf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"大体のコントロールにある。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81f3-81ff-d065234cfcab",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-8165-b050-c598181152e8",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 22
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"height\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（高さ）\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-814d-862b-c04d1953320f",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 23
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814d-862b-c04d1953320f",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"width\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティと同じ。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-815d-a90b-e275b3809fa3",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-814d-862b-c04d1953320f",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"大体のコントロールにある。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8128-992a-d9efd6e087f7",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-8152-aa71-e797a68ae873",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 24
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"on_click\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（関数を渡して押した時の処理を決める）\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8170-9571-f0aad0aa19b9",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 25
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8170-9571-f0aad0aa19b9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"イベントハンドラとイベントオブジェクトのページで説明があるので一旦無視で大丈夫\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-817c-9253-f7454625fc85",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "217a501e-f337-80c4-8109-df5b3b43af0e",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 26
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"使用例\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "217a501e-f337-8051-8710-da23b56b0f74",
+    "type": "heading_3",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 27
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "_",
+    "blockId": "217a501e-f337-80d1-8b3b-c251874e6425",
+    "type": "column_list",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 28
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-80d1-8b3b-c251874e6425",
+    "data": "_",
+    "blockId": "217a501e-f337-8033-b0a9-d10573a06d02",
+    "type": "column",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-80d1-8b3b-c251874e6425",
+    "data": "_",
+    "blockId": "217a501e-f337-80a4-a965-e42649087e3e",
+    "type": "column",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-80a4-a965-e42649087e3e",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/217a501e-f337-80fc-b5fa-dd1d9ee2d02c.png\"}",
+    "blockId": "217a501e-f337-80fc-b5fa-dd1d9ee2d02c",
+    "type": "image",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-8033-b0a9-d10573a06d02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文字は「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"登録\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」\",\"href\":null}]}",
+    "blockId": "217a501e-f337-8041-96f1-eef34d5af380",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-8033-b0a9-d10573a06d02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文字色は\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"赤色\",\"href\":null}]}",
+    "blockId": "217a501e-f337-80ce-b835-f114f4f6ea5b",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-8033-b0a9-d10573a06d02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"背景色は\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"黄色\",\"href\":null}]}",
+    "blockId": "217a501e-f337-80ce-a1eb-df30d83be814",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-8033-b0a9-d10573a06d02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ボタンの幅は\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"80\",\"href\":null}]}",
+    "blockId": "217a501e-f337-8016-8086-f6e9fc87f687",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-8033-b0a9-d10573a06d02",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ボタンの高さは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"40\",\"href\":null}]}",
+    "blockId": "217a501e-f337-804c-8e3d-f4bd069dd04b",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 5
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n\\n    bt = ft.ElevatedButton(\\n        text=\\\"登録\\\",\\n        color=ft.Colors.RED,\\n        bgcolor=ft.Colors.YELLOW,\\n        width=80,\\n        height=40,\",\"\\n    )\",\"\\n    page.add(bt)\\nft.app(target=main)\\n\"],\"caption\":[]}",
+    "blockId": "217a501e-f337-8004-8a32-c721717052d6",
+    "type": "code",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 29
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ft.IconButton\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-81c1-8676-d06c899a4692",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 30
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "_",
+    "blockId": "1f2a501e-f337-813d-a6c9-cc0fb1a5d3e2",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 31
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ft.IconButtonのFlet公式ページ\",\"href\":\"https://flet.dev/docs/controls/iconbutton/\"}]}",
+    "blockId": "1f2a501e-f337-815b-8f19-fed5f05678f2",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 32
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"見た目\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8160-9565-c5b4a096e5c9",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 33
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "_",
+    "blockId": "1f2a501e-f337-812b-a929-e60367314290",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 34
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アイコンだけが表示されるボタンです。(実はft.ElevatedButtonでは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"icon\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティもあるのでアイコンも表示できる)\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8192-875f-ff742befe20c",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 35
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "_",
+    "blockId": "1f2a501e-f337-815a-a5b7-d7bb15085796",
+    "type": "column_list",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 36
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-815a-a5b7-d7bb15085796",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81ee-8e9d-e4e304454514",
+    "type": "column",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-815a-a5b7-d7bb15085796",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81f3-8d00-e521aeeb5f2d",
+    "type": "column",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f3-8d00-e521aeeb5f2d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"←こんな感じ\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8164-9b0a-d7e71a97fdc5",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f3-8d00-e521aeeb5f2d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"icon\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティに\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"\\\"SETTINGS”\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を設定しています。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81fd-b3ef-dfa546d07e9a",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81ee-8e9d-e4e304454514",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-81cd-bf82-d2744bf1df10.png\"}",
+    "blockId": "1f2a501e-f337-81cd-bf82-d2744bf1df10",
+    "type": "image",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"最初にやりがちなエラー\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8116-986a-d85be49295e4",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 37
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8136-ae14-eb530f5ca596",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 38
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "_",
+    "blockId": "1f2a501e-f337-810c-8d9e-d046a901555c",
+    "type": "column_list",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 39
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-810c-8d9e-d046a901555c",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81fe-9571-fe7041f78610",
+    "type": "column",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-810c-8d9e-d046a901555c",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81f5-8f7f-d8351954f7fd",
+    "type": "column",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fe-9571-fe7041f78610",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ft.ElevatedButtonとは違って\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"icon\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティに何も設定しなくても実行はできます。\\nですが、\\n右画像のようになってしまって実行画面でエラーが出てしまいます。\\nなので、\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81ea-b9d2-ea90de5eec59",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81fe-9571-fe7041f78610",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"⚠️\"},\"color\":\"yellow_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このコントロールでは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"icon\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティの設定が必須になっています。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81f2-aa1c-e2f76afc3bad",
+    "type": "callout",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f5-8f7f-d8351954f7fd",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8143-8510-d546c69e9cf2.png\"}",
+    "blockId": "1f2a501e-f337-8143-8510-d546c69e9cf2",
+    "type": "image",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"よく使うプロパティとその特徴や設定方法\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-81cb-ab25-d763910a7869",
+    "type": "heading_2",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 40
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8186-a0aa-e51257c486d8",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 41
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"icon\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（表示するアイコン）\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81b6-a6e9-eb67a7654f28",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 42
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81b6-a6e9-eb67a7654f28",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-81d9-84dc-dcfb73f7ea39",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 7
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81b6-a6e9-eb67a7654f28",
+    "data": "{\"color\":\"red_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このプロパティだけは必須！！！！！\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8130-99ca-e6898bbf1d4c",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81b6-a6e9-eb67a7654f28",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"color\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティなどと同じようにキーワードで設定できる。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8141-9fb4-cc9205f7b29c",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81b6-a6e9-eb67a7654f28",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例: \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"icon = \\\"SETTINGS\\\"\",\"href\":null}]}",
+    "blockId": "217a501e-f337-80e8-9f81-f7db72f5dcdf",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81b6-a6e9-eb67a7654f28",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"⚙\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"キーワードでアイコン検索(Flet公式)\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81f6-891a-dfc2d3fa0a70",
+    "type": "callout",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81b6-a6e9-eb67a7654f28",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"icon = ft.Icons.SETTINGS\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のように\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.Icons.\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の後ろに大文字でキーワードをつける方法もあります。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81ed-b6c8-d6325179249e",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 5
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81b6-a6e9-eb67a7654f28",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これも、VSCodeの補完機能で使用できるキーワードが一覧できるので便利です。\",\"href\":null}]}",
+    "blockId": "217a501e-f337-80b6-a188-d7c2a23d1589",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 6
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f6-891a-dfc2d3fa0a70",
+    "data": "{\"parent\":[],\"url\":\"https://gallery.flet.dev/icons-browser/\",\"ogp\":{\"title\":\"Flet icons browser\",\"icon\":\"https://gallery.flet.dev/icons-browser/favicon.png\",\"image\":null,\"description\":\"Quickly search through icons collection to use in your app.\"}}",
+    "blockId": "1f2a501e-f337-812f-b5d9-e45532b9b336",
+    "type": "bookmark",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-8186-8049-c1d153ca5a27",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 43
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"icon_color\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（アイコンの色）\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8182-bebc-db43e09fee70",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 44
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8182-bebc-db43e09fee70",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"色の指定方法は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"color\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティなどと同じ。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81dd-a422-c1449a217f22",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-816e-bafb-ddf829c97528",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 45
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"icon_size\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（アイコンのサイズ）\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81f4-9632-d1bb3689ba34",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 46
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-81f4-9632-d1bb3689ba34",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"数値で指定する(デフォルトサイズが24)。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8134-b704-d2a41c560764",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-81c5-bcd9-d6ec273041e8",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 47
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ft.ElevatedButtonと同じ役割･設定方法のプロパティ\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81f7-8c28-cc6559018801",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 48
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"bgcolor\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（ボタン自体の色）\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-819c-a9f6-ca21681703cb",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 49
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"width\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（横幅）\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8111-afc5-c9d7ea45c644",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 50
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"height\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（高さ）\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81da-b8ff-d0ba302e3fa1",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 51
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"on_click\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（関数を渡して押した時の処理を決める）\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8169-9b27-d29d8272fa4c",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 52
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "217a501e-f337-8063-83c3-d80185743f00",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 53
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"使用例\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "217a501e-f337-8059-9a1b-c1b029b1840d",
+    "type": "heading_3",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 54
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "_",
+    "blockId": "217a501e-f337-8049-83c8-fbfee5a81a23",
+    "type": "column_list",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 55
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-8049-83c8-fbfee5a81a23",
+    "data": "_",
+    "blockId": "217a501e-f337-807d-9b64-fa9ab3a079a2",
+    "type": "column",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-8049-83c8-fbfee5a81a23",
+    "data": "_",
+    "blockId": "217a501e-f337-802d-a1c4-c8e2434e9b11",
+    "type": "column",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-807d-9b64-fa9ab3a079a2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アイコンは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"チェックボックス\",\"href\":null}]}",
+    "blockId": "217a501e-f337-80ab-9313-d914e499d17b",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-807d-9b64-fa9ab3a079a2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アイコンの色は\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"緑色\",\"href\":null}]}",
+    "blockId": "217a501e-f337-8015-832e-e2dd739c8ca5",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-807d-9b64-fa9ab3a079a2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アイコンのサイズは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"30\",\"href\":null}]}",
+    "blockId": "217a501e-f337-80c6-b186-da1ddeab066e",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-807d-9b64-fa9ab3a079a2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"背景色は\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"黄色\",\"href\":null}]}",
+    "blockId": "217a501e-f337-8075-981e-db247987f134",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-807d-9b64-fa9ab3a079a2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"幅は\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"50\",\"href\":null}]}",
+    "blockId": "217a501e-f337-8059-b49f-f3d24c1910a6",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 5
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-807d-9b64-fa9ab3a079a2",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"高さは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"50\",\"href\":null}]}",
+    "blockId": "217a501e-f337-8082-835c-e704443d9c19",
+    "type": "bulleted_list_item",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 6
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "217a501e-f337-802d-a1c4-c8e2434e9b11",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/217a501e-f337-8063-a54a-ff9adbbd2a18.png\"}",
+    "blockId": "217a501e-f337-8063-a54a-ff9adbbd2a18",
+    "type": "image",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n\\n    icon_bt = ft.IconButton(\\n        icon=ft.Icons.CHECK_BOX,\\n        icon_color=ft.colors.GREEN,\\n        icon_size=30,\\n        bgcolor=ft.Colors.YELLOW,\\n        width=50,\\n        height=50\",\"\\n    )\",\"\\n    page.add(icon_bt)\\n\\nft.app(target=main)\\n\"],\"caption\":[]}",
+    "blockId": "217a501e-f337-80f3-b343-eb7f7768ee59",
+    "type": "code",
+    "pageId": "1f2a501e-f337-8105-b4bd-f8d00128dc56",
+    "i": 56
+  }
+]

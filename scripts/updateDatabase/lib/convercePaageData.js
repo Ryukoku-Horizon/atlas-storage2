@@ -56,7 +56,7 @@ const getCover=async(curriculumId,pageId,cover)=>{
                 exte = "png";
             }
             await downloadImage(cover.file.url, `./public/notion_data/eachPage/${curriculumId}/pageImageData/cover/${pageId}.${exte}`)
-            coverUrl = `/horizon-atlas/notion_data/eachPage/${curriculumId}/pageImageData/cover/${pageId}.${exte}`
+            coverUrl = `https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/${curriculumId}/pageImageData/cover/${pageId}.${exte}`
             return {coverUrl}
         }else if(cover.type==="external"){
             coverUrl = cover.external.url
@@ -80,7 +80,7 @@ const getIcon=async(curriculumId,pageId,icon)=>{
                 exte = "png";
             }
             await downloadImage(icon.file.url, `./public/notion_data/eachPage/${curriculumId}/pageImageData/icon/${pageId}.${exte}`)
-            iconUrl = `/horizon-atlas/notion_data/eachPage/${curriculumId}/pageImageData/icon/${pageId}.${exte}`
+            iconUrl = `https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/${curriculumId}/pageImageData/icon/${pageId}.${exte}`
             return {iconType,iconUrl}
         }else if(iconType==="external"){
             iconUrl = icon.external.url
@@ -94,7 +94,7 @@ const getIcon=async(curriculumId,pageId,icon)=>{
                 exte = "png";
             }
             await downloadImage(icon.custom_emoji.url, `./public/notion_data/eachPage/${curriculumId}/pageImageData/icon/${pageId}.${exte}`)
-            iconUrl = `/horizon-atlas/notion_data/eachPage/${curriculumId}/pageImageData/icon/${pageId}.${exte}`
+            iconUrl = `https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/${curriculumId}/pageImageData/icon/${pageId}.${exte}`
             return {iconType,iconUrl}
         }
     }

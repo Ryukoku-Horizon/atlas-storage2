@@ -81,7 +81,7 @@ export const getPageIcon=async(curriculumId,pageId,icon,notDownload)=>{
                 exte = "png";
             }
             if(!notDownload) await downloadImage(icon.file.url, `./public/notion_data/eachPage/${curriculumId}/pageImageData/icon/${pageId}.${exte}`)
-            const iconUrl = `/horizon-atlas/notion_data/eachPage/${curriculumId}/pageImageData/icon/${pageId}.${exte}`
+            const iconUrl = `https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/${curriculumId}/pageImageData/icon/${pageId}.${exte}`
             return {iconUrl,iconType}
         }else if(iconType==="external"){
             const iconUrl = icon.external.url
@@ -95,7 +95,7 @@ export const getPageIcon=async(curriculumId,pageId,icon,notDownload)=>{
                 exte = "png";
             }
             if(!notDownload) await downloadImage(icon.custom_emoji.url, `./public/notion_data/eachPage/${curriculumId}/pageImageData/icon/${pageId}.${exte}`)
-            const iconUrl = `/horizon-atlas/notion_data/eachPage/${curriculumId}/pageImageData/icon/${pageId}.${exte}`
+            const iconUrl = `https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/${curriculumId}/pageImageData/icon/${pageId}.${exte}`
             return {iconUrl,iconType}
         }
     }
@@ -110,7 +110,7 @@ export const getPageCover=async(curriculumId,pageId,cover)=>{
                 exte = "png";
             }
             await downloadImage(cover.file.url, `./public/notion_data/eachPage/${curriculumId}/pageImageData/cover/${pageId}.${exte}`)
-            const coverUrl = `/horizon-atlas/notion_data/eachPage/${curriculumId}/pageImageData/cover/${pageId}.${exte}`
+            const coverUrl = `https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/${curriculumId}/pageImageData/cover/${pageId}.${exte}`
             return coverUrl
         }else if(cover.type==="external"){
             const coverUrl = cover.external.url
@@ -130,7 +130,7 @@ export const saveImageAndgetUrl=async(curriculumId,blockId,url)=>{
     }
     const downloadUrl = `./public/notion_data/eachPage/${curriculumId}/image/${blockId}.${exte}`
     await downloadImage(url, downloadUrl);
-    return downloadUrl.replace("./public","/horizon-atlas")
+    return `https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/${curriculumId}/image/${blockId}.${exte}`
 }
 
 export const saveVideoAndgetUrl=async(curriculumId,blockId,url)=>{
@@ -140,7 +140,7 @@ export const saveVideoAndgetUrl=async(curriculumId,blockId,url)=>{
     }
     const downloadUrl = `./public/notion_data/eachPage/${curriculumId}/video/${blockId}.${exte}`
     await downloadVideo(url, downloadUrl);
-    return downloadUrl.replace("./public","/horizon-atlas")
+    return `https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/${curriculumId}/video/${blockId}.${exte}`
 }
 
 export const getCategoryImage=async(categoryId,cover,icon)=>{
@@ -154,7 +154,7 @@ export const getCategoryImage=async(categoryId,cover,icon)=>{
                 exte = "png";
             }
             await downloadImage(icon.file.url, `./public/notion_data/category/${categoryId}/icon.${exte}`)
-            iconUrl = `/horizon-atlas/notion_data/category/${categoryId}/icon.${exte}`
+            iconUrl = `https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/category/${categoryId}/icon.${exte}`
         }else if(iconType==="external"){
             iconUrl = icon.external.url
         }else if(iconType==="emoji"){
@@ -169,7 +169,7 @@ export const getCategoryImage=async(categoryId,cover,icon)=>{
                 exte = "png";
             }
             await downloadImage(cover.file.url, `./public/notion_data/category/${categoryId}/cover.${exte}`)
-            coverUrl = `/horizon-atlas/notion_data/category/${categoryId}/cover.${exte}`
+            coverUrl = `https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/category/${categoryId}/cover.${exte}`
         }else if(cover.type==="external"){
             coverUrl = cover.external.url
         }else if(cover.type==="emoji"){

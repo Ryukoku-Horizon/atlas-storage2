@@ -20,7 +20,7 @@
   {
     "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
     "parentId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
-    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8159-a63a-d166e5969258.png\"}",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1d8a501e-f337-800c-9ae8-ca9153877fc1/image/1d8a501e-f337-8159-a63a-d166e5969258.png\"}",
     "blockId": "1d8a501e-f337-8159-a63a-d166e5969258",
     "type": "image",
     "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
@@ -155,20 +155,20 @@
   {
     "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
     "parentId": "1d8a501e-f337-816d-891b-fea92cb044a2",
-    "data": "{\"parent\":\"VSCodeのチュートリアル：Mac\",\"iconType\":\"emoji\",\"iconUrl\":\"🍎\",\"coverUrl\":\"https://www.notion.so/images/page-cover/nasa_great_sandy_desert_australia.jpg\"}",
-    "blockId": "1d8a501e-f337-8102-92b5-ff2f78906951",
-    "type": "child_page",
-    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
-    "i": 2
-  },
-  {
-    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
-    "parentId": "1d8a501e-f337-816d-891b-fea92cb044a2",
     "data": "{\"parent\":\"VSCodeのチュートリアル：Windows\",\"iconType\":\"emoji\",\"iconUrl\":\"🪟\",\"coverUrl\":\"https://www.notion.so/images/page-cover/met_fitz_henry_lane.jpg\"}",
     "blockId": "1d8a501e-f337-8156-9349-f0f8face44f2",
     "type": "child_page",
     "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
     "i": 1
+  },
+  {
+    "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
+    "parentId": "1d8a501e-f337-816d-891b-fea92cb044a2",
+    "data": "{\"parent\":\"VSCodeのチュートリアル：Mac\",\"iconType\":\"emoji\",\"iconUrl\":\"🍎\",\"coverUrl\":\"https://www.notion.so/images/page-cover/nasa_great_sandy_desert_australia.jpg\"}",
+    "blockId": "1d8a501e-f337-8102-92b5-ff2f78906951",
+    "type": "child_page",
+    "pageId": "1d8a501e-f337-80a8-846d-cdc0f52c57b8",
+    "i": 2
   },
   {
     "curriculumId": "1d8a501e-f337-800c-9ae8-ca9153877fc1",

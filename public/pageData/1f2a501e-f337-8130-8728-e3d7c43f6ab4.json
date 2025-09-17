@@ -1,0 +1,92 @@
+[
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8142-893a-fa161f245ddb",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "data": "_",
+    "blockId": "1f2a501e-f337-8124-8dc0-ff13b401103d",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下のプログラムを実行すると、ボタンに表示されている文字「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Button !\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」がターミナル（CLI）上に表示されるはずです。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81ef-b310-e7c128722cea",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n    button = ft.ElevatedButton(\\n        text=\\\"Button !\\\",\\n        bgcolor=ft.Colors.PURPLE_100,\\n    )\\n\\n    print(button)\\n\\n    page.add(button)\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "1f2a501e-f337-81fd-8398-d1e728d7fe8a",
+    "type": "code",
+    "pageId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"しかし、実行してみると次のようにいらない情報まで出力されてしまいました。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81d3-aee8-f42d82473926",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "i": 5
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/command-line_gray.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力結果\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-8136-b389-d6647ab3b46f",
+    "type": "callout",
+    "pageId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "i": 6
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8136-b389-d6647ab3b46f",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-8145-9d29-ce00287bd595.png\"}",
+    "blockId": "1f2a501e-f337-8145-9d29-ce00287bd595",
+    "type": "image",
+    "pageId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このプログラムを、正常に「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Button !\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」のみが出力されるように修正してください。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-813d-b615-fd8b8e65aa51",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "i": 7
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※プログラムは「\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"blue\"},\"plain_text\":\"flet-prac4.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」として保存\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-819e-ab96-c895f63ca3aa",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "i": 8
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "data": "24ca501e-f337-806c-bdd7-dc4251317ba1",
+    "blockId": "24ca501e-f337-80c9-84ef-fa734e28bb8a",
+    "type": "synced_block",
+    "pageId": "1f2a501e-f337-8130-8728-e3d7c43f6ab4",
+    "i": 9
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1f2a501e-f337-8131-a6a3-fb106503be1a",
+    "type": "heading_1",
+    "pageId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "data": "_",
+    "blockId": "1f2a501e-f337-81d4-b081-e33b8fa60515",
+    "type": "divider",
+    "pageId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "i": 2
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Fletを用いて、ウィンドウ上にテキストを表示するプログラムを作成してください。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81a5-9a45-ce6080e779d3",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "i": 3
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このテキストは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.Text\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールを使用して表示してください。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-818f-95a3-f2c204416066",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "i": 4
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_green.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"お手本のスクショ\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-818a-8317-e38f3d735ea9",
+    "type": "callout",
+    "pageId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "i": 5
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-818a-8317-e38f3d735ea9",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1f2a501e-f337-8055-b70d-e6fcbb3bbb87/image/1f2a501e-f337-817e-9ae7-e542c8f1796e.png\"}",
+    "blockId": "1f2a501e-f337-817e-9ae7-e542c8f1796e",
+    "type": "image",
+    "pageId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "i": 1
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"表示するテキストの内容（\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"value\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）は自由です。また、その他のプロパティは特に設定しなくても構いません。\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-81ce-bb55-f75813ee88c7",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "i": 6
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※ファイルは「\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"blue\"},\"plain_text\":\"flet-prac1.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」として保存\",\"href\":null}]}",
+    "blockId": "1f2a501e-f337-810c-8364-d4dcee02c662",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "i": 7
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1f2a501e-f337-810a-bc76-de20d08a3fdb",
+    "type": "paragraph",
+    "pageId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "i": 8
+  },
+  {
+    "curriculumId": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
+    "parentId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "data": "24ca501e-f337-806c-bdd7-dc4251317ba1",
+    "blockId": "24ca501e-f337-80c1-b18b-d1d2082b4ee2",
+    "type": "synced_block",
+    "pageId": "1f2a501e-f337-8193-b91f-e640fb009c46",
+    "i": 9
+  }
+]

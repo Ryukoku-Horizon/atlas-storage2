@@ -92,7 +92,7 @@
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "1b8a501e-f337-8022-a217-fb1418047a05",
-    "data": "{\"parent\":[],\"url\":\"/horizon-atlas/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-81e0-b027-e07328777046.jpg\"}",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1ada501e-f337-814b-ac7d-cbd864901138/image/1b8a501e-f337-81e0-b027-e07328777046.jpg\"}",
     "blockId": "1b8a501e-f337-81e0-b027-e07328777046",
     "type": "image",
     "pageId": "1b8a501e-f337-8022-a217-fb1418047a05",

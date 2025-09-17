@@ -1054,15 +1054,6 @@
   },
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
-    "parentId": "208a501e-f337-80fb-a92a-d6a41d8cdd57",
-    "data": "{\"language\":\"python\",\"parent\":[\"int_F  = 0 # Falseと同値\\nint_T1 = 1 # Trueと同値\\nint_T2 = 8 # これ自体はTrueと同値では無い\\n\\nif bool(int_F) == True: print(\\\"intの偽(T)\\\")\\nif bool(int_F) == False: print(\\\"intの偽(F)\\\")\\nif bool(int_T1) == True: print(\\\"intの真1(T)\\\")\\nif bool(int_T1) == False: print(\\\"intの真1(F)\\\")\\nif bool(int_T2) == True: print(\\\"intの真2(T)\\\")\\nif bool(int_T2) == False: print(\\\"intの真2(F)\\\")\"],\"caption\":[]}",
-    "blockId": "208a501e-f337-8080-ae2f-ff955554999e",
-    "type": "code",
-    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
-    "i": 1
-  },
-  {
-    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
     "parentId": "208a501e-f337-8035-8164-ce2c6bd01af3",
     "data": "{\"language\":\"plain text\",\"parent\":[\"intの偽(F)\\nintの真1(T)\\nintの真2(T)\"],\"caption\":[]}",
     "blockId": "208a501e-f337-8061-a12d-d7afcbfd2d5c",
@@ -1072,18 +1063,27 @@
   },
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
-    "parentId": "208a501e-f337-809b-abb9-d43eade753ab",
-    "data": "{\"language\":\"plain text\",\"parent\":[\"intの偽(F)\\nintの真1(T)\"],\"caption\":[]}",
-    "blockId": "208a501e-f337-802a-bafe-e31aaa0df74f",
+    "parentId": "208a501e-f337-8020-b3d9-ff9707127471",
+    "data": "{\"language\":\"python\",\"parent\":[\"int_F  = 0 # Falseと同値\\nint_T1 = 1 # Trueと同値\\nint_T2 = 8 # これ自体はTrueと同値では無い\\n\\nif int_F == True: print(\\\"intの偽(T)\\\")\\nif int_F == False: print(\\\"intの偽(F)\\\")\\nif int_T1 == True: print(\\\"intの真1(T)\\\")\\nif int_T1 == False: print(\\\"intの真1(F)\\\")\\nif int_T2 == True: print(\\\"intの真2(T)\\\")\\nif int_T2 == False: print(\\\"intの真2(F)\\\")\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-8071-9a6a-d2c626cd3715",
     "type": "code",
     "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
     "i": 1
   },
   {
     "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
-    "parentId": "208a501e-f337-8020-b3d9-ff9707127471",
-    "data": "{\"language\":\"python\",\"parent\":[\"int_F  = 0 # Falseと同値\\nint_T1 = 1 # Trueと同値\\nint_T2 = 8 # これ自体はTrueと同値では無い\\n\\nif int_F == True: print(\\\"intの偽(T)\\\")\\nif int_F == False: print(\\\"intの偽(F)\\\")\\nif int_T1 == True: print(\\\"intの真1(T)\\\")\\nif int_T1 == False: print(\\\"intの真1(F)\\\")\\nif int_T2 == True: print(\\\"intの真2(T)\\\")\\nif int_T2 == False: print(\\\"intの真2(F)\\\")\"],\"caption\":[]}",
-    "blockId": "208a501e-f337-8071-9a6a-d2c626cd3715",
+    "parentId": "208a501e-f337-80fb-a92a-d6a41d8cdd57",
+    "data": "{\"language\":\"python\",\"parent\":[\"int_F  = 0 # Falseと同値\\nint_T1 = 1 # Trueと同値\\nint_T2 = 8 # これ自体はTrueと同値では無い\\n\\nif bool(int_F) == True: print(\\\"intの偽(T)\\\")\\nif bool(int_F) == False: print(\\\"intの偽(F)\\\")\\nif bool(int_T1) == True: print(\\\"intの真1(T)\\\")\\nif bool(int_T1) == False: print(\\\"intの真1(F)\\\")\\nif bool(int_T2) == True: print(\\\"intの真2(T)\\\")\\nif bool(int_T2) == False: print(\\\"intの真2(F)\\\")\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-8080-ae2f-ff955554999e",
+    "type": "code",
+    "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-814b-ac7d-cbd864901138",
+    "parentId": "208a501e-f337-809b-abb9-d43eade753ab",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"intの偽(F)\\nintの真1(T)\"],\"caption\":[]}",
+    "blockId": "208a501e-f337-802a-bafe-e31aaa0df74f",
     "type": "code",
     "pageId": "1b8a501e-f337-800d-909d-c7f9943aba15",
     "i": 1
