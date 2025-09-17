@@ -1,0 +1,452 @@
+[
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "_",
+    "blockId": "267a501e-f337-81d7-803c-d9a98d67f340",
+    "type": "divider",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今までのページで、複数ページを持つアプリの作り方を学びました。\\nしかし、このままページの数を増やしていくと、main.pyファイルがどんどん長くなり、どこに何が書かれているのか把握するのが難しくなってしまいます。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-81b3-a3ab-d88b5b5351ba",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そこで、このページではPythonの\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"import\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"という機能を使って、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"View\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"毎にファイルを分け、コードを整理する方法を学びます。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-8110-82f6-ed5cf66c126d",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"なぜファイルを分けるのか？\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "267a501e-f337-81d4-b583-c56c82e028a7",
+    "type": "heading_1",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 4
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "_",
+    "blockId": "267a501e-f337-8195-9141-c3333c859e1d",
+    "type": "divider",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 5
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ファイルを分割することで、以下のようなメリットがあります。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-81f8-a8e7-d84972fc1e72",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 6
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関心の分離\\n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"main.pyはページ遷移の管理（ルーティング）に専念し、各ページの見た目や機能はそれぞれのファイルで管理する、という役割分担ができます。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-8157-a99f-e1802b20134d",
+    "type": "bulleted_list_item",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 7
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"可読性の向上\\n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1つのファイルが短くなり、コードが読みやすくなります。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-815e-ad09-eea58d74e518",
+    "type": "bulleted_list_item",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 8
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"保守性の向上\\n「\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"情報ページのデザインだけ修正したい」といった場合に、info_view.pyだけを編集すればよくなり、他の部分を壊してしまう心配が減ります。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-8170-aabb-df5d2d93a0a4",
+    "type": "bulleted_list_item",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 9
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"大規模なアプリを作る上では必須のテクニックです。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-815a-8b76-c87ed4c00c44",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 10
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"フォルダ構成の準備\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "267a501e-f337-811b-b9f4-d7e6e3633075",
+    "type": "heading_1",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 11
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "_",
+    "blockId": "267a501e-f337-8128-82fe-e243313413a5",
+    "type": "divider",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 12
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まず、ファイルを分割して管理するためのフォルダを準備します。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-8136-a644-f4e781e7a13e",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 13
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"flet create\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で作成したプロジェクトのsrcフォルダの中に、viewsという新しいフォルダを作成します。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-8187-a3e7-d179a54e479e",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 14
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"srcフォルダ内にviewsフォルダを作成します。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-81c7-9ad1-ca088fc77bfc",
+    "type": "numbered_list_item",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 15
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"作成したviewsフォルダの中に、__init__.pyという\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"空のファイル\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を作成します。これは、Pythonに「このviewsフォルダは一つの部品（パッケージ）ですよ」と教えるための重要なファイルです。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-8181-97a2-c0ea7c159c60",
+    "type": "numbered_list_item",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 16
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"viewsフォルダの中に、カウンターページ用のcounter_view.pyと、情報ページ用のinfo_view.pyという2つのファイルを作成します。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-818a-aa6e-f3819a924469",
+    "type": "numbered_list_item",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 17
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"作成後のフォルダ構成は以下のようになります。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-814e-afe4-fdc58dda5f7b",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 18
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"保存する名前\\n\\t├─ src\\n\\t│  ├─ assets\\n\\t│  │  ├─ icon.png\\n\\t│  │  └─ splash_android.png\\n\\t│  ├─ views                   <-- 作成\\n\\t│  │  ├─ __init__.py          <-- 作成 (空ファイル)\\n\\t│  │  ├─ counter_view.py      <-- 作成\\n\\t│  │  └─ info_view.py         <-- 作成\\n\\t│  └─ main.py\\n\\t├─ .gitignore\\n\\t├─ pyproject.toml\\n\\t└─ README.md\"],\"caption\":[]}",
+    "blockId": "267a501e-f337-810c-8e7c-e5d37edc1093",
+    "type": "code",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 19
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"各Viewファイルの作成\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "267a501e-f337-8169-8975-fa9be1459223",
+    "type": "heading_1",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 20
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "_",
+    "blockId": "267a501e-f337-81d4-b7ae-c156df9c4d44",
+    "type": "divider",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 21
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次に、先ほど作成したファイルに、main.pyに書いていたViewのコードを移していきます。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-8114-9e4d-ce1a390369a3",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 22
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"重要なポイント\",\"href\":null}]}",
+    "blockId": "267a501e-f337-8132-bf00-f8f2a6e15122",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 23
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-8132-bf00-f8f2a6e15122",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"View\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を返す関数を作成し、その関数の引数として\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page: ft.Page\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を受け取るようにします。こうすることで、分割したファイルの中からでも\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.go()\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のようなページ全体の操作が可能になります。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-81e3-b619-c3bb17e3dba4",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"counter_view.py\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "267a501e-f337-81e9-8930-f2a1c5065d3a",
+    "type": "heading_3",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 24
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カウンターページのViewを返す関数を定義します。カウンターの数字を管理する変数や、クリックされたときの関数もこのファイルにまとめます。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-816b-8033-e1d95d3605d0",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 25
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef CounterView(page: ft.Page):\\n    counter = ft.Text(\\\"0\\\", size=50, data=0)\\n\\n    def increment_click(e):\\n        counter.data += 1\\n        counter.value = str(counter.data)\\n        page.update()\\n\\n    return ft.View(\\n        route=\\\"/\\\",\\n        controls=[\\n            ft.SafeArea(ft.Container(counter, alignment=ft.alignment.center), expand=True),\\n            ft.ElevatedButton(\\\"情報ページへ\\\", on_click=lambda _: page.go(\\\"/info\\\"))\\n        ],\\n        floating_action_button=ft.FloatingActionButton(\\n            icon=ft.Icons.ADD, on_click=increment_click\\n        )\\n    )\\n\"],\"caption\":[]}",
+    "blockId": "267a501e-f337-81ee-a3e4-e9a7e5e09575",
+    "type": "code",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 26
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"info_view.py\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "267a501e-f337-81c7-9575-f5e73c38091b",
+    "type": "heading_3",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 27
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"情報ページのViewを返す関数を定義します。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-81f4-ba87-d746e14efea5",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 28
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef InfoView(page: ft.Page):\\n    return ft.View(\\n        route=\\\"/info\\\",\\n        controls=[\\n            ft.Text(\\\"これはFletで作られたアプリです。\\\"),\\n            ft.ElevatedButton(\\\"カウンターへ\\\", on_click=lambda _: page.go(\\\"/\\\"))\\n        ]\\n    )\"],\"caption\":[]}",
+    "blockId": "267a501e-f337-8160-a685-f1ede6340b81",
+    "type": "code",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 29
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"import文の書き方\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "267a501e-f337-81fd-8867-ce2af3220976",
+    "type": "heading_1",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 30
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "_",
+    "blockId": "267a501e-f337-8149-8346-ddceb8cd5c14",
+    "type": "divider",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 31
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"毎度アプリを作るときに書くおまじないのimportについてですが、\",\"href\":null}]}",
+    "blockId": "267a501e-f337-815b-83c1-f06ea7b1ad6c",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 32
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まず使い方として、二種類存在します。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-813e-b694-fc1fbd5a5d92",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 33
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"それはパスを使ってファイルを指定する「\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"import パスによるファイル指定\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」（「\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"import flet as ft\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」と同じ）のような方法と、\",\"href\":null}]}",
+    "blockId": "267a501e-f337-81e1-8153-e793c63a2389",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 34
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"from パスによるファイル指定 import そのファイル内の特定の関数など\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という方法です。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-81de-8fb8-e2e4ae2adf69",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 35
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、どちらも\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"as\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使ってこのファイル内での名前を付けなおして扱いやすくできます。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-8174-8222-f0c98a6d732b",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 36
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これによって、前者では\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"as\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使った場合ファイル中の関数などをすべて使え、具体的には「\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"付けなおした名前.使いたい関数など\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」、\",\"href\":null}]}",
+    "blockId": "267a501e-f337-816a-8f85-c862d51e40db",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 37
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"後者では「\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"そのファイル内の特定の関数など\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" 」をそれに準じた方法で使うことによってimportしたファイルでも使うことができます。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-8173-a8fc-e407d86d42da",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 38
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "267a501e-f337-81fe-98cf-d1c23fb55468",
+    "type": "heading_1",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 39
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "_",
+    "blockId": "267a501e-f337-810b-9203-d378449d9137",
+    "type": "divider",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 40
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"最後に、main.pyを修正して、作成した\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"View\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数を\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"import\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"して使うように変更します。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-8128-bca3-eec5614232c5",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 41
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここでは、前のページで学んだ「直接各ルートに遷移する場合」のコードをベースに修正します。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-8170-9cae-ed7772fe9bef",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 42
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\nfrom views.counter_view import CounterView  # パスで場所を指定して特定の関数を読み込む\\nfrom views.info_view import InfoView  # 同様に特定の関数を読み込む\\n\\ndef main(page: ft.Page):\\n    def route_change(route):\\n        page.views.clear()\\n\\n        if page.route == \\\"/info\\\":\\n            page.views.append(InfoView(page))  # ファイル内で作った関数を呼び出すことで表示\\n        else:\\n            page.views.append(CounterView(page))  # 同様に関数を呼び出す\\n\\n        page.update()\\n\\n    page.on_route_change = route_change\\n    page.go(page.route)\\n\\nft.app(main)\\n\"],\"caption\":[]}",
+    "blockId": "267a501e-f337-81ae-81b6-ce03ae52c7c9",
+    "type": "code",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 43
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"main.pyから各ページの具体的な中身（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.Text\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"や\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.ElevatedButton\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"など）が無くなり、非常に簡潔になりました。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-8160-b7a5-d0c20c1a5b5e",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 44
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今のmain.pyの役割は、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.route\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の値に応じて適切な\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"View\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数を呼び出す\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"司令塔\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に徹しています。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-818c-89fc-dc8fa46c2045",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 45
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"👌\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"もちろん、スタック方式のルーティングも同様にファイル分割できます。\\nその場合もmain.pyの\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"route_change\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数や\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"view_pop\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"関数の中で、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.View(...)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と書いている部分を\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"CounterView(page)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"や\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"InfoView(page)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のような関数呼び出しに置き換えるだけです。\",\"href\":null}]}",
+    "blockId": "267a501e-f337-819b-a683-d255997b207a",
+    "type": "callout",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 46
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "267a501e-f337-8112-9498-ed1c7f53fe1e",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 47
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "_",
+    "blockId": "267a501e-f337-8175-8203-ea77da466b87",
+    "type": "divider",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 48
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ルーティングの練習問題\",\"href\":\"/posts/curriculums/26ea501e-f337-801a-9bc5-fe1221d3f826\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"📝\",\"iconType\":\"emoji\",\"title\":\"ルーティングの練習問題\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "267a501e-f337-81ab-ad2a-c34de9baf904",
+    "type": "paragraph",
+    "pageId": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "i": 49
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アプリは複数のファイル・フォルダで作る。\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "26ea501e-f337-8001-b7de-cf932e4a82e9",
+    "type": "heading_1",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "_",
+    "blockId": "26ea501e-f337-804c-a039-e8536a9fae6a",
+    "type": "divider",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これまでは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ひとつのファイルだけ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"でFletアプリを作成してきました。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80f1-8616-f9e1bb1b5d82",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"しかし、チーム開発などでこれまでより規模の大きなアプリを作ることが増えてくると、アプリに関わるファイルやフォルダも増えてきます。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-8084-ab84-f1143fc5401d",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 4
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"たとえば、アプリ内で使用する\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"画像ファイル\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"や関数を記述した\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラムファイル\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"などなど…です。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-804c-89b5-cc44f67790b9",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 5
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"デプロイ\",\"href\":\"https://flet.dev/docs/publish/web/\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"や\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ビルド\",\"href\":\"https://flet.dev/docs/reference/cli/build/\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を実施しようと思えばそれに沿った設定ファイルも必要になります。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-8033-878f-da175fa7557d",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 6
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/26ea501e-f337-805d-9cfc-fce809f0460a.png\"}",
+    "blockId": "26ea501e-f337-805d-9cfc-fce809f0460a",
+    "type": "image",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 7
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"👌\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"デプロイ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"や\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ビルド\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は発展的な内容なので、わからなくても大丈夫！\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-8026-9850-e703f01f9898",
+    "type": "callout",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 8
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"flet create\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コマンド\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "26ea501e-f337-80c3-905d-ee6e83c0113f",
+    "type": "heading_1",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 9
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "_",
+    "blockId": "26ea501e-f337-801f-a790-ea0a91f8fff0",
+    "type": "divider",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 10
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"上記のようなフォルダ構成を\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"自分で考えて作るのは大変\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80a7-97ba-c12c8ba45396",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 11
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そこで、Fletにはこのフォルダを自動で作成する機能を活用しましょう。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80a2-82d1-db58a6b12e2d",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 12
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コマンドラインでアプリを作成したいフォルダまで移動したあと、以下のコマンドを打ちましょう。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80c5-b25a-d195e4cc10bb",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 13
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"language\":\"bash\",\"parent\":[\"flet create \",\"app-name\"],\"caption\":[]}",
+    "blockId": "26ea501e-f337-80c2-b877-ccd4cde072e7",
+    "type": "code",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 14
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コマンドラインでのフォルダ操作があまりわからない人はこのサイトを参照してください！\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-8036-af52-d55e81cf699e",
+    "type": "callout",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 15
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-8036-af52-d55e81cf699e",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"https://news.mynavi.jp/techplus/article/liunx_win-6/\",\"href\":\"https://news.mynavi.jp/techplus/article/liunx_win-6/\",\"mention\":{\"type\":\"link_mention\",\"content\":{\"href\":\"https://news.mynavi.jp/techplus/article/liunx_win-6/\",\"title\":\"Windowsユーザーに贈るLinux超入門(6) Windows Explorerで行う操作をcd、ls、pwdコマンドで実行してみる\",\"icon_url\":\"https://news.mynavi.jp/images/techplus/favicon_techplus.ico\",\"description\":\"Linuxを試す環境のセットアップが終わったので、これからはWindowsの操作方法をLinuxのコマンドで実施するにはどうすればよいかといったスタイルで使い方を紹介していく。最初に取り上げるアプリケーションは「Explorer」だ。\",\"link_author\":\"後藤大地\",\"link_provider\":\"マイナビニュース\",\"thumbnail_url\":\"https://news.mynavi.jp/techplus/article/liunx_win-6/index_images/index.jpg\"}}}]}",
+    "blockId": "26ea501e-f337-80a2-9883-d0698d29b193",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"orange\"},\"plain_text\":\"app-name\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の部分は、作成するアプリを示す簡単な名前にしておきましょう。（日本語は使わないのが吉）\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80da-90f3-ea07400be0dc",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 16
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/26ea501e-f337-8052-97e6-fd1885a9d7c0.png\"}",
+    "blockId": "26ea501e-f337-8052-97e6-fd1885a9d7c0",
+    "type": "image",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 17
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"すると、以下のようなフォルダが生成されます。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-8031-8694-e24933282276",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 18
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/26ea501e-f337-803d-95e4-f9207ada35e5.png\"}",
+    "blockId": "26ea501e-f337-803d-95e4-f9207ada35e5",
+    "type": "image",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 19
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このフォルダの中に、追加のプログラムファイルや設定ファイルなどを保存します。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-808e-8621-c51a8c101cd6",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 20
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"✅\"},\"color\":\"green_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"１アプリ : １フォルダ！\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-806e-be05-f96c1c8934ae",
+    "type": "callout",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 21
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-806e-be05-f96c1c8934ae",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Fletに限らず、基本的に一つのアプリは一つのフォルダで構成します。\\nフォルダの中に複数のアプリを混在させたり、そのアプリに関するファイルを別のフォルダ内に入れるのはご法度です。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80ab-8d93-dd55ae04026d",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-806e-be05-f96c1c8934ae",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、このフォルダは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロジェクトフォルダ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と呼んだりします。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80bb-b1bc-ddc0474c9fbc",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アプリの実行方法\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "26ea501e-f337-8054-9b01-e4c74eff6659",
+    "type": "heading_1",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 22
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "_",
+    "blockId": "26ea501e-f337-805a-9008-f9cf3e158d5f",
+    "type": "divider",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 23
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これまではFletのプログラムもVSCodeの実行ボタンで実行している人もいたと思いますが、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"flet create\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"でアプリを作るときには必ず\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"flet run\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コマンドでプログラムを実行しましょう。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80d8-8a6a-ce49d59e690c",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 24
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行方法はカンタン。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-8065-9830-d0f68ad7aa7c",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 25
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コマンドライン上でプロジェクトフォルダ（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"があるフォルダ）まで移動し、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"flet run\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コマンドを実行するだけです。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80c0-990f-edff4c046c1a",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 26
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/26ea501e-f337-80e7-97aa-e9d5ef493512.png\"}",
+    "blockId": "26ea501e-f337-80e7-97aa-e9d5ef493512",
+    "type": "image",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 27
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これにより、プロジェクトフォルダ内の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が実行されます。そのため、この\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"にそのアプリの中核となるプログラムを書き込んでおきましょう。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-8015-8f49-c930729fedd8",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 28
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"⚠️\"},\"color\":\"yellow_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のファイル名は変えないようにしましょう！\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-8062-a2ca-f766a8d42aa4",
+    "type": "callout",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 29
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "271a501e-f337-80c7-be95-ccaa42169438",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 30
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "_",
+    "blockId": "271a501e-f337-80f0-b87b-c19743ee3fa5",
+    "type": "divider",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 31
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ルーティング\",\"href\":\"/posts/curriculums/267a501e-f337-80fd-9f0e-fa54963de153\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/branch_orange.svg\",\"iconType\":\"external\",\"title\":\"ルーティング\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "271a501e-f337-80e8-b820-c035847669e3",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "i": 32
+  }
+]
