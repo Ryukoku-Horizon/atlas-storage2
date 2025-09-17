@@ -1,0 +1,32 @@
+name: Auto Dummy Commit
+
+# 1日に一回ダミーコミットをする
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gitリポジトリをチェックアウト
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true  
+
+      - name: ユーザー情報追加
+        run: |
+          git config --global user.email "sasasanono@outlook.jp"
+          git config --global user.name "sakiyamamamama"
+
+      - name: ダミー変更を追加
+        run: |
+          echo "$(date)" > dummy.txt
+          git add dummy.txt
+          git commit -m "chore: dummy commit $(date)" || echo "No changes to commit"
+          git push  # ← GITHUB_TOKEN が使われるので明示的に指定不要

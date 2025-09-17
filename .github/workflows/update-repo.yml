@@ -1,0 +1,49 @@
+name: build and Deploy Next.js
+
+# ビルドとデプロイをする
+
+on:
+  workflow_run:
+    workflows: ["Auto Dummy Commit"]
+    types:
+      - completed
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write  
+
+jobs:
+  build-and-deploy:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Node.js をセットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: 依存関係をインストール
+        run: npm install
+
+      - name: スクリプト実行
+        run: npm run script
+        env:
+          NOTION_TOKEN_HORIZON: ${{secrets.NOTION_TOKEN_HORIZON}}
+          NOTION_DB_ID_HORIZON: ${{secrets.NOTION_DB_ID_HORIZON}}
+          NOTION_DB_ID_CATEGORY: ${{secrets.NOTION_DB_ID_CATEGORY}}
+          IFRAMELY_API_KEY: ${{secrets.IFRAMELY_API_KEY}}
+
+      - name: Commit and push if changes exist
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update Notion data [skip ci]"
+          git push
