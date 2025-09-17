@@ -1,0 +1,47 @@
+[
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"セットアップがまだの方は、こちら（→\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Git、GitHubセットアップ\",\"href\":\"/posts/curriculums/1ada501e-f337-8122-b26f-d5ed2f5d6a1b\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/gear_orange.svg\",\"iconType\":\"external\",\"title\":\"Git、GitHubセットアップ\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" ）でセットアップの方法を解説しています。\",\"href\":null}]}",
+    "blockId": "26aa501e-f337-80e6-aadf-f993b88b74d9",
+    "type": "paragraph",
+    "pageId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "data": "{\"parent\":\"Git、Githubとは \",\"iconType\":\"emoji\",\"iconUrl\":\"❓\",\"coverUrl\":\"\"}",
+    "blockId": "26aa501e-f337-80ea-9c00-c101544df5e6",
+    "type": "child_page",
+    "pageId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "data": "{\"parent\":\"Git,GitHubのはじめ方\",\"iconType\":\"emoji\",\"iconUrl\":\"🔰\",\"coverUrl\":\"https://www.notion.so/images/page-cover/nasa_fingerprints_of_water_on_the_sand.jpg\"}",
+    "blockId": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "type": "child_page",
+    "pageId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "data": "{\"parent\":\"チーム開発での使い方\",\"iconType\":\"emoji\",\"iconUrl\":\"👥\",\"coverUrl\":\"https://www.notion.so/images/page-cover/met_terracotta_funerary_plaque.jpg\"}",
+    "blockId": "26aa501e-f337-80ca-b7ca-e768aa7bc7f0",
+    "type": "child_page",
+    "pageId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "i": 4
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "26da501e-f337-8014-beac-e09a49ee4fd1",
+    "type": "paragraph",
+    "pageId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "i": 5
+  }
+]
