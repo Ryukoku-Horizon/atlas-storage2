@@ -1,4 +1,4 @@
-import { deleteFile, deleteJsonById } from "../checkEdited/deleteJson.js"
+import { deleteJsonById } from "../checkEdited/deleteJson.js"
 import { upsertJsonById } from "../checkEdited/updateJson.js"
 import fs from "fs/promises"
 

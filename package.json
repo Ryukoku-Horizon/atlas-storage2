@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "script": "node scripts/updateDatabase/main.js"
+    "script": "node scripts/updateDatabase/main.js",
+    "ogp-s":"node scripts/generateOgp/main.js"
   },
   "dependencies": {
     "@notionhq/client": "^2.2.16",

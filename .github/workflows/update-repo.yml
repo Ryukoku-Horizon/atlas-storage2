@@ -17,7 +17,6 @@ permissions:
 
 jobs:
   build-and-deploy:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
 
     steps:
@@ -32,13 +31,16 @@ jobs:
       - name: 依存関係をインストール
         run: npm install
 
-      - name: スクリプト実行
+      - name: Notionデータ取り込み
         run: npm run script
         env:
           NOTION_TOKEN_HORIZON: ${{secrets.NOTION_TOKEN_HORIZON}}
           NOTION_DB_ID_HORIZON: ${{secrets.NOTION_DB_ID_HORIZON}}
           NOTION_DB_ID_CATEGORY: ${{secrets.NOTION_DB_ID_CATEGORY}}
           IFRAMELY_API_KEY: ${{secrets.IFRAMELY_API_KEY}}
+
+      - name: OGP作成
+        run: npm run ogp-s
 
       - name: Commit and push if changes exist
         run: |
