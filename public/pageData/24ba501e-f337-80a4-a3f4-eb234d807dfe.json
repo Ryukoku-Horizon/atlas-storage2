@@ -1,0 +1,110 @@
+[
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題１\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-81d2-ac61-c9b22f12853f",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下のようなHTML要素を記述してください\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8114-bd70-c104d92ce489",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "i": 2
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "data": "{\"language\":\"html\",\"parent\":[\"<div>\\n    <li>first</li>\\n    <li>second</li>\\n    <li>third</li>\\n    <li>fourth</li>\\n</div>\"],\"caption\":[]}",
+    "blockId": "24ba501e-f337-81fb-8ab6-de7e69c383b5",
+    "type": "code",
+    "pageId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "i": 3
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"擬似クラスを使用して、以下のように最初のリストと最後のリストの色を変更してください。（変更する色は何色でも良いです）\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8104-b0ee-d355e6b6f0c9",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "i": 4
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_gray.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"お手本画像\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81c7-aba9-fb40a0fb3e87",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "i": 5
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-81c7-aba9-fb40a0fb3e87",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/24ba501e-f337-80e6-83f3-dec2d9cb8a44/image/24ba501e-f337-81e5-944c-ebc2c0bd1d26.png\"}",
+    "blockId": "24ba501e-f337-81e5-944c-ebc2c0bd1d26",
+    "type": "image",
+    "pageId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題２\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-818b-a322-fc10c3855b17",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "i": 6
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「問題１」のHTML要素の２番目と３番目の要素の色を、擬似クラスを使用して変更してください。（変更する色は何色でも良いです）\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8196-bd69-dd82c5a719eb",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "i": 7
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_gray.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"お手本画像\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81c3-82cf-e60f3421c936",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "i": 8
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-81c3-82cf-e60f3421c936",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/24ba501e-f337-80e6-83f3-dec2d9cb8a44/image/24ba501e-f337-81c8-b00c-dc88efd4f425.png\"}",
+    "blockId": "24ba501e-f337-81c8-b00c-dc88efd4f425",
+    "type": "image",
+    "pageId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "24ba501e-f337-8161-ac3e-c42c8d4e8f98",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "i": 9
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"演習問題12\",\"href\":\"/posts/curriculums/24ba501e-f337-8069-a67f-dc413a0c4ec7\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"✏️\",\"iconType\":\"emoji\",\"title\":\"演習問題12\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81ba-8a3e-ef04f31f2e2d",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80a4-a3f4-eb234d807dfe",
+    "i": 10
+  }
+]

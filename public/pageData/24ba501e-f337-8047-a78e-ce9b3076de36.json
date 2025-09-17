@@ -1,0 +1,29 @@
+[
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8047-a78e-ce9b3076de36",
+    "data": "_",
+    "blockId": "24ba501e-f337-8129-95d1-ea33eb9c3dd3",
+    "type": "equation",
+    "pageId": "24ba501e-f337-8047-a78e-ce9b3076de36",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8047-a78e-ce9b3076de36",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"12. 擬似クラス : ◯個目の子要素\",\"href\":\"/posts/curriculums/24ba501e-f337-80a4-a3f4-eb234d807dfe\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"🔢\",\"iconType\":\"emoji\",\"title\":\"12. 擬似クラス : ◯個目の子要素\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8108-8568-d38f171b14bd",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-8047-a78e-ce9b3076de36",
+    "i": 2
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8047-a78e-ce9b3076de36",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "24ba501e-f337-81ec-a1f9-df7b14d37ce7",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-8047-a78e-ce9b3076de36",
+    "i": 3
+  }
+]

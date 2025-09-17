@@ -1,0 +1,155 @@
+[
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-81bb-ab6a-d970cd6ef495",
+    "type": "heading_1",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "data": "_",
+    "blockId": "24ba501e-f337-81e5-9405-dc4047d1ed46",
+    "type": "divider",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 2
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"見出しを示すタグ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"段落を示すタグ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"改行を示すタグ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のみを用いて、以下のような文字だけのページを記述しましょう。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8149-815a-f045947f4176",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 3
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_gray.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"お手本画像\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81f7-8d64-f8e50741013e",
+    "type": "callout",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 4
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-81f7-8d64-f8e50741013e",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/24ba501e-f337-80e6-83f3-dec2d9cb8a44/image/24ba501e-f337-813e-839a-f232d7b689ad.png\"}",
+    "blockId": "24ba501e-f337-813e-839a-f232d7b689ad",
+    "type": "image",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ただし、「大宮キャンパス紹介」は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"見出しサイズ１\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、「設置学部」「歴史」「所在地」「アクセス」は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"見出しサイズ２\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、「目次」は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"見出しサイズ３\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"としてください。\\n長々とした日本語の文章を打ってもらう必要はないので、必要な部分を以下からコピペしてくださいね\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8167-b92f-c383b818ecee",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 5
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "data": "{\"color\":\"pink_background\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コピペ用\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-819d-bbc9-df8ece6a7291",
+    "type": "toggle",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 6
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-819d-bbc9-df8ece6a7291",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"龍谷大学 大宮キャンパスについて簡単に紹介します。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81f4-87ff-c28fdbc0436f",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-819d-bbc9-df8ece6a7291",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"大宮キャンパスは龍谷大学発祥の地で、370年の歴史を誇る学舎です。\\n国の重要文化財に指定されている本館を有します。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8169-8791-cb8e7854b609",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 2
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-819d-bbc9-df8ece6a7291",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1639年(寛永16年)に京都西本願寺境内に創設された学寮が起源である。\\n明治の学制改革により「大教校」と改められ、1879年(明治12年)に現在の講堂が完成。\\n龍谷大学が日本最古の大学と言われる所以である。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8143-98e0-e5a64f9dbe4e",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 3
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-819d-bbc9-df8ece6a7291",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"〒600-8268 京都府京都市下京区大工町１２５−１\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-815e-9cc0-e47bff407c37",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 4
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ヒント\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-81dc-bed7-ff017aefb617",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 7
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "data": "_",
+    "blockId": "24ba501e-f337-8160-8653-c7a917175969",
+    "type": "divider",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 8
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "data": "{\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ヒント：使用するタグ\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8113-8979-d87c3fb1a761",
+    "type": "toggle",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 9
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8113-8979-d87c3fb1a761",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<h1>\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<h2>\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<h3>\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<p>\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\", \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<br>\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-812f-a492-dc1249a771b1",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "24ba501e-f337-81d1-a233-da7c70bf0b5c",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 10
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3. リストに関するタグ\",\"href\":\"/posts/curriculums/24ba501e-f337-806f-b46c-ceef79e9cbfc\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/list_red.svg\",\"iconType\":\"external\",\"title\":\"3. リストに関するタグ\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "24ba501e-f337-815b-8412-c4364a7a4184",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-8063-90e9-d0177ad55025",
+    "i": 11
+  }
+]

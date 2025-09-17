@@ -1,0 +1,119 @@
+[
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題１\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-81f0-b49d-cba36c5b43fe",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<button>\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タグを使ってボタン要素を一つ作成してください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81dd-b7ce-f436bfed2db5",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "i": 2
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"擬似クラスを使って、以下のようにボタン要素にカーソルが当たった時にスタイルが変わるようにしてください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81c3-a001-d5f5f2c25ed2",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "i": 3
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "data": "{\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"通常時\\nbackground-color:white\\ncolor:blue\\n\\nカーソルが当たった時\\nbackground-color:blue\\ncolor:white\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-814f-bd94-fef5f0de6af0",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "i": 4
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_gray.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"お手本動画\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81f8-aa06-c3a41d60d4a1",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "i": 5
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-81f8-aa06-c3a41d60d4a1",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/24ba501e-f337-80e6-83f3-dec2d9cb8a44/image/24ba501e-f337-8120-8676-cb949990badf.gif\"}",
+    "blockId": "24ba501e-f337-8120-8676-cb949990badf",
+    "type": "image",
+    "pageId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題２\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "24ba501e-f337-81d3-9905-cbae2f58c3a9",
+    "type": "heading_2",
+    "pageId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "i": 6
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"<a>\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タグを使ってリンク要素を作成してください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8196-901a-e3f5881bc56d",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "i": 7
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"擬似クラスを使って、以下のように訪れたことのあるリンクの色を変更してください。\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-81b4-89a0-f49e2ff6f0d7",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "i": 8
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/photo-landscape_gray.svg\"}},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"お手本画像\",\"href\":null}]}",
+    "blockId": "24ba501e-f337-8144-ab3f-f540443e478d",
+    "type": "callout",
+    "pageId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "i": 9
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-8144-ab3f-f540443e478d",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/24ba501e-f337-80e6-83f3-dec2d9cb8a44/image/24ba501e-f337-814e-afb2-d96bfdd194c8.png\"}",
+    "blockId": "24ba501e-f337-814e-afb2-d96bfdd194c8",
+    "type": "image",
+    "pageId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "i": 1
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "24ba501e-f337-81d8-98aa-cb25e81dd2c3",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "i": 10
+  },
+  {
+    "curriculumId": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
+    "parentId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"演習問題13\",\"href\":\"/posts/curriculums/24ba501e-f337-80bd-89a7-c708a73b73bc\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"✏️\",\"iconType\":\"emoji\",\"title\":\"演習問題13\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "24ba501e-f337-819e-9b1f-cdba0bf12234",
+    "type": "paragraph",
+    "pageId": "24ba501e-f337-80aa-9d68-dd141d08f635",
+    "i": 11
+  }
+]

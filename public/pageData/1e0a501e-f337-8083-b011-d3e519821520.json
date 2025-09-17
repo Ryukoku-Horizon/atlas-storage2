@@ -1,0 +1,515 @@
+[
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"✅ \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"概要\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-80f1-affc-ef3ef9a46e42",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このガイドは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Python\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"がどんな言語なのかを紹介し、「Hello, World!」を出力するところまでをわかりやすく解説する学習資料です。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-808b-8faa-cbd5501575cb",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "_",
+    "blockId": "1e0a501e-f337-8080-82f9-f3faa26a3832",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1. Pythonとは？\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-8072-93d2-d4cfda02dbaf",
+    "type": "heading_2",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 4
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"✔️ Pythonは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"シンプルな文法でとても読みやすい\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラミング言語です。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-803a-9abe-d40c84fcac90",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 5
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"✔️ プログラミングの初心者に向いの言語になります！\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-807d-a5f1-e56544b80170",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 6
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"✔️ 機械学習、Web開発、データ分析、自動化などでよく使われます。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8038-9996-dca3532e8b67",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 7
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"💡 \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonの特徴\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-805c-a238-fc47aed0bbcb",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 8
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"書きやすい・読みやすい：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"英語みたいな文法で、初心者でもすぐに始められます。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80c6-896f-fffba3112986",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 9
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"できることが多い：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"AI、ゲーム、自動処理、アプリ、グラフ、なんでもできる万能言語。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8017-b023-f94be3ec7eb9",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 10
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ライブラリが多い：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"他の人が作った便利なライブラリをすぐに使える。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-805d-959f-ca81c40657b1",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 11
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-805d-959f-ca81c40657b1",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"→ 例：NumPy(計算)、Pandas(データ分析)、Flask(Web)など。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8017-85bd-f4af1e44f022",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"日本語の情報が多い：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" 初心者向けの本や記事、動画などの情報が多くあります。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-803b-9881-c4caca749457",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 12
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-808b-acb0-fe33973bfc3d",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 13
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"📝 \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"主なPython使用例\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80f1-8748-f03a46500109",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 14
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"table_width\":2,\"has_column_header\":true,\"has_row_header\":true}",
+    "blockId": "1e0a501e-f337-806d-a1ff-c3cedb5738c5",
+    "type": "table",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 15
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-806d-a1ff-c3cedb5738c5",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"分野\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"できること\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-80f3-b0fe-d120914be5eb",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-806d-a1ff-c3cedb5738c5",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Web開発\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Flask、DjangoなどでWebアプリを作れる\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-8097-a4f4-fa33317072fe",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-806d-a1ff-c3cedb5738c5",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データ分析\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Excelより強力な集計やグラフ\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-8018-98f6-c7db589de475",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-806d-a1ff-c3cedb5738c5",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"機械学習・AI\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"人工知能(AI)の開発に必須の言語\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-80de-a3b4-d196c2c30e36",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 4
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-806d-a1ff-c3cedb5738c5",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"自動化\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"面倒な作業(例：ファイル整理、スクレイピングなど)を自動化\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-802f-9d87-c8a559ee9695",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 5
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-806d-a1ff-c3cedb5738c5",
+    "data": "[[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ゲーム制作\",\"href\":null}],[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pygameなどで簡単なゲームもOK\",\"href\":null}]]",
+    "blockId": "1e0a501e-f337-8085-9589-ffd42f91a940",
+    "type": "table_row",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 6
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "_",
+    "blockId": "1e0a501e-f337-8086-adaa-efac922e28b8",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 16
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1-2. 開発環境の構築\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-806d-964d-d60b87b74cd9",
+    "type": "heading_2",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 17
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"✅ (1) Python本体をインストール\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-80ae-ada7-ee2e92ad1239",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 18
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"公式サイト：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"https://www.python.org/\",\"href\":\"https://www.python.org/\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" にアクセス\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80e1-84c1-c432103e9522",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 19
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「Download」から最新バージョンを選び、インストール\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80f3-93f0-df781cd23e22",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 20
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インストール後、ターミナルやコマンドプロンプトで確認：\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8058-81e0-e217eeeb67a9",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 21
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"language\":\"shell\",\"parent\":[\"python --version\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-800b-8259-cd5c8adbff59",
+    "type": "code",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 22
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"または\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80d3-a225-c4682dde3bd6",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 23
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"language\":\"shell\",\"parent\":[\"python3 --version\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-80c8-ae57-c3c065b33d1f",
+    "type": "code",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 24
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"→ \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Python 3.xx\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" と出ればOK！\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8050-9952-c27f4e9fbdfa",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 25
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "_",
+    "blockId": "1e0a501e-f337-80f5-bed2-fd05a8be8871",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 26
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"✅ (2) エディタのおすすめ：\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VS Code（Visual Studio Code）\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-8094-8c1a-c6f4b3d457dc",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 27
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VS Codeをインストール\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80a2-b21c-e8bf63a03604",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 28
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"拡張機能「Python」をインストール\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-809f-b109-eda42a1d515e",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 29
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "_",
+    "blockId": "1e0a501e-f337-8030-b1f0-f630acaa556c",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 30
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1-3. はじめてのプログラム - \\\"Hello, World!\\\"\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-8011-b45e-dbd58eb4a190",
+    "type": "heading_2",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 31
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Hello World を表示するコード\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-80ac-84ad-d957f330e69c",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 32
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"language\":\"python\",\"parent\":[\"print(\\\"Hello, World!\\\")\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-8038-b878-e52aabb3711c",
+    "type": "code",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 33
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "_",
+    "blockId": "1e0a501e-f337-8048-8746-dfdd6affb468",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 34
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行方法（ターミナルやVS Code）：\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-807c-8f94-e07cbc7520f9",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 35
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"hello.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" という名前で保存\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8044-9ac0-d95b64506c3e",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 36
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ターミナルで実行：\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80e2-b43a-c7756edfbaac",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 37
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"language\":\"shell\",\"parent\":[\"python hello.py\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-807c-b3b1-f868d184a913",
+    "type": "code",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 38
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"または\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80c9-94b7-ef06ddc59e66",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 39
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"language\":\"shell\",\"parent\":[\"python3 hello.py\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-80ac-92d9-e33d95184260",
+    "type": "code",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 40
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "_",
+    "blockId": "1e0a501e-f337-804e-9a81-e982ca247b45",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 41
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行結果：\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-8055-abbb-eef6dde3fd4e",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 42
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"Hello, World!\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-80ba-b5f5-d2f5c80f2899",
+    "type": "code",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 43
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "_",
+    "blockId": "1e0a501e-f337-8039-991a-e185346d7019",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 44
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コードの解説\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-80d2-92f7-f7c6292ba5f1",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 45
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"language\":\"python\",\"parent\":[\"print(\\\"Hello, World!\\\")  # 画面に「Hello, World!」と表示する命令\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-807e-8c6c-e2bf39e546c4",
+    "type": "code",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 46
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-80d8-a25e-d415f1276b3f",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 47
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonでは、print()関数を使えば文字を出力できます。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80d9-bbf4-d0990eb1d3fc",
+    "type": "callout",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 48
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80d9-bbf4-d0990eb1d3fc",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"セミコロン（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\";\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）や中かっこ（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"{}\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）は不要で、とてもシンプルな書き方ができます！\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8084-b4cc-c20f2840d36c",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-8049-85bb-e4d6719b0630",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-8083-b011-d3e519821520",
+    "i": 49
+  }
+]

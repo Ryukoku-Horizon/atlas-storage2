@@ -1,0 +1,344 @@
+[
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-81c3-8fd2-edf7633d0a1a",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"それでは、ここからは本格的に「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"gray\"},\"plain_text\":\"Numer0n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」を作っていきましょう！ここでは、3桁verの\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"gray\"},\"plain_text\":\"Numer0n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を制作します。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8109-931d-eb6395d9f100",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-81f5-8f19-c2777b8f1c28",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"…とその前に、ここのタイトルにある「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"正解の数字をリスト化する\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という言葉の意味について説明します。次の例を読んでください。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-812e-80f9-cb3bd9c32fb2",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 4
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例：正解の数字が123だった場合、3桁の数字として扱うのではなく”1”、”2”、”3”という感じで1つの文字として扱う。それを[’1’ , ‘2’ , ‘3’]という内容のリストを作る。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8174-b0ad-c48e48a49fa6",
+    "type": "callout",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 5
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これが実現できるプログラムを今回は制作します。作る理由としては3-2で制作するシステムの中身がそのリストを使って\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1文字ずつ桁と数字が合っているか、数字だけが合っているか、それともその数字が使われていないかどうかを判定する\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"からです。(3-2で詳しく解説します。)これを実現させるために、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"正解の数字と入力された数字をそれぞれ1文字ずつ分け\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"その分けた文字を配列として、リストに格納する\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。という感じです。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-819c-bd2a-f9553ef13c9d",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 6
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-8115-a338-ed627eca9149",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 7
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"では、実際に作ってみましょう。次のコードを見てください。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8120-a63f-dca07872b5e2",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 8
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"language\":\"python\",\"parent\":[\"import random\\n\\na = random.randint(100,999)\\nb = str(a)\\nanswer = list(b)\"],\"caption\":[]}",
+    "blockId": "1eca501e-f337-8126-a4b9-c74dd1f8b4a1",
+    "type": "code",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 9
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"aの値とanswerの値を出力した結果\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8169-997a-fb9e9156fc14",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 10
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1e7a501e-f337-805b-bc4e-d442525244f3/image/1eca501e-f337-81fa-94c9-f71ce639ad5c.png\"}",
+    "blockId": "1eca501e-f337-81fa-94c9-f71ce639ad5c",
+    "type": "image",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 11
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コードの解説をします。ランダムで3桁の数字を生成するために範囲を100～999まで設定することによって確定で3桁の数字を生成することができます。これをaに代入します。その後、aの値を文字列化したものをbに代入し、リスト化したbをanswerに代入する。という処理をします。これで\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"正解の数字をリスト化する\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ことに成功しましたね！では続いての説明に移りましょうか！\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81b8-a6b7-e6636bd21f19",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 12
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-81a9-bf2c-cdd890f57103",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 13
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"…というわけにはいきませんよね。このコードを見た時に大体の人はこう思ったはずです。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81c3-8ae4-c8dc7b677be7",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 14
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"なぜ、3桁の数字を文字列化する必要があるのか。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8174-9e03-e0a8fd8b25af",
+    "type": "bulleted_list_item",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 15
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"なぜ、リストを作成するのに[](大かっこ)が使われていないのか。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81f7-90a2-f53c1fb1b035",
+    "type": "bulleted_list_item",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 16
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そもそも、「list()」ってなんやねん。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81c4-9d79-e489271cb134",
+    "type": "bulleted_list_item",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 17
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今から、この3つの疑問を一気に解決していきます。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-814b-8eba-d87631e001cd",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 18
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"基礎文法カリキュラムでは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リストを作る際は「変数名 = []」にする必要がある\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と学んだと思います。しかし実は、リストを作る手段として\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"list関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、つまり「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"list()\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」を使うことがあります。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-815f-9732-fcdf509e1300",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 19
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"使用例\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-819c-85c0-c4a7deae0a25",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 20
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"language\":\"python\",\"parent\":[\"a = list()\\n\\nprint(a)\"],\"caption\":[]}",
+    "blockId": "1eca501e-f337-81de-9f84-e10327a38d24",
+    "type": "code",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 21
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"結果\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-817a-82bf-e6344ba61d13",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 22
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1e7a501e-f337-805b-bc4e-d442525244f3/image/1eca501e-f337-8143-81b0-dfc8d8a03a3a.png\"}",
+    "blockId": "1eca501e-f337-8143-81b0-dfc8d8a03a3a",
+    "type": "image",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 23
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"aに空のリストが入っていることがわかったことから、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"list関数を使うと空のリストを生成することができます\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。僕は空のリストを作るときは結構これを使っています。そして、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ある値を1文字ずつに分解し、リスト化する\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ときは次のようなコードを書きます。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8125-9ab5-ca5bbf0a7d11",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 24
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"language\":\"python\",\"parent\":[\"a = \\\"あいうえお\\\"\\nb = list(a)\\nprint(b)\"],\"caption\":[]}",
+    "blockId": "1eca501e-f337-81ed-b0ae-f32052c1fbe5",
+    "type": "code",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 25
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"結果\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-819c-88df-e0736c1a86b8",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 26
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1e7a501e-f337-805b-bc4e-d442525244f3/image/1eca501e-f337-819b-8dc8-f2c5b76f5214.png\"}",
+    "blockId": "1eca501e-f337-819b-8dc8-f2c5b76f5214",
+    "type": "image",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 27
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"aにあ行が書かれた文字列を代入したのち、list関数のカッコ内にaを入れたものをbに代入することによって、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"あ行の5文字が1文字ずつに分解し、リスト化できている\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ことがわかります。つまり、このlist関数というものは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カッコ内にある文字列を一文字ずつに分解し、それらをリスト化する関数である\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ことがわかります。先ほど、空のリストを生成することができるとありましたが、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"正確にはカッコ内に何も文字列が書かれなかったため、空のリストが生成された\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ことになります。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81a1-a607-ec86d80802e5",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 28
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここでの説明ではカッコ内に入れているものが全て\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文字列\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を扱っていますが、これを\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"整数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"にして扱うとどうなるのか、次のコードを見てください。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8143-9c1e-e0f76e234b03",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 29
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"language\":\"python\",\"parent\":[\"a = 12345\\nb = list(a)\\nprint(b)\"],\"caption\":[]}",
+    "blockId": "1eca501e-f337-81f6-a9c1-f052591a49f0",
+    "type": "code",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 30
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"結果\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-8134-ac35-e76def5dd034",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 31
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1e7a501e-f337-805b-bc4e-d442525244f3/image/1eca501e-f337-8182-a89b-cb905e65791c.png\"}",
+    "blockId": "1eca501e-f337-8182-a89b-cb905e65791c",
+    "type": "image",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 32
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"はい。エラーが出ました。エラーを軽く読んでみると、「整数型は反復可能ではありません(Google翻訳より)」と出ていますが、要約すると「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"整数じゃlist関数動かへんよ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」という意味になります。これが、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3桁の数字を文字列化する意味\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。整数をlist関数に突っ込むとエラーが出てしまうため、わざわざ文字列にしてからlist関数のカッコ内に入れているというわけです。これは、小数になっても同様のエラーが出ますので使用する際は注意しておいてください。\",\"href\":null}]}",
+    "blockId": "1eca501e-f337-81b0-a5b8-cd1b1d7f438b",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 33
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-8101-9ab9-dd1df16b4985",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 34
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "_",
+    "blockId": "1eca501e-f337-81fd-a98b-d2a5b93868ce",
+    "type": "divider",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 35
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2-2 正解の数字を全て異なる数字にしよう\",\"href\":\"/posts/curriculums/1eca501e-f337-814e-95eb-c4445ff31b47\"}]}",
+    "blockId": "1eca501e-f337-814f-8c2e-c83993f6d86b",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 36
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1eca501e-f337-81c8-9d5e-cbc5ab35c717",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 37
+  },
+  {
+    "curriculumId": "1e7a501e-f337-805b-bc4e-d442525244f3",
+    "parentId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"目次：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"数当てゲームをPythonで作ってみよう\",\"href\":\"/posts/curriculums/1eca501e-f337-80fc-a5bd-f2a1ea7ef2ca\"}]}",
+    "blockId": "1eca501e-f337-81c2-a1ca-d1459a41e600",
+    "type": "paragraph",
+    "pageId": "1eca501e-f337-818c-9c6d-ddca1f8feb10",
+    "i": 38
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"✅ \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"概要\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-8053-9580-e2827267ca4c",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このガイドは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Go言語\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"がどんな言語なのかを紹介し、「Hello, World!」を出力するところまでをわかりやすく解説する学習資料です。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80bc-8a51-c0de3fe1a1dd",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 2
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "_",
+    "blockId": "1e0a501e-f337-80fc-bc2f-cb4023e3ce1e",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 3
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1. Go言語とは？\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-80af-98c8-c8df3c327013",
+    "type": "heading_2",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 4
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"✔️ Go言語は、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Googleが開発したプログラミング言語\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"です。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-802a-86b3-d0f093778a35",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 5
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"✔️ C++よりシンプルな文法で、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"速くて安定したアプリケーション\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を作れます。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-804e-a48c-ca486904a512",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 6
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"✔️ Webサービス、ネットワークアプリ、ツール開発などでよく使われています。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80e9-9533-ef9e5acdf1cf",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 7
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"💡\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Go言語の特徴\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8009-a83c-f92f648d685f",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 8
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"シンプルな使い方：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"覚えることが少ないから、初心者でも始めやすいです。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8007-b5a7-ff6a09767340",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 9
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンパイルが超高速：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コードを書いたらすぐに実行できて、サクサク開発できます。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8000-a1f9-f0030afb2868",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 10
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"並行処理(ゴルーチン)が得意：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"たくさんの処理を同時に動かす「並行処理」が、かんたんに書けます。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80bc-b0de-db0e89812e65",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 11
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インストールだけでOK：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Go言語は、コンパイル、ビルド、パッケージ管理などがすべて最初からついてます。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80b4-8cd9-d54f9ceacbd1",
+    "type": "bulleted_list_item",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 12
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "_",
+    "blockId": "1e0a501e-f337-80e7-b7b4-e94b46d31e91",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 13
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1-2. 開発環境の構築\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-8057-8757-c02aaa8e7068",
+    "type": "heading_2",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 14
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"(1) Go公式サイトからインストール\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-80ef-8890-c3d44a6c20ef",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 15
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"公式サイト：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"https://go.dev/dl/\",\"href\":\"https://go.dev/dl/\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" にアクセス\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8077-bf08-d679f7cdf523",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 16
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"自分のOSに合ったインストーラをダウンロードしてインストール\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-807c-b006-d02420ca95be",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 17
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ターミナルやコマンドプロンプトで確認：\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8002-84d4-c35d5b2f2185",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 18
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"go version\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-80f7-aacb-c56c31ca9dab",
+    "type": "code",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 19
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"→ \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"go version go1.xx...\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" と表示されればOK！\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80c0-a2c4-c535a17d3bb5",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 20
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "_",
+    "blockId": "1e0a501e-f337-8080-b80f-e7c6c78cc236",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 21
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"(2) エディタ：\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Visual Studio Code（VS Code）がおすすめ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-80d6-aedf-d1cb36319dc0",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 22
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"VS Codeをインストール\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-802b-ac57-c3f2774f6e77",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 23
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"拡張機能「Go」をインストール\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8034-9485-dd1219b8f714",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 24
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"自動補完やデバッグなども簡単に使えるようになります！\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8006-a9c7-c7c14d9e8c61",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 25
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "_",
+    "blockId": "1e0a501e-f337-8022-9cb5-ffe5cf21903a",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 26
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1-3. はじめてのプログラム - \\\"Hello, World!\\\"\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-80bd-bbb3-e8ef6e7a2fc7",
+    "type": "heading_2",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 27
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Hello Worldを表示するコード\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-80bb-92dd-d4fb4a5daf83",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 28
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"language\":\"go\",\"parent\":[\"package main\\n\\nimport \\\"fmt\\\"\\n\\nfunc main() {\\n    fmt.Println(\\\"Hello, World!\\\")\\n}\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-80f3-b311-eddd65983ab9",
+    "type": "code",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 29
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "_",
+    "blockId": "1e0a501e-f337-8045-bd3c-fc7c5ad6b9ff",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 30
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行方法（ターミナルまたはVS Code）：\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-808d-b703-e0d2ca878629",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 31
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"hello.go\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" という名前で保存\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-808c-bf3a-c2f96882ccc4",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 32
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ターミナルで実行：\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8071-ad0f-dbfb7145ebf2",
+    "type": "numbered_list_item",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 33
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"go run hello.go\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-8019-b9b7-c69a845dbf99",
+    "type": "code",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 34
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "_",
+    "blockId": "1e0a501e-f337-8054-a766-fe5ba6474893",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 35
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実行結果：\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-80f0-8dfd-fad74e913f93",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 36
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"Hello, World!\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-80c5-83f2-e8de84979041",
+    "type": "code",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 37
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "_",
+    "blockId": "1e0a501e-f337-8009-8586-e5ab98d19ee7",
+    "type": "divider",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 38
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コードの説明\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1e0a501e-f337-80c1-b874-f8362d9d34ba",
+    "type": "heading_3",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 39
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"language\":\"go\",\"parent\":[\"package main         // 「mainパッケージ」であることを宣言（プログラムのはじまり）\\n\\nimport \\\"fmt\\\"         // 文字を表示するための「fmtパッケージ」を使うよ\\n\\nfunc main() {        // ここがプログラムのスタート地点\\n    fmt.Println(\\\"Hello, World!\\\") // 画面に文字を出力\\n}\"],\"caption\":[]}",
+    "blockId": "1e0a501e-f337-809e-8a9a-e39a8f6be266",
+    "type": "code",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 40
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1e0a501e-f337-8069-bf7a-ce423f5f404b",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 41
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Goは「パッケージベースの言語」で、まず package main を書いてスタートします。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8063-b64e-fe832c7533dc",
+    "type": "callout",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 42
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8063-b64e-fe832c7533dc",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main()\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" 関数がプログラムの入り口です。\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-8005-9c50-f085209db73b",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 1
+  },
+  {
+    "curriculumId": "1e0a501e-f337-80dd-8d3e-e0341937095f",
+    "parentId": "1e0a501e-f337-8063-b64e-fe832c7533dc",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"fmt.Println()\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" を使うと、画面に文字が出せます！\",\"href\":null}]}",
+    "blockId": "1e0a501e-f337-80ec-aa1d-f12c6766c49b",
+    "type": "paragraph",
+    "pageId": "1e0a501e-f337-80ef-bfce-d4e500670fcb",
+    "i": 2
+  }
+]

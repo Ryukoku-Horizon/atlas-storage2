@@ -1,0 +1,668 @@
+[
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "_",
+    "blockId": "200a501e-f337-808c-a7ec-ffefb155230a",
+    "type": "divider",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 1
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Qiita Team\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"とは、部内で様々な知識・経験を共有するために使用している情報共有サービスです！\",\"href\":null}]}",
+    "blockId": "200a501e-f337-80ea-af77-efc8fb92ea7c",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 2
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"みなさんはQiita Teamに自由に記事を投稿したり、投稿された記事を閲覧したりすることができます！\",\"href\":null}]}",
+    "blockId": "200a501e-f337-805e-bb3e-fd2fc4607c67",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 3
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"parent\":[],\"url\":\"https://teams.qiita.com/\",\"ogp\":{\"title\":\"Qiita Team - 日報やナレッジ共有に便利な情報共有サービス\",\"icon\":\"https://i0.wp.com/teams.qiita.com/wp-content/uploads/2023/04/favicon.png?fit=32%2C32&ssl=1\",\"image\":\"https://i0.wp.com/teams.qiita.com/wp-content/uploads/2024/07/OGP.png?fit=880%2C462&ssl=1\",\"description\":\"誰でも「かんたん」に記事が書ける社内向け情報共有サービス。ナレッジ共有や日報にオススメです。国内最大級エンジニアコミュニティ「Qiita」が運営しており、累計8,500以上のチームに選ばれています！\"}}",
+    "blockId": "200a501e-f337-80f9-a2ba-ef28fa16b474",
+    "type": "bookmark",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 4
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"利用には \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Qiitaアカウントの作成\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" と \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Horizonのチームへの参加\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" が必須ですので、以下の手順に沿って作業をしてください。\",\"href\":null}]}",
+    "blockId": "200a501e-f337-806c-b1f4-e8a4b4bae87a",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 5
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "200a501e-f337-8011-a348-cd9ffd788f5b",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 6
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"すでにQiitaアカウントを持っている人は、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"こちら\",\"href\":\"/posts/curriculums/200a501e-f337-80ff-b3a9-ed1bd068b618\",\"scroll\":\"200a501e-f337-8049-9c05-e25e7a90204f\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\" \",\"href\":\"/posts/curriculums/200a501e-f337-80ff-b3a9-ed1bd068b618\",\"scroll\":\"200a501e-f337-8049-9c05-e25e7a90204f\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"からチームへの参加申請をしてください。\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8023-a04f-cb0fa371370f",
+    "type": "callout",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 7
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Qiitaアカウントの作成\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "200a501e-f337-80f4-8a1d-ceb7a2a070f7",
+    "type": "heading_1",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 8
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "_",
+    "blockId": "200a501e-f337-809a-bfd9-db7ae49df9c5",
+    "type": "divider",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 9
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Qiitaにアクセス\",\"href\":null}]}",
+    "blockId": "200a501e-f337-80e6-bce9-fa4d2f4f8abb",
+    "type": "numbered_list_item",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 10
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80e6-bce9-fa4d2f4f8abb",
+    "data": "{\"parent\":[],\"url\":\"https://qiita.com/\",\"ogp\":{\"title\":\"Qiita\",\"icon\":\"https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico\",\"image\":\"https://cdn.qiita.com/assets/qiita-ogp-3b6fcfdd74755a85107071ffc3155898.png\",\"description\":\"Qiitaは、エンジニアに関する知識を記録・共有するためのサービスです。 プログラミングに関するTips、ノウハウ、メモを簡単に記録 &amp; 公開することができます。\"}}",
+    "blockId": "200a501e-f337-801c-9598-d66fa0f99b96",
+    "type": "bookmark",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 1
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "200a501e-f337-80aa-baa4-d1635b33c2c0",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 11
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"新規登録\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」ボタンから、アカウント作成\",\"href\":null}]}",
+    "blockId": "200a501e-f337-80b6-bc8a-de0e819bfff6",
+    "type": "numbered_list_item",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 12
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80b6-bc8a-de0e819bfff6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"GitHubやGoogleの外部サービスで登録することをおすすめします（ログインが楽）\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8028-88c4-dfeaea5ccec4",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 2
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80b6-bc8a-de0e819bfff6",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Qiitaは大学を卒業してからも使い続けることができます。\",\"href\":null}]}",
+    "blockId": "200a501e-f337-807d-b279-c010adbaf1c4",
+    "type": "callout",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 3
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-807d-b279-c010adbaf1c4",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"登録するメールアドレス（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"外部サービスに紐づいたものも含む\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）は、大学のものではなく\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"個人のものにすることをおすすめします！\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8019-98b7-c60bb382219b",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 1
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80b6-bc8a-de0e819bfff6",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/200a501e-f337-80ff-b3a9-ed1bd068b618/image/200a501e-f337-80ee-9df9-c331d35028ad.png\"}",
+    "blockId": "200a501e-f337-80ee-9df9-c331d35028ad",
+    "type": "image",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 1
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "200a501e-f337-80ce-a128-ddf21e793ec0",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 13
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"登録完了！\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8083-98fe-efe0c17169e5",
+    "type": "numbered_list_item",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 14
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-8083-98fe-efe0c17169e5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"登録が終わると、こんな画面になります。\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8021-a41b-ffbc220b25ea",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 2
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-8083-98fe-efe0c17169e5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"余裕があれば、画面上部にあるメールアドレス認証をしておくといいかもです。\",\"href\":null}]}",
+    "blockId": "200a501e-f337-80bb-ab6d-f09e17dc6651",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 3
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-8083-98fe-efe0c17169e5",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/200a501e-f337-80ff-b3a9-ed1bd068b618/image/200a501e-f337-802a-a8bf-f103e3783ead.png\"}",
+    "blockId": "200a501e-f337-802a-a8bf-f103e3783ead",
+    "type": "image",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 1
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"チームへの参加申請\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "200a501e-f337-8049-9c05-e25e7a90204f",
+    "type": "heading_1",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 15
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "_",
+    "blockId": "200a501e-f337-8068-a4be-c123ae0a009a",
+    "type": "divider",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 16
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下フォームより、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Qiitaに登録したメールアドレス\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を送信してください。\",\"href\":null}]}",
+    "blockId": "200a501e-f337-80d1-83e8-c4d026d77a65",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 17
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※大学のGoogleアカウントでログインして回答してください\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8014-9c6b-d48bcf005e2e",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 18
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"parent\":[],\"url\":\"https://docs.google.com/forms/d/e/1FAIpQLSfQ_hfUpXeaZPQEL-YIM8vWZVZ4jAhsjeMxsK6F59uAvi4X9g/viewform?usp=dialog\",\"ogp\":{\"title\":\"Google Forms: Sign-in\",\"icon\":null,\"image\":null,\"description\":\"Access Google Forms with a personal Google account or Google Workspace account (for business use).\"}}",
+    "blockId": "200a501e-f337-80bc-99cf-ef7d5d88decc",
+    "type": "bookmark",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 19
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"登録したメールアドレスを調べる方法\",\"href\":null}]}",
+    "blockId": "200a501e-f337-80e7-a27d-c050b6bed256",
+    "type": "toggle",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 20
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80e7-a27d-c050b6bed256",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"画面右上のプロフィール写真をクリック\",\"href\":null}]}",
+    "blockId": "200a501e-f337-80b9-b0f0-faa9b7852a99",
+    "type": "numbered_list_item",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 1
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80e7-a27d-c050b6bed256",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「マイページ」をクリック\",\"href\":null}]}",
+    "blockId": "200a501e-f337-809d-969b-e4268e3a2144",
+    "type": "numbered_list_item",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 2
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80e7-a27d-c050b6bed256",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「プロフィールを編集する」をクリック\",\"href\":null}]}",
+    "blockId": "200a501e-f337-801a-abed-c8aec6d452bd",
+    "type": "numbered_list_item",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 3
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80e7-a27d-c050b6bed256",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"左側の「メールアドレスと通知」をクリック\",\"href\":null}]}",
+    "blockId": "200a501e-f337-804b-9caf-d9c5c04fe8ea",
+    "type": "numbered_list_item",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 4
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80e7-a27d-c050b6bed256",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"メールアドレスが表示される\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8024-b1ae-de8d454e6459",
+    "type": "numbered_list_item",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 5
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "200a501e-f337-80b9-ace6-f8d8bc5b3704",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 21
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"フォームを送信すると、数分で\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8014-a2dd-ee5f907cc850",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 22
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「Invitation to ryukokuhorizon team」\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "200a501e-f337-80a4-9fa9-c1139b6a93c2",
+    "type": "heading_3",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 23
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"という件名のメールが届くはずです。\",\"href\":null}]}",
+    "blockId": "200a501e-f337-80d7-af24-d9ab9385bd0c",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 24
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"メール内のリンクをクリックし、チームへ参加してください！\",\"href\":null}]}",
+    "blockId": "200a501e-f337-80bb-a827-ef402651c86e",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 25
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"参加が完了すると、以下のような画面になるはずです！\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8002-8879-f22ebde49278",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 26
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/200a501e-f337-80ff-b3a9-ed1bd068b618/image/200a501e-f337-8000-a404-ea899aeba6f9.png\"}",
+    "blockId": "200a501e-f337-8000-a404-ea899aeba6f9",
+    "type": "image",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 27
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "200a501e-f337-8050-8c89-e793e9dafcb0",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 28
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"⚠️\"},\"color\":\"yellow_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エラー等が表示されてチームに参加できない場合、登録したメールアドレスと併せて発展班運営担当までご連絡ください。\",\"href\":null}]}",
+    "blockId": "200a501e-f337-80bb-98c4-e75f47731c0e",
+    "type": "callout",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 29
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "200a501e-f337-8025-9109-ca9cc5b3940b",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 30
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"オススメ設定（あとでやっといて～）\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "200a501e-f337-804a-a30d-f111c19d0979",
+    "type": "heading_2",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 31
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "_",
+    "blockId": "200a501e-f337-80b9-a91c-e36b07bf1869",
+    "type": "divider",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 32
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Qiita Teamを使用するうえでおすすめな設定をいくつかご紹介します。\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8016-a5c2-f6d7f7d11920",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 33
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"表示名の設定\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "200a501e-f337-800b-beca-c4d001873641",
+    "type": "heading_3",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 34
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"チーム参加直後は、このように ID のみが表示され、誰が投稿した記事かがわかりにくいです。\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8090-a143-ecca69b5c35f",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 35
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/200a501e-f337-80ff-b3a9-ed1bd068b618/image/200a501e-f337-8068-a3bc-d316bf923eec.png\"}",
+    "blockId": "200a501e-f337-8068-a3bc-d316bf923eec",
+    "type": "image",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 36
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そこで、表示名を設定しましょう。\",\"href\":null}]}",
+    "blockId": "200a501e-f337-80a9-9f1d-e89357b5464d",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 37
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"右上プロフィール写真をクリック\",\"href\":null}]}",
+    "blockId": "200a501e-f337-805a-94a1-d6a56d6c1754",
+    "type": "numbered_list_item",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 38
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「設定」をクリック\",\"href\":null}]}",
+    "blockId": "200a501e-f337-80d9-9b1a-fe2f49ca1ee9",
+    "type": "numbered_list_item",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 39
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「名前」の欄に表示名を入力する\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8008-81e2-e9cd8f929c8d",
+    "type": "numbered_list_item",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 40
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"完了！\",\"href\":null}]}",
+    "blockId": "200a501e-f337-80cc-bbfe-dc7243034211",
+    "type": "numbered_list_item",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 41
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/200a501e-f337-80ff-b3a9-ed1bd068b618/image/200a501e-f337-805c-8e05-ea32bfcd7c04.png\"}",
+    "blockId": "200a501e-f337-805c-8e05-ea32bfcd7c04",
+    "type": "image",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 42
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"特に指定はしませんが、外部に公開されることもないので本名で良いと思います。わかりやすいし\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8092-8b84-c2e19534cdeb",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 43
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "200a501e-f337-8028-8885-f8ea7b944222",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 44
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"非表示グループへの参加\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "200a501e-f337-8060-b01d-fec6eb8be722",
+    "type": "heading_3",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 45
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Qiita Teamのグループは、すべてが表示されるわけではなく自分が参加しているグループのみが表示されます。\",\"href\":null}]}",
+    "blockId": "200a501e-f337-803f-ac78-d186da94205e",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 46
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"他のグループを見るには、そのグループに参加しなければいけません。\",\"href\":null}]}",
+    "blockId": "200a501e-f337-80bd-8759-fe3faea56ad2",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 47
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"参加手順は以下です。\",\"href\":null}]}",
+    "blockId": "200a501e-f337-806a-af0e-ebb80d7355e2",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 48
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"参加中のグループ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」の右側の「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"︙\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」をクリック\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8016-a592-c9fe09e97e7e",
+    "type": "numbered_list_item",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 49
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-8016-a592-c9fe09e97e7e",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（ウィンドウサイズによっては「すべてのグループ」かも）\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8022-9472-fd71a5af947a",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 1
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-8016-a592-c9fe09e97e7e",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/200a501e-f337-80ff-b3a9-ed1bd068b618/image/200a501e-f337-803b-8dda-fd31f6040434.png\"}",
+    "blockId": "200a501e-f337-803b-8dda-fd31f6040434",
+    "type": "image",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 2
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"参加していないグループを見つけて、クリック\",\"href\":null}]}",
+    "blockId": "200a501e-f337-80a9-b84e-c153e174a79f",
+    "type": "numbered_list_item",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 50
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"グループに参加する\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」ボタンを押して参加完了！\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8031-9ad7-d35880f5dc17",
+    "type": "numbered_list_item",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 51
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-8031-9ad7-d35880f5dc17",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/200a501e-f337-80ff-b3a9-ed1bd068b618/image/200a501e-f337-8044-b507-e521e55118f8.png\"}",
+    "blockId": "200a501e-f337-8044-b507-e521e55118f8",
+    "type": "image",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 1
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "200a501e-f337-80f6-a571-f51b98237e09",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 52
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（設定じゃないけど）自己紹介\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "200a501e-f337-8041-b1eb-d50a97735f57",
+    "type": "heading_3",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 53
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"右上の「新規作成」から「自己紹介」テンプレートで自己紹介記事を書いてみましょう！\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8058-abed-fc8483db20e5",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 54
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（自己紹介グループに投稿）\",\"href\":null}]}",
+    "blockId": "200a501e-f337-8002-8cb1-e638782dd2e5",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 55
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テンプレートに縛られる必要はないので、好きに書いてもらえれば！\",\"href\":null}]}",
+    "blockId": "200a501e-f337-80a7-bf15-f0fd8d2cb6b1",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 56
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/200a501e-f337-80ff-b3a9-ed1bd068b618/image/200a501e-f337-80f8-8331-f0fab6130f6b.png\"}",
+    "blockId": "200a501e-f337-80f8-8331-f0fab6130f6b",
+    "type": "image",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 57
+  },
+  {
+    "curriculumId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "parentId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "200a501e-f337-807f-941f-fa93f1753387",
+    "type": "paragraph",
+    "pageId": "200a501e-f337-80ff-b3a9-ed1bd068b618",
+    "i": 58
+  }
+]
