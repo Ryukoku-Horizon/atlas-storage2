@@ -1,0 +1,326 @@
+[
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題1\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "26ea501e-f337-805c-9912-d79e37a7eb25",
+    "type": "heading_1",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラミング部の部員情報を管理する以下のようなクラス\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ClubMember\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を作ってください。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-8050-bb71-cf58a3394ca4",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ClubMember\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラスは以下のメンバー変数を持っています。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80ae-8543-d091b650d800",
+    "type": "quote",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ae-8543-d091b650d800",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"name\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" : 部員の名前を格納\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80a3-8f2b-d23447e933eb",
+    "type": "bulleted_list_item",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ae-8543-d091b650d800",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"no\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" : 部員の学生番号を格納\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80a3-942c-e27874155492",
+    "type": "bulleted_list_item",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ae-8543-d091b650d800",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"languages\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" : その部員が扱うことができるプログラミング言語をリストで格納（使える言語がない場合は空のリスト（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"[]\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"））\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80b5-bf64-cbba2cf53522",
+    "type": "bulleted_list_item",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ae-8543-d091b650d800",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ClubMember\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラスは以下のようなコンストラクタを持っています。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-804a-8f19-cf739c5e6724",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 4
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ae-8543-d091b650d800",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"名前、学生番号、プログラミング言語を引数として受け取り、それぞれをメンバー変数に格納する\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-8054-a23f-ecc088631541",
+    "type": "bulleted_list_item",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 5
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ae-8543-d091b650d800",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「ようこそ、〇〇(名前)さん！」という文を出力する\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-802f-a05a-f0e470379785",
+    "type": "bulleted_list_item",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 6
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ae-8543-d091b650d800",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プログラミング言語は引数が指定されていなくても動作する\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80e2-a4a1-e34fe9d3ec83",
+    "type": "bulleted_list_item",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 7
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ClubMember\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を自由な名前、学生番号、言語で3人分インスタンス化してみてください。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80af-a0eb-e516dc6dcc56",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 4
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※プログラムは「prac6-1.py」として保存\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-804a-8094-cb0c88018abe",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 5
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"期待する出力結果\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "26ea501e-f337-805f-bc66-d187d986f5d0",
+    "type": "heading_3",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 6
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"ようこそ、 田中太郎 さん！\\nようこそ、 佐藤圭祐 さん！\\nようこそ、 須賀雅彦 さん！\"],\"caption\":[]}",
+    "blockId": "26ea501e-f337-80b8-aacd-dcb6e165d4ce",
+    "type": "code",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 7
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "26ea501e-f337-8023-b4d6-e9b6a0ac8adf",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 8
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "_",
+    "blockId": "26ea501e-f337-8003-82c1-c288652a43c6",
+    "type": "divider",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 9
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題2\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "26ea501e-f337-8084-9033-f18c7ea6fbde",
+    "type": "heading_1",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 10
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前問のクラス\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ClubMember\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に、その部員の情報すべてを表示するメソッド\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"displayData\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を追加してください。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80c5-ab2d-e3f9b8553b4f",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 11
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ClubMember\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を自由な名前、学生番号、言語で3人分インスタンス化し、その全てにdisplayDataメソッドを実行してみてください。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-8038-8397-fa92f2b2166f",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 12
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※プログラムは「prac6-2.py」として保存\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80f8-b33d-ce9e35937776",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 13
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"期待する出力結果\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "26ea501e-f337-80cd-a198-c475a31d3b06",
+    "type": "heading_3",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 14
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"ようこそ、 田中太郎 さん！\\nようこそ、 佐藤圭祐 さん！\\nようこそ、 須賀雅彦 さん！\\n名前: 田中太郎\\n学生番号: 1234\\n使える言語: ['Python', 'C言語', 'FORTRAN', 'Assembly']\\n名前: 佐藤圭祐\\n学生番号: 5678\\n使える言語: []\\n名前: 須賀雅彦\\n学生番号: 90\\n使える言語: []\"],\"caption\":[]}",
+    "blockId": "26ea501e-f337-8038-9250-eb6d9d18f9ae",
+    "type": "code",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 15
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "26ea501e-f337-801d-a6fc-cef8505da483",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 16
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "_",
+    "blockId": "26ea501e-f337-8046-bc7a-e8afce4d3b8a",
+    "type": "divider",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 17
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題3\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "26ea501e-f337-8080-8975-d563a0c466bc",
+    "type": "heading_1",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 18
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"前問のクラス\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ClubMember\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に、言語名を引数として受け取り、使える言語に追加する\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"addLanguages\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"メソッドを追加してください。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80ed-8ee3-f74929c11c4b",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 19
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ClubMember\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を自由な名前、学生番号、言語でインスタンス化し、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"displayData\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を実行したあと\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"addLanguages\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を実行していくつか言語を追加してください。再度\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"displayData\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を実行し、使える言語が増えていることを確認してください。\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-80e2-92a5-d1e44c627a36",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 20
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"※プログラムは「prac6-3.py」として保存\",\"href\":null}]}",
+    "blockId": "26ea501e-f337-8014-a600-c96de140f5c9",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 21
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"期待する出力結果\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "26ea501e-f337-808f-99fc-f999bcf35e3e",
+    "type": "heading_3",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 22
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "26ea501e-f337-808a-a747-ebe55220a023",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 23
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"language\":\"plain text\",\"parent\":[\"ようこそ、 渡辺昂輝 さん！\\n名前: 渡辺昂輝\\n学生番号: 1964\\n使える言語: ['Python', 'Rust', 'Ruby', 'JavaScript']\\naddLanguageを実行\\naddLanguageを実行\\n名前: 渡辺昂輝\\n学生番号: 1964\\n使える言語: ['Python', 'Rust', 'Ruby', 'JavaScript', 'Go', 'Java']\"],\"caption\":[]}",
+    "blockId": "26ea501e-f337-804a-b2ac-dc14a5220348",
+    "type": "code",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 24
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"進捗アンケート\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "26ea501e-f337-80b4-bdf8-ec6f8b6cbed0",
+    "type": "heading_1",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 25
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "272a501e-f337-805f-937e-f1cc97c9fb1c",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 26
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "272a501e-f337-8017-82d3-c03441fdef38",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 27
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "_",
+    "blockId": "272a501e-f337-80e8-bc77-e77616a9c7c6",
+    "type": "divider",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 28
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"import文\",\"href\":\"/posts/curriculums/267a501e-f337-80ba-90cb-d7fbfbcdc324\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/arrow-down-line_gray.svg\",\"iconType\":\"external\",\"title\":\"import文\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "272a501e-f337-808b-8c90-e2999ca3efc8",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "i": 29
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8132-96ca-d82d242bbe2b",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81f7-b5f1-dd3584608539",
+    "type": "callout",
+    "pageId": "272a501e-f337-8132-96ca-d82d242bbe2b",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81f7-b5f1-dd3584608539",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n    appbar = ft.AppBar(\\n        center_title=True,\\n        title=ft.Text(value=\\\"TODOアプリ\\\"),\\n        bgcolor=ft.colors.BLACK12\\n    )\\n\\n    def route_change(e):\\n        template_route = ft.TemplateRoute(page.route)\\n\\n        if template_route.match(\\\"/create\\\"):\\n            createTextField = ft.TextField(hint_text=\\\"TODO\\\")\\n            appbar.leading = ft.IconButton(icon=ft.icons.ARROW_BACK, on_click=lambda _:page.go(\\\"/\\\"))\\n            page.views.append(\\n                ft.View(\\n                    \\\"/create\\\",\\n                    appbar=appbar,\\n                    controls=[\\n                        ft.Text(\\\"TODO作成\\\"),\\n                        createTextField,\\n                        ft.ElevatedButton(text=\\\"作成\\\")\\n                    ]\\n                )\\n            )\\n        elif template_route.match(\\\"/\\\"):\\n            appbar.leading = ft.Text(\\\"\\\")\\n            floating_button = ft.FloatingActionButton(\\n                icon=ft.icons.ADD,\\n                bgcolor=ft.colors.BLUE_200,\\n                on_click=lambda _: page.go(\\\"/create\\\")\\n            )\\n            todo_list_control = ft.Column([])\\n            page.views.append(\\n                ft.View(\\n                    \\\"/\\\",\\n                    appbar=appbar,\\n                    controls=[todo_list_control],\\n                    floating_action_button=floating_button\\n                )\\n            )\\n        page.update()\\n\\n    page.on_route_change = route_change\\n    page.go(page.route)\\n\\nft.app(main)\\n\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-81f2-9917-e1cb681ece7a",
+    "type": "code",
+    "pageId": "272a501e-f337-8132-96ca-d82d242bbe2b",
+    "i": 1
+  }
+]

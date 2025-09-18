@@ -279,5 +279,79 @@
     "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/pageImageData/icon/256a501e-f337-803b-9c9e-e872f50d594f.png",
     "coverUrl": "",
     "order": 10000
+  },
+  {
+    "id": "272a501e-f337-8040-af9b-fae333f7427a",
+    "title": "アプリケーションアーキテクチャ基礎",
+    "is_basic_curriculum": false,
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "category": "技術ガイド",
+    "tag": [
+      "基礎班",
+      "アーキテクチャ",
+      "Python",
+      "Flet"
+    ],
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/hammer_pink.svg",
+    "coverUrl": "https://www.notion.so/images/page-cover/met_vincent_van_gogh_ginoux.jpg",
+    "order": 1005
+  },
+  {
+    "id": "256a501e-f337-8078-8124-f85e3320ee25",
+    "title": "任意ページ",
+    "is_basic_curriculum": true,
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "category": "後期",
+    "tag": [
+      "基礎班"
+    ],
+    "iconType": "emoji",
+    "iconUrl": "💪",
+    "coverUrl": "",
+    "order": 10002
+  },
+  {
+    "id": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "Python後期",
+    "is_basic_curriculum": true,
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
+    "category": "後期",
+    "tag": [
+      "基礎班",
+      "Python"
+    ],
+    "iconType": "custom_emoji",
+    "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-802e-8fca-f378c366fb03/pageImageData/icon/256a501e-f337-802e-8fca-f378c366fb03.png",
+    "coverUrl": "",
+    "order": 9999
+  },
+  {
+    "id": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "title": "データベース基礎",
+    "is_basic_curriculum": false,
+    "visibility": [
+      "発展班",
+      "基礎班"
+    ],
+    "category": "技術ガイド",
+    "tag": [
+      "基礎班",
+      "データベース",
+      "Python"
+    ],
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/database_blue.svg",
+    "coverUrl": "https://www.notion.so/images/page-cover/gradients_2.png",
+    "order": 1004
   }
 ]

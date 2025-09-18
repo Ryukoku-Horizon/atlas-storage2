@@ -1508,5 +1508,375 @@
     "id": "267a501e-f337-8003-80a5-d685df0acc48",
     "order": 12,
     "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
+  },
+  {
+    "title": "アプリケーションアーキテクチャ基礎",
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/hammer_pink.svg",
+    "coverUrl": "https://www.notion.so/images/page-cover/met_vincent_van_gogh_ginoux.jpg",
+    "order": 1005,
+    "id": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": ""
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "title": "アプリケーションアーキテクチャとは",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/question-mark_pink.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "order": 1,
+    "parentId": "272a501e-f337-8040-af9b-fae333f7427a"
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "title": "MVCについて",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/list-indent_pink.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-814b-9fd0-cd3ad7f764b5",
+    "order": 2,
+    "parentId": "272a501e-f337-8040-af9b-fae333f7427a"
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "title": "View層を作る",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/preview_pink.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-81b4-ab85-c626f335c399",
+    "order": 6,
+    "parentId": "272a501e-f337-8040-af9b-fae333f7427a"
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "title": "ロジックを作る",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/branch-create_pink.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-81ad-ab70-e985dba92d6d",
+    "order": 3,
+    "parentId": "272a501e-f337-8040-af9b-fae333f7427a"
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "title": "Model層を作る",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/database_pink.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-81ca-a5c3-c4263114cacd",
+    "order": 4,
+    "parentId": "272a501e-f337-8040-af9b-fae333f7427a"
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "title": "Controller層を作る",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/video-game-classic_pink.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "order": 5,
+    "parentId": "272a501e-f337-8040-af9b-fae333f7427a"
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "title": "FletでTodoアプリを作ってMVCを学ぼう",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/soccer_pink.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-81d0-84bb-fc2e5f939f86",
+    "order": 1,
+    "parentId": "272a501e-f337-8040-af9b-fae333f7427a"
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "title": "UIを作る",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/code-scan_pink.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-8192-97bb-c044d7ec9435",
+    "order": 2,
+    "parentId": "272a501e-f337-8040-af9b-fae333f7427a"
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "title": "コード全体",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/snippet_gray.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-8132-96ca-d82d242bbe2b",
+    "order": 38,
+    "parentId": "272a501e-f337-8192-97bb-c044d7ec9435"
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "title": "コード全体",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/snippet_gray.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "order": 55,
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8"
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "title": "コード全体",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/snippet_gray.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-8105-8a2b-ca3e87117967",
+    "order": 42,
+    "parentId": "272a501e-f337-81b4-ab85-c626f335c399"
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "title": "コード全体",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/snippet_gray.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-818f-be91-fe0e2443154a",
+    "order": 72,
+    "parentId": "272a501e-f337-81ca-a5c3-c4263114cacd"
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "title": "コード全体",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/snippet_gray.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-81c0-a447-c9f0ed2b7e0a",
+    "order": 52,
+    "parentId": "272a501e-f337-81ad-ab70-e985dba92d6d"
+  },
+  {
+    "title": "任意ページ",
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "iconType": "emoji",
+    "iconUrl": "💪",
+    "coverUrl": "",
+    "order": 10002,
+    "id": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": ""
+  },
+  {
+    "title": "Python後期",
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "iconType": "custom_emoji",
+    "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-802e-8fca-f378c366fb03/pageImageData/icon/256a501e-f337-802e-8fca-f378c366fb03.png",
+    "coverUrl": "",
+    "order": 9999,
+    "id": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": ""
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "クラス",
+    "iconType": "emoji",
+    "iconUrl": "☸️",
+    "coverUrl": "",
+    "id": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "order": 3,
+    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "クラスの練習問題",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "id": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "order": 4,
+    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "import文",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/arrow-down-line_gray.svg",
+    "coverUrl": "",
+    "id": "267a501e-f337-80ba-90cb-d7fbfbcdc324",
+    "order": 5,
+    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "import文の練習問題",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "id": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "order": 6,
+    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "クラスの継承",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/skip-forward_pink.svg",
+    "coverUrl": "",
+    "id": "26ea501e-f337-803a-993a-f4e422180074",
+    "order": 9,
+    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "lambda式",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/battery_orange.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "order": 10,
+    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "例外処理",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/report_yellow.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-8046-9e42-d990642e19bf",
+    "order": 11,
+    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "タプル型",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/grid-wide_lightgray.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-8026-b170-d8a3ae12483e",
+    "order": 12,
+    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
+  },
+  {
+    "title": "データベース基礎",
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/database_blue.svg",
+    "coverUrl": "https://www.notion.so/images/page-cover/gradients_2.png",
+    "order": 1004,
+    "id": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": ""
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "title": "Pythonでデータベースを扱うためのライブラリ",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/snippet_blue.svg",
+    "coverUrl": "",
+    "id": "1ada501e-f337-81ea-92d1-dcb4d8f60e2a",
+    "order": 2,
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23"
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "title": "データベースとは",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/question-mark_blue.svg",
+    "coverUrl": "",
+    "id": "1ada501e-f337-81ce-889f-d99449a4ba30",
+    "order": 1,
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23"
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "title": "データの取得(Read)",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/move-document_blue.svg",
+    "coverUrl": "",
+    "id": "1ada501e-f337-81fe-9043-da67e48709a8",
+    "order": 3,
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23"
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "title": "データベースとの接続とテーブルの作成",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/branch-create_blue.svg",
+    "coverUrl": "",
+    "id": "1ada501e-f337-8160-b03e-f28f8a18fa43",
+    "order": 1,
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23"
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "title": "データの削除(Delete)",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/delete_blue.svg",
+    "coverUrl": "",
+    "id": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "order": 5,
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23"
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "title": "データの保存(Create)",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/arrow-down-line_blue.svg",
+    "coverUrl": "",
+    "id": "1ada501e-f337-8124-834c-d232ae4e3855",
+    "order": 2,
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23"
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "title": "データの編集(Update)",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/pencil_blue.svg",
+    "coverUrl": "",
+    "id": "1ada501e-f337-815a-a9e6-d8cdd63afa9c",
+    "order": 4,
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23"
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "title": "CRUD操作を使い回せるようにしよう",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/sliders-horizontal_blue.svg",
+    "coverUrl": "",
+    "id": "1ada501e-f337-81d2-8f41-cd45c5a72b38",
+    "order": 1,
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23"
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "title": "マイグレーション",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/keyboard-alternate_blue.svg",
+    "coverUrl": "",
+    "id": "1ada501e-f337-81ac-a7f5-efdaf65ef9e7",
+    "order": 2,
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23"
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "title": "テーブルの編集",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/drafts_blue.svg",
+    "coverUrl": "",
+    "id": "1ada501e-f337-81a2-bb7a-d5bc48cd5f09",
+    "order": 1,
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23"
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "title": "カラムの属性",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/column_blue.svg",
+    "coverUrl": "",
+    "id": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "order": 1,
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23"
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "title": "SQL文",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/blood-pressure_blue.svg",
+    "coverUrl": "",
+    "id": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "order": 2,
+    "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23"
   }
 ]

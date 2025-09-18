@@ -1,0 +1,65 @@
+[
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"問題１\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-805d-85a7-fd0815128288",
+    "type": "heading_2",
+    "pageId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"module.pyファイルとmain.pyファイルを用意してください。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-80dc-b2ed-d642d5728ef1",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"module.pyで\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"add_number関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を定義してください\",\"href\":null}]}",
+    "blockId": "272a501e-f337-808a-bb55-f198fb0fd506",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"orange_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"add_number関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の定義\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8072-aec3-c84f95f2c073",
+    "type": "callout",
+    "pageId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "i": 4
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8072-aec3-c84f95f2c073",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"二つの引数を受け取り、二つの引数を足した値を戻り値として返す\",\"href\":null}]}",
+    "blockId": "272a501e-f337-80b0-a217-f66b9f678cfd",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"main.pyで、module.py内で定義された\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"add_number関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を呼び出して、その結果を\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"変数result\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"とし、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"result\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"print\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で出力するプログラムを作ってください。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8029-97e9-cc1770708561",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "i": 5
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "272a501e-f337-8053-8de3-c4e512ad8128",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "i": 6
+  }
+]

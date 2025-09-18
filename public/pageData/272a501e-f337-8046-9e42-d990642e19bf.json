@@ -1,0 +1,371 @@
+[
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回はPythonの「例外処理」について説明します。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-817b-a5fa-f2ad20e154fc",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例外処理の基本：try、except\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-816f-bcb7-e1e6d7ef9b54",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "_",
+    "blockId": "272a501e-f337-8147-9141-f9a72544f9d9",
+    "type": "divider",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonの例外処理は、プログラムの実行中に発生するエラーを適切に扱い、プログラムのクラッシュを防ぐための仕組みです。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8186-96c6-d0cd718e5918",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 4
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例外処理を行うには、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"try\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"except\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使います。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8118-99ab-d7dd50691782",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 5
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[]}",
+    "blockId": "272a501e-f337-812c-9b7c-e564b5d3c04a",
+    "type": "callout",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 6
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-812c-9b7c-e564b5d3c04a",
+    "data": "{\"language\":\"python\",\"parent\":[\"try:\\n\\tエラーの可能性のある処理\\nexcept 想定されるエラー:\\n\\tエラーが起こった場合の処理\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-81a9-96a1-ff4524b9603f",
+    "type": "code",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-812c-9b7c-e564b5d3c04a",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"基本構文\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-8173-bc0b-fe7a3c019d46",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えば、ゼロによる除算が行われると\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ZeroDivisionError\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"というエラーが発生して処理が終了します。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"try\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"except\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を使うとそのようなエラーが起こった場合の処理を書くことができます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81ca-bfcf-d5c1401998c6",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 7
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[]}",
+    "blockId": "272a501e-f337-81ab-af37-e856f86f21fb",
+    "type": "callout",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 8
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-81ab-af37-e856f86f21fb",
+    "data": "{\"language\":\"python\",\"parent\":[\"a = 1\\nb = 0\\n\\ntry:\\n    print(a / b)\\nexcept ZeroDivisionError:\\n    print('Error')\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-8156-9398-e73c6123d143",
+    "type": "code",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-81ab-af37-e856f86f21fb",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-81b9-8688-dbc89eb74f59",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この例では、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"a\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"b\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で割り算しています。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"b\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"0\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"でない場合は割り算の答えが\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"print関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で出力され、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"b\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"0\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"だった場合は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"Error\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"と出力されます。そして、このコードでは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"b = 0\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"なので以下のように出力されます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81b3-95b6-e1052796c88a",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 9
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/share_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81a6-8ee3-fd3eeb585a66",
+    "type": "callout",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 10
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-81a6-8ee3-fd3eeb585a66",
+    "data": "{\"language\":\"bash\",\"parent\":[\"Error\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-8190-8fc3-d3eb2335278b",
+    "type": "code",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"さらに、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"except 例外名 as 変数名:\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"とすると、変数にエラーを格納して使用できる。変数名は任意の名前を指定できるが、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"e\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"や\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"err\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"といった名前が使われることが多い。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81eb-906b-d841ce8a8e7a",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 11
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[]}",
+    "blockId": "272a501e-f337-817c-9938-e2f4f596404b",
+    "type": "callout",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 12
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-817c-9938-e2f4f596404b",
+    "data": "{\"language\":\"python\",\"parent\":[\"a = 1\\nb = 0\\n\\ntry:\\n    print(a / b)\\n\",\"except ZeroDivisionError as e:\\n    print('Error')\\n    print(e)\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-815a-8659-dee1dcfe7b0c",
+    "type": "code",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-817c-9938-e2f4f596404b",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"エラーを変数に格納する\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-815f-b068-c66c61eaf140",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このように書くと、以下のようにエラーが出力されます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81ac-95b3-d5264252a1ca",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 13
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/share_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8177-8198-d22e7ed4db47",
+    "type": "callout",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 14
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8177-8198-d22e7ed4db47",
+    "data": "{\"language\":\"bash\",\"parent\":[\"Error\\ndivision by zero\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-81bf-a810-e2a1a8fb9285",
+    "type": "code",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"正常終了時の処理：else\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-81a8-ba53-f75af62a9642",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 15
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "_",
+    "blockId": "272a501e-f337-81be-8662-f565bcfc1d1b",
+    "type": "divider",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 16
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"try\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"節で例外が発生せず正常終了したあとに行う処理を\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"else\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"節に指定できる。例外が発生して\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"except\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で例外処理をした場合は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"else\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"節の処理は実行されません。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8160-824e-d8b5d5e42425",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 17
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[]}",
+    "blockId": "272a501e-f337-8157-a0e8-d88836a8726c",
+    "type": "callout",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 18
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8157-a0e8-d88836a8726c",
+    "data": "{\"language\":\"python\",\"parent\":[\"a = 20\\nb = 5\\n\\ntry:\\n    result = a / b\\nexcept ZeroDivisionError as e:\\n    print('Error:', e)\\n\",\"else:\\n\\tprint(\\\"success:\\\", result)\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-818d-b891-f90ca94c9e81",
+    "type": "code",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8157-a0e8-d88836a8726c",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"正常終了した場合の処理を書く\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-8119-8289-c9a3fb21e247",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この場合、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"try\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"節で\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"result = a / b\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の処理がされます。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"b=0\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の場合は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"except\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"節の処理が行われますが、今回は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"b = 5\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"なので、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"else\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"節の処理が行われ、以下のように出力されます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8114-9829-ee1cb83fc684",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 19
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/share_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8134-ba8f-ecf376f2d7b0",
+    "type": "callout",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 20
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8134-ba8f-ecf376f2d7b0",
+    "data": "{\"language\":\"bash\",\"parent\":[\"success: 4\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-8136-90f8-d8c8a40a7558",
+    "type": "code",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"終了時に常に行う処理： finally\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-812b-b11c-df6491569def",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 21
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "_",
+    "blockId": "272a501e-f337-810f-adf6-fb66994513d3",
+    "type": "divider",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 22
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例外が発生した場合もしなかった場合も常に最後に行う処理を\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"finally\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"節に指定できます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81cb-8f23-cde047b4f431",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 23
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[]}",
+    "blockId": "272a501e-f337-81fd-8a45-c67dc1654a0d",
+    "type": "callout",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 24
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-81fd-8a45-c67dc1654a0d",
+    "data": "{\"language\":\"python\",\"parent\":[\"a = 20\\nb = 5\\n\\ntry:\\n    result = a / b\\nexcept ZeroDivisionError as e:\\n    print('Error:', e)\\nelse:\\n\\tprint(\\\"success:\\\", result)\\n\",\"finally:\\n\\tprint(\\\"finish\\\")\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-81c7-87cd-d2d0d7bcde7b",
+    "type": "code",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-81fd-8a45-c67dc1654a0d",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"終了時に常に行う処理を書く\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-8177-98f2-da2275bba867",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この場合、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"try\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"節で\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"result = a / b\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の処理がされます。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"b\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の値が\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"0\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"か否かで\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"except\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"節の処理か\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"else\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"節の処理が行われますが、いずれの場合でも\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"finally\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"節の処理、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"print(”finish”)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" が行われます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81cd-9e04-d8b282b53d13",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 25
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このコードの場合は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"b=5\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"なので、以下のように出力されます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8139-a98b-e96e06e88ec5",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 26
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/share_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"出力\",\"href\":null}]}",
+    "blockId": "272a501e-f337-817d-88fe-d34c76581269",
+    "type": "callout",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 27
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-817d-88fe-d34c76581269",
+    "data": "{\"language\":\"bash\",\"parent\":[\"success: 4\\nfinish\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-81cc-9b14-d0dff0317cf0",
+    "type": "code",
+    "pageId": "272a501e-f337-8046-9e42-d990642e19bf",
+    "i": 1
+  }
+]

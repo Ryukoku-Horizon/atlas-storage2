@@ -1,0 +1,425 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここではSQLで使える主なカラムの属性について列挙します。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-810c-a18c-ea1abd8d6021",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テーブルを作成する際に参考にしてください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8137-92dc-ff41c608a1dc",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データ型\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-818b-aa57-fe088f10a5e8",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "_",
+    "blockId": "1ada501e-f337-812a-a153-cf291e0d663f",
+    "type": "divider",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"整数型\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81fc-aaf9-cecdc89f3a70",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"INTEGER\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\": 整数を保存します。通常、範囲は -2,147,483,648 ～ 2,147,483,647。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81b6-955a-d51ac5040a9e",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"SMALLINT\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\": \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"INTEGER\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" より小さな範囲の整数（-32,768 ～ 32,767）。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8163-8f32-d0c8eaaad981",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"浮動小数点型\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8140-bcf6-f4823815699c",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"FLOAT\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\": 浮動小数点数を保存します。精度はデータベースごとに異なります。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-813c-bc29-d9f21113f953",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文字列型\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81f1-acca-cfa4661cedff",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"TEXT\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" : 文字列型\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-818b-88b9-dc0e3ae4755a",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"CHAR(n)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\": 固定長文字列。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" で文字数を指定します。文字数が不足している場合、スペースで埋められます。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-818d-b0b3-eec9064e3365",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"VARCHAR(n)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\": 可変長文字列。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" で最大文字数を指定します。文字数が不足してもスペースで埋めません。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81d7-8bc8-f168b75f1a48",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"日付と時刻\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8115-9a0b-ff98e96d2bdc",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"DATE\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\": 日付を保存します（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"YYYY-MM-DD\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" 形式）。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8105-a310-e86b63f9c48e",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"TIME\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\": 時間を保存します（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"HH:MM:SS\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" 形式）。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8123-ad6a-f79d79435f7b",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"DATETIME\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\": 日付と時間を合わせて保存します（\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"YYYY-MM-DD HH:MM:SS\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" 形式）。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-812f-8fe2-d649403cdd69",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"TIMESTAMP\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\": 日付と時間を保存し、通常は自動的に現在時刻に更新するオプションもあります。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81d5-a9c7-f2032fd4b6b0",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"真偽型\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8117-ac99-c78259b9f380",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"BOOLEAN\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"：真偽型。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"0\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"または\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"1\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"として保存されるため、実際には\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"INTEGER\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"型として動作する。そのため注意が必要。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8198-9061-ef42694b15cb",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 20
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"制約\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-81bb-a65c-e4181455884d",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 21
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "_",
+    "blockId": "1ada501e-f337-815f-a522-f6275daa8440",
+    "type": "divider",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 22
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"PRIMARY KEY\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-819b-a7f9-d86ef0fd98fa",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 23
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テーブル内で各行を一意に識別するカラムに設定します。\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"PRIMARY KEY\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" に指定されたカラムは重複を許さず、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"NULL\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" 値も許可しません。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81b8-af37-c757a4f7f8aa",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 24
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例: \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"id INTEGER PRIMARY KEY\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8138-bef1-ca91b4c38127",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 25
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"AUTOINCREMENT\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-813d-804a-d8af7052fd9e",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 26
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"主に \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"PRIMARY KEY\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" カラムに使用され、自動的に一意の連番を生成します。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-812f-9c09-cd0874c88500",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 27
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例: \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"id INTEGER PRIMARY KEY AUTO_INCREMENT\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81df-9cef-d4b7c5366d0e",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 28
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"UNIQUE\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81c3-8b5d-c97803fe6ae7",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 29
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"特定のカラムが一意であることを保証します。同じテーブル内で重複する値が入ることを防ぎます。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81d3-b26d-f5f2f2d376f5",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 30
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例: \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"email VARCHAR(100) UNIQUE\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8139-841e-c8144c86e864",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 31
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"NOT NULL\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8131-b564-d33f37074a77",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 32
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"NULL\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" 値を禁止し、必ずデータを入力しなければならないように設定します。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81a2-a67c-c08b75cb403c",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 33
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例: \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"name VARCHAR(50) NOT NULL\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8125-ad01-c7f356597a41",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 34
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"CHECK\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81a4-a87a-ee0772cba224",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 35
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カラムに入力されるデータが特定の条件を満たすかどうかをチェックします。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8114-a76d-fa186b5f78a0",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 36
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例: \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"age INTEGER CHECK (age >= 18)\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8122-a341-c72d7bc5fc0f",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 37
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"DEFAULT\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81b1-ad05-ee4462d1a56b",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 38
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カラムにデータが指定されなかった場合に、デフォルト値を自動的に設定します。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8133-b5aa-d4197657bdf2",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 39
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例：\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8139-a30e-f0edf1ccdf44",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 40
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"FOREIGN KEY\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-813c-a2cb-f0fbc12ff052",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 41
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"他のテーブルの \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"PRIMARY KEY\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" と関連付けをすることで、リレーション（外部キー制約）を作成します。参照整合性を保つために使われます。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81db-ac9a-d9dc690b2a76",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 42
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例: \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"user_id INT, FOREIGN KEY (user_id) REFERENCES users(id)\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8138-ae9b-f317d610552a",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 43
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ON DELETE CASCADE / ON UPDATE CASCADE\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8167-82f8-fb4dcc9ad159",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 44
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"外部キーに設定し、参照元のデータが削除または更新された際に、連動して子テーブルのデータも削除または更新するようにします。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8142-8e38-cea2ca81d6e0",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 45
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例: \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81b8-b3c6-c25bb797c2e6",
+    "type": "bulleted_list_item",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 46
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1ada501e-f337-8156-a372-dd1733b6a541",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-81bc-8a50-df2e526e6153",
+    "i": 47
+  }
+]

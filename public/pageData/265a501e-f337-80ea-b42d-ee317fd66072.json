@@ -1,0 +1,317 @@
+[
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここではプログラミングの中で重要な構文であるクラスについて説明します\",\"href\":null}]}",
+    "blockId": "265a501e-f337-80bf-8ff4-da578abde3ee",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラスの概要\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "265a501e-f337-8011-ad88-dc77b52e5ed7",
+    "type": "heading_2",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "_",
+    "blockId": "265a501e-f337-803b-a66a-e57f03612fc6",
+    "type": "divider",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1. クラスは「設計図」\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "265a501e-f337-8072-830a-ebea05e7e8cb",
+    "type": "heading_3",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 4
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Fletで \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"TextField\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" や \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ElevatedButton\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" といったコントロールがありますよね。\",\"href\":null}]}",
+    "blockId": "265a501e-f337-80bf-84cb-fcd80dbf235a",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 5
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これらは「クラス（設計図）」です。つまり、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"TextField\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" というクラスは「テキスト入力欄はこういう構造・機能を持ちます」という定義をしています。\",\"href\":null}]}",
+    "blockId": "265a501e-f337-80f6-90e9-fccd1e1d80e6",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 6
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n    # TextFieldクラスを元にオブジェクトを作成\\n    name_input = ft.TextField(label=\\\"名前を入力\\\")\\n    \\n    # ElevatedButtonクラスを元にオブジェクトを作成\\n    submit_button = ft.ElevatedButton(text=\\\"送信\\\")\\n\\n    page.add(name_input, submit_button)\\n\\nft.app(target=main)\\n\"],\"caption\":[]}",
+    "blockId": "265a501e-f337-80ba-b33b-dfb42dc6a555",
+    "type": "code",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 7
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2. インスタンス化\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "265a501e-f337-806c-bd73-e25b1919029e",
+    "type": "heading_3",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 8
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Pythonのクラスでは、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"MyClass()\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" のように呼び出すとインスタンスが生成されます。\",\"href\":null}]}",
+    "blockId": "265a501e-f337-80c6-90da-c996854a50aa",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 9
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Fletでも同じで、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"TextField()\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" と書けばテキスト入力欄のオブジェクトができます。\",\"href\":null}]}",
+    "blockId": "265a501e-f337-8036-881a-e4bf022af526",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 10
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"つまり \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「クラス」= 型、「インスタンス」 = 実際に画面に置かれる部品\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。\",\"href\":null}]}",
+    "blockId": "265a501e-f337-80b6-ade3-d0ea77b3309a",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 11
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3. プロパティとメソッド\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "265a501e-f337-80f4-ae7a-e42497dfbb05",
+    "type": "heading_3",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 12
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラスには「プロパティ」と「メソッド」があります。\",\"href\":null}]}",
+    "blockId": "265a501e-f337-805e-9d40-d6a9549dc0fc",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 13
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"fletのコントロールにも同じで、たとえば \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"TextField\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" には \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"label\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" や \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"value\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" というプロパティがあり、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"focus()\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" というメソッドがあります。\",\"href\":null}]}",
+    "blockId": "265a501e-f337-80c6-8c2f-c06f34b440ac",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 14
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"language\":\"python\",\"parent\":[\"name_input = ft.TextField(label=\\\"名前を入力\\\")\\nname_input.value = \\\"太郎\\\"      # プロパティの変更\\nname_input.focus()            # メソッドの呼び出し\"],\"caption\":[]}",
+    "blockId": "265a501e-f337-8002-9a7c-f6599e788cbd",
+    "type": "code",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 15
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"つまり、今まで使っていたFletのコントロールとは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラス\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"なのです。\",\"href\":null}]}",
+    "blockId": "265a501e-f337-8053-9b88-fec132496a09",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 16
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラスの使い方\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "265a501e-f337-804b-bd00-e364613cb2ad",
+    "type": "heading_2",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 17
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "_",
+    "blockId": "265a501e-f337-80d2-8b49-cd63617db8a9",
+    "type": "divider",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 18
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"先ほどのこのような話をしました。\",\"href\":null}]}",
+    "blockId": "265a501e-f337-8052-a62a-c00fcd7b7189",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 19
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラス = 設計図\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（例: \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"TextField\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" クラス）\",\"href\":null}]}",
+    "blockId": "265a501e-f337-80f8-9878-c46eaaa3f99b",
+    "type": "bulleted_list_item",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 20
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インスタンス = 実体\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（例: \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"name_input = TextField(...)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"）\",\"href\":null}]}",
+    "blockId": "265a501e-f337-8052-bf5b-e58454febc43",
+    "type": "bulleted_list_item",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 21
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"つまり、クラスを自分で作れば、自作のコントロール（設計図）を作れるのです\",\"href\":null}]}",
+    "blockId": "265a501e-f337-80fb-9abb-f558fdd717b3",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 22
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2. シンプルなクラス定義を紹介\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "265a501e-f337-803b-a2a1-cce29eb642c5",
+    "type": "heading_2",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 23
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"fletの \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"TextField\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" みたいに、自分でも「オリジナル部品（クラス）」を定義できる\",\"href\":null}]}",
+    "blockId": "265a501e-f337-8098-b194-c9dc227d4aca",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 24
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"language\":\"python\",\"parent\":[\"# Pythonのクラスの例\\nclass User:\\n    def __init__(self, name):\\n        # 属性（= fletの label や value に相当）\\n        self.name = name  \\n\\n    # メソッド（= fletの focus() や update() に相当）\\n    def greet(self):\\n        return f\\\"こんにちは、{self.name}さん！\\\"\"],\"caption\":[]}",
+    "blockId": "265a501e-f337-8053-a1b9-ed56dc5b89e0",
+    "type": "code",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 25
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3. インスタンスを作る（= コントロールを生成するイメージ）\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "265a501e-f337-8075-919f-c6b874e83b1c",
+    "type": "heading_2",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 26
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"language\":\"python\",\"parent\":[\"# クラスからインスタンスを作成\\nuser1 = User(\\\"太郎\\\")\\nuser2 = User(\\\"花子\\\")\\n\\nprint(user1.greet())  # こんにちは、太郎さん！\\nprint(user2.greet())  # こんにちは、花子さん！\"],\"caption\":[]}",
+    "blockId": "265a501e-f337-8057-bafd-e4929a12a78a",
+    "type": "code",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 27
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"User(\\\"太郎\\\")\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" は \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"TextField(label=\\\"名前\\\")\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" を書くのと同じように、クラスを元にオブジェクトを生成している\",\"href\":null}]}",
+    "blockId": "265a501e-f337-80e3-a2c6-c6f5009337dd",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 28
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"4. fletと組み合わせて見せる（応用）\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "265a501e-f337-8056-bdd3-f2bf62ee234b",
+    "type": "heading_2",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 29
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラスを自作すると、fletのコントロールを組み合わせた自作部品も作れる\",\"href\":null}]}",
+    "blockId": "265a501e-f337-801d-b61a-f2d8d0d80534",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 30
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\n# 自作クラス（fletの部品を組み合わせたもの）\\nclass NameInput:\\n    def __init__(self):\\n        self.input = ft.TextField(label=\\\"名前を入力\\\")\\n        self.button = ft.ElevatedButton(text=\\\"送信\\\", on_click=self.say_hello)\\n        self.text = ft.Text()\\n\\n    def say_hello(self, e):\\n        self.text.value = f\\\"こんにちは、{self.input.value}さん！\\\"\\n        self.text.update()\\n\\n    # fletに渡せるようにまとめる\\n    def controls(self):\\n        return [self.input, self.button, self.text]\\n\\ndef main(page: ft.Page):\\n    ui = NameInput()\\n    page.add(ui.controls())\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "265a501e-f337-8070-ae80-d1685904c2b7",
+    "type": "code",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 31
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これでPythonのクラスで自分専用のコントロールを作れるのです\",\"href\":null}]}",
+    "blockId": "265a501e-f337-802f-9ade-c11064e8af50",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 32
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "272a501e-f337-8044-bdf1-fb95b3e715db",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 33
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "_",
+    "blockId": "272a501e-f337-80fc-9118-fd2c6605ee23",
+    "type": "divider",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 34
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラスの練習問題\",\"href\":\"/posts/curriculums/26ea501e-f337-80ed-a25c-fa4915c1b4ab\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"📝\",\"iconType\":\"emoji\",\"title\":\"クラスの練習問題\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "272a501e-f337-80b2-b472-f33f1af69619",
+    "type": "paragraph",
+    "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "i": 35
+  }
+]

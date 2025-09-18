@@ -1,0 +1,452 @@
+[
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回はアプリケーションアーキテクチャとは何か、その概要について説明します。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8128-ba9f-f6d6d56920b8",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"概要\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-8176-baf7-ea2e6a403368",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 2
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "_",
+    "blockId": "272a501e-f337-81f6-93a8-ea6b0dd795f8",
+    "type": "divider",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 3
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アプリケーションアーキテクチャ\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は、「アプリケーションの組み立て方」です。これは、ソフトウェア開発において\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"開発の指針\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"となる重要な要素です。アプリケーションの構造を定義し、各要素の役割や相互作用を明確にすることで、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"効率的な開発\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"高い拡張性\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"保守性の向上\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が実現されます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8162-8467-d54594c1d7bc",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 4
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アプリケーションアーキテクチャにおいて、一般的に以下の要素を想定します：\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8114-8155-c9b406f32041",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 5
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"レイヤーの分離\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8144-a9db-edda9dae3a44",
+    "type": "numbered_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 6
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8144-a9db-edda9dae3a44",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アプリケーションを複数のレイヤーに分け、それぞれが特定の責務を持つように設計します。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8169-89d5-f6c2de248453",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8144-a9db-edda9dae3a44",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例: UI層、ビジネスロジック層（データの処理）、データ層（データベースにアクセス）。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-817b-99f8-cb0afe6e39d3",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 2
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"役割の分離\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81a7-b21a-dbcd4d643acc",
+    "type": "numbered_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 7
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81a7-b21a-dbcd4d643acc",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"各コンポーネントが特定の役割だけに専念することで、コードが複雑にならないようにします。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8124-bc2f-f558dac20c78",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81a7-b21a-dbcd4d643acc",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例: UIとデータ処理の分離。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81e5-b4f8-c0227ef2219b",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 2
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81a7-b21a-dbcd4d643acc",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例：アプリ内のUIの各ページの分離。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-819e-9d7b-efd9eeb15c0e",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 3
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"依存関係の管理\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8153-baae-cf95fc666e81",
+    "type": "numbered_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 8
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8153-baae-cf95fc666e81",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"モジュールやコンポーネント間の依存を最小限にし、後からの変更を容易にします。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-816b-8df8-ea6d30de534a",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アプリケーションアーキテクチャの重要性\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-81b8-89d7-e71243944cfc",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 9
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "_",
+    "blockId": "272a501e-f337-81d0-b5e2-c2e26c2cebf9",
+    "type": "divider",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 10
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1. \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"保守性の向上\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-813f-a4f3-f597d6994045",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 11
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"各コンポーネントが独立しているため、特定の部分を修正しても他の部分に影響を与えにくい。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-810b-aee2-f8afa54d7c39",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 12
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例: データを処理する層の変更が、UIに直接影響を与えない。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8168-ad62-c87cf34a4360",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 13
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2. \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"再利用性の向上\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-81d6-9d68-f0d86617c9d4",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 14
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"モジュール化されたコンポーネントや関数は、他のプロジェクトでも再利用可能。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8140-a5a2-f24ac5c5a539",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 15
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3. \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"拡張性の確保\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-8131-a2f3-c23ce6ef3463",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 16
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"新しい機能を追加するときも、既存の構造に影響を与えずに拡張できる。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81aa-a3ae-c02e49e1cb62",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 17
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"4. \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"チーム開発の効率化\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-81d6-a7e0-c26e4e1ca974",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 18
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"役割分担がしやすくなり、異なるチームが異なる部分を同時に作業できる。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8185-ac4f-d4025485721d",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 19
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"5. \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テストの容易さ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-812f-8aed-e222e4429c7c",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 20
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コンポーネントが独立しているため、単体テストや結合テストがしやすい。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-814b-b799-d019928d82f5",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 21
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"6. \",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"パフォーマンスの最適化\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-810a-b8a9-ee3399cd527f",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 22
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"適切な設計により、アプリケーションの効率が向上し、リソースの無駄を減らせる。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81e7-95dc-f63aac825d3b",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 23
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"紹介するアーキテクチャ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-819a-91ce-c01fd0bb1cff",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 24
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "_",
+    "blockId": "272a501e-f337-8119-8821-e5c175f784a1",
+    "type": "divider",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 25
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アプリケーションには様々な設計パターンがありますが、このカリキュラムで紹介するのは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"MVC（Model-View-Controller）\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"というアーキテクチャです。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81d6-ab58-d82a7bd81cfa",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 26
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"MVC（Model-View-Controller）と呼ばれる理由は、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Model層、View層、Controller層\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"という三つの層から構成されるからです。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81d6-94b7-eccfe6e227eb",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 27
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"三つの層の役割はそれぞれ以下のようになります。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-814d-a1c7-c3a506732f70",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 28
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Model\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\": データベースとのやり取りやデータの加工を担当。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8108-8194-ef146a405908",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 29
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"View\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\": ユーザーインターフェースを表示。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81c2-a581-f316bad7643d",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 30
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Controller\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\": UIからの入力を処理し、ModelとViewを橋渡しする。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81cf-9564-e8390bb7aab8",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 31
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "272a501e-f337-8157-a60f-ec50b97268ac",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 32
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"MVCには以下のメリットがあります\",\"href\":null}]}",
+    "blockId": "272a501e-f337-814d-9cda-c9402518e462",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 33
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"簡単に実装可能で、開発が速い。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8131-a3c8-d57dbe169a5a",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 34
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"各部分が独立しているため理解しやすい。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8111-b55c-f95d2ccb0f06",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 35
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "272a501e-f337-8157-bf58-f26fba39eede",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 36
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"MVCは、比較的小規模なアプリケーションの設計に向いており、学習するのが容易です。そのため、今回はMVCを通してアプリケーションアーキテクチャーについて学んでもらいます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81b8-9582-f7f6e52871f7",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 37
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"詳しい設計方法は次のページ以降に説明します。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8145-a439-e06c63317de1",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 38
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まとめ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-81c3-aed0-c9b723eb19a8",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 39
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "_",
+    "blockId": "272a501e-f337-818e-a5c6-ef3caa235857",
+    "type": "divider",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 40
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アプリケーションアーキテクチャは、アプリの成長や保守性を支える「土台」です。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8158-892e-dc9b73ce03b4",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 41
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"短期的にはシンプルな設計が効率的ですが、長期的な視点で設計を選ぶことが成功の鍵となります。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-811f-8acf-db7b58cd18b5",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 42
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "272a501e-f337-81d5-854d-cf38c6ca9605",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 43
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次→\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"MVCについて\",\"href\":\"/posts/curriculums/272a501e-f337-814b-9fd0-cd3ad7f764b5\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/list-indent_pink.svg\",\"iconType\":\"external\",\"title\":\"MVCについて\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "272a501e-f337-81d8-9905-c2fbadc8fd8c",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "i": 44
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここではSQL文でデータベースを操作する方法を列挙します。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8112-bad8-c70811ea59fb",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テーブル作成\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-81c7-9b10-d1d62b16a459",
+    "type": "heading_3",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テーブル作成\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81a9-8815-eb05c05791e9",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81a9-8815-eb05c05791e9",
+    "data": "{\"language\":\"sql\",\"parent\":[\"CREATE TABLE テーブル名(’カラム名 カラムの属性’)\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-813a-93d4-ed107157c27f",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81a9-8815-eb05c05791e9",
+    "data": "{\"language\":\"sql\",\"parent\":[\"CREATE TABLE users(’id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, email VARCHAR(100) UNIQUE’)\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-817d-9c70-f1caacbf3f6c",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81a9-8815-eb05c05791e9",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例：usersテーブルの作成\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8115-b84b-c20904ba75db",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データ保存\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-81bb-b8c2-e65a9e9a2768",
+    "type": "heading_3",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データ保存\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8173-9f59-df053024fad5",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8173-9f59-df053024fad5",
+    "data": "{\"language\":\"sql\",\"parent\":[\"INSERT INTO テーブル名(カラム名) VALUES (保存する値)\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-817b-9e08-d3518023d97b",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8173-9f59-df053024fad5",
+    "data": "{\"language\":\"sql\",\"parent\":[\"INSERT INTO users(name, email) VALUES (\\\"Sato\\\", \\\"hogehoge@gmail.com\\\")\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-81a8-bade-e479490ee677",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8173-9f59-df053024fad5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例：usersテーブルにデータを保存\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-814c-8e4e-f7bea428b3c5",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データ取得\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-811f-b8b0-e7fc230faae2",
+    "type": "heading_3",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カラム名を指定する\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8194-8ea5-c585aa40da4f",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8194-8ea5-c585aa40da4f",
+    "data": "{\"language\":\"sql\",\"parent\":[\"SELECT カラム名 FROM テーブル名\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-81bb-be0e-d806d82752b0",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8194-8ea5-c585aa40da4f",
+    "data": "{\"language\":\"sql\",\"parent\":[\"SELECT name FROM users\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-8158-95a3-e59195b7992f",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8194-8ea5-c585aa40da4f",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例：usersテーブルのカラムnameのデータを取得する\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8172-b132-db33a4859c4b",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テーブル内のすべてのデータを取得する\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8122-ae11-f7cee2fa0830",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8122-ae11-f7cee2fa0830",
+    "data": "{\"language\":\"sql\",\"parent\":[\"SELECT * FROM テーブル名\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-813d-944a-d2efec11dab1",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8122-ae11-f7cee2fa0830",
+    "data": "{\"language\":\"sql\",\"parent\":[\"SELECT * FROM users\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-8144-9af6-c1fa31d2ea07",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8122-ae11-f7cee2fa0830",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例：usersテーブルのすべてのデータを取得する\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8190-a296-eaecaf11d19a",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"どの行のデータを取得するか指定する\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81ab-8759-e6561658d6b6",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ab-8759-e6561658d6b6",
+    "data": "{\"language\":\"sql\",\"parent\":[\"SELECT カラム名 FROM テーブル名 WHERE 条件\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-81d2-925a-f3e2eacacea2",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ab-8759-e6561658d6b6",
+    "data": "{\"language\":\"sql\",\"parent\":[\"SELECT * FROM users WHERE id = 1\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-8149-b3c9-d0cfe9f295d4",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ab-8759-e6561658d6b6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例：usersテーブルの中のid=1の行のすべてのカラムのデータを取得する\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8158-a5d7-dd9aceeceff2",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データ編集\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-8173-84bc-d3c608dfaaac",
+    "type": "heading_3",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データ編集\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8171-94af-c8b47c82d4d0",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8171-94af-c8b47c82d4d0",
+    "data": "{\"language\":\"sql\",\"parent\":[\"UPDATE テーブル名 SET カラム名 = 値 WHERE 条件\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-81dc-8bb0-eacfb002bec3",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8171-94af-c8b47c82d4d0",
+    "data": "{\"language\":\"sql\",\"parent\":[\"UPDATE users SET name = \\\"Fujiwara\\\" WHERE id = 1\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-81df-9a04-f15c3f862761",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8171-94af-c8b47c82d4d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例：usersテーブルの中のid=1の行のデータのnameの値を編集する\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81ae-b071-d9ff8a2a2127",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データ削除\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-81fd-81d7-da90bd2b887c",
+    "type": "heading_3",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データ削除\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81ee-990a-dce668d2b628",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ee-990a-dce668d2b628",
+    "data": "{\"language\":\"sql\",\"parent\":[\"DELETE FROM テーブル名 WHERE 条件\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-811c-b86d-d7ed7b4a70eb",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ee-990a-dce668d2b628",
+    "data": "{\"language\":\"sql\",\"parent\":[\"DELETE FROM users SET WHERE id = 1\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-812c-ae7c-d5e0761bee3e",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81ee-990a-dce668d2b628",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例：usersテーブルの中のid=1の行のデータを削除する\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-815a-9fe1-e134fbf580ca",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"テーブルの編集\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-81d2-b532-c72bff90c9da",
+    "type": "heading_3",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"既存のテーブルのカラムを編集するには\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ALTER TABLE\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"文を使います。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8157-816c-cff9882861bb",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カラム名の変更\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8118-a5e2-e24cbd93974d",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8118-a5e2-e24cbd93974d",
+    "data": "{\"language\":\"sql\",\"parent\":[\"ALTER TABLE テーブル名 RENAME COLUMN 古いカラム名 TO 新しいカラム名\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-81c4-9a1c-e129df369919",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8118-a5e2-e24cbd93974d",
+    "data": "{\"language\":\"sql\",\"parent\":[\"ALTER TABLE users RENAME COLUMN name TO full_name\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-81e6-8f47-d2bf2219d39f",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8118-a5e2-e24cbd93974d",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例：usersテーブルのカラムnameをfull_nameに変更する\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81d9-9bd3-fe3ecf812167",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カラムの追加\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8144-961f-e2b3f5518ff6",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8144-961f-e2b3f5518ff6",
+    "data": "{\"language\":\"sql\",\"parent\":[\"ALTER TABLE テーブル名 ADD 新しいカラム名 データ型\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-818d-a31c-e536c10443d6",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8144-961f-e2b3f5518ff6",
+    "data": "{\"language\":\"sql\",\"parent\":[\"ALTER TABLE users ADD password VARCHAR(100)\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-8111-8287-c682af5b10cf",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8144-961f-e2b3f5518ff6",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例：usersテーブルのカラムpasswordを追加する\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81f9-8f46-faab0b88efda",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カラムの削除\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81e5-b6fb-f258790e4894",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81e5-b6fb-f258790e4894",
+    "data": "{\"language\":\"sql\",\"parent\":[\"ALTER TABLE テーブル名 DROP COLUMN カラム名;\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-8150-b4c1-cb79863a9faf",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81e5-b6fb-f258790e4894",
+    "data": "{\"language\":\"sql\",\"parent\":[\"ALTER TABLE users DROP COLUMN password;\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-81e1-995a-c33845c72a4a",
+    "type": "code",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81e5-b6fb-f258790e4894",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例：usersテーブルのカラムpasswordを削除する\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81af-8d24-fdbb9a5203e0",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8175-826a-d32ae9e3e34d",
+    "i": 2
+  }
+]

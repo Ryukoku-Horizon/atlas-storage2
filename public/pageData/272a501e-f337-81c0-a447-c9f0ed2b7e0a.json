@@ -1,0 +1,38 @@
+[
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81c0-a447-c9f0ed2b7e0a",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null}]}",
+    "blockId": "272a501e-f337-813a-8c69-e7b722f49f34",
+    "type": "callout",
+    "pageId": "272a501e-f337-81c0-a447-c9f0ed2b7e0a",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-813a-8c69-e7b722f49f34",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\nimport sqlite3\\n\\ndbname = 'sqlite3.db'\\n\\nclass Todo:\\n    def __init__(self, id=0, task='', isAchieved=False, created_at =''):\\n        self.id = id\\n        self.task = task\\n        self.isAchieved = isAchieved\\n        self.created_at = created_at\\n\\ndef main(page: ft.Page):\\n    appbar = ft.AppBar(\\n        center_title=True,\\n        title=ft.Text(value=\\\"TODOアプリ\\\"),\\n        bgcolor=ft.colors.BLACK12\\n    )\\n\\n    todo_list_control = ft.Column([])\\n\\n    def check_todo(e, isAchieved, id):\\n        if isAchieved:\\n            isAchieved = 0\\n        else:\\n            isAchieved = 1\\n        conn = sqlite3.connect(dbname)\\n        cur = conn.cursor()\\n        cur.execute('UPDATE todo SET isAchieved = ? WHERE id = ?',(isAchieved, id))\\n        conn.commit()\\n        cur.close()\\n        conn.close()\\n        fetch_todo()\\n\\n    def fetch_todo():\\n        conn = sqlite3.connect(dbname)\\n        cur = conn.cursor()\\n        cur.execute('SELECT * FROM todo')\\n        rows = cur.fetchall()\\n        todo_list = []\\n        for row in rows:\\n            todo = Todo(id=row[0],task=row[1],isAchieved=row[2] == 1,created_at=row[3])\\n            todo_list.append(todo)\\n        conn.commit()\\n        cur.close()\\n        conn.close()\\n        controls = []\\n        for todo in todo_list:\\n            text = ft.Text(todo.task)\\n            checkbox = ft.Checkbox(on_change=lambda e, isAchieved=todo.isAchieved, id=todo.id:check_todo(e, isAchieved,id))\\n            if todo.isAchieved:\\n                text.style = ft.TextStyle(decoration=ft.TextDecoration.LINE_THROUGH)\\n                checkbox.value = todo.isAchieved\\n            controls.append(\\n                ft.Row([\\n                    checkbox,\\n                    text,\\n                    ft.IconButton(icon=ft.icons.DELETE,on_click=lambda e,id=todo.id: delete_todo(e, id))\\n                ]))\\n        todo_list_control.controls = controls\\n        page.update()\\n\\n    def delete_todo(e, id):\\n        conn = sqlite3.connect(dbname)\\n        cur = conn.cursor()\\n        cur.execute('DELETE FROM todo WHERE id = ?',(id,))\\n        conn.commit()\\n        cur.close()\\n        conn.close()\\n        fetch_todo()\\n\\n    def create_todo(e, task):\\n        conn = sqlite3.connect(dbname)\\n        cur = conn.cursor()\\n        cur.execute('INSERT INTO todo(task) VALUES (?)',(task,))\\n        conn.commit()\\n        cur.close()\\n        conn.close()\\n        page.go(\\\"/\\\")\\n\\n    def route_change(e):\\n        template_route = ft.TemplateRoute(page.route)\\n\\n        if template_route.match(\\\"/create\\\"):\\n            createTextField = ft.TextField(hint_text=\\\"TODO\\\")\\n            appbar.leading = ft.IconButton(icon=ft.icons.ARROW_BACK, on_click=lambda _:page.go(\\\"/\\\"))\\n            page.views.append(\\n                ft.View(\\n                    \\\"/create\\\",\\n                    appbar=appbar,\\n                    controls=[\\n                        ft.Text(\\\"TODO作成\\\"),\\n                        createTextField,\\n                        ft.ElevatedButton(text=\\\"作成\\\",on_click=lambda e:create_todo(e, createTextField.value))\\n                    ]\\n                )\\n            )\\n        elif template_route.match(\\\"/\\\"):\\n            appbar.leading = ft.Text(\\\"\\\")\\n            floating_button = ft.FloatingActionButton(\\n                icon=ft.icons.ADD,\\n                bgcolor=ft.colors.BLUE_200,\\n                on_click=lambda _: page.go(\\\"/create\\\")\\n            )\\n            fetch_todo()\\n            page.views.append(\\n                ft.View(\\n                    \\\"/\\\",\\n                    appbar=appbar,\\n                    controls=[todo_list_control],\\n                    floating_action_button=floating_button\\n                )\\n            )\\n        page.update()\\n\\n    page.on_route_change = route_change\\n    page.go(page.route)\\n\\nft.app(main)a\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-81c2-a225-e7c360312ef8",
+    "type": "code",
+    "pageId": "272a501e-f337-81c0-a447-c9f0ed2b7e0a",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81c0-a447-c9f0ed2b7e0a",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"db.py\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81f4-aae9-da332318faa7",
+    "type": "callout",
+    "pageId": "272a501e-f337-81c0-a447-c9f0ed2b7e0a",
+    "i": 2
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81f4-aae9-da332318faa7",
+    "data": "{\"language\":\"python\",\"parent\":[\"import sqlite3\\n\\ndbname = 'sqlite3.db'\\nconn = sqlite3.connect(dbname)\\n\\ncur = conn.cursor()\\n\\ncur.execute(\\n    'CREATE TABLE todo(id INTEGER PRIMARY KEY AUTOINCREMENT, task STRING, isAchieved BOOLEAN DEFAULT FALSE, created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP)')\\n\\nconn.commit()\\n\\ncur.close()\\nconn.close()\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-81bc-9eda-e7020b03c6e6",
+    "type": "code",
+    "pageId": "272a501e-f337-81c0-a447-c9f0ed2b7e0a",
+    "i": 1
+  }
+]

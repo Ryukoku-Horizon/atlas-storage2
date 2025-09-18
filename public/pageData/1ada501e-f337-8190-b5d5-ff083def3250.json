@@ -1,0 +1,353 @@
+[
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回はpythonとそのライブラリであるsqlite3を使用して、データベースのデータを削除する方法を紹介します。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8110-a573-d6a17e2105ac",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データの削除方法\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-81b0-942b-e7b9b86b2388",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "_",
+    "blockId": "1ada501e-f337-8119-accd-d80d09c91f36",
+    "type": "divider",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 3
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データの削除方法を見ていきましょう。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8164-a7ac-d1fbff29743e",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 4
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データを削除するSQL文\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81d7-a959-f3e6c2f9e7dc",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 5
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81d7-a959-f3e6c2f9e7dc",
+    "data": "{\"language\":\"sql\",\"parent\":[\"DELETE FROM テーブル名 WHERE 条件\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-8157-8c72-c31b92da7617",
+    "type": "code",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データを削除するときは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"DELETE\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" を使います。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-810f-860c-ec9049e13885",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 6
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"FROM テーブル名\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で、どのテーブルかを指定します。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81e7-a093-f9e58f57c5dd",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 7
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"WHERE 条件\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で、どの行のデータを削除するかを指定します。\\n\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"WHERE\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"句がなければ、テーブル内のすべての行のデータが削除されてしまうので、基本的に必ずつけるようにしましょう。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-812b-9166-c4fca15ed7f1",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 8
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実際にデータを削除してみよう\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-8188-ae91-fe00ce5afd31",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 9
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "_",
+    "blockId": "1ada501e-f337-8156-a2db-e0f16ce554df",
+    "type": "divider",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 10
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"blue\"},\"plain_text\":\"データの保存(Create)\",\"href\":\"/posts/curriculums/1ada501e-f337-8124-834c-d232ae4e3855\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」で保存したデータを削除してみましょう。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81f3-a336-f5d98b1e9fff",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 11
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"新たにdelete.pyというファイルを作成してください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81f1-a2d2-e5146bdbf9ab",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 12
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"delete.pyの内容を以下のようにしてください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81f0-b83f-cb035251b62e",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 13
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"delete.py\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8156-80ff-c834dde299f6",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 14
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8156-80ff-c834dde299f6",
+    "data": "{\"language\":\"python\",\"parent\":[\"import sqlite3\\n\\ndbname = 'TEST.db'\\nconn = sqlite3.connect(dbname)\\ncur = conn.cursor()\\n\\n# データを削除する\",\"\\n\",\"cur.execute('DELETE FROM person WHERE id = 1')\\n\\nconn.commit()\\n\\ncur.close()\\nconn.close()\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-8197-9efd-ca4337b7b516",
+    "type": "code",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"delete.pyを実行してください。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81ec-8f7b-caa021aa5d71",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 15
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"TEST.dbの内容が以下のようになっていれば削除に成功です。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81e0-a872-d5064aa91ade",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 16
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/1ada501e-f337-81e8-b251-df0f38a0cb23/image/1ada501e-f337-81b5-ba31-f1be2d5bd661.png\"}",
+    "blockId": "1ada501e-f337-81b5-ba31-f1be2d5bd661",
+    "type": "image",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 17
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コードを見ていきましょう。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8127-8263-e68ef6185001",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 18
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"SQL文は以下のようになっています。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81a7-b6c7-ea3ae272775f",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 19
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"language\":\"sql\",\"parent\":[\"DELETE FROM person WHERE id = 1\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-8122-b781-fc6363a63858",
+    "type": "code",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 20
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"DELETE\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"でデータを削除することを示しています。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81fb-9861-d9c6c47e2c8d",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 21
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"FROM person\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で、対象がpersonテーブルであることを示しています。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81f3-9795-f1d9569b3bd9",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 22
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"WHERE id = 1\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" で、対象が\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"id=1\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の行であることを示しています。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8191-b925-ec3eae517efd",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 23
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"任意のデータを扱う\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "1ada501e-f337-814e-b1df-c8d2c5f198ec",
+    "type": "heading_2",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 24
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "_",
+    "blockId": "1ada501e-f337-817f-bee2-ebb6d8cbef97",
+    "type": "divider",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 25
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データの削除をより実用的に扱う場合、任意の行のデータを削除できる必要があります。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81e4-a7e9-f7d57f327f58",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 26
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"任意の行のデータを削除する方法を見ていきましょう。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81c1-aac1-c3552b056429",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 27
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例：任意のidの行を削除する\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-812d-adc0-f246eac944d5",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 28
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-812d-adc0-f246eac944d5",
+    "data": "{\"language\":\"python\",\"parent\":[\"cur.execute('DELETE FROM テーブル名 WHERE id = ?', (削除したい行のid,))\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-81f7-9191-f2ed30905b14",
+    "type": "code",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-812d-adc0-f246eac944d5",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"🛑 \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"cur\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" = \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"cursor\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"オブジェクト\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8183-84f4-cb8050d31a4c",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 2
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えば、personテーブルで、任意のidの行のデータを削除したければ、以下のようなコードになります。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8178-9d84-fa0509825ab2",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 29
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"personテーブルで任意のidの行のデータを削除する\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-81c5-bfac-c2abcd8c0040",
+    "type": "callout",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 30
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-81c5-bfac-c2abcd8c0040",
+    "data": "{\"language\":\"python\",\"parent\":[\"import sqlite3\\n\\ndbname = 'TEST.db'\\nconn = sqlite3.connect(dbname)\\ncur = conn.cursor()\\n\\n# 任意の値を入れる\",\"\\n\",\"target_id = 1\",\"\\n\\n\",\"# データを削除する\",\"\\n\",\"cur.execute('DELETE FROM person WHERE id = ?', (target_id, ))\\n\\nconn.commit()\\n\\ncur.close()\\nconn.close()\"],\"caption\":[]}",
+    "blockId": "1ada501e-f337-81e0-88f4-c5688cb9ebe6",
+    "type": "code",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 1
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このコードでは、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"target_id\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の値によって、任意のidの行を削除できます。\",\"href\":null}]}",
+    "blockId": "1ada501e-f337-8134-96f8-f116ecb16bf1",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 31
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1ada501e-f337-81c6-a453-eb0b9463d1a5",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 32
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次→\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"CRUD操作を使い回せるようにしよう\",\"href\":\"/posts/curriculums/1ada501e-f337-81d2-8f41-cd45c5a72b38\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/sliders-horizontal_blue.svg\",\"iconType\":\"external\",\"title\":\"CRUD操作を使い回せるようにしよう\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "1ada501e-f337-814a-b835-fa343cdfc1a4",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 33
+  },
+  {
+    "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
+    "parentId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "1ada501e-f337-81e0-8493-d25198cdca22",
+    "type": "paragraph",
+    "pageId": "1ada501e-f337-8190-b5d5-ff083def3250",
+    "i": 34
+  }
+]

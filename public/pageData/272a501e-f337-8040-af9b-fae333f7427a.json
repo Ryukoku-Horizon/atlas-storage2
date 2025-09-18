@@ -1,0 +1,119 @@
+[
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ここでは、アプリケーションを設計する際に必要となるアプリケーションアーキテクチャの基礎を学べます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-80d3-b0ca-c4b7787b043e",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "272a501e-f337-806b-9933-ce054648f84b",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "i": 2
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Section1：基本情報\",\"href\":null}]}",
+    "blockId": "272a501e-f337-800e-a312-cc759fe5f747",
+    "type": "quote",
+    "pageId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "i": 3
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-800e-a312-cc759fe5f747",
+    "data": "{\"parent\":\"アプリケーションアーキテクチャとは\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/question-mark_pink.svg\",\"coverUrl\":\"\"}",
+    "blockId": "272a501e-f337-81dc-8baa-c66b37fc5454",
+    "type": "child_page",
+    "pageId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-800e-a312-cc759fe5f747",
+    "data": "{\"parent\":\"MVCについて\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/list-indent_pink.svg\",\"coverUrl\":\"\"}",
+    "blockId": "272a501e-f337-814b-9fd0-cd3ad7f764b5",
+    "type": "child_page",
+    "pageId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "i": 2
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Section2：FletでTodoアプリを作ってMVCを学ぼう\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8081-b041-d471cbc6b775",
+    "type": "quote",
+    "pageId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "i": 4
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8081-b041-d471cbc6b775",
+    "data": "{\"parent\":\"View層を作る\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/preview_pink.svg\",\"coverUrl\":\"\"}",
+    "blockId": "272a501e-f337-81b4-ab85-c626f335c399",
+    "type": "child_page",
+    "pageId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "i": 6
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8081-b041-d471cbc6b775",
+    "data": "{\"parent\":\"ロジックを作る\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/branch-create_pink.svg\",\"coverUrl\":\"\"}",
+    "blockId": "272a501e-f337-81ad-ab70-e985dba92d6d",
+    "type": "child_page",
+    "pageId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "i": 3
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8081-b041-d471cbc6b775",
+    "data": "{\"parent\":\"Model層を作る\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/database_pink.svg\",\"coverUrl\":\"\"}",
+    "blockId": "272a501e-f337-81ca-a5c3-c4263114cacd",
+    "type": "child_page",
+    "pageId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "i": 4
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8081-b041-d471cbc6b775",
+    "data": "{\"parent\":\"Controller層を作る\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/video-game-classic_pink.svg\",\"coverUrl\":\"\"}",
+    "blockId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "type": "child_page",
+    "pageId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "i": 5
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8081-b041-d471cbc6b775",
+    "data": "{\"parent\":\"FletでTodoアプリを作ってMVCを学ぼう\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/soccer_pink.svg\",\"coverUrl\":\"\"}",
+    "blockId": "272a501e-f337-81d0-84bb-fc2e5f939f86",
+    "type": "child_page",
+    "pageId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8081-b041-d471cbc6b775",
+    "data": "{\"parent\":\"UIを作る\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/code-scan_pink.svg\",\"coverUrl\":\"\"}",
+    "blockId": "272a501e-f337-8192-97bb-c044d7ec9435",
+    "type": "child_page",
+    "pageId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "i": 2
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "272a501e-f337-8035-bdfd-eea953ecf09b",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "i": 5
+  }
+]

@@ -160,5 +160,11 @@
     "name": "Docker",
     "color": "blue",
     "description": null
+  },
+  {
+    "id": "f403a0bf-a7ee-4970-9930-eefa24cb4ea3",
+    "name": "アーキテクチャ",
+    "color": "yellow",
+    "description": null
   }
 ]

@@ -1,0 +1,173 @@
+[
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回はpythonの\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"lambda\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"式について説明します。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8071-b832-f62bf3387224",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"lambda式の基本\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-807b-a8a3-ee955eab472b",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "data": "_",
+    "blockId": "272a501e-f337-809a-afc1-e522b7a85bb2",
+    "type": "divider",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"lambda\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"式は、関数を作るための短縮記法です。通常の関数定義と異なり、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"lambda\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"式は一行で書け、関数名を省略することができます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-802b-aa9a-f1a8f59b138c",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 4
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"基本構文\",\"href\":null}]}",
+    "blockId": "272a501e-f337-806f-be3f-ffae6fb46fd0",
+    "type": "callout",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 5
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-806f-be3f-ffae6fb46fd0",
+    "data": "{\"language\":\"python\",\"parent\":[\"lambda 引数:処理内容\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-804b-bf0d-d53948957d57",
+    "type": "code",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"引数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\": 関数に渡す引数。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-80cc-8d18-e912b4983130",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 6
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"式\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\": 関数が返す結果（通常、1つの式のみ）。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8095-8635-fe4536ed48f8",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 7
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"引数がない場合は引数の部分に\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"_\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"（アンダーバー）を使います\",\"href\":null}]}",
+    "blockId": "272a501e-f337-80ba-a7c4-d0fadc16b1a5",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 8
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"引数がない場合\",\"href\":null}]}",
+    "blockId": "272a501e-f337-80bf-98d1-ec0de3042189",
+    "type": "callout",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 9
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80bf-98d1-ec0de3042189",
+    "data": "{\"language\":\"python\",\"parent\":[\"lambda _:処理内容\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-808f-9d91-fe11fa6786ce",
+    "type": "code",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"使用例\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-8076-9f7b-e7977b771f50",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 10
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "data": "_",
+    "blockId": "272a501e-f337-808a-8165-e7143445ee8c",
+    "type": "divider",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 11
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"lambda式の具体的な使用例を示します。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-808d-b19a-f9109d4a38da",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 12
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2つの引数を受け取って、その和を返す関数\",\"href\":null}]}",
+    "blockId": "272a501e-f337-803c-99df-fbbaa9db9342",
+    "type": "callout",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 13
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-803c-99df-fbbaa9db9342",
+    "data": "{\"language\":\"python\",\"parent\":[\"add = lambda x, y: x + y\\nprint(add(3, 5))  # 8\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-80f9-be5d-d21726cf0970",
+    "type": "code",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"リスト内の各要素を2倍にする関数\",\"href\":null}]}",
+    "blockId": "272a501e-f337-80ec-9ef5-eb839aaafb81",
+    "type": "callout",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 14
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80ec-9ef5-eb839aaafb81",
+    "data": "{\"language\":\"python\",\"parent\":[\"nums = [1, 2, 3, 4]\\ndoubled = list(map(lambda x: x * 2, nums))\\nprint(doubled)  # [2, 4, 6, 8]\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-80d5-a276-d81b3fb1db05",
+    "type": "code",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "272a501e-f337-802f-b0b7-d6350f2c2034",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "i": 15
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8147-9e86-c4e04724719e",
+    "type": "callout",
+    "pageId": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8147-9e86-c4e04724719e",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\nfrom lib.controllers import todoController as con\\n\\ndef main(page: ft.Page):\\n    appbar = ft.AppBar(\\n        center_title=True,\\n        title=ft.Text(value=\\\"TODOアプリ\\\"),\\n        bgcolor=ft.colors.BLACK12\\n    )\\n\\n    def route_change(e):\\n        template_route = ft.TemplateRoute(page.route)\\n\\n        if template_route.match(\\\"/create\\\"):\\n            createTextField = ft.TextField(hint_text=\\\"TODO\\\")\\n            appbar.leading = ft.IconButton(icon=ft.icons.ARROW_BACK, on_click=lambda _:page.go(\\\"/\\\"))\\n            page.views.append(\\n                ft.View(\\n                    \\\"/create\\\",\\n                    appbar=appbar,\\n                    controls=[\\n                        ft.Text(\\\"TODO作成\\\"),\\n                        createTextField,\\n                        ft.ElevatedButton(text=\\\"作成\\\",on_click=lambda e:con.create_todo(e, createTextField.value, page))\\n                    ]\\n                )\\n            )\\n        elif template_route.match(\\\"/\\\"):\\n            appbar.leading = ft.Text(\\\"\\\")\\n            floating_button = ft.FloatingActionButton(\\n                icon=ft.icons.ADD,\\n                bgcolor=ft.colors.BLUE_200,\\n                on_click=lambda _: page.go(\\\"/create\\\")\\n            )\\n            con.fetch_todo(page)\\n            page.views.append(\\n                ft.View(\\n                    \\\"/\\\",\\n                    appbar=appbar,\\n                    controls=[con.todo_list_control],\\n                    floating_action_button=floating_button\\n                )\\n            )\\n        page.update()\\n\\n    page.on_route_change = route_change\\n    page.go(page.route)\\n\\nft.app(main)\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-81cd-9365-d00f594640a1",
+    "type": "code",
+    "pageId": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"todoController.py\",\"href\":null}]}",
+    "blockId": "272a501e-f337-816b-a0cc-d9fc093e638b",
+    "type": "callout",
+    "pageId": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "i": 2
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-816b-a0cc-d9fc093e638b",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\nfrom lib.models import todoGateway as gate\\nfrom lib.models.todoModel import Todo\\n\\ntodo_list_control = ft.Column()\\n\\ndef create_todo(e, task, page):\\n    gate.save_todo(task)\\n    page.go(\\\"/\\\")\\n\\ndef fetch_todo(page):\\n    rows = gate.get_todo()\\n    todo_list = []\\n    for row in rows:\\n        todo = Todo(id=row[0],task=row[1],isAchieved=row[2] == 1,created_at=row[3])\\n        todo_list.append(todo)\\n    controls = []\\n    for todo in todo_list:\\n        text = ft.Text(todo.task)\\n        checkbox = ft.Checkbox(on_change=lambda e, isAchieved=todo.isAchieved, id=todo.id:check_todo(e, isAchieved, id, page))\\n        if todo.isAchieved:\\n            text.style = ft.TextStyle(decoration=ft.TextDecoration.LINE_THROUGH)\\n            checkbox.value = todo.isAchieved\\n        controls.append(\\n            ft.Row([\\n                checkbox,\\n                text,\\n                ft.IconButton(icon=ft.icons.DELETE,on_click=lambda e,id=todo.id: delete_todo(e, id, page))\\n            ]))\\n    todo_list_control.controls = controls\\n    page.update()\\n\\ndef delete_todo(e, id, page):\\n    gate.delete_todo(id)\\n    fetch_todo(page)\\n\\ndef check_todo(e, isAchieved, id, page):\\n    if isAchieved:\\n        isAchieved = 0\\n    else:\\n        isAchieved = 1\\n    gate.check_todo(isAchieved, id)\\n    fetch_todo(page)\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-8175-8311-c7769833b3be",
+    "type": "code",
+    "pageId": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"todoModel.py\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8198-aa6b-e19a12b98d37",
+    "type": "callout",
+    "pageId": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "i": 3
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8198-aa6b-e19a12b98d37",
+    "data": "{\"language\":\"python\",\"parent\":[\"class Todo:\\n    def __init__(self, id=0, task='', isAchieved=False, created_at =''):\\n        self.id = id\\n        self.task = task\\n        self.isAchieved = isAchieved\\n        self.created_at = created_at\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-8166-afd9-e70eb3250ebb",
+    "type": "code",
+    "pageId": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"todoGateway.py\",\"href\":null}]}",
+    "blockId": "272a501e-f337-817a-9cb3-daede9089ad7",
+    "type": "callout",
+    "pageId": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "i": 4
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-817a-9cb3-daede9089ad7",
+    "data": "{\"language\":\"python\",\"parent\":[\"import sqlite3\\n\\ndbname = 'sqlite3.db'\\n\\ndef get_todo():\\n    conn = sqlite3.connect(dbname)\\n    cur = conn.cursor()\\n    cur.execute('SELECT * FROM todo')\\n    rows = cur.fetchall()\\n    conn.commit()\\n    cur.close()\\n    conn.close()\\n    return rows\\n\\ndef save_todo(task):\\n    conn = sqlite3.connect(dbname)\\n    cur = conn.cursor()\\n    cur.execute('INSERT INTO todo(task) VALUES (?)',(task,))\\n    conn.commit()\\n    cur.close()\\n    conn.close()\\n\\ndef delete_todo(id):\\n    conn = sqlite3.connect(dbname)\\n    cur = conn.cursor()\\n    cur.execute('DELETE FROM todo WHERE id = ?',(id,))\\n    conn.commit()\\n    cur.close()\\n    conn.close()\\n\\ndef check_todo(isAchieved, id):\\n    conn = sqlite3.connect(dbname)\\n    cur = conn.cursor()\\n    cur.execute('UPDATE todo SET isAchieved = ? WHERE id = ?',(isAchieved, id))\\n    conn.commit()\\n    cur.close()\\n    conn.close()\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-8122-a330-ee9da3630b07",
+    "type": "code",
+    "pageId": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"db.py\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81cf-88e3-f26ab71d4bbc",
+    "type": "callout",
+    "pageId": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "i": 5
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81cf-88e3-f26ab71d4bbc",
+    "data": "{\"language\":\"python\",\"parent\":[\"import sqlite3\\n\\ndbname = 'sqlite3.db'\\nconn = sqlite3.connect(dbname)\\n\\ncur = conn.cursor()\\n\\ncur.execute(\\n    'CREATE TABLE todo(id INTEGER PRIMARY KEY AUTOINCREMENT, task STRING, isAchieved BOOLEAN DEFAULT FALSE, created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP)')\\n\\nconn.commit()\\n\\ncur.close()\\nconn.close()\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-8172-b74d-e46a70c7965e",
+    "type": "code",
+    "pageId": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "i": 1
+  }
+]

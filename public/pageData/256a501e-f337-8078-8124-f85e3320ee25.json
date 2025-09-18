@@ -1,0 +1,191 @@
+[
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このページにまとめたカリキュラムは、必須ではありません。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-80b8-866a-c124d569a6f0",
+    "type": "paragraph",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"color\":\"green_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"もし時間があったら取り組んでみてください。プログラミングへの知見が深まったり、チーム開発での幅が広がるかもしれません！\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8092-98ec-d076ea511eef",
+    "type": "callout",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Python\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-8011-9b96-f2437f88d9ac",
+    "type": "heading_1",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "_",
+    "blockId": "272a501e-f337-8014-ae1a-f47bd6081a50",
+    "type": "divider",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 4
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラスの継承\",\"href\":\"/posts/curriculums/26ea501e-f337-803a-993a-f4e422180074\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/skip-forward_pink.svg\",\"iconType\":\"external\",\"title\":\"クラスの継承\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "272a501e-f337-8039-9231-fcff4c776e1a",
+    "type": "paragraph",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 5
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"lambda式\",\"href\":\"/posts/curriculums/272a501e-f337-80b3-b5fa-dbe1df070583\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/battery_orange.svg\",\"iconType\":\"external\",\"title\":\"lambda式\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "272a501e-f337-8043-9481-fbd8e593f6df",
+    "type": "paragraph",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 6
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例外処理\",\"href\":\"/posts/curriculums/272a501e-f337-8046-9e42-d990642e19bf\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/report_yellow.svg\",\"iconType\":\"external\",\"title\":\"例外処理\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "272a501e-f337-8041-9f81-dc8b6ce7c988",
+    "type": "paragraph",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 7
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タプル型\",\"href\":\"/posts/curriculums/272a501e-f337-8026-b170-d8a3ae12483e\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/grid-wide_lightgray.svg\",\"iconType\":\"external\",\"title\":\"タプル型\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "272a501e-f337-8045-b006-fc7c40a50cbb",
+    "type": "paragraph",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 8
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Flet\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-80d3-ac33-f0bbc36896b0",
+    "type": "heading_1",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 9
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "_",
+    "blockId": "272a501e-f337-80bd-83e0-ee224277aaa8",
+    "type": "divider",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 10
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Imageコントロール\",\"href\":\"/posts/curriculums/263a501e-f337-8041-a746-ebebfc015bcf\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/photo-landscape_green.svg\",\"iconType\":\"external\",\"title\":\"Image\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "272a501e-f337-8026-a45e-e20ff26da3c1",
+    "type": "paragraph",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 11
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"カスタムコントロール\",\"href\":\"/posts/curriculums/264a501e-f337-809b-8603-f6187c3ea3ec\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/skip-forward_purple.svg\",\"iconType\":\"external\",\"title\":\"カスタムコントロール\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "272a501e-f337-80cd-9085-c602fb7955a6",
+    "type": "paragraph",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 12
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"動的ルーティング\",\"href\":\"/posts/curriculums/267a501e-f337-8003-80a5-d685df0acc48\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"🍭\",\"iconType\":\"emoji\",\"title\":\"動的ルーティング\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "272a501e-f337-80f5-b287-c80ef469cb79",
+    "type": "paragraph",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 13
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"発展\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-8083-96ae-f668fbe28671",
+    "type": "heading_1",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 14
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "_",
+    "blockId": "272a501e-f337-8088-9b6c-ee4250a2703b",
+    "type": "divider",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 15
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"💪\"},\"color\":\"blue_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下のページはより発展的な内容になりますが、PythonやFletといった枠にとらわれない実用的かつ便利な知識が身につきます。アプリのレベルも一段上がること間違いナシ！\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8004-b552-c6a63bc23239",
+    "type": "callout",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 16
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"⇩永続的なデータ保存（セーブ）が可能に\",\"href\":null}]}",
+    "blockId": "272a501e-f337-80cd-afbf-d838d1b1dd39",
+    "type": "paragraph",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 17
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データベース基礎\",\"href\":\"/posts/curriculums/1ada501e-f337-81e8-b251-df0f38a0cb23\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/database_blue.svg\",\"iconType\":\"external\",\"title\":\"データベース基礎\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "272a501e-f337-8055-8207-da1d4768e977",
+    "type": "paragraph",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 18
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "272a501e-f337-803f-831c-e5e28fff2287",
+    "type": "paragraph",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 19
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"⇩より「キレイ」なコードでアプリを作れるように\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8026-8a65-dc28d2e8ab35",
+    "type": "paragraph",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 20
+  },
+  {
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アプリケーションアーキテクチャ基礎\",\"href\":\"/posts/curriculums/272a501e-f337-8040-af9b-fae333f7427a\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/hammer_pink.svg\",\"iconType\":\"external\",\"title\":\"アプリケーションアーキテクチャ基礎\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "272a501e-f337-8091-bf55-cac006b6f624",
+    "type": "paragraph",
+    "pageId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "i": 21
+  }
+]

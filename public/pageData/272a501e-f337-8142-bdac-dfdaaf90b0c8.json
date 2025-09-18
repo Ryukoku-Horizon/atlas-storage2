@@ -1,0 +1,605 @@
+[
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回はController層を作成します。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81aa-90e0-e30e775898ea",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/folder_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Controller層\",\"href\":null}]}",
+    "blockId": "272a501e-f337-810b-8e99-e0d5faf66c4a",
+    "type": "callout",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 2
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-810b-8e99-e0d5faf66c4a",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/272a501e-f337-8040-af9b-fae333f7427a/image/272a501e-f337-81a5-9f20-c2796f9b3fa5.png\"}",
+    "blockId": "272a501e-f337-81a5-9f20-c2796f9b3fa5",
+    "type": "image",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Controller層の役割\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-81bb-899e-c3e372c0214a",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 3
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "_",
+    "blockId": "272a501e-f337-81ff-bc13-de7ba830c9a9",
+    "type": "divider",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 4
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Controller層は主に以下の責務を担います。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8186-b4a2-eaaba6c49d8b",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 5
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ユーザーからの入力を受け取る\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81d9-a175-e43238df4344",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 6
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データの加工\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81cf-9b77-eab5d257ed96",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 7
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"データをViewに渡す\",\"href\":null}]}",
+    "blockId": "272a501e-f337-814d-80c4-ce9eed1e1f87",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 8
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回のTodoアプリの場合、早い話がModel層で行う処理を除いたほぼ全てのロジック部分がController層になります。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8141-ade2-f0ca2a4fefb8",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 9
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"依存関係\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-81ba-9e8f-e07dac4f1137",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 10
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "_",
+    "blockId": "272a501e-f337-8176-8ea4-c908ce88ca56",
+    "type": "divider",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 11
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まず、Controller層はModel層に依存するので、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"todoController.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の上部でModel層のモジュールとクラスを\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"import\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"しましょう。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-812f-86a2-ea311b459491",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 12
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"todoController.py\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81be-8a0a-f7a4e405b21d",
+    "type": "callout",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 13
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81be-8a0a-f7a4e405b21d",
+    "data": "{\"language\":\"python\",\"parent\":[\"from lib.models import todoGateway as gate\\nfrom lib.models.todoModel import Todo\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-81e1-9d99-c5a9a2a81e2b",
+    "type": "code",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"なお、今回のTodoアプリでは、Controller層をView層に依存させずに作ることができるので、依存させずに作成します。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8197-97c6-cb325efe3c06",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 14
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"よって、今回のTodoアプリの依存関係は以下のように一方通行となります。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81e3-aa18-c0a0b19b6b6a",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 15
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/sliders-horizontal_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"依存関係\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81cd-8093-dd1f1bf9bb20",
+    "type": "callout",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 16
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81cd-8093-dd1f1bf9bb20",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/272a501e-f337-8040-af9b-fae333f7427a/image/272a501e-f337-813a-9e21-c7076c56b877.png\"}",
+    "blockId": "272a501e-f337-813a-9e21-c7076c56b877",
+    "type": "image",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ロジック部分を取り出す\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-81ec-a005-d0159688a403",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 17
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "_",
+    "blockId": "272a501e-f337-8195-8821-e9605894b632",
+    "type": "divider",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 18
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"それでは、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"からロジック部分を取り出し、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"todoController.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に移動させましょう。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8106-abff-c76f290edac6",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 19
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のロジック部分に当たるのは以下の部分です。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8183-b308-df8d13a0fa71",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 20
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"のロジック部分\",\"href\":null}]}",
+    "blockId": "272a501e-f337-815c-923f-d8d0bf4f976d",
+    "type": "callout",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 21
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-815c-923f-d8d0bf4f976d",
+    "data": "{\"language\":\"python\",\"parent\":[\"def check_todo(e, isAchieved, id):\\n    if isAchieved:\\n        isAchieved = 0\\n    else:\\n        isAchieved = 1\\n    gate.check_todo(isAchieved, id)\\n    fetch_todo()\\n\\ndef fetch_todo():\\n    rows = gate.get_todo()\\n    todo_list = []\\n    for row in rows:\\n        todo = Todo(id=row[0],task=row[1],isAchieved=row[2] == 1,created_at=row[3])\\n        todo_list.append(todo)\\n    controls = []\\n    for todo in todo_list:\\n        text = ft.Text(todo.task)\\n        checkbox = ft.Checkbox(on_change=lambda e, isAchieved=todo.isAchieved, id=todo.id:check_todo(e, isAchieved,id))\\n        if todo.isAchieved:\\n            text.style = ft.TextStyle(decoration=ft.TextDecoration.LINE_THROUGH)\\n            checkbox.value = todo.isAchieved\\n        controls.append(\\n            ft.Row([\\n                checkbox,\\n                text,\\n                ft.IconButton(icon=ft.icons.DELETE,on_click=lambda e,id=todo.id: delete_todo(e, id))\\n            ]))\\n    todo_list_control.controls = controls\\n    page.update()\\n\\ndef delete_todo(e, id):\\n    gate.delete_todo(id)\\n    fetch_todo()\\n\\ndef create_todo(e, task):\\n    gate.save_todo(task)\\n    page.go(\\\"/\\\")\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-8118-8256-e47a3614099c",
+    "type": "code",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これを全て\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"todoController.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に移動させましょう。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8169-9271-d88333bcb4c4",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 22
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"今回は上述した通り、Controller層をView層に依存させずに作成します。そのために、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"todo_list_control = ft.Column([])\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" の部分も\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"todoController.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に移動させましょう。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8195-b6d0-e3f1cb454182",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 23
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"todoController.py\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8101-9ce7-cb4ed1fbaaf1",
+    "type": "callout",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 24
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8101-9ce7-cb4ed1fbaaf1",
+    "data": "{\"language\":\"python\",\"parent\":[\"todo_list_control = ft.Column([])\\n\\ndef check_todo(e, isAchieved, id):\\n    if isAchieved:\\n        isAchieved = 0\\n    else:\\n        isAchieved = 1\\n    gate.check_todo(isAchieved, id)\\n    fetch_todo()\\n\\ndef fetch_todo():\\n    rows = gate.get_todo()\\n    todo_list = []\\n    for row in rows:\\n        todo = Todo(id=row[0],task=row[1],isAchieved=row[2] == 1,created_at=row[3])\\n        todo_list.append(todo)\\n    controls = []\\n    for todo in todo_list:\\n        text = ft.Text(todo.task)\\n        checkbox = ft.Checkbox(on_change=lambda e, isAchieved=todo.isAchieved, id=todo.id:check_todo(e, isAchieved,id))\\n        if todo.isAchieved:\\n            text.style = ft.TextStyle(decoration=ft.TextDecoration.LINE_THROUGH)\\n            checkbox.value = todo.isAchieved\\n        controls.append(\\n            ft.Row([\\n                checkbox,\\n                text,\\n                ft.IconButton(icon=ft.icons.DELETE,on_click=lambda e,id=todo.id: delete_todo(e, id))\\n            ]))\\n    todo_list_control.controls = controls\\n    page.update()\\n\\ndef delete_todo(e, id):\\n    gate.delete_todo(id)\\n    fetch_todo()\\n\\ndef create_todo(e, task):\\n    gate.save_todo(task)\\n    page.go(\\\"/\\\")\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-81e4-8aa7-faae7e73a92d",
+    "type": "code",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ロジック部分に必要なデータを引き渡す\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-81d2-83bf-c0231bd75b99",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 25
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "_",
+    "blockId": "272a501e-f337-810d-9d74-dbf325572d3a",
+    "type": "divider",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 26
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Controller層には、View層から受け取らなければならない値がいくつかあります。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8158-a4dc-f2f81ef6e954",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 27
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"例えば、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"create_todo関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を見ましょう。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81d5-b548-dd0e92267a75",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 28
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"create_todo関数\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8126-8be2-e6a1cdc29d84",
+    "type": "callout",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 29
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8126-8be2-e6a1cdc29d84",
+    "data": "{\"language\":\"python\",\"parent\":[\"def create_todo(e, task):\\n    gate.save_todo(task)\\n    page.go(\\\"/\\\")\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-8114-8442-cf90068b5341",
+    "type": "code",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"create_todo関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は、イベント引数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"e\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"とユーザーが入力した\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"task\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を受け取っています。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8174-a31c-e2e49e8dc3dd",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 30
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"しかし、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"create_todo関数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"には\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.go(”/”)\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"がありますが、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"が定義されていません。ですので、新たに引数として\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を受け取る必要があります。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8138-9621-f30b2d39ccdc",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 31
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そして、他の関数でも\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は使われているので、Controller層のほとんどの関数では\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を受け取る必要があります。そうすると、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"todoController.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は以下のようになります。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8150-bab4-f2359c4015dd",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 32
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"main.pyの整理\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-8141-ad57-d4401f10a43f",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 33
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "_",
+    "blockId": "272a501e-f337-8149-8137-c2629c16700d",
+    "type": "divider",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 34
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"不要な部分を取り除く\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-8189-98c9-d49dd1acc209",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 35
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"todoController.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に移動させたロジック部分を\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"から削除しましょう。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81a7-be84-c9c341271073",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 36
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"そうすると、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は以下のようになります。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8129-8f39-f5e16d17ae74",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 37
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8199-bb12-d045c223505e",
+    "type": "callout",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 38
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8199-bb12-d045c223505e",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\nfrom lib.models import todoGateway as gate\\nfrom lib.models.todoModel import Todo\\n\\ndef main(page: ft.Page):\\n    appbar = ft.AppBar(\\n        center_title=True,\\n        title=ft.Text(value=\\\"TODOアプリ\\\"),\\n        bgcolor=ft.colors.BLACK12\\n    )\\n\\n    def route_change(e):\\n        template_route = ft.TemplateRoute(page.route)\\n\\n        if template_route.match(\\\"/create\\\"):\\n            createTextField = ft.TextField(hint_text=\\\"TODO\\\")\\n            appbar.leading = ft.IconButton(icon=ft.icons.ARROW_BACK, on_click=lambda _:page.go(\\\"/\\\"))\\n            page.views.append(\\n                ft.View(\\n                    \\\"/create\\\",\\n                    appbar=appbar,\\n                    controls=[\\n                        ft.Text(\\\"TODO作成\\\"),\\n                        createTextField,\\n                        ft.ElevatedButton(text=\\\"作成\\\",on_click=lambda e:create_todo(e, createTextField.value))\\n                    ]\\n                )\\n            )\\n        elif template_route.match(\\\"/\\\"):\\n            appbar.leading = ft.Text(\\\"\\\")\\n            floating_button = ft.FloatingActionButton(\\n                icon=ft.icons.ADD,\\n                bgcolor=ft.colors.BLUE_200,\\n                on_click=lambda _: page.go(\\\"/create\\\")\\n            )\\n            fetch_todo()\\n            page.views.append(\\n                ft.View(\\n                    \\\"/\\\",\\n                    appbar=appbar,\\n                    controls=[con.todo_list_control],\\n                    floating_action_button=floating_button\\n                )\\n            )\\n        page.update()\\n\\n    page.on_route_change = route_change\\n    page.go(page.route)\\n\\nft.app(main)\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-8117-a3d4-ede955dacc66",
+    "type": "code",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次に、Model層からの\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"import\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は不要なので、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の以下の部分を削除しましょう。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8123-a212-d01c4a218b1e",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 39
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"不要な\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"import\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81a8-9e6f-d45850782cff",
+    "type": "callout",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 40
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81a8-9e6f-d45850782cff",
+    "data": "{\"language\":\"python\",\"parent\":[\"from lib.models import todoGateway as gate\\nfrom lib.models.todoModel import Todo\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-817a-abcb-cf8297721158",
+    "type": "code",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"さて、不要な部分を取り除くことができました。次に必要な部分を足していきましょう。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81dd-bb6b-c40e1a68a295",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 41
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"必要な部分を足す\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-81ba-9038-fa514ee8dc1a",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 42
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"まず、ロジック部分をController層に移動させましたので、Controller層からモジュールを\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"import\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"しましょう。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81b5-9edb-c9e67b870478",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 43
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"モジュールをimport\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81ce-9542-e9c11f7a9821",
+    "type": "callout",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 44
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-81ce-9542-e9c11f7a9821",
+    "data": "{\"language\":\"python\",\"parent\":[\"from lib.controllers import todoController as con\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-8157-b601-ce8754c5b3f0",
+    "type": "code",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次に、todoController.pyで定義されているもので、main.py内で使われているのは以下のものです。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-816b-9c5d-cc1c3a7156a9",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 45
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"todo_list_control変数\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81d3-8a1f-dff80623cae8",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 46
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"create_todo関数\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8111-882d-c8eb6be7e34a",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 47
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"fetch_todo関数\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81d0-97c3-cb7038ee7743",
+    "type": "bulleted_list_item",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 48
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これら三つにモジュール名をつける必要があります。また、それらには新たな引数pageを渡す必要があります。そうすると、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は以下のようになります。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8175-b195-de16929da4a0",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 49
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"icon\":{\"type\":\"external\",\"external\":{\"url\":\"https://www.notion.so/icons/code_gray.svg\"}},\"color\":\"default_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"main.py\",\"href\":null}]}",
+    "blockId": "272a501e-f337-815a-a41c-e329e025f44c",
+    "type": "callout",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 50
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-815a-a41c-e329e025f44c",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\nfrom lib.controllers import todoController as con\\n\\ndef main(page: ft.Page):\\n    appbar = ft.AppBar(\\n        center_title=True,\\n        title=ft.Text(value=\\\"TODOアプリ\\\"),\\n        bgcolor=ft.colors.BLACK12\\n    )\\n\\n    def route_change(e):\\n        template_route = ft.TemplateRoute(page.route)\\n\\n        if template_route.match(\\\"/create\\\"):\\n            createTextField = ft.TextField(hint_text=\\\"TODO\\\")\\n            appbar.leading = ft.IconButton(icon=ft.icons.ARROW_BACK, on_click=lambda _:page.go(\\\"/\\\"))\\n            page.views.append(\\n                ft.View(\\n                    \\\"/create\\\",\\n                    appbar=appbar,\\n                    controls=[\\n                        ft.Text(\\\"TODO作成\\\"),\\n                        createTextField,\\n                        ft.ElevatedButton(text=\\\"作成\\\",on_click=lambda e:\",\"con.create_todo(e, createTextField.value, page)\",\")\\n                    ]\\n                )\\n            )\\n        elif template_route.match(\\\"/\\\"):\\n            appbar.leading = ft.Text(\\\"\\\")\\n            floating_button = ft.FloatingActionButton(\\n                icon=ft.icons.ADD,\\n                bgcolor=ft.colors.BLUE_200,\\n                on_click=lambda _: page.go(\\\"/create\\\")\\n            )\\n            \",\"con.fetch_todo(page)\",\"\\n            page.views.append(\\n                ft.View(\\n                    \\\"/\\\",\\n                    appbar=appbar,\\n                    controls=[\",\"con.todo_list_control\",\"],\\n                    floating_action_button=floating_button\\n                )\\n            )\\n        page.update()\\n\\n    page.on_route_change = route_change\\n    page.go(page.route)\\n\\nft.app(main)\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-813d-9b69-e3109fc79a3f",
+    "type": "code",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 1
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Controller層完成\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-81b9-aa97-d3e4b5222e3b",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 51
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "_",
+    "blockId": "272a501e-f337-81cc-8432-da51dfbc5ea4",
+    "type": "divider",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 52
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これでController層が完成しました。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81ee-81ae-c8a0c22a37fd",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 53
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下に全体のコードを載せます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-812a-8fce-ded3cfdb28a3",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 54
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"parent\":\"コード全体\",\"iconType\":\"external\",\"iconUrl\":\"https://www.notion.so/icons/snippet_gray.svg\",\"coverUrl\":\"\"}",
+    "blockId": "272a501e-f337-811c-8b94-c8697bb7dcfa",
+    "type": "child_page",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 55
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "272a501e-f337-8162-9a40-c99f02f9f3eb",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 56
+  },
+  {
+    "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
+    "parentId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次→\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"View層を作る\",\"href\":\"/posts/curriculums/272a501e-f337-81b4-ab85-c626f335c399\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/preview_pink.svg\",\"iconType\":\"external\",\"title\":\"View層を作る\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "272a501e-f337-8199-88b6-ebb6ede324cc",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-8142-bdac-dfdaaf90b0c8",
+    "i": 57
+  }
+]
