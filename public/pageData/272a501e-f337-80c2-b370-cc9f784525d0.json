@@ -1,0 +1,605 @@
+[
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Fletのアプリをより「\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アプリっぽく\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"」することができるコントロール、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"AppBar\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"についてご紹介します。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8158-8a84-dc58b52ebea9",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"AppBarを使用すると、こんな感じの\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"画面の上部分に固定されたUI\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"をつくることができます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81ea-9766-d1ba60baebb5",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-811a-9dff-d9e29db3ec4e.jpg\"}",
+    "blockId": "272a501e-f337-811a-9dff-d9e29db3ec4e",
+    "type": "image",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"インスタグラムのアプリで言う、この部分です。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81bb-adce-cff2e904b222",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 4
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Fletで実装すると、以下のような見た目になります。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81d4-824b-c0744898ef0b",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 5
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"From : \",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"https://flet.dev/docs/controls/appbar/\",\"href\":\"https://flet.dev/docs/controls/appbar/\"}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-8130-8fc9-e5424878874e.gif\"}",
+    "blockId": "272a501e-f337-8130-8fc9-e5424878874e",
+    "type": "image",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 6
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"AppBarは、パソコンアプリはもちろん、スマホアプリを作るときに役立ちます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-811d-9041-c57c3c4a7b3c",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 7
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"AppBarの実装方法\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-812d-8ec7-d016d0b1e2b0",
+    "type": "heading_1",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 8
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "_",
+    "blockId": "272a501e-f337-81b2-8731-da5a76cec610",
+    "type": "divider",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 9
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"AppBarの実装方法は、これまで使用していたコントロールと少し違います。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-819d-aea4-fd702666b919",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 10
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"これまで使用していたコントロールは、任意の変数に代入した後、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.add\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で画面に追加していました。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81fd-9f33-dde9538400e3",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 11
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"language\":\"python\",\"parent\":[\"# これまでのコントロール\\nimport flet as ft\\n\\ndef main(page: ft.Page):\\n\\t\\t# 任意の変数にコントロールを代入\\n\\t\\ttext = ft.Text(value=\\\"サンプル\\\")\\n\\n\\t\\t# page.addする\\n    page.add(text)\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-8107-8c98-d8245340961b",
+    "type": "code",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 12
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"対する\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"AppBar\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は、すでに名前が決まっている変数\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.appbar\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に代入することで実装することができます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8158-9450-fc8f3ab75fe0",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 13
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"✏️\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.appbar\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":true,\"code\":false,\"color\":\"default\"},\"plain_text\":\"メンバ変数\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ですね。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81ab-8092-fecdb225fe2b",
+    "type": "callout",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 14
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"また、この\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.appbar\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"は\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.add\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"する必要はありません。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81a4-b222-d2965065ee1c",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 15
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"以下のコードを見てみてください⇩\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8147-b366-e557477217f8",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 16
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n\\t\\t# page.appbarにft.Appbarを代入\\n    \",\"page.appbar = ft.AppBar(\\n        leading=ft.Icon(ft.icons.APPLE),\\n        title=ft.Text(value=\\\"アプリ名\\\"),\\n        actions=[\\n            ft.IconButton(icon=ft.icons.MENU)\\n        ],\\n        bgcolor=ft.colors.GREEN\\n    )\",\"\\n\\n    text = ft.Text(value=\\\"AppBarのサンプル\\\")\\n\\n    page.add(text)\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-81fb-a470-eecc3d878b5b",
+    "type": "code",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 17
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このコードを実行すると、以下のような結果になります。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81ab-892e-fdfa1590a8e7",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 18
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-819d-8545-e9eaf815eebf.png\"}",
+    "blockId": "272a501e-f337-819d-8545-e9eaf815eebf",
+    "type": "image",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 19
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"各部を設定するプロパティを示すと以下のようになります。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81a7-b126-fb355169306d",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 20
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-81a1-99dc-d4c942735ddc.png\"}",
+    "blockId": "272a501e-f337-81a1-99dc-d4c942735ddc",
+    "type": "image",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 21
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"AppBarの役割\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-8115-9d20-f44f36e58122",
+    "type": "heading_1",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 22
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "_",
+    "blockId": "272a501e-f337-8168-8c2e-cad81c1b0168",
+    "type": "divider",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 23
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"AppBarには、主に3つの役割があります。一つづつ順番に紹介していきますね。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-814b-828f-dacb2da28495",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 24
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タイトルの表示\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-817a-9f83-c94c7cf28e7b",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 25
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "_",
+    "blockId": "272a501e-f337-8145-bf8b-e8da1a182fb7",
+    "type": "divider",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 26
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"title\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-81ab-8e77-ce6de71c2e87",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 27
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"AppBarの\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"title\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティに\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.Text\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールを渡すと、AppBarに好きな文字列を表示させることができます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8145-9930-f2e1215f900a",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 28
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アプリの名前などを表示すると良いでしょう。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8166-801f-e0bc29c6078d",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 29
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n    page.appbar = ft.AppBar(\\n        \",\"title=ft.Text(value=\\\"アプリ名\\\"),\",\"\\n        bgcolor=ft.colors.BLACK12\\n    )\\n\\n    text = ft.Text(value=\\\"AppBarのタイトルのサンプル\\\")\\n\\n    page.add(text)\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-8138-a0b1-f43a2ce04436",
+    "type": "code",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 30
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-8103-b0ad-d4a4598868cf.png\"}",
+    "blockId": "272a501e-f337-8103-b0ad-d4a4598868cf",
+    "type": "image",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 31
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"title\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティに渡すのは\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.Text\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールなので、サイズやフォント、色を好きにカスタマイズできます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81b4-abc1-df40beaf0b1f",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 32
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n    page.fonts = {\\n        \\\"Jacquarda\\\" : \\\"/fonts/JacquardaBastarda9-Regular.ttf\\\"\\n    }\\n\\n    page.appbar = ft.AppBar(\\n        title=\",\"ft.Text(\\n            value=\\\"Applicarion Name\\\",\\n            color=ft.colors.CYAN,\\n            size=35,\\n            font_family=\\\"Jacquarda\\\"\\n        )\",\",\\n        bgcolor=ft.colors.BLUE_GREY_50\\n    )\\n\\n    text = ft.Text(value=\\\"AppBarのタイトルのサンプル\\\") \\n\\n    page.add(text)\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-81ff-b950-f0cc48a74af4",
+    "type": "code",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 33
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-8141-a894-d83bea1b75a6.png\"}",
+    "blockId": "272a501e-f337-8141-a894-d83bea1b75a6",
+    "type": "image",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 34
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.Text\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールの詳しい使用方法は、以下を参照してください。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81ff-b60d-d566107d0c68",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 35
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[],\"url\":\"https://flet.dev/docs/controls/text/\",\"ogp\":{\"title\":\"Text | Flet\",\"icon\":\"https://flet.dev/img/favicon.ico\",\"image\":null,\"description\":\"Text is a control for displaying text.\"}}",
+    "blockId": "272a501e-f337-818c-a592-d9fe251127c4",
+    "type": "bookmark",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 36
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タイトルの中央寄せ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-8104-aac9-e787752d271b",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 37
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"先ほどの例ではタイトルが左寄りになっていましたが、以下のように中央に寄せることもできます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-814a-ba70-c6ab66275fc7",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 38
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-8151-b10e-e22d6d20809b.png\"}",
+    "blockId": "272a501e-f337-8151-b10e-e22d6d20809b",
+    "type": "image",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 39
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"タイトルを中央に寄せるためには、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"center_title\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティを\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"True\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を設定します。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8112-8da4-c1f69d3b3ae1",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 40
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n\\n    page.appbar = ft.AppBar(\\n        title=ft.Text(value=\\\"Applicarion Name\\\"),\\n        # タイトルを中央寄せ\\n        \",\"center_title=True\",\",\\n        bgcolor=ft.colors.BLUE_GREY_50\\n    )\\n\\n    text = ft.Text(value=\\\"AppBarのタイトルのサンプル\\\") \\n\\n    page.add(text)\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-810d-83cc-d9899e19d4ab",
+    "type": "code",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 41
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アイコンの表示\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-8156-8a42-cd5cf9347763",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 42
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "_",
+    "blockId": "272a501e-f337-8145-b9c2-ce32a2e35b8f",
+    "type": "divider",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 43
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"leading\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-812d-b4f7-f0016f548d14",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 44
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このAppBarの左側には、そのアプリを象徴するアイコンを配置することができます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8172-bc0d-d1e90abc1030",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 45
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-81a6-b8a2-fce3eea6a619.png\"}",
+    "blockId": "272a501e-f337-81a6-b8a2-fce3eea6a619",
+    "type": "image",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 46
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"leading\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティには、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.Icon\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールを設定することができます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8127-97a9-d18729b555e2",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 47
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n\\n    page.appbar = ft.AppBar(\\n\\t\\t    # 左端に配置するアイコン\\n        \",\"leading=ft.Icon(ft.icons.TIPS_AND_UPDATES),\",\"\\n        bgcolor=ft.colors.BLUE_GREY_50\\n    )\\n\\n    text = ft.Text(value=\\\"AppBarのアイコンのサンプル\\\")  # valueを省略\\n\\n    page.add(text)\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-816b-8190-e12ab7680fbc",
+    "type": "code",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 48
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"この\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.Icon\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールで使用できるアイコンは、以下の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アイコンブラウザー\",\"href\":\"https://gallery.flet.dev/icons-browser/\"},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"で調べる事ができます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-818a-b755-d66e7f154d98",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 49
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[],\"url\":\"https://gallery.flet.dev/icons-browser/\",\"ogp\":{\"title\":\"Flet icons browser\",\"icon\":\"https://gallery.flet.dev/icons-browser/favicon.png\",\"image\":null,\"description\":\"Quickly search through icons collection to use in your app.\"}}",
+    "blockId": "272a501e-f337-81ff-a5da-fa1ae6abd758",
+    "type": "bookmark",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 50
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "272a501e-f337-81ab-bb65-cc6d55b4cf3f",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 51
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"icon\":{\"type\":\"emoji\",\"emoji\":\"☝\"},\"color\":\"gray_background\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ちなみに…\",\"href\":null}]}",
+    "blockId": "272a501e-f337-818e-8eae-f53d680fa8fe",
+    "type": "callout",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 52
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-818e-8eae-f53d680fa8fe",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"実は、\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"leading\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"に設定できるのは\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"アイコンだけではありません\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81b1-acb0-c8fec894a8c9",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-818e-8eae-f53d680fa8fe",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"leading\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"には様々なコントロール（おそらくほぼすべて）を設定でき、例えば画像やテキスト、任意のボタンを設置することもできます。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-817f-ae34-dce2b287979b",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-818e-8eae-f53d680fa8fe",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コード例と実行例\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81b1-ad82-f5fb39e1a5ee",
+    "type": "toggle",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 3
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-81b1-ad82-f5fb39e1a5ee",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n\\n    page.appbar = ft.AppBar(\\n        title=ft.Text(value=\\\"Horizon\\\"),\\n        leading=ft.Container(\\n            content=ft.Image(\\n                src=\\\"/horizon_icon.png\\\",\\n            ),\\n            padding=10\\n        ),\\n        toolbar_height=70,\\n        leading_width=70,\\n        bgcolor=ft.colors.BLUE_GREY_50\\n    )\\n\\n    text = ft.Text(value=\\\"AppBarのアイコンのサンプル\\\")  # valueを省略\\n\\n    page.add(text)\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-819b-8013-fad293736216",
+    "type": "code",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 1
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-81b1-ad82-f5fb39e1a5ee",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-8109-bc48-db584a1b61fd.png\"}",
+    "blockId": "272a501e-f337-8109-bc48-db584a1b61fd",
+    "type": "image",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 2
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"固定ボタンの設置\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-8169-9c61-e269130bab23",
+    "type": "heading_2",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 53
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "_",
+    "blockId": "272a501e-f337-814d-b4a2-f7ac36f4954e",
+    "type": "divider",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 54
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"actions\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティ\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "blockId": "272a501e-f337-8130-acb9-e16730e6012a",
+    "type": "heading_3",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 55
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"AppBarの右側には、複数のボタンを設置することができます。インスタのAppBarでいうDMボタンですね。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81b9-b02c-e49bcacd19f4",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 56
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-81db-9a4e-dab4b5079353.jpg\"}",
+    "blockId": "272a501e-f337-81db-9a4e-dab4b5079353",
+    "type": "image",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 57
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"一般的には\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.IconButton\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールを設置します。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-813d-a1a6-d8712349d9f9",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 58
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"このボタンは、\",\"href\":null},{\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"antions\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"プロパティにリスト形式で複数の\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"ft.IconButtons\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"を与えることで設定します。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-81b5-9463-eb4eca6ebb2c",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 59
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"language\":\"python\",\"parent\":[\"import flet as ft\\n\\ndef main(page: ft.Page):\\n\\n    page.appbar = ft.AppBar(\\n        actions=[\\n            ft.IconButton(ft.icons.MESSAGE),\\n            ft.IconButton(ft.icons.CALENDAR_MONTH),\\n            ft.IconButton(ft.icons.SETTINGS)\\n        ],\\n        bgcolor=ft.colors.BLUE_GREY_50\\n    )\\n\\n    text = ft.Text(value=\\\"AppBarの固定ボタンのサンプル\\\")  # valueを省略\\n\\n    page.add(text)\\n\\nft.app(target=main)\"],\"caption\":[]}",
+    "blockId": "272a501e-f337-81ba-846d-e0943416d78d",
+    "type": "code",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 60
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"parent\":[],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-81cc-84e6-f0696167c916.png\"}",
+    "blockId": "272a501e-f337-81cc-84e6-f0696167c916",
+    "type": "image",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 61
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"専用の関数を作成し、ボタンにイベントハンドラを設定することで、特定の処理を呼び出したり他の画面に遷移することができるようになります。\",\"href\":null}]}",
+    "blockId": "272a501e-f337-8197-ba33-db4ae9234953",
+    "type": "paragraph",
+    "pageId": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "i": 62
+  }
+]

@@ -256,10 +256,15 @@
     "id": "256a501e-f337-80a9-a46f-c17219f411da",
     "title": "Git, Github",
     "is_basic_curriculum": true,
-    "visibility": [],
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
     "category": "後期",
     "tag": [
-      "基礎班"
+      "基礎班",
+      "Git",
+      "GitHub"
     ],
     "iconType": "external",
     "iconUrl": "https://www.notion.so/icons/git_orange.svg",
@@ -270,10 +275,15 @@
     "id": "256a501e-f337-803b-9c9e-e872f50d594f",
     "title": "Flet後期",
     "is_basic_curriculum": true,
-    "visibility": [],
+    "visibility": [
+      "基礎班",
+      "発展班"
+    ],
     "category": "後期",
     "tag": [
-      "基礎班"
+      "基礎班",
+      "Python",
+      "Flet"
     ],
     "iconType": "custom_emoji",
     "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/pageImageData/icon/256a501e-f337-803b-9c9e-e872f50d594f.png",

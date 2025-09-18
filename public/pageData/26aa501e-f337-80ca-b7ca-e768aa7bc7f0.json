@@ -574,5 +574,14 @@
     "type": "paragraph",
     "pageId": "26aa501e-f337-80ca-b7ca-e768aa7bc7f0",
     "i": 53
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": "26aa501e-f337-80ca-b7ca-e768aa7bc7f0",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "272a501e-f337-8049-a7f4-c33233051926",
+    "type": "paragraph",
+    "pageId": "26aa501e-f337-80ca-b7ca-e768aa7bc7f0",
+    "i": 54
   }
 ]

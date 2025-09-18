@@ -1370,146 +1370,6 @@
     "parentId": "1e0a501e-f337-80ef-adc7-e6da2c264201"
   },
   {
-    "title": "Git, Github",
-    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/git_orange.svg",
-    "coverUrl": "https://www.notion.so/images/page-cover/met_edgar_degas_1874.jpg",
-    "order": 10001,
-    "id": "256a501e-f337-80a9-a46f-c17219f411da",
-    "parentId": ""
-  },
-  {
-    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
-    "title": "Git、Githubとは ",
-    "iconType": "emoji",
-    "iconUrl": "❓",
-    "coverUrl": "",
-    "id": "26aa501e-f337-80ea-9c00-c101544df5e6",
-    "order": 2,
-    "parentId": "256a501e-f337-80a9-a46f-c17219f411da"
-  },
-  {
-    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
-    "title": "Git,GitHubのはじめ方",
-    "iconType": "emoji",
-    "iconUrl": "🔰",
-    "coverUrl": "https://www.notion.so/images/page-cover/nasa_fingerprints_of_water_on_the_sand.jpg",
-    "id": "266a501e-f337-808e-8078-e09ab83d6de8",
-    "order": 3,
-    "parentId": "256a501e-f337-80a9-a46f-c17219f411da"
-  },
-  {
-    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
-    "title": "チーム開発での使い方",
-    "iconType": "emoji",
-    "iconUrl": "👥",
-    "coverUrl": "https://www.notion.so/images/page-cover/met_terracotta_funerary_plaque.jpg",
-    "id": "26aa501e-f337-80ca-b7ca-e768aa7bc7f0",
-    "order": 4,
-    "parentId": "256a501e-f337-80a9-a46f-c17219f411da"
-  },
-  {
-    "title": "Flet後期",
-    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
-    "iconType": "custom_emoji",
-    "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/pageImageData/icon/256a501e-f337-803b-9c9e-e872f50d594f.png",
-    "coverUrl": "",
-    "order": 10000,
-    "id": "256a501e-f337-803b-9c9e-e872f50d594f",
-    "parentId": ""
-  },
-  {
-    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
-    "title": "新しいFletアプリの作り方",
-    "iconType": "emoji",
-    "iconUrl": "🆕",
-    "coverUrl": "",
-    "id": "26ea501e-f337-80e0-aff1-e562add4627b",
-    "order": 3,
-    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
-  },
-  {
-    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
-    "title": "ルーティング",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/branch_orange.svg",
-    "coverUrl": "https://images.unsplash.com/photo-1521675333836-36e707ac1d20?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
-    "id": "267a501e-f337-80fd-9f0e-fa54963de153",
-    "order": 4,
-    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
-  },
-  {
-    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
-    "title": "静的ルーティング",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/branch_green.svg",
-    "coverUrl": "",
-    "id": "267a501e-f337-80c2-ac2a-c9c0ac0b439e",
-    "order": 5,
-    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
-  },
-  {
-    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
-    "title": "View毎のファイル分割",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/cut_blue.svg",
-    "coverUrl": "",
-    "id": "267a501e-f337-80e6-90aa-fe7e057f852b",
-    "order": 6,
-    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
-  },
-  {
-    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
-    "title": "ルーティングの練習問題",
-    "iconType": "emoji",
-    "iconUrl": "📝",
-    "coverUrl": "",
-    "id": "26ea501e-f337-801a-9bc5-fe1221d3f826",
-    "order": 7,
-    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
-  },
-  {
-    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
-    "title": "Imageコントロール",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/photo-landscape_green.svg",
-    "coverUrl": "https://images.unsplash.com/photo-1523461811963-7f1023caeddd?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
-    "id": "263a501e-f337-8041-a746-ebebfc015bcf",
-    "order": 10,
-    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
-  },
-  {
-    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
-    "title": "Imageの表示領域とfitプロパティの話",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/square-three-fourths_gray.svg",
-    "coverUrl": "",
-    "id": "263a501e-f337-805d-89cf-f74be50d4712",
-    "order": 1,
-    "parentId": "263a501e-f337-8041-a746-ebebfc015bcf"
-  },
-  {
-    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
-    "title": "カスタムコントロール",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/skip-forward_purple.svg",
-    "coverUrl": "",
-    "id": "264a501e-f337-809b-8603-f6187c3ea3ec",
-    "order": 11,
-    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
-  },
-  {
-    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
-    "title": "動的ルーティング",
-    "iconType": "emoji",
-    "iconUrl": "🍭",
-    "coverUrl": "",
-    "id": "267a501e-f337-8003-80a5-d685df0acc48",
-    "order": 12,
-    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
-  },
-  {
     "title": "アプリケーションアーキテクチャ基礎",
     "curriculumId": "272a501e-f337-8040-af9b-fae333f7427a",
     "iconType": "external",
@@ -1878,5 +1738,165 @@
     "id": "1ada501e-f337-8175-826a-d32ae9e3e34d",
     "order": 2,
     "parentId": "1ada501e-f337-81e8-b251-df0f38a0cb23"
+  },
+  {
+    "title": "Git, Github",
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/git_orange.svg",
+    "coverUrl": "https://www.notion.so/images/page-cover/met_edgar_degas_1874.jpg",
+    "order": 10001,
+    "id": "256a501e-f337-80a9-a46f-c17219f411da",
+    "parentId": ""
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "title": "Git、Githubとは ",
+    "iconType": "emoji",
+    "iconUrl": "❓",
+    "coverUrl": "",
+    "id": "26aa501e-f337-80ea-9c00-c101544df5e6",
+    "order": 2,
+    "parentId": "256a501e-f337-80a9-a46f-c17219f411da"
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "title": "Git,GitHubのはじめ方",
+    "iconType": "emoji",
+    "iconUrl": "🔰",
+    "coverUrl": "https://www.notion.so/images/page-cover/nasa_fingerprints_of_water_on_the_sand.jpg",
+    "id": "266a501e-f337-808e-8078-e09ab83d6de8",
+    "order": 3,
+    "parentId": "256a501e-f337-80a9-a46f-c17219f411da"
+  },
+  {
+    "curriculumId": "256a501e-f337-80a9-a46f-c17219f411da",
+    "title": "チーム開発での使い方",
+    "iconType": "emoji",
+    "iconUrl": "👥",
+    "coverUrl": "https://www.notion.so/images/page-cover/met_terracotta_funerary_plaque.jpg",
+    "id": "26aa501e-f337-80ca-b7ca-e768aa7bc7f0",
+    "order": 4,
+    "parentId": "256a501e-f337-80a9-a46f-c17219f411da"
+  },
+  {
+    "title": "Flet後期",
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "iconType": "custom_emoji",
+    "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/pageImageData/icon/256a501e-f337-803b-9c9e-e872f50d594f.png",
+    "coverUrl": "",
+    "order": 10000,
+    "id": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "parentId": ""
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "title": "新しいFletアプリの作り方",
+    "iconType": "emoji",
+    "iconUrl": "🆕",
+    "coverUrl": "",
+    "id": "26ea501e-f337-80e0-aff1-e562add4627b",
+    "order": 3,
+    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "title": "ルーティング",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/branch_orange.svg",
+    "coverUrl": "https://images.unsplash.com/photo-1521675333836-36e707ac1d20?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+    "id": "267a501e-f337-80fd-9f0e-fa54963de153",
+    "order": 4,
+    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "title": "静的ルーティング",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/branch_green.svg",
+    "coverUrl": "",
+    "id": "267a501e-f337-80c2-ac2a-c9c0ac0b439e",
+    "order": 5,
+    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "title": "View毎のファイル分割",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/cut_blue.svg",
+    "coverUrl": "",
+    "id": "267a501e-f337-80e6-90aa-fe7e057f852b",
+    "order": 6,
+    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "title": "ルーティングの練習問題",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "id": "26ea501e-f337-801a-9bc5-fe1221d3f826",
+    "order": 7,
+    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "title": "Imageコントロール",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/photo-landscape_green.svg",
+    "coverUrl": "https://images.unsplash.com/photo-1523461811963-7f1023caeddd?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+    "id": "263a501e-f337-8041-a746-ebebfc015bcf",
+    "order": 10,
+    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "title": "Imageの表示領域とfitプロパティの話",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/square-three-fourths_gray.svg",
+    "coverUrl": "",
+    "id": "263a501e-f337-805d-89cf-f74be50d4712",
+    "order": 1,
+    "parentId": "263a501e-f337-8041-a746-ebebfc015bcf"
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "title": "動的ルーティング",
+    "iconType": "emoji",
+    "iconUrl": "🍭",
+    "coverUrl": "",
+    "id": "267a501e-f337-8003-80a5-d685df0acc48",
+    "order": 11,
+    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "title": "AppBar",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/arrow-left-basic_blue.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-80c2-b370-cc9f784525d0",
+    "order": 12,
+    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "title": "カスタムコントロール",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/skip-forward_purple.svg",
+    "coverUrl": "",
+    "id": "264a501e-f337-809b-8603-f6187c3ea3ec",
+    "order": 13,
+    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
+  },
+  {
+    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
+    "title": "カラーテーマ",
+    "iconType": "emoji",
+    "iconUrl": "🎨",
+    "coverUrl": "",
+    "id": "272a501e-f337-80df-adfa-f37fcb54b0c7",
+    "order": 14,
+    "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
   }
 ]

@@ -794,7 +794,7 @@
   {
     "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
     "parentId": "264a501e-f337-809b-8603-f6187c3ea3ec",
-    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"①コントロールをまとめて一つのパーツとする\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"コントロールをまとめて一つのパーツとする\",\"href\":null}],\"color\":\"default\",\"is_toggleable\":false}",
     "blockId": "264a501e-f337-80e1-adb7-ec898d1ca34c",
     "type": "heading_2",
     "pageId": "264a501e-f337-809b-8603-f6187c3ea3ec",
@@ -929,19 +929,10 @@
   {
     "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
     "parentId": "264a501e-f337-809b-8603-f6187c3ea3ec",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"/* 要所に絞って解説していきます。 */\",\"href\":null}]}",
-    "blockId": "264a501e-f337-80ac-aa3d-d49b46de81f7",
-    "type": "paragraph",
-    "pageId": "264a501e-f337-809b-8603-f6187c3ea3ec",
-    "i": 83
-  },
-  {
-    "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
-    "parentId": "264a501e-f337-809b-8603-f6187c3ea3ec",
     "data": "{\"color\":\"default\",\"parent\":[]}",
     "blockId": "264a501e-f337-802e-aaea-e40563e1f982",
     "type": "paragraph",
     "pageId": "264a501e-f337-809b-8603-f6187c3ea3ec",
-    "i": 84
+    "i": 83
   }
 ]
