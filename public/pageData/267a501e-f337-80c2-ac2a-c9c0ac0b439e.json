@@ -344,7 +344,7 @@
   {
     "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
     "parentId": "267a501e-f337-80c2-ac2a-c9c0ac0b439e",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"View毎のファイル分割\",\"href\":\"/posts/curriculums/267a501e-f337-80e6-90aa-fe7e057f852b\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/cut_blue.svg\",\"iconType\":\"external\",\"title\":\"View毎のファイル分割\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次→\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"View毎のファイル分割\",\"href\":\"/posts/curriculums/267a501e-f337-80e6-90aa-fe7e057f852b\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/cut_blue.svg\",\"iconType\":\"external\",\"title\":\"View毎のファイル分割\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
     "blockId": "267a501e-f337-8098-be03-cdd70d4a630b",
     "type": "paragraph",
     "pageId": "267a501e-f337-80c2-ac2a-c9c0ac0b439e",

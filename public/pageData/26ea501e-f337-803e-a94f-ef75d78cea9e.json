@@ -57,9 +57,54 @@
     "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
     "parentId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
     "data": "{\"color\":\"default\",\"parent\":[]}",
-    "blockId": "272a501e-f337-8053-8de3-c4e512ad8128",
+    "blockId": "273a501e-f337-8080-ab06-f3ea4baa398d",
     "type": "paragraph",
     "pageId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
     "i": 6
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "data": "24ca501e-f337-806c-bdd7-dc4251317ba1",
+    "blockId": "273a501e-f337-8022-b172-e59974983685",
+    "type": "synced_block",
+    "pageId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "i": 7
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "273a501e-f337-8094-b7bf-ec3958620fea",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "i": 8
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "data": "_",
+    "blockId": "273a501e-f337-8077-a58d-c98b47e48373",
+    "type": "divider",
+    "pageId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "i": 9
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次→\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Flet後期\",\"href\":\"/posts/curriculums/256a501e-f337-803b-9c9e-e872f50d594f\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/pageImageData/icon/256a501e-f337-803b-9c9e-e872f50d594f.png\",\"iconType\":\"custom_emoji\",\"title\":\"Flet後期\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "blockId": "273a501e-f337-80b0-80ab-c73bfa44aa93",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "i": 10
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "data": "{\"color\":\"default\",\"parent\":[]}",
+    "blockId": "273a501e-f337-805c-b9d7-d4a1629c6e2a",
+    "type": "paragraph",
+    "pageId": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "i": 11
   }
 ]

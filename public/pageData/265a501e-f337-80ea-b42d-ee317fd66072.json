@@ -308,7 +308,7 @@
   {
     "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
     "parentId": "265a501e-f337-80ea-b42d-ee317fd66072",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラスの練習問題\",\"href\":\"/posts/curriculums/26ea501e-f337-80ed-a25c-fa4915c1b4ab\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"📝\",\"iconType\":\"emoji\",\"title\":\"クラスの練習問題\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次→\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"クラスの練習問題\",\"href\":\"/posts/curriculums/26ea501e-f337-80ed-a25c-fa4915c1b4ab\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"📝\",\"iconType\":\"emoji\",\"title\":\"クラスの練習問題\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
     "blockId": "272a501e-f337-80b2-b472-f33f1af69619",
     "type": "paragraph",
     "pageId": "265a501e-f337-80ea-b42d-ee317fd66072",

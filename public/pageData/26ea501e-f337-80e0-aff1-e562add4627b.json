@@ -308,7 +308,7 @@
   {
     "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
     "parentId": "26ea501e-f337-80e0-aff1-e562add4627b",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ルーティング\",\"href\":\"/posts/curriculums/267a501e-f337-80fd-9f0e-fa54963de153\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/branch_orange.svg\",\"iconType\":\"external\",\"title\":\"ルーティング\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次→\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"ルーティング\",\"href\":\"/posts/curriculums/267a501e-f337-80fd-9f0e-fa54963de153\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"https://www.notion.so/icons/branch_orange.svg\",\"iconType\":\"external\",\"title\":\"ルーティング\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
     "blockId": "271a501e-f337-80e8-b820-c035847669e3",
     "type": "paragraph",
     "pageId": "26ea501e-f337-80e0-aff1-e562add4627b",

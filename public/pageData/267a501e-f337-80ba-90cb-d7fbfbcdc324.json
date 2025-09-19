@@ -416,7 +416,7 @@
   {
     "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
     "parentId": "267a501e-f337-80ba-90cb-d7fbfbcdc324",
-    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"import文の練習問題\",\"href\":\"/posts/curriculums/26ea501e-f337-803e-a94f-ef75d78cea9e\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"📝\",\"iconType\":\"emoji\",\"title\":\"import\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
+    "data": "{\"color\":\"default\",\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"次→\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"import文の練習問題\",\"href\":\"/posts/curriculums/26ea501e-f337-803e-a94f-ef75d78cea9e\",\"mention\":{\"type\":\"prossedPage\",\"content\":{\"iconUrl\":\"📝\",\"iconType\":\"emoji\",\"title\":\"import\"}}},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\" \",\"href\":null}]}",
     "blockId": "267a501e-f337-81b5-828f-d69f99be949a",
     "type": "paragraph",
     "pageId": "267a501e-f337-80ba-90cb-d7fbfbcdc324",
