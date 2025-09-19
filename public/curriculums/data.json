@@ -173,10 +173,10 @@
       "Docker",
       "セットアップ"
     ],
-    "iconType": "file",
-    "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/211a501e-f337-8033-aba3-e2b9e036eacf/pageImageData/icon/211a501e-f337-8033-aba3-e2b9e036eacf.png",
-    "coverUrl": "https://www.notion.so/images/page-cover/solid_blue.png",
-    "order": 1002
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/whale_blue.svg",
+    "coverUrl": "https://www.notion.so/images/page-cover/gradients_4.png",
+    "order": 1007
   },
   {
     "id": "200a501e-f337-80ff-b3a9-ed1bd068b618",
