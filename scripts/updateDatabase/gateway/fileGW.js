@@ -10,8 +10,8 @@ export async function insertSinglePage(data,pageId){
     await fs.writeFile(`public/pageData/${pageId}.json`,JSON.stringify(data,null,2),"utf-8")
 }
 
-export async function upsertCategory(categoryId, title, description, iconUrl,iconType, cover){
-    await upsertJsonById(`public/categories/data.json`,categoryId,{id:categoryId, title, description, iconUrl,iconType, cover})
+export async function upsertCategory(categoryId, title, description, iconUrl,iconType, cover,is_basic_curriculum){
+    await upsertJsonById(`public/categories/data.json`,categoryId,{id:categoryId, title, description, iconUrl,iconType, cover,is_basic_curriculum})
 }
 
 export async function insertPageInfo(data){
@@ -22,8 +22,8 @@ export async function insertBlock(data) {
     await fs.writeFile(`public/synced/data.json`,JSON.stringify(data,null,2),"utf-8")
 }
 
-export async function upsertCurriculums(title,is_basic_curriculum,visibility,category,tag,curriculumId,iconType,iconUrl,coverUrl,order){
-    await upsertJsonById(`public/curriculums/data.json`,curriculumId,{title,is_basic_curriculum,visibility,category,tag,id:curriculumId,iconType,iconUrl,coverUrl,order})
+export async function upsertCurriculums(title,visibility,category,tag,curriculumId,iconType,iconUrl,coverUrl,order){
+    await upsertJsonById(`public/curriculums/data.json`,curriculumId,{title,visibility,category,tag,id:curriculumId,iconType,iconUrl,coverUrl,order})
 }
 
 export async function deleteCategory(categoryId){

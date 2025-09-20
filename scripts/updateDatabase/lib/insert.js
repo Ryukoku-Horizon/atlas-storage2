@@ -5,7 +5,6 @@ import { upsertCategory, upsertCurriculums } from "../gateway/fileGW.js";
 export async function insertCurriculum(data){
     await upsertCurriculums(
         data.title,
-        data.is_basic_curriculum,
         data.visibility,
         data.category,
         data.tag,
@@ -26,5 +25,6 @@ export async function insertCategory(data){
         pageImage.iconUrl,
         pageImage.iconType,
         pageImage.coverUrl,
+        data.is_basic_curriculum
     )
 }
