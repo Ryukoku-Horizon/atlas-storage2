@@ -9,17 +9,6 @@ import {  flushPageInfoBuffer, flushSyncedBuffer } from "./lib/fileGWbuffer.js";
 import { deleteJsonById } from "./checkEdited/deleteJson.js";
 import { upsertJsonById } from "./checkEdited/updateJson.js";
 
-//data.title,
-// data.is_basic_curriculum,
-// data.visibility,
-// data.category,
-// data.tag,
-// data.curriculumId,
-// data.iconType,
-// data.iconUrl,
-// data.coverUrl,
-// data.order
-
 const insertDatas=async(data,pageInfoBuffer,syncedBuffer)=>{
     await insertCurriculum(data);
     pageInfoBuffer.push({title:data.title,curriculumId:data.curriculumId,iconType:data.iconType,iconUrl:data.iconUrl,coverUrl:data.coverUrl,order:data.order,id:data.curriculumId,parentId:""})

@@ -2,7 +2,6 @@
   {
     "id": "1ada501e-f337-814b-ac7d-cbd864901138",
     "title": "Python基礎文法",
-    "is_basic_curriculum": true,
     "visibility": [
       "体験入部",
       "発展班",
@@ -21,7 +20,6 @@
   {
     "id": "1bea501e-f337-804c-90e8-da6f1f5384c1",
     "title": "CLIの基礎",
-    "is_basic_curriculum": true,
     "visibility": [
       "基礎班",
       "発展班",
@@ -41,7 +39,6 @@
   {
     "id": "1d8a501e-f337-800c-9ae8-ca9153877fc1",
     "title": "Horizonではじめにやること！",
-    "is_basic_curriculum": true,
     "visibility": [
       "基礎班",
       "体験入部",
@@ -64,7 +61,6 @@
   {
     "id": "232a501e-f337-80c8-920d-c85f8ca9efde",
     "title": "Fletの宿題",
-    "is_basic_curriculum": true,
     "visibility": [
       "基礎班",
       "発展班"
@@ -84,7 +80,6 @@
   {
     "id": "1f5a501e-f337-8055-b23c-f8b1b79b780a",
     "title": "グループワーク",
-    "is_basic_curriculum": true,
     "visibility": [
       "発展班",
       "体験入部",
@@ -104,7 +99,6 @@
   {
     "id": "1f2a501e-f337-8055-b70d-e6fcbb3bbb87",
     "title": "Flet の基礎",
-    "is_basic_curriculum": true,
     "visibility": [
       "基礎班",
       "発展班"
@@ -124,7 +118,6 @@
   {
     "id": "1ada501e-f337-8122-b26f-d5ed2f5d6a1b",
     "title": "Git、GitHubセットアップ",
-    "is_basic_curriculum": true,
     "visibility": [
       "発展班",
       "基礎班"
@@ -144,7 +137,6 @@
   {
     "id": "24ba501e-f337-80e6-83f3-dec2d9cb8a44",
     "title": "HTML,CSS",
-    "is_basic_curriculum": false,
     "visibility": [
       "発展班",
       "基礎班"
@@ -163,7 +155,6 @@
   {
     "id": "211a501e-f337-8033-aba3-e2b9e036eacf",
     "title": "Dockerガイド",
-    "is_basic_curriculum": false,
     "visibility": [
       "発展班",
       "基礎班"
@@ -181,7 +172,6 @@
   {
     "id": "200a501e-f337-80ff-b3a9-ed1bd068b618",
     "title": "Qiita Teamへの参加方法（全体向け）",
-    "is_basic_curriculum": false,
     "visibility": [
       "発展班",
       "基礎班"
@@ -199,7 +189,6 @@
   {
     "id": "1e7a501e-f337-805b-bc4e-d442525244f3",
     "title": "番外編（カリキュラム終わった人向け）",
-    "is_basic_curriculum": true,
     "visibility": [
       "基礎班",
       "発展班",
@@ -218,7 +207,6 @@
   {
     "id": "1e0a501e-f337-80dd-8d3e-e0341937095f",
     "title": "言語一覧",
-    "is_basic_curriculum": false,
     "visibility": [
       "発展班",
       "基礎班"
@@ -237,7 +225,6 @@
   {
     "id": "1e0a501e-f337-80ef-adc7-e6da2c264201",
     "title": "プログラミング言語ガイド",
-    "is_basic_curriculum": false,
     "visibility": [
       "発展班",
       "基礎班"
@@ -255,7 +242,6 @@
   {
     "id": "256a501e-f337-80a9-a46f-c17219f411da",
     "title": "Git, Github",
-    "is_basic_curriculum": true,
     "visibility": [
       "基礎班",
       "発展班"
@@ -274,7 +260,6 @@
   {
     "id": "256a501e-f337-803b-9c9e-e872f50d594f",
     "title": "Flet後期",
-    "is_basic_curriculum": true,
     "visibility": [
       "基礎班",
       "発展班"
@@ -293,7 +278,6 @@
   {
     "id": "272a501e-f337-8040-af9b-fae333f7427a",
     "title": "アプリケーションアーキテクチャ基礎",
-    "is_basic_curriculum": false,
     "visibility": [
       "発展班",
       "基礎班"
@@ -313,7 +297,6 @@
   {
     "id": "256a501e-f337-8078-8124-f85e3320ee25",
     "title": "任意ページ",
-    "is_basic_curriculum": true,
     "visibility": [
       "基礎班",
       "発展班"
@@ -330,7 +313,6 @@
   {
     "id": "256a501e-f337-802e-8fca-f378c366fb03",
     "title": "Python後期",
-    "is_basic_curriculum": true,
     "visibility": [
       "基礎班",
       "発展班"
@@ -348,7 +330,6 @@
   {
     "id": "1ada501e-f337-81e8-b251-df0f38a0cb23",
     "title": "データベース基礎",
-    "is_basic_curriculum": false,
     "visibility": [
       "発展班",
       "基礎班"

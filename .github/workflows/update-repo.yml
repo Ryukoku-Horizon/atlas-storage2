@@ -16,7 +16,7 @@ permissions:
   contents: write  
 
 jobs:
-  build-and-deploy:
+  run script and commit:
     runs-on: ubuntu-latest
 
     steps:

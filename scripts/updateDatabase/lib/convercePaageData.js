@@ -6,9 +6,10 @@ export const converce=async(re)=>{
     return await Promise.all(re.map(async(item)=>{
         const curriculumId = item.id
         const pr = item.properties;
+
         const tag = pr.tag.multi_select.map((t)=>t.name) ?? []
         const visibility = pr.visibility.multi_select.map((v)=>v.name) ?? []
-        const is_basic_curriculum = pr.is_basic_curriculum.checkbox
+        // const is_basic_curriculum = pr.is_basic_curriculum.checkbox
         const title = pr.title.title[0].text.content
         const order = pr.order.number
         const category = pr.category.select?.name ?? ""
@@ -18,7 +19,6 @@ export const converce=async(re)=>{
             curriculumId,
             tag,
             visibility,
-            is_basic_curriculum,
             title,
             iconType,
             order,
