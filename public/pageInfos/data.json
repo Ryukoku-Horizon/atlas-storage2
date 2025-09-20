@@ -1460,16 +1460,6 @@
     "parentId": "272a501e-f337-81ad-ab70-e985dba92d6d"
   },
   {
-    "title": "任意ページ",
-    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
-    "iconType": "emoji",
-    "iconUrl": "💪",
-    "coverUrl": "",
-    "order": 10002,
-    "id": "256a501e-f337-8078-8124-f85e3320ee25",
-    "parentId": ""
-  },
-  {
     "title": "データベース基礎",
     "curriculumId": "1ada501e-f337-81e8-b251-df0f38a0cb23",
     "iconType": "external",
@@ -1898,5 +1888,15 @@
     "id": "272a501e-f337-80df-adfa-f37fcb54b0c7",
     "order": 14,
     "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
+  },
+  {
+    "title": "任意ページ",
+    "curriculumId": "256a501e-f337-8078-8124-f85e3320ee25",
+    "iconType": "emoji",
+    "iconUrl": "💪",
+    "coverUrl": "",
+    "order": 10002,
+    "id": "256a501e-f337-8078-8124-f85e3320ee25",
+    "parentId": ""
   }
 ]
