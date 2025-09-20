@@ -1,12 +1,8 @@
 name: update data
 
-# ビルドとデプロイをする
-
 on:
   workflow_run:
     workflows: ["Auto Dummy Commit"]
-    types:
-      - completed
   workflow_dispatch:
   push:
     branches:
