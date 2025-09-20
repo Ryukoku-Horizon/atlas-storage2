@@ -1690,6 +1690,96 @@
     "parentId": "211a501e-f337-8033-aba3-e2b9e036eacf"
   },
   {
+    "title": "Python後期",
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "iconType": "custom_emoji",
+    "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-802e-8fca-f378c366fb03/pageImageData/icon/256a501e-f337-802e-8fca-f378c366fb03.png",
+    "coverUrl": "",
+    "order": 9999,
+    "id": "256a501e-f337-802e-8fca-f378c366fb03",
+    "parentId": ""
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "クラス",
+    "iconType": "emoji",
+    "iconUrl": "☸️",
+    "coverUrl": "",
+    "id": "265a501e-f337-80ea-b42d-ee317fd66072",
+    "order": 3,
+    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "クラスの練習問題",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "id": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
+    "order": 4,
+    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "import文",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/arrow-down-line_gray.svg",
+    "coverUrl": "",
+    "id": "267a501e-f337-80ba-90cb-d7fbfbcdc324",
+    "order": 5,
+    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "import文の練習問題",
+    "iconType": "emoji",
+    "iconUrl": "📝",
+    "coverUrl": "",
+    "id": "26ea501e-f337-803e-a94f-ef75d78cea9e",
+    "order": 6,
+    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "クラスの継承",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/skip-forward_pink.svg",
+    "coverUrl": "",
+    "id": "26ea501e-f337-803a-993a-f4e422180074",
+    "order": 9,
+    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "lambda式",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/battery_orange.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-80b3-b5fa-dbe1df070583",
+    "order": 10,
+    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "例外処理",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/report_yellow.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-8046-9e42-d990642e19bf",
+    "order": 11,
+    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
+  },
+  {
+    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
+    "title": "タプル型",
+    "iconType": "external",
+    "iconUrl": "https://www.notion.so/icons/grid-wide_lightgray.svg",
+    "coverUrl": "",
+    "id": "272a501e-f337-8026-b170-d8a3ae12483e",
+    "order": 12,
+    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
+  },
+  {
     "title": "Flet後期",
     "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
     "iconType": "custom_emoji",
@@ -1808,95 +1898,5 @@
     "id": "272a501e-f337-80df-adfa-f37fcb54b0c7",
     "order": 14,
     "parentId": "256a501e-f337-803b-9c9e-e872f50d594f"
-  },
-  {
-    "title": "Python後期",
-    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
-    "iconType": "custom_emoji",
-    "iconUrl": "https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-802e-8fca-f378c366fb03/pageImageData/icon/256a501e-f337-802e-8fca-f378c366fb03.png",
-    "coverUrl": "",
-    "order": 9999,
-    "id": "256a501e-f337-802e-8fca-f378c366fb03",
-    "parentId": ""
-  },
-  {
-    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
-    "title": "クラス",
-    "iconType": "emoji",
-    "iconUrl": "☸️",
-    "coverUrl": "",
-    "id": "265a501e-f337-80ea-b42d-ee317fd66072",
-    "order": 3,
-    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
-  },
-  {
-    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
-    "title": "クラスの練習問題",
-    "iconType": "emoji",
-    "iconUrl": "📝",
-    "coverUrl": "",
-    "id": "26ea501e-f337-80ed-a25c-fa4915c1b4ab",
-    "order": 4,
-    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
-  },
-  {
-    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
-    "title": "import文",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/arrow-down-line_gray.svg",
-    "coverUrl": "",
-    "id": "267a501e-f337-80ba-90cb-d7fbfbcdc324",
-    "order": 5,
-    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
-  },
-  {
-    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
-    "title": "import文の練習問題",
-    "iconType": "emoji",
-    "iconUrl": "📝",
-    "coverUrl": "",
-    "id": "26ea501e-f337-803e-a94f-ef75d78cea9e",
-    "order": 6,
-    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
-  },
-  {
-    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
-    "title": "クラスの継承",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/skip-forward_pink.svg",
-    "coverUrl": "",
-    "id": "26ea501e-f337-803a-993a-f4e422180074",
-    "order": 9,
-    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
-  },
-  {
-    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
-    "title": "lambda式",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/battery_orange.svg",
-    "coverUrl": "",
-    "id": "272a501e-f337-80b3-b5fa-dbe1df070583",
-    "order": 10,
-    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
-  },
-  {
-    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
-    "title": "例外処理",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/report_yellow.svg",
-    "coverUrl": "",
-    "id": "272a501e-f337-8046-9e42-d990642e19bf",
-    "order": 11,
-    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
-  },
-  {
-    "curriculumId": "256a501e-f337-802e-8fca-f378c366fb03",
-    "title": "タプル型",
-    "iconType": "external",
-    "iconUrl": "https://www.notion.so/icons/grid-wide_lightgray.svg",
-    "coverUrl": "",
-    "id": "272a501e-f337-8026-b170-d8a3ae12483e",
-    "order": 12,
-    "parentId": "256a501e-f337-802e-8fca-f378c366fb03"
   }
 ]

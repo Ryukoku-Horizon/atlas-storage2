@@ -154,18 +154,18 @@
   },
   {
     "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
-    "parentId": "272a501e-f337-81e8-bded-cb34b0de294e",
-    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.theme = ft.Theme(color_scheme_seed=ft.colors.\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"red\"},\"plain_text\":\"RED\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\")\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-81bf-b837-ccb0d22efb8e.png\"}",
-    "blockId": "272a501e-f337-81bf-b837-ccb0d22efb8e",
+    "parentId": "272a501e-f337-810b-85df-e2bfc6942e4c",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.theme = ft.Theme(color_scheme_seed=ft.colors.\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"blue\"},\"plain_text\":\"CYAN\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\")\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-8110-b7fe-fb6e6e9c3e8e.png\"}",
+    "blockId": "272a501e-f337-8110-b7fe-fb6e6e9c3e8e",
     "type": "image",
     "pageId": "272a501e-f337-80df-adfa-f37fcb54b0c7",
     "i": 1
   },
   {
     "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
-    "parentId": "272a501e-f337-810b-85df-e2bfc6942e4c",
-    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.theme = ft.Theme(color_scheme_seed=ft.colors.\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"blue\"},\"plain_text\":\"CYAN\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\")\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-8110-b7fe-fb6e6e9c3e8e.png\"}",
-    "blockId": "272a501e-f337-8110-b7fe-fb6e6e9c3e8e",
+    "parentId": "272a501e-f337-81e8-bded-cb34b0de294e",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.theme = ft.Theme(color_scheme_seed=ft.colors.\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"red\"},\"plain_text\":\"RED\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\")\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-81bf-b837-ccb0d22efb8e.png\"}",
+    "blockId": "272a501e-f337-81bf-b837-ccb0d22efb8e",
     "type": "image",
     "pageId": "272a501e-f337-80df-adfa-f37fcb54b0c7",
     "i": 1
@@ -199,18 +199,18 @@
   },
   {
     "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
-    "parentId": "272a501e-f337-8117-a482-fe5f0cc3edd5",
-    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.theme = ft.Theme(color_scheme_seed=ft.colors.\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"purple\"},\"plain_text\":\"PURPLE\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\")\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-81a1-b326-ec5952beaa9d.png\"}",
-    "blockId": "272a501e-f337-81a1-b326-ec5952beaa9d",
+    "parentId": "272a501e-f337-817a-9ca8-d1b9e010817e",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.theme = ft.Theme(color_scheme_seed=ft.colors.\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"yellow\"},\"plain_text\":\"YELLOW\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\")\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-81a4-86ba-e4936af43547.png\"}",
+    "blockId": "272a501e-f337-81a4-86ba-e4936af43547",
     "type": "image",
     "pageId": "272a501e-f337-80df-adfa-f37fcb54b0c7",
     "i": 1
   },
   {
     "curriculumId": "256a501e-f337-803b-9c9e-e872f50d594f",
-    "parentId": "272a501e-f337-817a-9ca8-d1b9e010817e",
-    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.theme = ft.Theme(color_scheme_seed=ft.colors.\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"yellow\"},\"plain_text\":\"YELLOW\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\")\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-81a4-86ba-e4936af43547.png\"}",
-    "blockId": "272a501e-f337-81a4-86ba-e4936af43547",
+    "parentId": "272a501e-f337-8117-a482-fe5f0cc3edd5",
+    "data": "{\"parent\":[{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\"page.theme = ft.Theme(color_scheme_seed=ft.colors.\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"purple\"},\"plain_text\":\"PURPLE\",\"href\":null},{\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":true,\"color\":\"default\"},\"plain_text\":\")\",\"href\":null}],\"url\":\"https://raw.githubusercontent.com/Ryukoku-Horizon/atlas-storage2/main/public/notion_data/eachPage/256a501e-f337-803b-9c9e-e872f50d594f/image/272a501e-f337-81a1-b326-ec5952beaa9d.png\"}",
+    "blockId": "272a501e-f337-81a1-b326-ec5952beaa9d",
     "type": "image",
     "pageId": "272a501e-f337-80df-adfa-f37fcb54b0c7",
     "i": 1
